@@ -139223,12 +139223,6 @@
   <channel id="EVENTOS_VIP__Evento___Austin_vs_Los_Angeles_FC__ENG____18_00_1">
     <display-name>Evento | Austin vs Los Angeles FC [ENG] | 18:00</display-name>
   </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Escocia vs Bielorrusia [ENG] | 10:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Pa_ses_Bajos_vs_Finlandia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Países Bajos vs Finlandia [ENG] | 10:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__Islas_Feroe_vs_Rep_blica_Checa__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <display-name>Islas Feroe vs República Checa [ENG] | 10:00 | Evento FIFA Clasificación Mundial</display-name>
   </channel>
@@ -139246,33 +139240,6 @@
   </channel>
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__Dinamarca_vs_Grecia__ENG____12_45___Evento_FIFA_Clasificaci_n_Mundial_1">
     <display-name>Dinamarca vs Grecia [ENG] | 12:45 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Ghana_vs_Comoras__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Ghana vs Comoras [ENG] | 13:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Mal__vs_Madagascar__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Malí vs Madagascar [ESP] | 13:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Egipto_vs_Guinea_Bissau__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Egipto vs Guinea-Bissau [ENG] | 13:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Yibuti_vs_Sierra_Leona__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Yibuti vs Sierra Leona [ESP] | 13:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Burkina_Faso_vs_Etiop_a__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Burkina Faso vs Etiopía [ENG] | 13:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Eibar_vs_CD_Castellon__ESP____09_15_1">
-    <display-name>Evento | Eibar vs CD Castellon [ESP] | 09:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Sporting_Gij_n_vs_Racing_Santander__ESP____09_15_1">
-    <display-name>Evento | Sporting Gijón vs Racing Santander [ESP] | 09:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___C_diz_vs_Huesca__ESP____11_30_1">
-    <display-name>Evento | Cádiz vs Huesca [ESP] | 11:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Burgos_vs_Real_Valladolid__ESP____11_30_1">
-    <display-name>Evento | Burgos vs Real Valladolid [ESP] | 11:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___M_laga_vs_Deportivo_La_Coru_aa__ESP____14_00_1">
     <display-name>Evento | Málaga vs Deportivo La Coruñaa [ESP] | 14:00</display-name>
@@ -139315,9 +139282,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Rionegro__guilas_vs_Deportivo_Pasto__ESP____20_30_1">
     <display-name>Evento | Rionegro Águilas vs Deportivo Pasto [ESP] | 20:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Torque_vs_Wanderers__ESP____08_30_1">
-    <display-name>Evento | Torque vs Wanderers [ESP] | 08:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Juventud_vs_River_Plate__ESP____11_00_1">
     <display-name>Evento | Juventud vs River Plate [ESP] | 11:00</display-name>
@@ -139378,9 +139342,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Las_Vegas_Lights_vs_Oakland_Roots__ENG____21_30_1">
     <display-name>Evento | Las Vegas Lights vs Oakland Roots [ENG] | 21:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Temple_vs_Tulsa__ENG____14_00_1">
-    <display-name>Evento | Temple vs Tulsa [ENG] | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Houston_Baptist_vs_Western_Ill___ENG____15_00_1">
     <display-name>Evento | Houston Baptist vs Western Ill. [ENG] | 15:00</display-name>
@@ -139481,24 +139442,6 @@
   <programme start="20251012210000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Austin_vs_Los_Angeles_FC__ENG____18_00_1">
     <title>Finalizado | Austin vs Los Angeles FC [ENG]</title>
   </programme>
-  <programme start="20251012000000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 10:00 | Escocia vs Bielorrusia [ENG]</title>
-  </programme>
-  <programme start="20251012100000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 10:00 | Escocia vs Bielorrusia [ENG]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Escocia vs Bielorrusia [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Pa_ses_Bajos_vs_Finlandia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 10:00 | Países Bajos vs Finlandia [ENG]</title>
-  </programme>
-  <programme start="20251012100000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Pa_ses_Bajos_vs_Finlandia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 10:00 | Países Bajos vs Finlandia [ENG]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Pa_ses_Bajos_vs_Finlandia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Países Bajos vs Finlandia [ENG]</title>
-  </programme>
   <programme start="20251012000000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Islas_Feroe_vs_Rep_blica_Checa__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Próximamente | 10:00 | Islas Feroe vs República Checa [ENG]</title>
   </programme>
@@ -139552,87 +139495,6 @@
   </programme>
   <programme start="20251012154500 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Dinamarca_vs_Grecia__ENG____12_45___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Finalizado | Dinamarca vs Grecia [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Ghana_vs_Comoras__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 13:00 | Ghana vs Comoras [ENG]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012160000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Ghana_vs_Comoras__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 13:00 | Ghana vs Comoras [ENG]</title>
-  </programme>
-  <programme start="20251012160000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Ghana_vs_Comoras__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Ghana vs Comoras [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Mal__vs_Madagascar__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 13:00 | Malí vs Madagascar [ESP]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012160000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Mal__vs_Madagascar__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 13:00 | Malí vs Madagascar [ESP]</title>
-  </programme>
-  <programme start="20251012160000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Mal__vs_Madagascar__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Malí vs Madagascar [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Egipto_vs_Guinea_Bissau__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 13:00 | Egipto vs Guinea-Bissau [ENG]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012160000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Egipto_vs_Guinea_Bissau__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 13:00 | Egipto vs Guinea-Bissau [ENG]</title>
-  </programme>
-  <programme start="20251012160000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Egipto_vs_Guinea_Bissau__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Egipto vs Guinea-Bissau [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Yibuti_vs_Sierra_Leona__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 13:00 | Yibuti vs Sierra Leona [ESP]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012160000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Yibuti_vs_Sierra_Leona__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 13:00 | Yibuti vs Sierra Leona [ESP]</title>
-  </programme>
-  <programme start="20251012160000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Yibuti_vs_Sierra_Leona__ESP____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Yibuti vs Sierra Leona [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Burkina_Faso_vs_Etiop_a__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 13:00 | Burkina Faso vs Etiopía [ENG]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012160000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Burkina_Faso_vs_Etiop_a__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 13:00 | Burkina Faso vs Etiopía [ENG]</title>
-  </programme>
-  <programme start="20251012160000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Burkina_Faso_vs_Etiop_a__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Burkina Faso vs Etiopía [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012091500 -0600" channel="EVENTOS_VIP__Evento___Eibar_vs_CD_Castellon__ESP____09_15_1">
-    <title>Próximamente | 09:15 | Eibar vs CD Castellon [ESP]</title>
-  </programme>
-  <programme start="20251012091500 -0600" stop="20251012121500 -0600" channel="EVENTOS_VIP__Evento___Eibar_vs_CD_Castellon__ESP____09_15_1">
-    <title>⌾ En vivo | 09:15 | Eibar vs CD Castellon [ESP]</title>
-  </programme>
-  <programme start="20251012121500 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Eibar_vs_CD_Castellon__ESP____09_15_1">
-    <title>Finalizado | Eibar vs CD Castellon [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012091500 -0600" channel="EVENTOS_VIP__Evento___Sporting_Gij_n_vs_Racing_Santander__ESP____09_15_1">
-    <title>Próximamente | 09:15 | Sporting Gijón vs Racing Santander [ESP]</title>
-  </programme>
-  <programme start="20251012091500 -0600" stop="20251012121500 -0600" channel="EVENTOS_VIP__Evento___Sporting_Gij_n_vs_Racing_Santander__ESP____09_15_1">
-    <title>⌾ En vivo | 09:15 | Sporting Gijón vs Racing Santander [ESP]</title>
-  </programme>
-  <programme start="20251012121500 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Sporting_Gij_n_vs_Racing_Santander__ESP____09_15_1">
-    <title>Finalizado | Sporting Gijón vs Racing Santander [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012113000 -0600" channel="EVENTOS_VIP__Evento___C_diz_vs_Huesca__ESP____11_30_1">
-    <title>Próximamente | 11:30 | Cádiz vs Huesca [ESP]</title>
-  </programme>
-  <programme start="20251012113000 -0600" stop="20251012143000 -0600" channel="EVENTOS_VIP__Evento___C_diz_vs_Huesca__ESP____11_30_1">
-    <title>⌾ En vivo | 11:30 | Cádiz vs Huesca [ESP]</title>
-  </programme>
-  <programme start="20251012143000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___C_diz_vs_Huesca__ESP____11_30_1">
-    <title>Finalizado | Cádiz vs Huesca [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012113000 -0600" channel="EVENTOS_VIP__Evento___Burgos_vs_Real_Valladolid__ESP____11_30_1">
-    <title>Próximamente | 11:30 | Burgos vs Real Valladolid [ESP]</title>
-  </programme>
-  <programme start="20251012113000 -0600" stop="20251012143000 -0600" channel="EVENTOS_VIP__Evento___Burgos_vs_Real_Valladolid__ESP____11_30_1">
-    <title>⌾ En vivo | 11:30 | Burgos vs Real Valladolid [ESP]</title>
-  </programme>
-  <programme start="20251012143000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Burgos_vs_Real_Valladolid__ESP____11_30_1">
-    <title>Finalizado | Burgos vs Real Valladolid [ESP]</title>
   </programme>
   <programme start="20251012000000 -0600" stop="20251012140000 -0600" channel="EVENTOS_VIP__Evento___M_laga_vs_Deportivo_La_Coru_aa__ESP____14_00_1">
     <title>Próximamente | 14:00 | Málaga vs Deportivo La Coruñaa [ESP]</title>
@@ -139759,15 +139621,6 @@
   </programme>
   <programme start="20251012233000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Rionegro__guilas_vs_Deportivo_Pasto__ESP____20_30_1">
     <title>Finalizado | Rionegro Águilas vs Deportivo Pasto [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012083000 -0600" channel="EVENTOS_VIP__Evento___Torque_vs_Wanderers__ESP____08_30_1">
-    <title>Próximamente | 08:30 | Torque vs Wanderers [ESP]</title>
-  </programme>
-  <programme start="20251012083000 -0600" stop="20251012113000 -0600" channel="EVENTOS_VIP__Evento___Torque_vs_Wanderers__ESP____08_30_1">
-    <title>⌾ En vivo | 08:30 | Torque vs Wanderers [ESP]</title>
-  </programme>
-  <programme start="20251012113000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Torque_vs_Wanderers__ESP____08_30_1">
-    <title>Finalizado | Torque vs Wanderers [ESP]</title>
   </programme>
   <programme start="20251012000000 -0600" stop="20251012110000 -0600" channel="EVENTOS_VIP__Evento___Juventud_vs_River_Plate__ESP____11_00_1">
     <title>Próximamente | 11:00 | Juventud vs River Plate [ESP]</title>
@@ -139948,15 +139801,6 @@
   </programme>
   <programme start="20251013003000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Las_Vegas_Lights_vs_Oakland_Roots__ENG____21_30_1">
     <title>Finalizado | Las Vegas Lights vs Oakland Roots [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012140000 -0600" channel="EVENTOS_VIP__Evento___Temple_vs_Tulsa__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Temple vs Tulsa [ENG]</title>
-  </programme>
-  <programme start="20251012140000 -0600" stop="20251012170000 -0600" channel="EVENTOS_VIP__Evento___Temple_vs_Tulsa__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Temple vs Tulsa [ENG]</title>
-  </programme>
-  <programme start="20251012170000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Temple_vs_Tulsa__ENG____14_00_1">
-    <title>Finalizado | Temple vs Tulsa [ENG]</title>
   </programme>
   <programme start="20251012000000 -0600" stop="20251012150000 -0600" channel="EVENTOS_VIP__Evento___Houston_Baptist_vs_Western_Ill___ENG____15_00_1">
     <title>Próximamente | 15:00 | Houston Baptist vs Western Ill. [ENG]</title>
