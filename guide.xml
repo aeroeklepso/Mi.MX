@@ -138509,14 +138509,8 @@
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__San_Marino_vs_Chipre__ENG____07_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <display-name>San Marino vs Chipre [ENG] | 07:00 | Evento FIFA Clasificación Mundial</display-name>
   </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Zambia_vs_N_ger__ENG____07_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Zambia vs Níger [ENG] | 07:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <display-name>Escocia vs Bielorrusia [ENG] | 10:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__Chad_vs_Rep_blica_Centroafricana__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <display-name>Chad vs República Centroafricana [ENG] | 10:00 | Evento FIFA Clasificación Mundial</display-name>
   </channel>
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__Pa_ses_Bajos_vs_Finlandia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <display-name>Países Bajos vs Finlandia [ENG] | 10:00 | Evento FIFA Clasificación Mundial</display-name>
@@ -138553,21 +138547,6 @@
   </channel>
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__Burkina_Faso_vs_Etiop_a__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <display-name>Burkina Faso vs Etiopía [ENG] | 13:00 | Evento FIFA Clasificación Mundial</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___London_City_Lionesses_vs_West_Ham_United__ENG____06_00_1">
-    <display-name>Evento | London City Lionesses vs West Ham United [ENG] | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Aston_Villa_vs_Leicester_City_WFC__ENG____06_00_1">
-    <display-name>Evento | Aston Villa vs Leicester City WFC [ENG] | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Everton_vs_Manchester_United__ENG____06_00_1">
-    <display-name>Evento | Everton vs Manchester United [ENG] | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Chelsea_FC_vs_Tottenham_Hotspur__ENG____06_00_1">
-    <display-name>Evento | Chelsea FC vs Tottenham Hotspur [ENG] | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Arsenal_vs_Brighton___Hove_Albion__ENG____08_30_1">
-    <display-name>Evento | Arsenal vs Brighton &amp; Hove Albion [ENG] | 08:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Liverpool_vs_Manchester_City__ENG____10_45_1">
     <display-name>Evento | Liverpool vs Manchester City [ENG] | 10:45</display-name>
@@ -138655,9 +138634,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Platense_vs_Inter__ESP____16_00_1">
     <display-name>Evento | Platense vs Inter [ESP] | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Uni_n_San_Felipe_vs_Deportes_Santa_Cruz__ESP____10_30_1">
-    <display-name>Evento | Unión San Felipe vs Deportes Santa Cruz [ESP] | 10:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Cobreloa_vs_Deportes_Temuco__ESP____13_00_1">
     <display-name>Evento | Cobreloa vs Deportes Temuco [ESP] | 13:00</display-name>
@@ -138830,15 +138806,6 @@
   <programme start="20251012100000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__San_Marino_vs_Chipre__ENG____07_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Finalizado | San Marino vs Chipre [ENG]</title>
   </programme>
-  <programme start="20251012000000 -0600" stop="20251012070000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Zambia_vs_N_ger__ENG____07_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 07:00 | Zambia vs Níger [ENG]</title>
-  </programme>
-  <programme start="20251012070000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Zambia_vs_N_ger__ENG____07_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 07:00 | Zambia vs Níger [ENG]</title>
-  </programme>
-  <programme start="20251012100000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Zambia_vs_N_ger__ENG____07_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Zambia vs Níger [ENG]</title>
-  </programme>
   <programme start="20251012000000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Próximamente | 10:00 | Escocia vs Bielorrusia [ENG]</title>
   </programme>
@@ -138847,15 +138814,6 @@
   </programme>
   <programme start="20251012130000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Escocia_vs_Bielorrusia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Finalizado | Escocia vs Bielorrusia [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Chad_vs_Rep_blica_Centroafricana__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Próximamente | 10:00 | Chad vs República Centroafricana [ENG]</title>
-  </programme>
-  <programme start="20251012100000 -0600" stop="20251012130000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Chad_vs_Rep_blica_Centroafricana__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>⌾ En vivo | 10:00 | Chad vs República Centroafricana [ENG]</title>
-  </programme>
-  <programme start="20251012130000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Chad_vs_Rep_blica_Centroafricana__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
-    <title>Finalizado | Chad vs República Centroafricana [ENG]</title>
   </programme>
   <programme start="20251012000000 -0600" stop="20251012100000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Pa_ses_Bajos_vs_Finlandia__ENG____10_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Próximamente | 10:00 | Países Bajos vs Finlandia [ENG]</title>
@@ -138964,51 +138922,6 @@
   </programme>
   <programme start="20251012160000 -0600" stop="20251012235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__Burkina_Faso_vs_Etiop_a__ENG____13_00___Evento_FIFA_Clasificaci_n_Mundial_1">
     <title>Finalizado | Burkina Faso vs Etiopía [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012060000 -0600" channel="EVENTOS_VIP__Evento___London_City_Lionesses_vs_West_Ham_United__ENG____06_00_1">
-    <title>Próximamente | 06:00 | London City Lionesses vs West Ham United [ENG]</title>
-  </programme>
-  <programme start="20251012060000 -0600" stop="20251012090000 -0600" channel="EVENTOS_VIP__Evento___London_City_Lionesses_vs_West_Ham_United__ENG____06_00_1">
-    <title>⌾ En vivo | 06:00 | London City Lionesses vs West Ham United [ENG]</title>
-  </programme>
-  <programme start="20251012090000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___London_City_Lionesses_vs_West_Ham_United__ENG____06_00_1">
-    <title>Finalizado | London City Lionesses vs West Ham United [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012060000 -0600" channel="EVENTOS_VIP__Evento___Aston_Villa_vs_Leicester_City_WFC__ENG____06_00_1">
-    <title>Próximamente | 06:00 | Aston Villa vs Leicester City WFC [ENG]</title>
-  </programme>
-  <programme start="20251012060000 -0600" stop="20251012090000 -0600" channel="EVENTOS_VIP__Evento___Aston_Villa_vs_Leicester_City_WFC__ENG____06_00_1">
-    <title>⌾ En vivo | 06:00 | Aston Villa vs Leicester City WFC [ENG]</title>
-  </programme>
-  <programme start="20251012090000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Aston_Villa_vs_Leicester_City_WFC__ENG____06_00_1">
-    <title>Finalizado | Aston Villa vs Leicester City WFC [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012060000 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Manchester_United__ENG____06_00_1">
-    <title>Próximamente | 06:00 | Everton vs Manchester United [ENG]</title>
-  </programme>
-  <programme start="20251012060000 -0600" stop="20251012090000 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Manchester_United__ENG____06_00_1">
-    <title>⌾ En vivo | 06:00 | Everton vs Manchester United [ENG]</title>
-  </programme>
-  <programme start="20251012090000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Manchester_United__ENG____06_00_1">
-    <title>Finalizado | Everton vs Manchester United [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012060000 -0600" channel="EVENTOS_VIP__Evento___Chelsea_FC_vs_Tottenham_Hotspur__ENG____06_00_1">
-    <title>Próximamente | 06:00 | Chelsea FC vs Tottenham Hotspur [ENG]</title>
-  </programme>
-  <programme start="20251012060000 -0600" stop="20251012090000 -0600" channel="EVENTOS_VIP__Evento___Chelsea_FC_vs_Tottenham_Hotspur__ENG____06_00_1">
-    <title>⌾ En vivo | 06:00 | Chelsea FC vs Tottenham Hotspur [ENG]</title>
-  </programme>
-  <programme start="20251012090000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Chelsea_FC_vs_Tottenham_Hotspur__ENG____06_00_1">
-    <title>Finalizado | Chelsea FC vs Tottenham Hotspur [ENG]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012083000 -0600" channel="EVENTOS_VIP__Evento___Arsenal_vs_Brighton___Hove_Albion__ENG____08_30_1">
-    <title>Próximamente | 08:30 | Arsenal vs Brighton &amp; Hove Albion [ENG]</title>
-  </programme>
-  <programme start="20251012083000 -0600" stop="20251012113000 -0600" channel="EVENTOS_VIP__Evento___Arsenal_vs_Brighton___Hove_Albion__ENG____08_30_1">
-    <title>⌾ En vivo | 08:30 | Arsenal vs Brighton &amp; Hove Albion [ENG]</title>
-  </programme>
-  <programme start="20251012113000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Arsenal_vs_Brighton___Hove_Albion__ENG____08_30_1">
-    <title>Finalizado | Arsenal vs Brighton &amp; Hove Albion [ENG]</title>
   </programme>
   <programme start="20251012000000 -0600" stop="20251012104500 -0600" channel="EVENTOS_VIP__Evento___Liverpool_vs_Manchester_City__ENG____10_45_1">
     <title>Próximamente | 10:45 | Liverpool vs Manchester City [ENG]</title>
@@ -139270,15 +139183,6 @@
   </programme>
   <programme start="20251012190000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Platense_vs_Inter__ESP____16_00_1">
     <title>Finalizado | Platense vs Inter [ESP]</title>
-  </programme>
-  <programme start="20251012000000 -0600" stop="20251012103000 -0600" channel="EVENTOS_VIP__Evento___Uni_n_San_Felipe_vs_Deportes_Santa_Cruz__ESP____10_30_1">
-    <title>Próximamente | 10:30 | Unión San Felipe vs Deportes Santa Cruz [ESP]</title>
-  </programme>
-  <programme start="20251012103000 -0600" stop="20251012133000 -0600" channel="EVENTOS_VIP__Evento___Uni_n_San_Felipe_vs_Deportes_Santa_Cruz__ESP____10_30_1">
-    <title>⌾ En vivo | 10:30 | Unión San Felipe vs Deportes Santa Cruz [ESP]</title>
-  </programme>
-  <programme start="20251012133000 -0600" stop="20251012235959 -0600" channel="EVENTOS_VIP__Evento___Uni_n_San_Felipe_vs_Deportes_Santa_Cruz__ESP____10_30_1">
-    <title>Finalizado | Unión San Felipe vs Deportes Santa Cruz [ESP]</title>
   </programme>
   <programme start="20251012000000 -0600" stop="20251012130000 -0600" channel="EVENTOS_VIP__Evento___Cobreloa_vs_Deportes_Temuco__ESP____13_00_1">
     <title>Próximamente | 13:00 | Cobreloa vs Deportes Temuco [ESP]</title>
