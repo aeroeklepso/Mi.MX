@@ -127190,38 +127190,8 @@
   <channel id="EVENTOS_VIP__Evento___Ohio_St__vs_Michigan__ENG____17_00_1">
     <display-name>Evento | Ohio St. vs Michigan [ENG] | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Brown_vs_Bryant__ENG____18_00_1">
-    <display-name>Evento | Brown vs Bryant [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Cornell_vs_Colgate__ENG____18_00_1">
-    <display-name>Evento | Cornell vs Colgate [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___James_Madison_vs_Princeton__ENG____18_00_1">
-    <display-name>Evento | James Madison vs Princeton [ENG] | 18:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Kentucky_vs_Indiana__ENG____18_00_1">
     <display-name>Evento | Kentucky vs Indiana [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Marshall_vs_Oakland__ENG____18_00_1">
-    <display-name>Evento | Marshall vs Oakland [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Maryland_vs_Rutgers__ENG____18_00_1">
-    <display-name>Evento | Maryland vs Rutgers [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Mercer_vs_Ga__Southern__ENG____18_00_1">
-    <display-name>Evento | Mercer vs Ga. Southern [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Penn_vs_William___Mary__ENG____18_00_1">
-    <display-name>Evento | Penn vs William &amp; Mary [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Pittsburgh_vs_Denver__ENG____18_00_1">
-    <display-name>Evento | Pittsburgh vs Denver [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Presbyterian_vs_Queens_University_of_Charlotte__ENG____18_00_1">
-    <display-name>Evento | Presbyterian vs Queens University of Charlotte [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___West_Virginia_vs_American__ENG____18_00_1">
-    <display-name>Evento | West Virginia vs American [ENG] | 18:00</display-name>
   </channel>
   <programme start="20251014000000 -0600" stop="20251014190800 -0600" channel="EVENTOS_VIP__Evento___Milwaukee_Brewers_vs_Los_Angeles_Dodgers__ENG____19_08_1">
     <title>Próximamente | 19:08 | Milwaukee Brewers vs Los Angeles Dodgers [ENG]</title>
@@ -127529,33 +127499,6 @@
   <programme start="20251014200000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Ohio_St__vs_Michigan__ENG____17_00_1">
     <title>Finalizado | Ohio St. vs Michigan [ENG]</title>
   </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Brown_vs_Bryant__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Brown vs Bryant [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Brown_vs_Bryant__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Brown vs Bryant [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Brown_vs_Bryant__ENG____18_00_1">
-    <title>Finalizado | Brown vs Bryant [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Cornell_vs_Colgate__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Cornell vs Colgate [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Cornell_vs_Colgate__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Cornell vs Colgate [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Cornell_vs_Colgate__ENG____18_00_1">
-    <title>Finalizado | Cornell vs Colgate [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___James_Madison_vs_Princeton__ENG____18_00_1">
-    <title>Próximamente | 18:00 | James Madison vs Princeton [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___James_Madison_vs_Princeton__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | James Madison vs Princeton [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___James_Madison_vs_Princeton__ENG____18_00_1">
-    <title>Finalizado | James Madison vs Princeton [ENG]</title>
-  </programme>
   <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Kentucky_vs_Indiana__ENG____18_00_1">
     <title>Próximamente | 18:00 | Kentucky vs Indiana [ENG]</title>
   </programme>
@@ -127564,69 +127507,6 @@
   </programme>
   <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Kentucky_vs_Indiana__ENG____18_00_1">
     <title>Finalizado | Kentucky vs Indiana [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Marshall_vs_Oakland__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Marshall vs Oakland [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Marshall_vs_Oakland__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Marshall vs Oakland [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Marshall_vs_Oakland__ENG____18_00_1">
-    <title>Finalizado | Marshall vs Oakland [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Maryland_vs_Rutgers__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Maryland vs Rutgers [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Maryland_vs_Rutgers__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Maryland vs Rutgers [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Maryland_vs_Rutgers__ENG____18_00_1">
-    <title>Finalizado | Maryland vs Rutgers [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Mercer_vs_Ga__Southern__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Mercer vs Ga. Southern [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Mercer_vs_Ga__Southern__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Mercer vs Ga. Southern [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Mercer_vs_Ga__Southern__ENG____18_00_1">
-    <title>Finalizado | Mercer vs Ga. Southern [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Penn_vs_William___Mary__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Penn vs William &amp; Mary [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Penn_vs_William___Mary__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Penn vs William &amp; Mary [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Penn_vs_William___Mary__ENG____18_00_1">
-    <title>Finalizado | Penn vs William &amp; Mary [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Pittsburgh_vs_Denver__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Pittsburgh vs Denver [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Pittsburgh_vs_Denver__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Pittsburgh vs Denver [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Pittsburgh_vs_Denver__ENG____18_00_1">
-    <title>Finalizado | Pittsburgh vs Denver [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___Presbyterian_vs_Queens_University_of_Charlotte__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Presbyterian vs Queens University of Charlotte [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___Presbyterian_vs_Queens_University_of_Charlotte__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Presbyterian vs Queens University of Charlotte [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___Presbyterian_vs_Queens_University_of_Charlotte__ENG____18_00_1">
-    <title>Finalizado | Presbyterian vs Queens University of Charlotte [ENG]</title>
-  </programme>
-  <programme start="20251014000000 -0600" stop="20251014180000 -0600" channel="EVENTOS_VIP__Evento___West_Virginia_vs_American__ENG____18_00_1">
-    <title>Próximamente | 18:00 | West Virginia vs American [ENG]</title>
-  </programme>
-  <programme start="20251014180000 -0600" stop="20251014210000 -0600" channel="EVENTOS_VIP__Evento___West_Virginia_vs_American__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | West Virginia vs American [ENG]</title>
-  </programme>
-  <programme start="20251014210000 -0600" stop="20251014235959 -0600" channel="EVENTOS_VIP__Evento___West_Virginia_vs_American__ENG____18_00_1">
-    <title>Finalizado | West Virginia vs American [ENG]</title>
   </programme>
 </tv>
 
