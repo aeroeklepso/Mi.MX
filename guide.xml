@@ -142004,9 +142004,6 @@
   <channel id="EVENTOS_VIP__Evento___SL_Benfica_vs_Arsenal__ESP____14_00_1">
     <display-name>Evento | SL Benfica vs Arsenal [ESP] | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Bayern_vs_Juventus__ENG____14_00_1">
-    <display-name>Evento | Bayern vs Juventus [ENG] | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___PSG_vs_Real_Madrid__ENG____14_00_1">
     <display-name>Evento | PSG vs Real Madrid [ENG] | 14:00</display-name>
   </channel>
@@ -142039,12 +142036,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Olimpia_vs_Motagua__ESP____20_30_1">
     <display-name>Evento | Olimpia vs Motagua [ESP] | 20:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Eastern_Ill__vs_Liberty__ENG____15_00_1">
-    <display-name>Evento | Eastern Ill. vs Liberty [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Western_Ill__vs_Southern_Ind___ENG____15_30_1">
-    <display-name>Evento | Western Ill. vs Southern Ind. [ENG] | 15:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___SIUE_vs_Houston_Baptist__ENG____17_00_1">
     <display-name>Evento | SIUE vs Houston Baptist [ENG] | 17:00</display-name>
@@ -142253,15 +142244,6 @@
   <programme start="20251016170000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___SL_Benfica_vs_Arsenal__ESP____14_00_1">
     <title>Finalizado | SL Benfica vs Arsenal [ESP]</title>
   </programme>
-  <programme start="20251016000000 -0600" stop="20251016140000 -0600" channel="EVENTOS_VIP__Evento___Bayern_vs_Juventus__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Bayern vs Juventus [ENG]</title>
-  </programme>
-  <programme start="20251016140000 -0600" stop="20251016170000 -0600" channel="EVENTOS_VIP__Evento___Bayern_vs_Juventus__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Bayern vs Juventus [ENG]</title>
-  </programme>
-  <programme start="20251016170000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Bayern_vs_Juventus__ENG____14_00_1">
-    <title>Finalizado | Bayern vs Juventus [ENG]</title>
-  </programme>
   <programme start="20251016000000 -0600" stop="20251016140000 -0600" channel="EVENTOS_VIP__Evento___PSG_vs_Real_Madrid__ENG____14_00_1">
     <title>Próximamente | 14:00 | PSG vs Real Madrid [ENG]</title>
   </programme>
@@ -142360,24 +142342,6 @@
   </programme>
   <programme start="20251016233000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Olimpia_vs_Motagua__ESP____20_30_1">
     <title>Finalizado | Olimpia vs Motagua [ESP]</title>
-  </programme>
-  <programme start="20251016000000 -0600" stop="20251016150000 -0600" channel="EVENTOS_VIP__Evento___Eastern_Ill__vs_Liberty__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Eastern Ill. vs Liberty [ENG]</title>
-  </programme>
-  <programme start="20251016150000 -0600" stop="20251016180000 -0600" channel="EVENTOS_VIP__Evento___Eastern_Ill__vs_Liberty__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Eastern Ill. vs Liberty [ENG]</title>
-  </programme>
-  <programme start="20251016180000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Eastern_Ill__vs_Liberty__ENG____15_00_1">
-    <title>Finalizado | Eastern Ill. vs Liberty [ENG]</title>
-  </programme>
-  <programme start="20251016000000 -0600" stop="20251016153000 -0600" channel="EVENTOS_VIP__Evento___Western_Ill__vs_Southern_Ind___ENG____15_30_1">
-    <title>Próximamente | 15:30 | Western Ill. vs Southern Ind. [ENG]</title>
-  </programme>
-  <programme start="20251016153000 -0600" stop="20251016183000 -0600" channel="EVENTOS_VIP__Evento___Western_Ill__vs_Southern_Ind___ENG____15_30_1">
-    <title>⌾ En vivo | 15:30 | Western Ill. vs Southern Ind. [ENG]</title>
-  </programme>
-  <programme start="20251016183000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Western_Ill__vs_Southern_Ind___ENG____15_30_1">
-    <title>Finalizado | Western Ill. vs Southern Ind. [ENG]</title>
   </programme>
   <programme start="20251016000000 -0600" stop="20251016170000 -0600" channel="EVENTOS_VIP__Evento___SIUE_vs_Houston_Baptist__ENG____17_00_1">
     <title>Próximamente | 17:00 | SIUE vs Houston Baptist [ENG]</title>
