@@ -142025,9 +142025,6 @@
   <channel id="EVENTOS_VIP__Evento___Vit_ria_vs_Bahia___19_30_1">
     <display-name>Evento | Vitória vs Bahia | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Fluminense_vs_Juventude___19_30_1">
-    <display-name>Evento | Fluminense vs Juventude | 19:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Herediano_vs_Alajuelense__ESP____21_00_1">
     <display-name>Evento | Herediano vs Alajuelense [ESP] | 21:00</display-name>
   </channel>
@@ -142036,9 +142033,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Olimpia_vs_Motagua__ESP____20_30_1">
     <display-name>Evento | Olimpia vs Motagua [ESP] | 20:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Lindenwood_vs_UIW__ENG____19_00_1">
-    <display-name>Evento | Lindenwood vs UIW [ENG] | 19:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Aguilas_De_Mexicali_vs_Charros_de_Jalisco__ESP____21_00_1">
     <display-name>Evento | Aguilas De Mexicali vs Charros de Jalisco [ESP] | 21:00</display-name>
@@ -142304,15 +142298,6 @@
   <programme start="20251016223000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Vit_ria_vs_Bahia___19_30_1">
     <title>Finalizado | Vitória vs Bahia</title>
   </programme>
-  <programme start="20251016000000 -0600" stop="20251016193000 -0600" channel="EVENTOS_VIP__Evento___Fluminense_vs_Juventude___19_30_1">
-    <title>Próximamente | 19:30 | Fluminense vs Juventude</title>
-  </programme>
-  <programme start="20251016193000 -0600" stop="20251016223000 -0600" channel="EVENTOS_VIP__Evento___Fluminense_vs_Juventude___19_30_1">
-    <title>⌾ En vivo | 19:30 | Fluminense vs Juventude</title>
-  </programme>
-  <programme start="20251016223000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Fluminense_vs_Juventude___19_30_1">
-    <title>Finalizado | Fluminense vs Juventude</title>
-  </programme>
   <programme start="20251016000000 -0600" stop="20251016210000 -0600" channel="EVENTOS_VIP__Evento___Herediano_vs_Alajuelense__ESP____21_00_1">
     <title>Próximamente | 21:00 | Herediano vs Alajuelense [ESP]</title>
   </programme>
@@ -142339,15 +142324,6 @@
   </programme>
   <programme start="20251016233000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Olimpia_vs_Motagua__ESP____20_30_1">
     <title>Finalizado | Olimpia vs Motagua [ESP]</title>
-  </programme>
-  <programme start="20251016000000 -0600" stop="20251016190000 -0600" channel="EVENTOS_VIP__Evento___Lindenwood_vs_UIW__ENG____19_00_1">
-    <title>Próximamente | 19:00 | Lindenwood vs UIW [ENG]</title>
-  </programme>
-  <programme start="20251016190000 -0600" stop="20251016220000 -0600" channel="EVENTOS_VIP__Evento___Lindenwood_vs_UIW__ENG____19_00_1">
-    <title>⌾ En vivo | 19:00 | Lindenwood vs UIW [ENG]</title>
-  </programme>
-  <programme start="20251016220000 -0600" stop="20251016235959 -0600" channel="EVENTOS_VIP__Evento___Lindenwood_vs_UIW__ENG____19_00_1">
-    <title>Finalizado | Lindenwood vs UIW [ENG]</title>
   </programme>
   <programme start="20251016000000 -0600" stop="20251016210000 -0600" channel="EVENTOS_VIP__Evento___Aguilas_De_Mexicali_vs_Charros_de_Jalisco__ESP____21_00_1">
     <title>Próximamente | 21:00 | Aguilas De Mexicali vs Charros de Jalisco [ESP]</title>
