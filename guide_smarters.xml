@@ -140681,6 +140681,9 @@
   <channel id="EVENTOS_VIP__Evento___UC_Davis_vs_UC_Riverside__ENG____21_00_1">
     <display-name>Evento | UC Davis vs UC Riverside [ENG] | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___BRASIL_vs_PARAGUAY___00_00_1">
+    <display-name>Evento | BRASIL vs PARAGUAY | 00:00</display-name>
+  </channel>
   <programme start="20251018060000" stop="20251018210000" channel="EVENTOS_VIP__Evento___Lourdes_Juarez_vs_Yesica_Nery_Plata__ENG____15_00_1">
     <title>Próximamente | 15:00 | Lourdes Juarez vs Yesica Nery Plata [ENG]</title>
   </programme>
@@ -142471,6 +142474,15 @@
   </programme>
   <programme start="20251019060000" stop="20251019055959" channel="EVENTOS_VIP__Evento___UC_Davis_vs_UC_Riverside__ENG____21_00_1">
     <title>Finalizado | UC Davis vs UC Riverside [ENG]</title>
+  </programme>
+  <programme start="20251018060000" stop="20251018060000" channel="EVENTOS_VIP__Evento___BRASIL_vs_PARAGUAY___00_00_1">
+    <title>Próximamente | 00:00 | BRASIL vs PARAGUAY</title>
+  </programme>
+  <programme start="20251018060000" stop="20251018090000" channel="EVENTOS_VIP__Evento___BRASIL_vs_PARAGUAY___00_00_1">
+    <title>⌾ En vivo | 00:00 | BRASIL vs PARAGUAY</title>
+  </programme>
+  <programme start="20251018090000" stop="20251019055959" channel="EVENTOS_VIP__Evento___BRASIL_vs_PARAGUAY___00_00_1">
+    <title>Finalizado | BRASIL vs PARAGUAY</title>
   </programme>
 </tv>
 
