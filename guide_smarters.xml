@@ -141911,33 +141911,6 @@
   <channel id="EVENTOS_VIP__Evento___Toronto_Blue_Jays_vs_Seattle_Mariners__ESP____19_03_1">
     <display-name>Evento | Toronto Blue Jays vs Seattle Mariners [ESP] | 19:03</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_1">
-    <display-name>Evento | Deportivo Alavés vs Valencia [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_2">
-    <display-name>Evento | Deportivo Alavés vs Valencia [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ENG____14_00_1">
-    <display-name>Evento | West Ham United vs Brentford [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ESP____14_00_1">
-    <display-name>Evento | West Ham United vs Brentford [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Al_Wahda_vs_Al_Duhail__ENG____08_45_1">
-    <display-name>Evento | Al Wahda vs Al Duhail [ENG] | 08:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Al_Shorta_vs_Al_Ittihad__ENG____11_00_1">
-    <display-name>Evento | Al Shorta vs Al Ittihad [ENG] | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Al_Ahli_vs_Al_Gharafa__ENG____13_15_1">
-    <display-name>Evento | Al-Ahli vs Al Gharafa [ENG] | 13:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Cremonese_vs_Udinese__ESP____13_45_1">
-    <display-name>Evento | Cremonese vs Udinese [ESP] | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___C_diz_vs_Burgos__ESP____13_30_1">
-    <display-name>Evento | Cádiz vs Burgos [ESP] | 13:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Juventude_vs_RB_Bragantino___17_00_1">
     <display-name>Evento | Juventude vs RB Bragantino | 17:00</display-name>
   </channel>
@@ -141947,9 +141920,6 @@
   <channel id="EVENTOS_VIP__Evento___Santos_vs_Vit_ria___19_30_1">
     <display-name>Evento | Santos vs Vitória | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___El_Nacional_vs_Deportivo_Cuenca__ESP____19_00_1">
-    <display-name>Evento | El Nacional vs Deportivo Cuenca [ESP] | 19:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Deportivo_Riestra_vs_Instituto__ESP____17_00_1">
     <display-name>Evento | Deportivo Riestra vs Instituto [ESP] | 17:00</display-name>
   </channel>
@@ -141958,12 +141928,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Racing_vs_Juventud__ESP____14_00_1">
     <display-name>Evento | Racing vs Juventud [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Sport_Huancayo_vs_Alianza_Lima__ESP____13_15_1">
-    <display-name>Evento | Sport Huancayo vs Alianza Lima [ESP] | 13:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Sport_Boys_vs_Melgar__ESP____15_00_1">
-    <display-name>Evento | Sport Boys vs Melgar [ESP] | 15:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Universitario_vs_Ayacucho__ESP____20_15_1">
     <display-name>Evento | Universitario vs Ayacucho [ESP] | 20:15</display-name>
@@ -142046,87 +142010,6 @@
   <programme start="20251021040300" stop="20251021055959" channel="EVENTOS_VIP__Evento___Toronto_Blue_Jays_vs_Seattle_Mariners__ESP____19_03_1">
     <title>Finalizado | Toronto Blue Jays vs Seattle Mariners [ESP]</title>
   </programme>
-  <programme start="20251020060000" stop="20251020200000" channel="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_1">
-    <title>Próximamente | 14:00 | Deportivo Alavés vs Valencia [ESP]</title>
-  </programme>
-  <programme start="20251020200000" stop="20251020230000" channel="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Deportivo Alavés vs Valencia [ESP]</title>
-  </programme>
-  <programme start="20251020230000" stop="20251021055959" channel="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_1">
-    <title>Finalizado | Deportivo Alavés vs Valencia [ESP]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020200000" channel="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_2">
-    <title>Próximamente | 14:00 | Deportivo Alavés vs Valencia [ESP]</title>
-  </programme>
-  <programme start="20251020200000" stop="20251020230000" channel="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_2">
-    <title>⌾ En vivo | 14:00 | Deportivo Alavés vs Valencia [ESP]</title>
-  </programme>
-  <programme start="20251020230000" stop="20251021055959" channel="EVENTOS_VIP__Evento___Deportivo_Alav_s_vs_Valencia__ESP____14_00_2">
-    <title>Finalizado | Deportivo Alavés vs Valencia [ESP]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020200000" channel="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ENG____14_00_1">
-    <title>Próximamente | 14:00 | West Ham United vs Brentford [ENG]</title>
-  </programme>
-  <programme start="20251020200000" stop="20251020230000" channel="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | West Ham United vs Brentford [ENG]</title>
-  </programme>
-  <programme start="20251020230000" stop="20251021055959" channel="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ENG____14_00_1">
-    <title>Finalizado | West Ham United vs Brentford [ENG]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020200000" channel="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ESP____14_00_1">
-    <title>Próximamente | 14:00 | West Ham United vs Brentford [ESP]</title>
-  </programme>
-  <programme start="20251020200000" stop="20251020230000" channel="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | West Ham United vs Brentford [ESP]</title>
-  </programme>
-  <programme start="20251020230000" stop="20251021055959" channel="EVENTOS_VIP__Evento___West_Ham_United_vs_Brentford__ESP____14_00_1">
-    <title>Finalizado | West Ham United vs Brentford [ESP]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020144500" channel="EVENTOS_VIP__Evento___Al_Wahda_vs_Al_Duhail__ENG____08_45_1">
-    <title>Próximamente | 08:45 | Al Wahda vs Al Duhail [ENG]</title>
-  </programme>
-  <programme start="20251020144500" stop="20251020174500" channel="EVENTOS_VIP__Evento___Al_Wahda_vs_Al_Duhail__ENG____08_45_1">
-    <title>⌾ En vivo | 08:45 | Al Wahda vs Al Duhail [ENG]</title>
-  </programme>
-  <programme start="20251020174500" stop="20251021055959" channel="EVENTOS_VIP__Evento___Al_Wahda_vs_Al_Duhail__ENG____08_45_1">
-    <title>Finalizado | Al Wahda vs Al Duhail [ENG]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020170000" channel="EVENTOS_VIP__Evento___Al_Shorta_vs_Al_Ittihad__ENG____11_00_1">
-    <title>Próximamente | 11:00 | Al Shorta vs Al Ittihad [ENG]</title>
-  </programme>
-  <programme start="20251020170000" stop="20251020200000" channel="EVENTOS_VIP__Evento___Al_Shorta_vs_Al_Ittihad__ENG____11_00_1">
-    <title>⌾ En vivo | 11:00 | Al Shorta vs Al Ittihad [ENG]</title>
-  </programme>
-  <programme start="20251020200000" stop="20251021055959" channel="EVENTOS_VIP__Evento___Al_Shorta_vs_Al_Ittihad__ENG____11_00_1">
-    <title>Finalizado | Al Shorta vs Al Ittihad [ENG]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020191500" channel="EVENTOS_VIP__Evento___Al_Ahli_vs_Al_Gharafa__ENG____13_15_1">
-    <title>Próximamente | 13:15 | Al-Ahli vs Al Gharafa [ENG]</title>
-  </programme>
-  <programme start="20251020191500" stop="20251020221500" channel="EVENTOS_VIP__Evento___Al_Ahli_vs_Al_Gharafa__ENG____13_15_1">
-    <title>⌾ En vivo | 13:15 | Al-Ahli vs Al Gharafa [ENG]</title>
-  </programme>
-  <programme start="20251020221500" stop="20251021055959" channel="EVENTOS_VIP__Evento___Al_Ahli_vs_Al_Gharafa__ENG____13_15_1">
-    <title>Finalizado | Al-Ahli vs Al Gharafa [ENG]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020194500" channel="EVENTOS_VIP__Evento___Cremonese_vs_Udinese__ESP____13_45_1">
-    <title>Próximamente | 13:45 | Cremonese vs Udinese [ESP]</title>
-  </programme>
-  <programme start="20251020194500" stop="20251020224500" channel="EVENTOS_VIP__Evento___Cremonese_vs_Udinese__ESP____13_45_1">
-    <title>⌾ En vivo | 13:45 | Cremonese vs Udinese [ESP]</title>
-  </programme>
-  <programme start="20251020224500" stop="20251021055959" channel="EVENTOS_VIP__Evento___Cremonese_vs_Udinese__ESP____13_45_1">
-    <title>Finalizado | Cremonese vs Udinese [ESP]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020193000" channel="EVENTOS_VIP__Evento___C_diz_vs_Burgos__ESP____13_30_1">
-    <title>Próximamente | 13:30 | Cádiz vs Burgos [ESP]</title>
-  </programme>
-  <programme start="20251020193000" stop="20251020223000" channel="EVENTOS_VIP__Evento___C_diz_vs_Burgos__ESP____13_30_1">
-    <title>⌾ En vivo | 13:30 | Cádiz vs Burgos [ESP]</title>
-  </programme>
-  <programme start="20251020223000" stop="20251021055959" channel="EVENTOS_VIP__Evento___C_diz_vs_Burgos__ESP____13_30_1">
-    <title>Finalizado | Cádiz vs Burgos [ESP]</title>
-  </programme>
   <programme start="20251020060000" stop="20251020230000" channel="EVENTOS_VIP__Evento___Juventude_vs_RB_Bragantino___17_00_1">
     <title>Próximamente | 17:00 | Juventude vs RB Bragantino</title>
   </programme>
@@ -142154,15 +142037,6 @@
   <programme start="20251021043000" stop="20251021055959" channel="EVENTOS_VIP__Evento___Santos_vs_Vit_ria___19_30_1">
     <title>Finalizado | Santos vs Vitória</title>
   </programme>
-  <programme start="20251020060000" stop="20251021010000" channel="EVENTOS_VIP__Evento___El_Nacional_vs_Deportivo_Cuenca__ESP____19_00_1">
-    <title>Próximamente | 19:00 | El Nacional vs Deportivo Cuenca [ESP]</title>
-  </programme>
-  <programme start="20251021010000" stop="20251021040000" channel="EVENTOS_VIP__Evento___El_Nacional_vs_Deportivo_Cuenca__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | El Nacional vs Deportivo Cuenca [ESP]</title>
-  </programme>
-  <programme start="20251021040000" stop="20251021055959" channel="EVENTOS_VIP__Evento___El_Nacional_vs_Deportivo_Cuenca__ESP____19_00_1">
-    <title>Finalizado | El Nacional vs Deportivo Cuenca [ESP]</title>
-  </programme>
   <programme start="20251020060000" stop="20251020230000" channel="EVENTOS_VIP__Evento___Deportivo_Riestra_vs_Instituto__ESP____17_00_1">
     <title>Próximamente | 17:00 | Deportivo Riestra vs Instituto [ESP]</title>
   </programme>
@@ -142189,24 +142063,6 @@
   </programme>
   <programme start="20251020230000" stop="20251021055959" channel="EVENTOS_VIP__Evento___Racing_vs_Juventud__ESP____14_00_1">
     <title>Finalizado | Racing vs Juventud [ESP]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020191500" channel="EVENTOS_VIP__Evento___Sport_Huancayo_vs_Alianza_Lima__ESP____13_15_1">
-    <title>Próximamente | 13:15 | Sport Huancayo vs Alianza Lima [ESP]</title>
-  </programme>
-  <programme start="20251020191500" stop="20251020221500" channel="EVENTOS_VIP__Evento___Sport_Huancayo_vs_Alianza_Lima__ESP____13_15_1">
-    <title>⌾ En vivo | 13:15 | Sport Huancayo vs Alianza Lima [ESP]</title>
-  </programme>
-  <programme start="20251020221500" stop="20251021055959" channel="EVENTOS_VIP__Evento___Sport_Huancayo_vs_Alianza_Lima__ESP____13_15_1">
-    <title>Finalizado | Sport Huancayo vs Alianza Lima [ESP]</title>
-  </programme>
-  <programme start="20251020060000" stop="20251020210000" channel="EVENTOS_VIP__Evento___Sport_Boys_vs_Melgar__ESP____15_00_1">
-    <title>Próximamente | 15:00 | Sport Boys vs Melgar [ESP]</title>
-  </programme>
-  <programme start="20251020210000" stop="20251021000000" channel="EVENTOS_VIP__Evento___Sport_Boys_vs_Melgar__ESP____15_00_1">
-    <title>⌾ En vivo | 15:00 | Sport Boys vs Melgar [ESP]</title>
-  </programme>
-  <programme start="20251021000000" stop="20251021055959" channel="EVENTOS_VIP__Evento___Sport_Boys_vs_Melgar__ESP____15_00_1">
-    <title>Finalizado | Sport Boys vs Melgar [ESP]</title>
   </programme>
   <programme start="20251020060000" stop="20251021021500" channel="EVENTOS_VIP__Evento___Universitario_vs_Ayacucho__ESP____20_15_1">
     <title>Próximamente | 20:15 | Universitario vs Ayacucho [ESP]</title>
