@@ -143072,36 +143072,6 @@
   <channel id="EVENTOS_VIP__Evento___K_benhavn_vs_Borussia_Dortmund__ESP____14_00_1">
     <display-name>Evento | København vs Borussia Dortmund [ESP] | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Corea_del_Norte_Sub_17_vs_Camer_n_Sub_17__ENG____08_00_1">
-    <display-name>Evento | Corea del Norte Sub-17 vs Camerún Sub-17 [ENG] | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Costa_Rica_Sub_17_vs_Brasil_Sub_17__ENG____11_00_1">
-    <display-name>Evento | Costa Rica Sub-17 vs Brasil Sub-17 [ENG] | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Estados_Unidos_Sub_17_vs_China_PR_Sub_17__ENG____11_00_1">
-    <display-name>Evento | Estados Unidos Sub-17 vs China PR Sub-17 [ENG] | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Marruecos_Sub_17_vs_Italia_Sub_17__ENG____14_00_1">
-    <display-name>Evento | Marruecos Sub-17 vs Italia Sub-17 [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Noruega_Sub_17_vs_Ecuador_Sub_17__ENG____14_00_1">
-    <display-name>Evento | Noruega Sub-17 vs Ecuador Sub-17 [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Pa_ses_Bajos_Sub_17_vs_M_xico_Sub_17__ENG____14_00_1">
-    <display-name>Evento | Países Bajos Sub-17 vs México Sub-17 [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Al_Hilal_vs_Al_Sadd__ENG____13_15_1">
-    <display-name>Evento | Al Hilal vs Al Sadd [ENG] | 13:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Derby_County_vs_Norwich_City__ESP____13_45_1">
-    <display-name>Evento | Derby County vs Norwich City [ESP] | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Hull_City_vs_Leicester_City__ESP____13_45_1">
-    <display-name>Evento | Hull City vs Leicester City [ESP] | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Bristol_City_vs_Southampton__ESP____14_00_1">
-    <display-name>Evento | Bristol City vs Southampton [ESP] | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Uni_n_Santa_Fe_vs_Defensa_y_Justicia__ESP____17_00_1">
     <display-name>Evento | Unión Santa Fe vs Defensa y Justicia [ESP] | 17:00</display-name>
   </channel>
@@ -143131,15 +143101,6 @@
   </channel>
   <channel id="Evento_LigaMX__Monterrey_vs_Ju_rez__ESP____24_05___Evento_LigaMX_1">
     <display-name>Monterrey vs Juárez [ESP] | 24:05 | Evento LigaMX</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___George_Washington_vs_UMBC__ENG____14_00_1">
-    <display-name>Evento | George Washington vs UMBC [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Villanova_vs_VMI__ENG____14_00_1">
-    <display-name>Evento | Villanova vs VMI [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Princeton_vs_Bryant__ENG____16_30_1">
-    <display-name>Evento | Princeton vs Bryant [ENG] | 16:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Lehigh_vs_Seton_Hall__ENG____17_00_1">
     <display-name>Evento | Lehigh vs Seton Hall [ENG] | 17:00</display-name>
@@ -143176,6 +143137,9 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Missouri_St__vs_Drake__ENG____19_00_1">
     <display-name>Evento | Missouri St. vs Drake [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Cartagin_s_vs_Motagua__ESP____21_00_2">
+    <display-name>Evento | Cartaginés vs Motagua [ESP] | 21:00</display-name>
   </channel>
   <programme start="20251021060000" stop="20251022030000" channel="EVENTOS_VIP__Evento___Venados_De_Mazatlan_vs_Ca_eros_de_los_Mochis__ESP____21_00_1">
     <title>Próximamente | 21:00 | Venados De Mazatlan vs Cañeros de los Mochis [ESP]</title>
@@ -143465,96 +143429,6 @@
   <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___K_benhavn_vs_Borussia_Dortmund__ESP____14_00_1">
     <title>Finalizado | København vs Borussia Dortmund [ESP]</title>
   </programme>
-  <programme start="20251021060000" stop="20251021140000" channel="EVENTOS_VIP__Evento___Corea_del_Norte_Sub_17_vs_Camer_n_Sub_17__ENG____08_00_1">
-    <title>Próximamente | 08:00 | Corea del Norte Sub-17 vs Camerún Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021140000" stop="20251021170000" channel="EVENTOS_VIP__Evento___Corea_del_Norte_Sub_17_vs_Camer_n_Sub_17__ENG____08_00_1">
-    <title>⌾ En vivo | 08:00 | Corea del Norte Sub-17 vs Camerún Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021170000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Corea_del_Norte_Sub_17_vs_Camer_n_Sub_17__ENG____08_00_1">
-    <title>Finalizado | Corea del Norte Sub-17 vs Camerún Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021170000" channel="EVENTOS_VIP__Evento___Costa_Rica_Sub_17_vs_Brasil_Sub_17__ENG____11_00_1">
-    <title>Próximamente | 11:00 | Costa Rica Sub-17 vs Brasil Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021170000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Costa_Rica_Sub_17_vs_Brasil_Sub_17__ENG____11_00_1">
-    <title>⌾ En vivo | 11:00 | Costa Rica Sub-17 vs Brasil Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Costa_Rica_Sub_17_vs_Brasil_Sub_17__ENG____11_00_1">
-    <title>Finalizado | Costa Rica Sub-17 vs Brasil Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021170000" channel="EVENTOS_VIP__Evento___Estados_Unidos_Sub_17_vs_China_PR_Sub_17__ENG____11_00_1">
-    <title>Próximamente | 11:00 | Estados Unidos Sub-17 vs China PR Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021170000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Estados_Unidos_Sub_17_vs_China_PR_Sub_17__ENG____11_00_1">
-    <title>⌾ En vivo | 11:00 | Estados Unidos Sub-17 vs China PR Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Estados_Unidos_Sub_17_vs_China_PR_Sub_17__ENG____11_00_1">
-    <title>Finalizado | Estados Unidos Sub-17 vs China PR Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Marruecos_Sub_17_vs_Italia_Sub_17__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Marruecos Sub-17 vs Italia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Marruecos_Sub_17_vs_Italia_Sub_17__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Marruecos Sub-17 vs Italia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Marruecos_Sub_17_vs_Italia_Sub_17__ENG____14_00_1">
-    <title>Finalizado | Marruecos Sub-17 vs Italia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Noruega_Sub_17_vs_Ecuador_Sub_17__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Noruega Sub-17 vs Ecuador Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Noruega_Sub_17_vs_Ecuador_Sub_17__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Noruega Sub-17 vs Ecuador Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Noruega_Sub_17_vs_Ecuador_Sub_17__ENG____14_00_1">
-    <title>Finalizado | Noruega Sub-17 vs Ecuador Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Pa_ses_Bajos_Sub_17_vs_M_xico_Sub_17__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Países Bajos Sub-17 vs México Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Pa_ses_Bajos_Sub_17_vs_M_xico_Sub_17__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Países Bajos Sub-17 vs México Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Pa_ses_Bajos_Sub_17_vs_M_xico_Sub_17__ENG____14_00_1">
-    <title>Finalizado | Países Bajos Sub-17 vs México Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021191500" channel="EVENTOS_VIP__Evento___Al_Hilal_vs_Al_Sadd__ENG____13_15_1">
-    <title>Próximamente | 13:15 | Al Hilal vs Al Sadd [ENG]</title>
-  </programme>
-  <programme start="20251021191500" stop="20251021221500" channel="EVENTOS_VIP__Evento___Al_Hilal_vs_Al_Sadd__ENG____13_15_1">
-    <title>⌾ En vivo | 13:15 | Al Hilal vs Al Sadd [ENG]</title>
-  </programme>
-  <programme start="20251021221500" stop="20251022055959" channel="EVENTOS_VIP__Evento___Al_Hilal_vs_Al_Sadd__ENG____13_15_1">
-    <title>Finalizado | Al Hilal vs Al Sadd [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021194500" channel="EVENTOS_VIP__Evento___Derby_County_vs_Norwich_City__ESP____13_45_1">
-    <title>Próximamente | 13:45 | Derby County vs Norwich City [ESP]</title>
-  </programme>
-  <programme start="20251021194500" stop="20251021224500" channel="EVENTOS_VIP__Evento___Derby_County_vs_Norwich_City__ESP____13_45_1">
-    <title>⌾ En vivo | 13:45 | Derby County vs Norwich City [ESP]</title>
-  </programme>
-  <programme start="20251021224500" stop="20251022055959" channel="EVENTOS_VIP__Evento___Derby_County_vs_Norwich_City__ESP____13_45_1">
-    <title>Finalizado | Derby County vs Norwich City [ESP]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021194500" channel="EVENTOS_VIP__Evento___Hull_City_vs_Leicester_City__ESP____13_45_1">
-    <title>Próximamente | 13:45 | Hull City vs Leicester City [ESP]</title>
-  </programme>
-  <programme start="20251021194500" stop="20251021224500" channel="EVENTOS_VIP__Evento___Hull_City_vs_Leicester_City__ESP____13_45_1">
-    <title>⌾ En vivo | 13:45 | Hull City vs Leicester City [ESP]</title>
-  </programme>
-  <programme start="20251021224500" stop="20251022055959" channel="EVENTOS_VIP__Evento___Hull_City_vs_Leicester_City__ESP____13_45_1">
-    <title>Finalizado | Hull City vs Leicester City [ESP]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Bristol_City_vs_Southampton__ESP____14_00_1">
-    <title>Próximamente | 14:00 | Bristol City vs Southampton [ESP]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Bristol_City_vs_Southampton__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Bristol City vs Southampton [ESP]</title>
-  </programme>
-  <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Bristol_City_vs_Southampton__ESP____14_00_1">
-    <title>Finalizado | Bristol City vs Southampton [ESP]</title>
-  </programme>
   <programme start="20251021060000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Uni_n_Santa_Fe_vs_Defensa_y_Justicia__ESP____17_00_1">
     <title>Próximamente | 17:00 | Unión Santa Fe vs Defensa y Justicia [ESP]</title>
   </programme>
@@ -143644,33 +143518,6 @@
   </programme>
   <programme start="20251022090500" stop="20251022055959" channel="Evento_LigaMX__Monterrey_vs_Ju_rez__ESP____24_05___Evento_LigaMX_1">
     <title>Finalizado | Monterrey vs Juárez [ESP]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021200000" channel="EVENTOS_VIP__Evento___George_Washington_vs_UMBC__ENG____14_00_1">
-    <title>Próximamente | 14:00 | George Washington vs UMBC [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251021230000" channel="EVENTOS_VIP__Evento___George_Washington_vs_UMBC__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | George Washington vs UMBC [ENG]</title>
-  </programme>
-  <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___George_Washington_vs_UMBC__ENG____14_00_1">
-    <title>Finalizado | George Washington vs UMBC [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021200000" channel="EVENTOS_VIP__Evento___Villanova_vs_VMI__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Villanova vs VMI [ENG]</title>
-  </programme>
-  <programme start="20251021200000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Villanova_vs_VMI__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Villanova vs VMI [ENG]</title>
-  </programme>
-  <programme start="20251021230000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Villanova_vs_VMI__ENG____14_00_1">
-    <title>Finalizado | Villanova vs VMI [ENG]</title>
-  </programme>
-  <programme start="20251021060000" stop="20251021223000" channel="EVENTOS_VIP__Evento___Princeton_vs_Bryant__ENG____16_30_1">
-    <title>Próximamente | 16:30 | Princeton vs Bryant [ENG]</title>
-  </programme>
-  <programme start="20251021223000" stop="20251022013000" channel="EVENTOS_VIP__Evento___Princeton_vs_Bryant__ENG____16_30_1">
-    <title>⌾ En vivo | 16:30 | Princeton vs Bryant [ENG]</title>
-  </programme>
-  <programme start="20251022013000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Princeton_vs_Bryant__ENG____16_30_1">
-    <title>Finalizado | Princeton vs Bryant [ENG]</title>
   </programme>
   <programme start="20251021060000" stop="20251021230000" channel="EVENTOS_VIP__Evento___Lehigh_vs_Seton_Hall__ENG____17_00_1">
     <title>Próximamente | 17:00 | Lehigh vs Seton Hall [ENG]</title>
@@ -143779,6 +143626,15 @@
   </programme>
   <programme start="20251022040000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Missouri_St__vs_Drake__ENG____19_00_1">
     <title>Finalizado | Missouri St. vs Drake [ENG]</title>
+  </programme>
+  <programme start="20251021060000" stop="20251022030000" channel="EVENTOS_VIP__Evento___Cartagin_s_vs_Motagua__ESP____21_00_2">
+    <title>Próximamente | 21:00 | Cartaginés vs Motagua [ESP]</title>
+  </programme>
+  <programme start="20251022030000" stop="20251022060000" channel="EVENTOS_VIP__Evento___Cartagin_s_vs_Motagua__ESP____21_00_2">
+    <title>⌾ En vivo | 21:00 | Cartaginés vs Motagua [ESP]</title>
+  </programme>
+  <programme start="20251022060000" stop="20251022055959" channel="EVENTOS_VIP__Evento___Cartagin_s_vs_Motagua__ESP____21_00_2">
+    <title>Finalizado | Cartaginés vs Motagua [ESP]</title>
   </programme>
 </tv>
 
