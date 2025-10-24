@@ -141206,9 +141206,6 @@
   <channel id="EVENTOS_VIP__Evento___Sporting_Cristal_vs_Universitario__ESP____19_30_1">
     <display-name>Evento | Sporting Cristal vs Universitario [ESP] | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Syracuse_vs_Duke__ENG____18_00_1">
-    <display-name>Evento | Syracuse vs Duke [ENG] | 18:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Notre_Dame_vs_Virginia_Tech__ENG____19_00_1">
     <display-name>Evento | Notre Dame vs Virginia Tech [ENG] | 19:00</display-name>
   </channel>
@@ -141451,15 +141448,6 @@
   </programme>
   <programme start="20251023223000 -0600" stop="20251023235959 -0600" channel="EVENTOS_VIP__Evento___Sporting_Cristal_vs_Universitario__ESP____19_30_1">
     <title>Finalizado | Sporting Cristal vs Universitario [ESP]</title>
-  </programme>
-  <programme start="20251023000000 -0600" stop="20251023180000 -0600" channel="EVENTOS_VIP__Evento___Syracuse_vs_Duke__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Syracuse vs Duke [ENG]</title>
-  </programme>
-  <programme start="20251023180000 -0600" stop="20251023210000 -0600" channel="EVENTOS_VIP__Evento___Syracuse_vs_Duke__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Syracuse vs Duke [ENG]</title>
-  </programme>
-  <programme start="20251023210000 -0600" stop="20251023235959 -0600" channel="EVENTOS_VIP__Evento___Syracuse_vs_Duke__ENG____18_00_1">
-    <title>Finalizado | Syracuse vs Duke [ENG]</title>
   </programme>
   <programme start="20251023000000 -0600" stop="20251023190000 -0600" channel="EVENTOS_VIP__Evento___Notre_Dame_vs_Virginia_Tech__ENG____19_00_1">
     <title>Próximamente | 19:00 | Notre Dame vs Virginia Tech [ENG]</title>
