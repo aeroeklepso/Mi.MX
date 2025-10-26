@@ -121571,9 +121571,6 @@
   <channel id="EVENTOS_VIP__Evento___Olympique_Lyonnais_vs_Strasbourg__ESP____14_45_1">
     <display-name>Evento | Olympique Lyonnais vs Strasbourg [ESP] | 14:45</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Fiorentina_vs_Bologna__ENG____12_00_1">
-    <display-name>Evento | Fiorentina vs Bologna [ENG] | 12:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Cuniburo_vs_T_cnico_Universitario__ESP____14_00_1">
     <display-name>Evento | Cuniburo vs Técnico Universitario [ESP] | 14:00</display-name>
   </channel>
@@ -121595,9 +121592,6 @@
   <channel id="EVENTOS_VIP__Evento___Cavalry_vs_York_United__ENG____17_00_1">
     <display-name>Evento | Cavalry vs York United [ENG] | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Kas_mpa_a_vs_Be_ikta___ESP____12_00_1">
-    <display-name>Evento | Kasımpaşa vs Beşiktaş [ESP] | 12:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Tondela_vs_Sporting_CP__ESP____13_00_1">
     <display-name>Evento | Tondela vs Sporting CP [ESP] | 13:00</display-name>
   </channel>
@@ -121607,17 +121601,11 @@
   <channel id="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Universidad_Chile__ESP____10_30_1">
     <display-name>Evento | Universidad Católica vs Universidad Chile [ESP] | 10:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Cobresal_vs_Uni_n_Espa_ola__ESP____14_00_1">
-    <display-name>Evento | Cobresal vs Unión Española [ESP] | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___O_Higgins_vs_Coquimbo_Unido__ESP____16_30_1">
     <display-name>Evento | O'Higgins vs Coquimbo Unido [ESP] | 16:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Uni_n_La_Calera_vs__ublense__ESP____16_30_1">
     <display-name>Evento | Unión La Calera vs Ñublense [ESP] | 16:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Sporting_Cristal_vs_Los_Chankas__ESP____11_00_1">
-    <display-name>Evento | Sporting Cristal vs Los Chankas [ESP] | 11:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___UTC_Cajamarca_vs_Alianza_Universidad__ESP____13_15_1">
     <display-name>Evento | UTC Cajamarca vs Alianza Universidad [ESP] | 13:15</display-name>
@@ -121628,9 +121616,6 @@
   <channel id="EVENTOS_VIP__Evento___Melgar_vs_Sport_Huancayo__ESP____18_00_1">
     <display-name>Evento | Melgar vs Sport Huancayo [ESP] | 18:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Danubio_vs_River_Plate__ESP____11_30_1">
-    <display-name>Evento | Danubio vs River Plate [ESP] | 11:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Liverpool_vs_Progreso__ESP____14_00_1">
     <display-name>Evento | Liverpool vs Progreso [ESP] | 14:00</display-name>
   </channel>
@@ -121639,9 +121624,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Miramar_Misiones_vs_Boston_River__ESP____19_00_1">
     <display-name>Evento | Miramar Misiones vs Boston River [ESP] | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Deportivo_Saprissa_vs_Puntarenas__ESP____12_00_1">
-    <display-name>Evento | Deportivo Saprissa vs Puntarenas [ESP] | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Alajuelense_vs_P_rez_Zeled_n__ESP____18_00_1">
     <display-name>Evento | Alajuelense vs Pérez Zeledón [ESP] | 18:00</display-name>
@@ -122054,15 +122036,6 @@
   <programme start="20251026174500 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Olympique_Lyonnais_vs_Strasbourg__ESP____14_45_1">
     <title>Finalizado | Olympique Lyonnais vs Strasbourg [ESP]</title>
   </programme>
-  <programme start="20251026000000 -0600" stop="20251026120000 -0600" channel="EVENTOS_VIP__Evento___Fiorentina_vs_Bologna__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Fiorentina vs Bologna [ENG]</title>
-  </programme>
-  <programme start="20251026120000 -0600" stop="20251026150000 -0600" channel="EVENTOS_VIP__Evento___Fiorentina_vs_Bologna__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Fiorentina vs Bologna [ENG]</title>
-  </programme>
-  <programme start="20251026150000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Fiorentina_vs_Bologna__ENG____12_00_1">
-    <title>Finalizado | Fiorentina vs Bologna [ENG]</title>
-  </programme>
   <programme start="20251026000000 -0600" stop="20251026140000 -0600" channel="EVENTOS_VIP__Evento___Cuniburo_vs_T_cnico_Universitario__ESP____14_00_1">
     <title>Próximamente | 14:00 | Cuniburo vs Técnico Universitario [ESP]</title>
   </programme>
@@ -122126,15 +122099,6 @@
   <programme start="20251026200000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Cavalry_vs_York_United__ENG____17_00_1">
     <title>Finalizado | Cavalry vs York United [ENG]</title>
   </programme>
-  <programme start="20251026000000 -0600" stop="20251026120000 -0600" channel="EVENTOS_VIP__Evento___Kas_mpa_a_vs_Be_ikta___ESP____12_00_1">
-    <title>Próximamente | 12:00 | Kasımpaşa vs Beşiktaş [ESP]</title>
-  </programme>
-  <programme start="20251026120000 -0600" stop="20251026150000 -0600" channel="EVENTOS_VIP__Evento___Kas_mpa_a_vs_Be_ikta___ESP____12_00_1">
-    <title>⌾ En vivo | 12:00 | Kasımpaşa vs Beşiktaş [ESP]</title>
-  </programme>
-  <programme start="20251026150000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Kas_mpa_a_vs_Be_ikta___ESP____12_00_1">
-    <title>Finalizado | Kasımpaşa vs Beşiktaş [ESP]</title>
-  </programme>
   <programme start="20251026000000 -0600" stop="20251026130000 -0600" channel="EVENTOS_VIP__Evento___Tondela_vs_Sporting_CP__ESP____13_00_1">
     <title>Próximamente | 13:00 | Tondela vs Sporting CP [ESP]</title>
   </programme>
@@ -122162,15 +122126,6 @@
   <programme start="20251026133000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Universidad_Chile__ESP____10_30_1">
     <title>Finalizado | Universidad Católica vs Universidad Chile [ESP]</title>
   </programme>
-  <programme start="20251026000000 -0600" stop="20251026140000 -0600" channel="EVENTOS_VIP__Evento___Cobresal_vs_Uni_n_Espa_ola__ESP____14_00_1">
-    <title>Próximamente | 14:00 | Cobresal vs Unión Española [ESP]</title>
-  </programme>
-  <programme start="20251026140000 -0600" stop="20251026170000 -0600" channel="EVENTOS_VIP__Evento___Cobresal_vs_Uni_n_Espa_ola__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Cobresal vs Unión Española [ESP]</title>
-  </programme>
-  <programme start="20251026170000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Cobresal_vs_Uni_n_Espa_ola__ESP____14_00_1">
-    <title>Finalizado | Cobresal vs Unión Española [ESP]</title>
-  </programme>
   <programme start="20251026000000 -0600" stop="20251026163000 -0600" channel="EVENTOS_VIP__Evento___O_Higgins_vs_Coquimbo_Unido__ESP____16_30_1">
     <title>Próximamente | 16:30 | O'Higgins vs Coquimbo Unido [ESP]</title>
   </programme>
@@ -122188,15 +122143,6 @@
   </programme>
   <programme start="20251026193000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Uni_n_La_Calera_vs__ublense__ESP____16_30_1">
     <title>Finalizado | Unión La Calera vs Ñublense [ESP]</title>
-  </programme>
-  <programme start="20251026000000 -0600" stop="20251026110000 -0600" channel="EVENTOS_VIP__Evento___Sporting_Cristal_vs_Los_Chankas__ESP____11_00_1">
-    <title>Próximamente | 11:00 | Sporting Cristal vs Los Chankas [ESP]</title>
-  </programme>
-  <programme start="20251026110000 -0600" stop="20251026140000 -0600" channel="EVENTOS_VIP__Evento___Sporting_Cristal_vs_Los_Chankas__ESP____11_00_1">
-    <title>⌾ En vivo | 11:00 | Sporting Cristal vs Los Chankas [ESP]</title>
-  </programme>
-  <programme start="20251026140000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Sporting_Cristal_vs_Los_Chankas__ESP____11_00_1">
-    <title>Finalizado | Sporting Cristal vs Los Chankas [ESP]</title>
   </programme>
   <programme start="20251026000000 -0600" stop="20251026131500 -0600" channel="EVENTOS_VIP__Evento___UTC_Cajamarca_vs_Alianza_Universidad__ESP____13_15_1">
     <title>Próximamente | 13:15 | UTC Cajamarca vs Alianza Universidad [ESP]</title>
@@ -122225,15 +122171,6 @@
   <programme start="20251026210000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Melgar_vs_Sport_Huancayo__ESP____18_00_1">
     <title>Finalizado | Melgar vs Sport Huancayo [ESP]</title>
   </programme>
-  <programme start="20251026000000 -0600" stop="20251026113000 -0600" channel="EVENTOS_VIP__Evento___Danubio_vs_River_Plate__ESP____11_30_1">
-    <title>Próximamente | 11:30 | Danubio vs River Plate [ESP]</title>
-  </programme>
-  <programme start="20251026113000 -0600" stop="20251026143000 -0600" channel="EVENTOS_VIP__Evento___Danubio_vs_River_Plate__ESP____11_30_1">
-    <title>⌾ En vivo | 11:30 | Danubio vs River Plate [ESP]</title>
-  </programme>
-  <programme start="20251026143000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Danubio_vs_River_Plate__ESP____11_30_1">
-    <title>Finalizado | Danubio vs River Plate [ESP]</title>
-  </programme>
   <programme start="20251026000000 -0600" stop="20251026140000 -0600" channel="EVENTOS_VIP__Evento___Liverpool_vs_Progreso__ESP____14_00_1">
     <title>Próximamente | 14:00 | Liverpool vs Progreso [ESP]</title>
   </programme>
@@ -122260,15 +122197,6 @@
   </programme>
   <programme start="20251026220000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Miramar_Misiones_vs_Boston_River__ESP____19_00_1">
     <title>Finalizado | Miramar Misiones vs Boston River [ESP]</title>
-  </programme>
-  <programme start="20251026000000 -0600" stop="20251026120000 -0600" channel="EVENTOS_VIP__Evento___Deportivo_Saprissa_vs_Puntarenas__ESP____12_00_1">
-    <title>Próximamente | 12:00 | Deportivo Saprissa vs Puntarenas [ESP]</title>
-  </programme>
-  <programme start="20251026120000 -0600" stop="20251026150000 -0600" channel="EVENTOS_VIP__Evento___Deportivo_Saprissa_vs_Puntarenas__ESP____12_00_1">
-    <title>⌾ En vivo | 12:00 | Deportivo Saprissa vs Puntarenas [ESP]</title>
-  </programme>
-  <programme start="20251026150000 -0600" stop="20251026235959 -0600" channel="EVENTOS_VIP__Evento___Deportivo_Saprissa_vs_Puntarenas__ESP____12_00_1">
-    <title>Finalizado | Deportivo Saprissa vs Puntarenas [ESP]</title>
   </programme>
   <programme start="20251026000000 -0600" stop="20251026180000 -0600" channel="EVENTOS_VIP__Evento___Alajuelense_vs_P_rez_Zeled_n__ESP____18_00_1">
     <title>Próximamente | 18:00 | Alajuelense vs Pérez Zeledón [ESP]</title>
