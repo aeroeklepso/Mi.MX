@@ -139373,23 +139373,11 @@
   <channel id="EVENTOS_VIP__Evento___San_Diego_vs_Portland_Timbers__ENG____20_30_1">
     <display-name>Evento | San Diego vs Portland Timbers [ENG] | 20:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Gaziantep_FK_vs_Fenerbah_e__ESP____12_00_1">
-    <display-name>Evento | Gaziantep FK vs Fenerbahçe [ESP] | 12:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Barracas_Central_vs_Boca_Juniors__ESP____14_00_1">
     <display-name>Evento | Barracas Central vs Boca Juniors [ESP] | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Barracas_Central_vs_Boca_Juniors__ESP____14_00_2">
     <display-name>Evento | Barracas Central vs Boca Juniors [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ENG____15_00_1">
-    <display-name>Evento | Real Betis vs Atlético Madrid [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_1">
-    <display-name>Evento | Real Betis vs Atlético Madrid [ESP] | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_2">
-    <display-name>Evento | Real Betis vs Atlético Madrid [ESP] | 15:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Colo_Colo_vs_Deportes_Limache__ESP____16_00_1">
     <display-name>Evento | Colo-Colo vs Deportes Limache [ESP] | 16:00</display-name>
@@ -139402,9 +139390,6 @@
   </channel>
   <channel id="Evento_LigaMX__Toluca_vs_Pachuca__ESP____19_00___Evento_LigaMX_1">
     <display-name>Toluca vs Pachuca [ESP] | 19:00 | Evento LigaMX</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___BYU_vs_UCF__ENG____12_00_1">
-    <display-name>Evento | BYU vs UCF [ENG] | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Ball_State_vs_Purdue_FW__ENG____18_00_1">
     <display-name>Evento | Ball State vs Purdue FW [ENG] | 18:00</display-name>
@@ -139664,15 +139649,6 @@
   <programme start="20251028053000" stop="20251028055959" channel="EVENTOS_VIP__Evento___San_Diego_vs_Portland_Timbers__ENG____20_30_1">
     <title>Finalizado | San Diego vs Portland Timbers [ENG]</title>
   </programme>
-  <programme start="20251027060000" stop="20251027180000" channel="EVENTOS_VIP__Evento___Gaziantep_FK_vs_Fenerbah_e__ESP____12_00_1">
-    <title>Próximamente | 12:00 | Gaziantep FK vs Fenerbahçe [ESP]</title>
-  </programme>
-  <programme start="20251027180000" stop="20251027210000" channel="EVENTOS_VIP__Evento___Gaziantep_FK_vs_Fenerbah_e__ESP____12_00_1">
-    <title>⌾ En vivo | 12:00 | Gaziantep FK vs Fenerbahçe [ESP]</title>
-  </programme>
-  <programme start="20251027210000" stop="20251028055959" channel="EVENTOS_VIP__Evento___Gaziantep_FK_vs_Fenerbah_e__ESP____12_00_1">
-    <title>Finalizado | Gaziantep FK vs Fenerbahçe [ESP]</title>
-  </programme>
   <programme start="20251027060000" stop="20251027200000" channel="EVENTOS_VIP__Evento___Barracas_Central_vs_Boca_Juniors__ESP____14_00_1">
     <title>Próximamente | 14:00 | Barracas Central vs Boca Juniors [ESP]</title>
   </programme>
@@ -139690,33 +139666,6 @@
   </programme>
   <programme start="20251027230000" stop="20251028055959" channel="EVENTOS_VIP__Evento___Barracas_Central_vs_Boca_Juniors__ESP____14_00_2">
     <title>Finalizado | Barracas Central vs Boca Juniors [ESP]</title>
-  </programme>
-  <programme start="20251027060000" stop="20251027210000" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Real Betis vs Atlético Madrid [ENG]</title>
-  </programme>
-  <programme start="20251027210000" stop="20251028000000" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Real Betis vs Atlético Madrid [ENG]</title>
-  </programme>
-  <programme start="20251028000000" stop="20251028055959" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ENG____15_00_1">
-    <title>Finalizado | Real Betis vs Atlético Madrid [ENG]</title>
-  </programme>
-  <programme start="20251027060000" stop="20251027210000" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_1">
-    <title>Próximamente | 15:00 | Real Betis vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251027210000" stop="20251028000000" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_1">
-    <title>⌾ En vivo | 15:00 | Real Betis vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251028000000" stop="20251028055959" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_1">
-    <title>Finalizado | Real Betis vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251027060000" stop="20251027210000" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_2">
-    <title>Próximamente | 15:00 | Real Betis vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251027210000" stop="20251028000000" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_2">
-    <title>⌾ En vivo | 15:00 | Real Betis vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251028000000" stop="20251028055959" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Atl_tico_Madrid__ESP____15_00_2">
-    <title>Finalizado | Real Betis vs Atlético Madrid [ESP]</title>
   </programme>
   <programme start="20251027060000" stop="20251027220000" channel="EVENTOS_VIP__Evento___Colo_Colo_vs_Deportes_Limache__ESP____16_00_1">
     <title>Próximamente | 16:00 | Colo-Colo vs Deportes Limache [ESP]</title>
@@ -139753,15 +139702,6 @@
   </programme>
   <programme start="20251028040000" stop="20251028055959" channel="Evento_LigaMX__Toluca_vs_Pachuca__ESP____19_00___Evento_LigaMX_1">
     <title>Finalizado | Toluca vs Pachuca [ESP]</title>
-  </programme>
-  <programme start="20251027060000" stop="20251027180000" channel="EVENTOS_VIP__Evento___BYU_vs_UCF__ENG____12_00_1">
-    <title>Próximamente | 12:00 | BYU vs UCF [ENG]</title>
-  </programme>
-  <programme start="20251027180000" stop="20251027210000" channel="EVENTOS_VIP__Evento___BYU_vs_UCF__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | BYU vs UCF [ENG]</title>
-  </programme>
-  <programme start="20251027210000" stop="20251028055959" channel="EVENTOS_VIP__Evento___BYU_vs_UCF__ENG____12_00_1">
-    <title>Finalizado | BYU vs UCF [ENG]</title>
   </programme>
   <programme start="20251027060000" stop="20251028000000" channel="EVENTOS_VIP__Evento___Ball_State_vs_Purdue_FW__ENG____18_00_1">
     <title>Próximamente | 18:00 | Ball State vs Purdue FW [ENG]</title>
