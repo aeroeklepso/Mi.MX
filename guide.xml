@@ -141719,23 +141719,11 @@
   <channel id="EVENTOS_VIP__Evento___Los_Angeles_FC_vs_Austin__ENG____21_30_1">
     <display-name>Evento | Los Angeles FC vs Austin [ENG] | 21:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Espa_a_Sub_17_vs_Francia_Sub_17__ENG____10_30_1">
-    <display-name>Evento | España Sub-17 vs Francia Sub-17 [ENG] | 10:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___M_xico_Sub_17_vs_Paraguay_Sub_17__ENG____10_30_1">
-    <display-name>Evento | México Sub-17 vs Paraguay Sub-17 [ENG] | 10:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Canad__Sub_17_vs_Zambia_Sub_17__ENG____14_00_1">
     <display-name>Evento | Canadá Sub-17 vs Zambia Sub-17 [ENG] | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Jap_n_Sub_17_vs_Colombia_Sub_17__ENG____14_00_1">
     <display-name>Evento | Japón Sub-17 vs Colombia Sub-17 [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___CD_Sant_Jordi_vs_Osasuna__ESP____13_00_1">
-    <display-name>Evento | CD Sant Jordi vs Osasuna [ESP] | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Los_Garres_vs_Elche__ESP____13_00_1">
-    <display-name>Evento | Los Garres vs Elche [ESP] | 13:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Sant_Just_vs_Mallorca__ESP____14_00_1">
     <display-name>Evento | Sant Just vs Mallorca [ESP] | 14:00</display-name>
@@ -141746,14 +141734,8 @@
   <channel id="EVENTOS_VIP__Evento___Yuncos_vs_Rayo_Vallecano__ESP____15_00_1">
     <display-name>Evento | Yuncos vs Rayo Vallecano [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Como_vs_Hellas_Verona__ESP____12_30_1">
-    <display-name>Evento | Como vs Hellas Verona [ESP] | 12:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Juventus_vs_Udinese__ESP____12_30_1">
     <display-name>Evento | Juventus vs Udinese [ESP] | 12:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Roma_vs_Parma__ESP____12_30_1">
-    <display-name>Evento | Roma vs Parma [ESP] | 12:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Bologna_vs_Torino__ESP____14_45_1">
     <display-name>Evento | Bologna vs Torino [ESP] | 14:45</display-name>
@@ -141790,18 +141772,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Toulouse_vs_Rennes__ENG____15_05_1">
     <display-name>Evento | Toulouse vs Rennes [ENG] | 15:05</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Greuther_F_rth_vs_Kaiserslautern__ENG____12_00_1">
-    <display-name>Evento | Greuther Fürth vs Kaiserslautern [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Illertissen_vs_Magdeburg__ENG____12_00_1">
-    <display-name>Evento | Illertissen vs Magdeburg [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Mainz_05_vs_Stuttgart__ENG____12_00_1">
-    <display-name>Evento | Mainz 05 vs Stuttgart [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Paderborn_vs_Bayer_Leverkusen__ENG____12_00_1">
-    <display-name>Evento | Paderborn vs Bayer Leverkusen [ENG] | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Darmstadt_98_vs_Schalke_04__ENG____14_45_1">
     <display-name>Evento | Darmstadt 98 vs Schalke 04 [ENG] | 14:45</display-name>
@@ -141871,15 +141841,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Racing_Club_vs_Flamengo__ESP____19_30_2">
     <display-name>Evento | Racing Club vs Flamengo [ESP] | 19:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Bowling_Green_vs_UMass__ENG____12_00_1">
-    <display-name>Evento | Bowling Green vs UMass [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Manhattan_vs_Quinnipiac__ENG____12_00_1">
-    <display-name>Evento | Manhattan vs Quinnipiac [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Siena_vs_Iona__ENG____13_00_1">
-    <display-name>Evento | Siena vs Iona [ENG] | 13:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Atl__Sant_Just_vs_Mallorca__ENG____13_50_1">
     <display-name>Evento | Atl. Sant Just vs Mallorca [ENG] | 13:50</display-name>
@@ -142127,24 +142088,6 @@
   <programme start="20251030003000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Los_Angeles_FC_vs_Austin__ENG____21_30_1">
     <title>Finalizado | Los Angeles FC vs Austin [ENG]</title>
   </programme>
-  <programme start="20251029000000 -0600" stop="20251029103000 -0600" channel="EVENTOS_VIP__Evento___Espa_a_Sub_17_vs_Francia_Sub_17__ENG____10_30_1">
-    <title>Próximamente | 10:30 | España Sub-17 vs Francia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251029103000 -0600" stop="20251029133000 -0600" channel="EVENTOS_VIP__Evento___Espa_a_Sub_17_vs_Francia_Sub_17__ENG____10_30_1">
-    <title>⌾ En vivo | 10:30 | España Sub-17 vs Francia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251029133000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Espa_a_Sub_17_vs_Francia_Sub_17__ENG____10_30_1">
-    <title>Finalizado | España Sub-17 vs Francia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029103000 -0600" channel="EVENTOS_VIP__Evento___M_xico_Sub_17_vs_Paraguay_Sub_17__ENG____10_30_1">
-    <title>Próximamente | 10:30 | México Sub-17 vs Paraguay Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251029103000 -0600" stop="20251029133000 -0600" channel="EVENTOS_VIP__Evento___M_xico_Sub_17_vs_Paraguay_Sub_17__ENG____10_30_1">
-    <title>⌾ En vivo | 10:30 | México Sub-17 vs Paraguay Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251029133000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___M_xico_Sub_17_vs_Paraguay_Sub_17__ENG____10_30_1">
-    <title>Finalizado | México Sub-17 vs Paraguay Sub-17 [ENG]</title>
-  </programme>
   <programme start="20251029000000 -0600" stop="20251029140000 -0600" channel="EVENTOS_VIP__Evento___Canad__Sub_17_vs_Zambia_Sub_17__ENG____14_00_1">
     <title>Próximamente | 14:00 | Canadá Sub-17 vs Zambia Sub-17 [ENG]</title>
   </programme>
@@ -142162,24 +142105,6 @@
   </programme>
   <programme start="20251029170000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Jap_n_Sub_17_vs_Colombia_Sub_17__ENG____14_00_1">
     <title>Finalizado | Japón Sub-17 vs Colombia Sub-17 [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029130000 -0600" channel="EVENTOS_VIP__Evento___CD_Sant_Jordi_vs_Osasuna__ESP____13_00_1">
-    <title>Próximamente | 13:00 | CD Sant Jordi vs Osasuna [ESP]</title>
-  </programme>
-  <programme start="20251029130000 -0600" stop="20251029160000 -0600" channel="EVENTOS_VIP__Evento___CD_Sant_Jordi_vs_Osasuna__ESP____13_00_1">
-    <title>⌾ En vivo | 13:00 | CD Sant Jordi vs Osasuna [ESP]</title>
-  </programme>
-  <programme start="20251029160000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___CD_Sant_Jordi_vs_Osasuna__ESP____13_00_1">
-    <title>Finalizado | CD Sant Jordi vs Osasuna [ESP]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029130000 -0600" channel="EVENTOS_VIP__Evento___Los_Garres_vs_Elche__ESP____13_00_1">
-    <title>Próximamente | 13:00 | Los Garres vs Elche [ESP]</title>
-  </programme>
-  <programme start="20251029130000 -0600" stop="20251029160000 -0600" channel="EVENTOS_VIP__Evento___Los_Garres_vs_Elche__ESP____13_00_1">
-    <title>⌾ En vivo | 13:00 | Los Garres vs Elche [ESP]</title>
-  </programme>
-  <programme start="20251029160000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Los_Garres_vs_Elche__ESP____13_00_1">
-    <title>Finalizado | Los Garres vs Elche [ESP]</title>
   </programme>
   <programme start="20251029000000 -0600" stop="20251029140000 -0600" channel="EVENTOS_VIP__Evento___Sant_Just_vs_Mallorca__ESP____14_00_1">
     <title>Próximamente | 14:00 | Sant Just vs Mallorca [ESP]</title>
@@ -142208,15 +142133,6 @@
   <programme start="20251029180000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Yuncos_vs_Rayo_Vallecano__ESP____15_00_1">
     <title>Finalizado | Yuncos vs Rayo Vallecano [ESP]</title>
   </programme>
-  <programme start="20251029000000 -0600" stop="20251029123000 -0600" channel="EVENTOS_VIP__Evento___Como_vs_Hellas_Verona__ESP____12_30_1">
-    <title>Próximamente | 12:30 | Como vs Hellas Verona [ESP]</title>
-  </programme>
-  <programme start="20251029123000 -0600" stop="20251029153000 -0600" channel="EVENTOS_VIP__Evento___Como_vs_Hellas_Verona__ESP____12_30_1">
-    <title>⌾ En vivo | 12:30 | Como vs Hellas Verona [ESP]</title>
-  </programme>
-  <programme start="20251029153000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Como_vs_Hellas_Verona__ESP____12_30_1">
-    <title>Finalizado | Como vs Hellas Verona [ESP]</title>
-  </programme>
   <programme start="20251029000000 -0600" stop="20251029123000 -0600" channel="EVENTOS_VIP__Evento___Juventus_vs_Udinese__ESP____12_30_1">
     <title>Próximamente | 12:30 | Juventus vs Udinese [ESP]</title>
   </programme>
@@ -142225,15 +142141,6 @@
   </programme>
   <programme start="20251029153000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Juventus_vs_Udinese__ESP____12_30_1">
     <title>Finalizado | Juventus vs Udinese [ESP]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029123000 -0600" channel="EVENTOS_VIP__Evento___Roma_vs_Parma__ESP____12_30_1">
-    <title>Próximamente | 12:30 | Roma vs Parma [ESP]</title>
-  </programme>
-  <programme start="20251029123000 -0600" stop="20251029153000 -0600" channel="EVENTOS_VIP__Evento___Roma_vs_Parma__ESP____12_30_1">
-    <title>⌾ En vivo | 12:30 | Roma vs Parma [ESP]</title>
-  </programme>
-  <programme start="20251029153000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Roma_vs_Parma__ESP____12_30_1">
-    <title>Finalizado | Roma vs Parma [ESP]</title>
   </programme>
   <programme start="20251029000000 -0600" stop="20251029144500 -0600" channel="EVENTOS_VIP__Evento___Bologna_vs_Torino__ESP____14_45_1">
     <title>Próximamente | 14:45 | Bologna vs Torino [ESP]</title>
@@ -142342,42 +142249,6 @@
   </programme>
   <programme start="20251029180500 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Toulouse_vs_Rennes__ENG____15_05_1">
     <title>Finalizado | Toulouse vs Rennes [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029120000 -0600" channel="EVENTOS_VIP__Evento___Greuther_F_rth_vs_Kaiserslautern__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Greuther Fürth vs Kaiserslautern [ENG]</title>
-  </programme>
-  <programme start="20251029120000 -0600" stop="20251029150000 -0600" channel="EVENTOS_VIP__Evento___Greuther_F_rth_vs_Kaiserslautern__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Greuther Fürth vs Kaiserslautern [ENG]</title>
-  </programme>
-  <programme start="20251029150000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Greuther_F_rth_vs_Kaiserslautern__ENG____12_00_1">
-    <title>Finalizado | Greuther Fürth vs Kaiserslautern [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029120000 -0600" channel="EVENTOS_VIP__Evento___Illertissen_vs_Magdeburg__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Illertissen vs Magdeburg [ENG]</title>
-  </programme>
-  <programme start="20251029120000 -0600" stop="20251029150000 -0600" channel="EVENTOS_VIP__Evento___Illertissen_vs_Magdeburg__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Illertissen vs Magdeburg [ENG]</title>
-  </programme>
-  <programme start="20251029150000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Illertissen_vs_Magdeburg__ENG____12_00_1">
-    <title>Finalizado | Illertissen vs Magdeburg [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029120000 -0600" channel="EVENTOS_VIP__Evento___Mainz_05_vs_Stuttgart__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Mainz 05 vs Stuttgart [ENG]</title>
-  </programme>
-  <programme start="20251029120000 -0600" stop="20251029150000 -0600" channel="EVENTOS_VIP__Evento___Mainz_05_vs_Stuttgart__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Mainz 05 vs Stuttgart [ENG]</title>
-  </programme>
-  <programme start="20251029150000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Mainz_05_vs_Stuttgart__ENG____12_00_1">
-    <title>Finalizado | Mainz 05 vs Stuttgart [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029120000 -0600" channel="EVENTOS_VIP__Evento___Paderborn_vs_Bayer_Leverkusen__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Paderborn vs Bayer Leverkusen [ENG]</title>
-  </programme>
-  <programme start="20251029120000 -0600" stop="20251029150000 -0600" channel="EVENTOS_VIP__Evento___Paderborn_vs_Bayer_Leverkusen__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Paderborn vs Bayer Leverkusen [ENG]</title>
-  </programme>
-  <programme start="20251029150000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Paderborn_vs_Bayer_Leverkusen__ENG____12_00_1">
-    <title>Finalizado | Paderborn vs Bayer Leverkusen [ENG]</title>
   </programme>
   <programme start="20251029000000 -0600" stop="20251029144500 -0600" channel="EVENTOS_VIP__Evento___Darmstadt_98_vs_Schalke_04__ENG____14_45_1">
     <title>Próximamente | 14:45 | Darmstadt 98 vs Schalke 04 [ENG]</title>
@@ -142585,33 +142456,6 @@
   </programme>
   <programme start="20251029223000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Racing_Club_vs_Flamengo__ESP____19_30_2">
     <title>Finalizado | Racing Club vs Flamengo [ESP]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029120000 -0600" channel="EVENTOS_VIP__Evento___Bowling_Green_vs_UMass__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Bowling Green vs UMass [ENG]</title>
-  </programme>
-  <programme start="20251029120000 -0600" stop="20251029150000 -0600" channel="EVENTOS_VIP__Evento___Bowling_Green_vs_UMass__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Bowling Green vs UMass [ENG]</title>
-  </programme>
-  <programme start="20251029150000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Bowling_Green_vs_UMass__ENG____12_00_1">
-    <title>Finalizado | Bowling Green vs UMass [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029120000 -0600" channel="EVENTOS_VIP__Evento___Manhattan_vs_Quinnipiac__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Manhattan vs Quinnipiac [ENG]</title>
-  </programme>
-  <programme start="20251029120000 -0600" stop="20251029150000 -0600" channel="EVENTOS_VIP__Evento___Manhattan_vs_Quinnipiac__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Manhattan vs Quinnipiac [ENG]</title>
-  </programme>
-  <programme start="20251029150000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Manhattan_vs_Quinnipiac__ENG____12_00_1">
-    <title>Finalizado | Manhattan vs Quinnipiac [ENG]</title>
-  </programme>
-  <programme start="20251029000000 -0600" stop="20251029130000 -0600" channel="EVENTOS_VIP__Evento___Siena_vs_Iona__ENG____13_00_1">
-    <title>Próximamente | 13:00 | Siena vs Iona [ENG]</title>
-  </programme>
-  <programme start="20251029130000 -0600" stop="20251029160000 -0600" channel="EVENTOS_VIP__Evento___Siena_vs_Iona__ENG____13_00_1">
-    <title>⌾ En vivo | 13:00 | Siena vs Iona [ENG]</title>
-  </programme>
-  <programme start="20251029160000 -0600" stop="20251029235959 -0600" channel="EVENTOS_VIP__Evento___Siena_vs_Iona__ENG____13_00_1">
-    <title>Finalizado | Siena vs Iona [ENG]</title>
   </programme>
   <programme start="20251029000000 -0600" stop="20251029135000 -0600" channel="EVENTOS_VIP__Evento___Atl__Sant_Just_vs_Mallorca__ENG____13_50_1">
     <title>Próximamente | 13:50 | Atl. Sant Just vs Mallorca [ENG]</title>
