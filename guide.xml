@@ -138932,17 +138932,11 @@
   <channel id="EVENTOS_VIP__Evento___Elversberg_vs_Hannover_96__ESP____12_30_1">
     <display-name>Evento | Elversberg vs Hannover 96 [ESP] | 12:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Preu_en_M_nster_vs_Holstein_Kiel__ENG____12_30_1">
-    <display-name>Evento | Preußen Münster vs Holstein Kiel [ENG] | 12:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Augsburg_vs_Borussia_Dortmund__ESP____14_30_1">
     <display-name>Evento | Augsburg vs Borussia Dortmund [ESP] | 14:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Augsburg_vs_Borussia_Dortmund__ESP____14_30_2">
     <display-name>Evento | Augsburg vs Borussia Dortmund [ESP] | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___PSV_vs_Fortuna_Sittard__ESP____14_00_1">
-    <display-name>Evento | PSV vs Fortuna Sittard [ESP] | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Luton_Town_vs_Forest_Green_Rovers__ESP____14_30_1">
     <display-name>Evento | Luton Town vs Forest Green Rovers [ESP] | 14:30</display-name>
@@ -138952,9 +138946,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Wrexham_vs_Coventry_City__ESP____15_00_1">
     <display-name>Evento | Wrexham vs Coventry City [ESP] | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Deportes_Temuco_vs_Recoleta__ESP____13_00_1">
-    <display-name>Evento | Deportes Temuco vs Recoleta [ESP] | 13:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Deportes_Concepci_n_vs_Uni_n_San_Felipe__ESP____15_30_1">
     <display-name>Evento | Deportes Concepción vs Unión San Felipe [ESP] | 15:30</display-name>
@@ -139021,27 +139012,6 @@
   </channel>
   <channel id="Evento_LigaMX__Tijuana_vs_Pachuca__ESP____21_00___Evento_LigaMX_1">
     <display-name>Tijuana vs Pachuca [ESP] | 21:00 | Evento LigaMX</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Soccer__Wright_St_vs_Oakland__ENG____12_00_1">
-    <display-name>Evento | Soccer: Wright St vs Oakland [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Hockey__Maine_vs_Providence__ENG____13_00_1">
-    <display-name>Evento | Hockey: Maine vs Providence [ENG] | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Hockey__New_Hampshire_vs_Merrimack__ENG____13_00_1">
-    <display-name>Evento | Hockey: New Hampshire vs Merrimack [ENG] | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Soccer__Cleveland_St_vs_IU_Indy__ENG____13_00_1">
-    <display-name>Evento | Soccer: Cleveland St vs IU Indy [ENG] | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Soccer__Robert_Morris_vs_Green_Bay__ENG____13_00_1">
-    <display-name>Evento | Soccer: Robert Morris vs Green Bay [ENG] | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <display-name>Evento | Dartmouth vs St Lawrence [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Hockey__Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <display-name>Evento | Hockey: Dartmouth vs St Lawrence [ENG] | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Hockey__Rensselaer_vs_Princeton__ENG____14_00_1">
     <display-name>Evento | Hockey: Rensselaer vs Princeton [ENG] | 14:00</display-name>
@@ -139373,15 +139343,6 @@
   <programme start="20251031153000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Elversberg_vs_Hannover_96__ESP____12_30_1">
     <title>Finalizado | Elversberg vs Hannover 96 [ESP]</title>
   </programme>
-  <programme start="20251031000000 -0600" stop="20251031123000 -0600" channel="EVENTOS_VIP__Evento___Preu_en_M_nster_vs_Holstein_Kiel__ENG____12_30_1">
-    <title>Próximamente | 12:30 | Preußen Münster vs Holstein Kiel [ENG]</title>
-  </programme>
-  <programme start="20251031123000 -0600" stop="20251031153000 -0600" channel="EVENTOS_VIP__Evento___Preu_en_M_nster_vs_Holstein_Kiel__ENG____12_30_1">
-    <title>⌾ En vivo | 12:30 | Preußen Münster vs Holstein Kiel [ENG]</title>
-  </programme>
-  <programme start="20251031153000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Preu_en_M_nster_vs_Holstein_Kiel__ENG____12_30_1">
-    <title>Finalizado | Preußen Münster vs Holstein Kiel [ENG]</title>
-  </programme>
   <programme start="20251031000000 -0600" stop="20251031143000 -0600" channel="EVENTOS_VIP__Evento___Augsburg_vs_Borussia_Dortmund__ESP____14_30_1">
     <title>Próximamente | 14:30 | Augsburg vs Borussia Dortmund [ESP]</title>
   </programme>
@@ -139399,15 +139360,6 @@
   </programme>
   <programme start="20251031173000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Augsburg_vs_Borussia_Dortmund__ESP____14_30_2">
     <title>Finalizado | Augsburg vs Borussia Dortmund [ESP]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031140000 -0600" channel="EVENTOS_VIP__Evento___PSV_vs_Fortuna_Sittard__ESP____14_00_1">
-    <title>Próximamente | 14:00 | PSV vs Fortuna Sittard [ESP]</title>
-  </programme>
-  <programme start="20251031140000 -0600" stop="20251031170000 -0600" channel="EVENTOS_VIP__Evento___PSV_vs_Fortuna_Sittard__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | PSV vs Fortuna Sittard [ESP]</title>
-  </programme>
-  <programme start="20251031170000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___PSV_vs_Fortuna_Sittard__ESP____14_00_1">
-    <title>Finalizado | PSV vs Fortuna Sittard [ESP]</title>
   </programme>
   <programme start="20251031000000 -0600" stop="20251031143000 -0600" channel="EVENTOS_VIP__Evento___Luton_Town_vs_Forest_Green_Rovers__ESP____14_30_1">
     <title>Próximamente | 14:30 | Luton Town vs Forest Green Rovers [ESP]</title>
@@ -139435,15 +139387,6 @@
   </programme>
   <programme start="20251031180000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Wrexham_vs_Coventry_City__ESP____15_00_1">
     <title>Finalizado | Wrexham vs Coventry City [ESP]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031130000 -0600" channel="EVENTOS_VIP__Evento___Deportes_Temuco_vs_Recoleta__ESP____13_00_1">
-    <title>Próximamente | 13:00 | Deportes Temuco vs Recoleta [ESP]</title>
-  </programme>
-  <programme start="20251031130000 -0600" stop="20251031160000 -0600" channel="EVENTOS_VIP__Evento___Deportes_Temuco_vs_Recoleta__ESP____13_00_1">
-    <title>⌾ En vivo | 13:00 | Deportes Temuco vs Recoleta [ESP]</title>
-  </programme>
-  <programme start="20251031160000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Deportes_Temuco_vs_Recoleta__ESP____13_00_1">
-    <title>Finalizado | Deportes Temuco vs Recoleta [ESP]</title>
   </programme>
   <programme start="20251031000000 -0600" stop="20251031153000 -0600" channel="EVENTOS_VIP__Evento___Deportes_Concepci_n_vs_Uni_n_San_Felipe__ESP____15_30_1">
     <title>Próximamente | 15:30 | Deportes Concepción vs Unión San Felipe [ESP]</title>
@@ -139642,69 +139585,6 @@
   </programme>
   <programme start="20251101000000 -0600" stop="20251031235959 -0600" channel="Evento_LigaMX__Tijuana_vs_Pachuca__ESP____21_00___Evento_LigaMX_1">
     <title>Finalizado | Tijuana vs Pachuca [ESP]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031120000 -0600" channel="EVENTOS_VIP__Evento___Soccer__Wright_St_vs_Oakland__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Soccer: Wright St vs Oakland [ENG]</title>
-  </programme>
-  <programme start="20251031120000 -0600" stop="20251031150000 -0600" channel="EVENTOS_VIP__Evento___Soccer__Wright_St_vs_Oakland__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Soccer: Wright St vs Oakland [ENG]</title>
-  </programme>
-  <programme start="20251031150000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Soccer__Wright_St_vs_Oakland__ENG____12_00_1">
-    <title>Finalizado | Soccer: Wright St vs Oakland [ENG]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031130000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Maine_vs_Providence__ENG____13_00_1">
-    <title>Próximamente | 13:00 | Hockey: Maine vs Providence [ENG]</title>
-  </programme>
-  <programme start="20251031130000 -0600" stop="20251031160000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Maine_vs_Providence__ENG____13_00_1">
-    <title>⌾ En vivo | 13:00 | Hockey: Maine vs Providence [ENG]</title>
-  </programme>
-  <programme start="20251031160000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Hockey__Maine_vs_Providence__ENG____13_00_1">
-    <title>Finalizado | Hockey: Maine vs Providence [ENG]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031130000 -0600" channel="EVENTOS_VIP__Evento___Hockey__New_Hampshire_vs_Merrimack__ENG____13_00_1">
-    <title>Próximamente | 13:00 | Hockey: New Hampshire vs Merrimack [ENG]</title>
-  </programme>
-  <programme start="20251031130000 -0600" stop="20251031160000 -0600" channel="EVENTOS_VIP__Evento___Hockey__New_Hampshire_vs_Merrimack__ENG____13_00_1">
-    <title>⌾ En vivo | 13:00 | Hockey: New Hampshire vs Merrimack [ENG]</title>
-  </programme>
-  <programme start="20251031160000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Hockey__New_Hampshire_vs_Merrimack__ENG____13_00_1">
-    <title>Finalizado | Hockey: New Hampshire vs Merrimack [ENG]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031130000 -0600" channel="EVENTOS_VIP__Evento___Soccer__Cleveland_St_vs_IU_Indy__ENG____13_00_1">
-    <title>Próximamente | 13:00 | Soccer: Cleveland St vs IU Indy [ENG]</title>
-  </programme>
-  <programme start="20251031130000 -0600" stop="20251031160000 -0600" channel="EVENTOS_VIP__Evento___Soccer__Cleveland_St_vs_IU_Indy__ENG____13_00_1">
-    <title>⌾ En vivo | 13:00 | Soccer: Cleveland St vs IU Indy [ENG]</title>
-  </programme>
-  <programme start="20251031160000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Soccer__Cleveland_St_vs_IU_Indy__ENG____13_00_1">
-    <title>Finalizado | Soccer: Cleveland St vs IU Indy [ENG]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031130000 -0600" channel="EVENTOS_VIP__Evento___Soccer__Robert_Morris_vs_Green_Bay__ENG____13_00_1">
-    <title>Próximamente | 13:00 | Soccer: Robert Morris vs Green Bay [ENG]</title>
-  </programme>
-  <programme start="20251031130000 -0600" stop="20251031160000 -0600" channel="EVENTOS_VIP__Evento___Soccer__Robert_Morris_vs_Green_Bay__ENG____13_00_1">
-    <title>⌾ En vivo | 13:00 | Soccer: Robert Morris vs Green Bay [ENG]</title>
-  </programme>
-  <programme start="20251031160000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Soccer__Robert_Morris_vs_Green_Bay__ENG____13_00_1">
-    <title>Finalizado | Soccer: Robert Morris vs Green Bay [ENG]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031140000 -0600" channel="EVENTOS_VIP__Evento___Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Dartmouth vs St Lawrence [ENG]</title>
-  </programme>
-  <programme start="20251031140000 -0600" stop="20251031170000 -0600" channel="EVENTOS_VIP__Evento___Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Dartmouth vs St Lawrence [ENG]</title>
-  </programme>
-  <programme start="20251031170000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <title>Finalizado | Dartmouth vs St Lawrence [ENG]</title>
-  </programme>
-  <programme start="20251031000000 -0600" stop="20251031140000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Hockey: Dartmouth vs St Lawrence [ENG]</title>
-  </programme>
-  <programme start="20251031140000 -0600" stop="20251031170000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Hockey: Dartmouth vs St Lawrence [ENG]</title>
-  </programme>
-  <programme start="20251031170000 -0600" stop="20251031235959 -0600" channel="EVENTOS_VIP__Evento___Hockey__Dartmouth_vs_St_Lawrence__ENG____14_00_1">
-    <title>Finalizado | Hockey: Dartmouth vs St Lawrence [ENG]</title>
   </programme>
   <programme start="20251031000000 -0600" stop="20251031140000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Rensselaer_vs_Princeton__ENG____14_00_1">
     <title>Próximamente | 14:00 | Hockey: Rensselaer vs Princeton [ENG]</title>
