@@ -138755,9 +138755,6 @@
   <channel id="EVENTOS_VIP__Evento___Real_Betis_vs_Mallorca__ESP____15_00_2">
     <display-name>Evento | Real Betis vs Mallorca [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Hellas_Verona_vs_Internazionale__ESP____06_30_1">
-    <display-name>Evento | Hellas Verona vs Internazionale [ESP] | 06:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Fiorentina_vs_Lecce__ESP____09_00_1">
     <display-name>Evento | Fiorentina vs Lecce [ESP] | 09:00</display-name>
   </channel>
@@ -139366,15 +139363,6 @@
   </programme>
   <programme start="20251102180000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Real_Betis_vs_Mallorca__ESP____15_00_2">
     <title>Finalizado | Real Betis vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102063000 -0600" channel="EVENTOS_VIP__Evento___Hellas_Verona_vs_Internazionale__ESP____06_30_1">
-    <title>Próximamente | 06:30 | Hellas Verona vs Internazionale [ESP]</title>
-  </programme>
-  <programme start="20251102063000 -0600" stop="20251102093000 -0600" channel="EVENTOS_VIP__Evento___Hellas_Verona_vs_Internazionale__ESP____06_30_1">
-    <title>⌾ En vivo | 06:30 | Hellas Verona vs Internazionale [ESP]</title>
-  </programme>
-  <programme start="20251102093000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Hellas_Verona_vs_Internazionale__ESP____06_30_1">
-    <title>Finalizado | Hellas Verona vs Internazionale [ESP]</title>
   </programme>
   <programme start="20251102000000 -0600" stop="20251102090000 -0600" channel="EVENTOS_VIP__Evento___Fiorentina_vs_Lecce__ESP____09_00_1">
     <title>Próximamente | 09:00 | Fiorentina vs Lecce [ESP]</title>
