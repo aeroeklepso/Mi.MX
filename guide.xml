@@ -139319,20 +139319,11 @@
   <channel id="EVENTOS_VIP__Evento___Coquimbo_Unido_vs_Uni_n_La_Calera__ESP____15_30_1">
     <display-name>Evento | Coquimbo Unido vs Unión La Calera [ESP] | 15:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_O_Higgins__ESP____15_30_1">
-    <display-name>Evento | Universidad Católica vs O'Higgins [ESP] | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
     <display-name>Evento | Everton vs Unión Española [ESP] | 18:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Macar__vs_Emelec__ESP____15_30_1">
-    <display-name>Evento | Macará vs Emelec [ESP] | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
     <display-name>Evento | Universidad Católica vs Barcelona [ESP] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Atl_tico_Grau_vs_Alianza_Atl_tico__ESP____15_15_1">
-    <display-name>Evento | Atlético Grau vs Alianza Atlético [ESP] | 15:15</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Sport_Boys_vs_UTC_Cajamarca__ESP____18_00_1">
     <display-name>Evento | Sport Boys vs UTC Cajamarca [ESP] | 18:00</display-name>
@@ -139340,14 +139331,8 @@
   <channel id="EVENTOS_VIP__Evento___Cienciano_vs_Juan_Pablo_II_College__ESP____18_00_1">
     <display-name>Evento | Cienciano vs Juan Pablo II College [ESP] | 18:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Racing_vs_Danubio__ESP____14_30_1">
-    <display-name>Evento | Racing vs Danubio [ESP] | 14:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Pe_arol_vs_Defensor_Sporting__ESP____17_00_1">
     <display-name>Evento | Peñarol vs Defensor Sporting [ESP] | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Cartagin_s_vs_San_Carlos__ESP____12_00_1">
-    <display-name>Evento | Cartaginés vs San Carlos [ESP] | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Municipal_Liberia_vs_Alajuelense__ESP____20_00_1">
     <display-name>Evento | Municipal Liberia vs Alajuelense [ESP] | 20:00</display-name>
@@ -139369,15 +139354,6 @@
   </channel>
   <channel id="Evento_LigaMX__Pachuca_vs_Guadalajara__ESP____19_00___Evento_LigaMX_1">
     <display-name>Pachuca vs Guadalajara [ESP] | 19:00 | Evento LigaMX</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Patriot_League__Bucknell_vs_Lehigh__ENG____15_00_1">
-    <display-name>Evento | Patriot League: Bucknell vs Lehigh [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Volleyball__Washington_St_vs_Oregon_State__ENG____15_00_1">
-    <display-name>Evento | Volleyball: Washington St vs Oregon State [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Hockey__Yale_vs_Dartmouth__ENG____16_00_1">
-    <display-name>Evento | Hockey: Yale vs Dartmouth [ENG] | 16:00</display-name>
   </channel>
   <programme start="20251102000000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Charros_de_Jalisco_vs_Naranjeros_De_Hermosillo__ESP____18_00_1">
     <title>Próximamente | 18:00 | Charros de Jalisco vs Naranjeros De Hermosillo [ESP]</title>
@@ -139784,15 +139760,6 @@
   <programme start="20251102183000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Coquimbo_Unido_vs_Uni_n_La_Calera__ESP____15_30_1">
     <title>Finalizado | Coquimbo Unido vs Unión La Calera [ESP]</title>
   </programme>
-  <programme start="20251102000000 -0600" stop="20251102153000 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_O_Higgins__ESP____15_30_1">
-    <title>Próximamente | 15:30 | Universidad Católica vs O'Higgins [ESP]</title>
-  </programme>
-  <programme start="20251102153000 -0600" stop="20251102183000 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_O_Higgins__ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | Universidad Católica vs O'Higgins [ESP]</title>
-  </programme>
-  <programme start="20251102183000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_O_Higgins__ESP____15_30_1">
-    <title>Finalizado | Universidad Católica vs O'Higgins [ESP]</title>
-  </programme>
   <programme start="20251102000000 -0600" stop="20251102183000 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
     <title>Próximamente | 18:30 | Everton vs Unión Española [ESP]</title>
   </programme>
@@ -139802,15 +139769,6 @@
   <programme start="20251102213000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
     <title>Finalizado | Everton vs Unión Española [ESP]</title>
   </programme>
-  <programme start="20251102000000 -0600" stop="20251102153000 -0600" channel="EVENTOS_VIP__Evento___Macar__vs_Emelec__ESP____15_30_1">
-    <title>Próximamente | 15:30 | Macará vs Emelec [ESP]</title>
-  </programme>
-  <programme start="20251102153000 -0600" stop="20251102183000 -0600" channel="EVENTOS_VIP__Evento___Macar__vs_Emelec__ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | Macará vs Emelec [ESP]</title>
-  </programme>
-  <programme start="20251102183000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Macar__vs_Emelec__ESP____15_30_1">
-    <title>Finalizado | Macará vs Emelec [ESP]</title>
-  </programme>
   <programme start="20251102000000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
     <title>Próximamente | 18:00 | Universidad Católica vs Barcelona [ESP]</title>
   </programme>
@@ -139819,15 +139777,6 @@
   </programme>
   <programme start="20251102210000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
     <title>Finalizado | Universidad Católica vs Barcelona [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102151500 -0600" channel="EVENTOS_VIP__Evento___Atl_tico_Grau_vs_Alianza_Atl_tico__ESP____15_15_1">
-    <title>Próximamente | 15:15 | Atlético Grau vs Alianza Atlético [ESP]</title>
-  </programme>
-  <programme start="20251102151500 -0600" stop="20251102181500 -0600" channel="EVENTOS_VIP__Evento___Atl_tico_Grau_vs_Alianza_Atl_tico__ESP____15_15_1">
-    <title>⌾ En vivo | 15:15 | Atlético Grau vs Alianza Atlético [ESP]</title>
-  </programme>
-  <programme start="20251102181500 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Atl_tico_Grau_vs_Alianza_Atl_tico__ESP____15_15_1">
-    <title>Finalizado | Atlético Grau vs Alianza Atlético [ESP]</title>
   </programme>
   <programme start="20251102000000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Sport_Boys_vs_UTC_Cajamarca__ESP____18_00_1">
     <title>Próximamente | 18:00 | Sport Boys vs UTC Cajamarca [ESP]</title>
@@ -139847,15 +139796,6 @@
   <programme start="20251102210000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Cienciano_vs_Juan_Pablo_II_College__ESP____18_00_1">
     <title>Finalizado | Cienciano vs Juan Pablo II College [ESP]</title>
   </programme>
-  <programme start="20251102000000 -0600" stop="20251102143000 -0600" channel="EVENTOS_VIP__Evento___Racing_vs_Danubio__ESP____14_30_1">
-    <title>Próximamente | 14:30 | Racing vs Danubio [ESP]</title>
-  </programme>
-  <programme start="20251102143000 -0600" stop="20251102173000 -0600" channel="EVENTOS_VIP__Evento___Racing_vs_Danubio__ESP____14_30_1">
-    <title>⌾ En vivo | 14:30 | Racing vs Danubio [ESP]</title>
-  </programme>
-  <programme start="20251102173000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Racing_vs_Danubio__ESP____14_30_1">
-    <title>Finalizado | Racing vs Danubio [ESP]</title>
-  </programme>
   <programme start="20251102000000 -0600" stop="20251102170000 -0600" channel="EVENTOS_VIP__Evento___Pe_arol_vs_Defensor_Sporting__ESP____17_00_1">
     <title>Próximamente | 17:00 | Peñarol vs Defensor Sporting [ESP]</title>
   </programme>
@@ -139864,15 +139804,6 @@
   </programme>
   <programme start="20251102200000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Pe_arol_vs_Defensor_Sporting__ESP____17_00_1">
     <title>Finalizado | Peñarol vs Defensor Sporting [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102120000 -0600" channel="EVENTOS_VIP__Evento___Cartagin_s_vs_San_Carlos__ESP____12_00_1">
-    <title>Próximamente | 12:00 | Cartaginés vs San Carlos [ESP]</title>
-  </programme>
-  <programme start="20251102120000 -0600" stop="20251102150000 -0600" channel="EVENTOS_VIP__Evento___Cartagin_s_vs_San_Carlos__ESP____12_00_1">
-    <title>⌾ En vivo | 12:00 | Cartaginés vs San Carlos [ESP]</title>
-  </programme>
-  <programme start="20251102150000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Cartagin_s_vs_San_Carlos__ESP____12_00_1">
-    <title>Finalizado | Cartaginés vs San Carlos [ESP]</title>
   </programme>
   <programme start="20251102000000 -0600" stop="20251102200000 -0600" channel="EVENTOS_VIP__Evento___Municipal_Liberia_vs_Alajuelense__ESP____20_00_1">
     <title>Próximamente | 20:00 | Municipal Liberia vs Alajuelense [ESP]</title>
@@ -139936,33 +139867,6 @@
   </programme>
   <programme start="20251102220000 -0600" stop="20251102235959 -0600" channel="Evento_LigaMX__Pachuca_vs_Guadalajara__ESP____19_00___Evento_LigaMX_1">
     <title>Finalizado | Pachuca vs Guadalajara [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102150000 -0600" channel="EVENTOS_VIP__Evento___Patriot_League__Bucknell_vs_Lehigh__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Patriot League: Bucknell vs Lehigh [ENG]</title>
-  </programme>
-  <programme start="20251102150000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Patriot_League__Bucknell_vs_Lehigh__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Patriot League: Bucknell vs Lehigh [ENG]</title>
-  </programme>
-  <programme start="20251102180000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Patriot_League__Bucknell_vs_Lehigh__ENG____15_00_1">
-    <title>Finalizado | Patriot League: Bucknell vs Lehigh [ENG]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102150000 -0600" channel="EVENTOS_VIP__Evento___Volleyball__Washington_St_vs_Oregon_State__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Volleyball: Washington St vs Oregon State [ENG]</title>
-  </programme>
-  <programme start="20251102150000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Volleyball__Washington_St_vs_Oregon_State__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Volleyball: Washington St vs Oregon State [ENG]</title>
-  </programme>
-  <programme start="20251102180000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Volleyball__Washington_St_vs_Oregon_State__ENG____15_00_1">
-    <title>Finalizado | Volleyball: Washington St vs Oregon State [ENG]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102160000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Yale_vs_Dartmouth__ENG____16_00_1">
-    <title>Próximamente | 16:00 | Hockey: Yale vs Dartmouth [ENG]</title>
-  </programme>
-  <programme start="20251102160000 -0600" stop="20251102190000 -0600" channel="EVENTOS_VIP__Evento___Hockey__Yale_vs_Dartmouth__ENG____16_00_1">
-    <title>⌾ En vivo | 16:00 | Hockey: Yale vs Dartmouth [ENG]</title>
-  </programme>
-  <programme start="20251102190000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Hockey__Yale_vs_Dartmouth__ENG____16_00_1">
-    <title>Finalizado | Hockey: Yale vs Dartmouth [ENG]</title>
   </programme>
 </tv>
 
