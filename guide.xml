@@ -139184,21 +139184,6 @@
     <desc>Cuatro músicos famosos en búsqueda de las mejores voces de America y serán mentores de estos cantantes para convertirse en artistas. America decidirá que cantante será digno del gran premio.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento___Charros_de_Jalisco_vs_Naranjeros_De_Hermosillo__ESP____18_00_1">
-    <display-name>Evento | Charros de Jalisco vs Naranjeros De Hermosillo [ESP] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Tucson_vs_Ca_eros_de_los_Mochis__ESP____19_00_1">
-    <display-name>Evento | Tucson vs Cañeros de los Mochis [ESP] | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Algodoneros_De_Guasave_vs_Venados_De_Mazatlan__ESP____19_00_1">
-    <display-name>Evento | Algodoneros De Guasave vs Venados De Mazatlan [ESP] | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Aguilas_De_Mexicali_vs_Jaguares_de_Nayarit__ESP____19_00_1">
-    <display-name>Evento | Aguilas De Mexicali vs Jaguares de Nayarit [ESP] | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Tomateros_De_Culiacan_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_05_1">
-    <display-name>Evento | Tomateros De Culiacan vs Yaquis De Ciudad Obregón [ESP] | 19:05</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___New_York_Islanders_vs_Columbus_Blue_Jackets__ENG____17_00_1">
     <display-name>Evento | New York Islanders vs Columbus Blue Jackets [ENG] | 17:00</display-name>
   </channel>
@@ -139231,9 +139216,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Los_Angeles_Lakers_vs_Miami_Heat__ENG____21_30_1">
     <display-name>Evento | Los Angeles Lakers vs Miami Heat [ENG] | 21:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Columbus_Crew_vs_Cincinnati__ENG____18_30_1">
-    <display-name>Evento | Columbus Crew vs Cincinnati [ENG] | 18:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento___Austin_vs_Los_Angeles_FC__ENG____20_45_1">
     <display-name>Evento | Austin vs Los Angeles FC [ENG] | 20:45</display-name>
@@ -139277,12 +139259,6 @@
   <channel id="EVENTOS_VIP__Evento___Vasco_da_Gama_vs_S_o_Paulo___16_30_1">
     <display-name>Evento | Vasco da Gama vs São Paulo | 16:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
-    <display-name>Evento | Everton vs Unión Española [ESP] | 18:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
-    <display-name>Evento | Universidad Católica vs Barcelona [ESP] | 18:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento___Sport_Boys_vs_UTC_Cajamarca__ESP____18_00_1">
     <display-name>Evento | Sport Boys vs UTC Cajamarca [ESP] | 18:00</display-name>
   </channel>
@@ -139307,57 +139283,6 @@
   <channel id="Evento_LigaMX__Pumas_UNAM_vs_Tijuana__ESP____12_00___Evento_LigaMX_1">
     <display-name>Pumas UNAM vs Tijuana [ESP] | 12:00 | Evento LigaMX</display-name>
   </channel>
-  <channel id="Evento_LigaMX__Quer_taro_vs_Mazatl_n__ESP____17_00___Evento_LigaMX_1">
-    <display-name>Querétaro vs Mazatlán [ESP] | 17:00 | Evento LigaMX</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__Pachuca_vs_Guadalajara__ESP____19_00___Evento_LigaMX_1">
-    <display-name>Pachuca vs Guadalajara [ESP] | 19:00 | Evento LigaMX</display-name>
-  </channel>
-  <programme start="20251102000000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Charros_de_Jalisco_vs_Naranjeros_De_Hermosillo__ESP____18_00_1">
-    <title>Próximamente | 18:00 | Charros de Jalisco vs Naranjeros De Hermosillo [ESP]</title>
-  </programme>
-  <programme start="20251102180000 -0600" stop="20251102210000 -0600" channel="EVENTOS_VIP__Evento___Charros_de_Jalisco_vs_Naranjeros_De_Hermosillo__ESP____18_00_1">
-    <title>⌾ En vivo | 18:00 | Charros de Jalisco vs Naranjeros De Hermosillo [ESP]</title>
-  </programme>
-  <programme start="20251102210000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Charros_de_Jalisco_vs_Naranjeros_De_Hermosillo__ESP____18_00_1">
-    <title>Finalizado | Charros de Jalisco vs Naranjeros De Hermosillo [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102190000 -0600" channel="EVENTOS_VIP__Evento___Tucson_vs_Ca_eros_de_los_Mochis__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Tucson vs Cañeros de los Mochis [ESP]</title>
-  </programme>
-  <programme start="20251102190000 -0600" stop="20251102220000 -0600" channel="EVENTOS_VIP__Evento___Tucson_vs_Ca_eros_de_los_Mochis__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Tucson vs Cañeros de los Mochis [ESP]</title>
-  </programme>
-  <programme start="20251102220000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Tucson_vs_Ca_eros_de_los_Mochis__ESP____19_00_1">
-    <title>Finalizado | Tucson vs Cañeros de los Mochis [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102190000 -0600" channel="EVENTOS_VIP__Evento___Algodoneros_De_Guasave_vs_Venados_De_Mazatlan__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Algodoneros De Guasave vs Venados De Mazatlan [ESP]</title>
-  </programme>
-  <programme start="20251102190000 -0600" stop="20251102220000 -0600" channel="EVENTOS_VIP__Evento___Algodoneros_De_Guasave_vs_Venados_De_Mazatlan__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Algodoneros De Guasave vs Venados De Mazatlan [ESP]</title>
-  </programme>
-  <programme start="20251102220000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Algodoneros_De_Guasave_vs_Venados_De_Mazatlan__ESP____19_00_1">
-    <title>Finalizado | Algodoneros De Guasave vs Venados De Mazatlan [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102190000 -0600" channel="EVENTOS_VIP__Evento___Aguilas_De_Mexicali_vs_Jaguares_de_Nayarit__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Aguilas De Mexicali vs Jaguares de Nayarit [ESP]</title>
-  </programme>
-  <programme start="20251102190000 -0600" stop="20251102220000 -0600" channel="EVENTOS_VIP__Evento___Aguilas_De_Mexicali_vs_Jaguares_de_Nayarit__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Aguilas De Mexicali vs Jaguares de Nayarit [ESP]</title>
-  </programme>
-  <programme start="20251102220000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Aguilas_De_Mexicali_vs_Jaguares_de_Nayarit__ESP____19_00_1">
-    <title>Finalizado | Aguilas De Mexicali vs Jaguares de Nayarit [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102190500 -0600" channel="EVENTOS_VIP__Evento___Tomateros_De_Culiacan_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_05_1">
-    <title>Próximamente | 19:05 | Tomateros De Culiacan vs Yaquis De Ciudad Obregón [ESP]</title>
-  </programme>
-  <programme start="20251102190500 -0600" stop="20251102220500 -0600" channel="EVENTOS_VIP__Evento___Tomateros_De_Culiacan_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_05_1">
-    <title>⌾ En vivo | 19:05 | Tomateros De Culiacan vs Yaquis De Ciudad Obregón [ESP]</title>
-  </programme>
-  <programme start="20251102220500 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Tomateros_De_Culiacan_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_05_1">
-    <title>Finalizado | Tomateros De Culiacan vs Yaquis De Ciudad Obregón [ESP]</title>
-  </programme>
   <programme start="20251102000000 -0600" stop="20251102170000 -0600" channel="EVENTOS_VIP__Evento___New_York_Islanders_vs_Columbus_Blue_Jackets__ENG____17_00_1">
     <title>Próximamente | 17:00 | New York Islanders vs Columbus Blue Jackets [ENG]</title>
   </programme>
@@ -139456,15 +139381,6 @@
   </programme>
   <programme start="20251103003000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Los_Angeles_Lakers_vs_Miami_Heat__ENG____21_30_1">
     <title>Finalizado | Los Angeles Lakers vs Miami Heat [ENG]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102183000 -0600" channel="EVENTOS_VIP__Evento___Columbus_Crew_vs_Cincinnati__ENG____18_30_1">
-    <title>Próximamente | 18:30 | Columbus Crew vs Cincinnati [ENG]</title>
-  </programme>
-  <programme start="20251102183000 -0600" stop="20251102213000 -0600" channel="EVENTOS_VIP__Evento___Columbus_Crew_vs_Cincinnati__ENG____18_30_1">
-    <title>⌾ En vivo | 18:30 | Columbus Crew vs Cincinnati [ENG]</title>
-  </programme>
-  <programme start="20251102213000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Columbus_Crew_vs_Cincinnati__ENG____18_30_1">
-    <title>Finalizado | Columbus Crew vs Cincinnati [ENG]</title>
   </programme>
   <programme start="20251102000000 -0600" stop="20251102204500 -0600" channel="EVENTOS_VIP__Evento___Austin_vs_Los_Angeles_FC__ENG____20_45_1">
     <title>Próximamente | 20:45 | Austin vs Los Angeles FC [ENG]</title>
@@ -139592,24 +139508,6 @@
   <programme start="20251102193000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Vasco_da_Gama_vs_S_o_Paulo___16_30_1">
     <title>Finalizado | Vasco da Gama vs São Paulo</title>
   </programme>
-  <programme start="20251102000000 -0600" stop="20251102183000 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
-    <title>Próximamente | 18:30 | Everton vs Unión Española [ESP]</title>
-  </programme>
-  <programme start="20251102183000 -0600" stop="20251102213000 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
-    <title>⌾ En vivo | 18:30 | Everton vs Unión Española [ESP]</title>
-  </programme>
-  <programme start="20251102213000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Everton_vs_Uni_n_Espa_ola__ESP____18_30_1">
-    <title>Finalizado | Everton vs Unión Española [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
-    <title>Próximamente | 18:00 | Universidad Católica vs Barcelona [ESP]</title>
-  </programme>
-  <programme start="20251102180000 -0600" stop="20251102210000 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
-    <title>⌾ En vivo | 18:00 | Universidad Católica vs Barcelona [ESP]</title>
-  </programme>
-  <programme start="20251102210000 -0600" stop="20251102235959 -0600" channel="EVENTOS_VIP__Evento___Universidad_Cat_lica_vs_Barcelona__ESP____18_00_1">
-    <title>Finalizado | Universidad Católica vs Barcelona [ESP]</title>
-  </programme>
   <programme start="20251102000000 -0600" stop="20251102180000 -0600" channel="EVENTOS_VIP__Evento___Sport_Boys_vs_UTC_Cajamarca__ESP____18_00_1">
     <title>Próximamente | 18:00 | Sport Boys vs UTC Cajamarca [ESP]</title>
   </programme>
@@ -139681,24 +139579,6 @@
   </programme>
   <programme start="20251102150000 -0600" stop="20251102235959 -0600" channel="Evento_LigaMX__Pumas_UNAM_vs_Tijuana__ESP____12_00___Evento_LigaMX_1">
     <title>Finalizado | Pumas UNAM vs Tijuana [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102170000 -0600" channel="Evento_LigaMX__Quer_taro_vs_Mazatl_n__ESP____17_00___Evento_LigaMX_1">
-    <title>Próximamente | 17:00 | Querétaro vs Mazatlán [ESP]</title>
-  </programme>
-  <programme start="20251102170000 -0600" stop="20251102200000 -0600" channel="Evento_LigaMX__Quer_taro_vs_Mazatl_n__ESP____17_00___Evento_LigaMX_1">
-    <title>⌾ En vivo | 17:00 | Querétaro vs Mazatlán [ESP]</title>
-  </programme>
-  <programme start="20251102200000 -0600" stop="20251102235959 -0600" channel="Evento_LigaMX__Quer_taro_vs_Mazatl_n__ESP____17_00___Evento_LigaMX_1">
-    <title>Finalizado | Querétaro vs Mazatlán [ESP]</title>
-  </programme>
-  <programme start="20251102000000 -0600" stop="20251102190000 -0600" channel="Evento_LigaMX__Pachuca_vs_Guadalajara__ESP____19_00___Evento_LigaMX_1">
-    <title>Próximamente | 19:00 | Pachuca vs Guadalajara [ESP]</title>
-  </programme>
-  <programme start="20251102190000 -0600" stop="20251102220000 -0600" channel="Evento_LigaMX__Pachuca_vs_Guadalajara__ESP____19_00___Evento_LigaMX_1">
-    <title>⌾ En vivo | 19:00 | Pachuca vs Guadalajara [ESP]</title>
-  </programme>
-  <programme start="20251102220000 -0600" stop="20251102235959 -0600" channel="Evento_LigaMX__Pachuca_vs_Guadalajara__ESP____19_00___Evento_LigaMX_1">
-    <title>Finalizado | Pachuca vs Guadalajara [ESP]</title>
   </programme>
 </tv>
 
