@@ -138896,14 +138896,8 @@
   <channel id="EVENTOS_VIP__Evento_____Liverpool_U19_vs_Real_Madrid_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
     <display-name>Evento | ◄ Liverpool U19 vs Real Madrid U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 10:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
-    <display-name>Evento | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 10:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
     <display-name>Evento | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG] | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
-    <display-name>Evento | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG] | 07:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Mexico_vs_Korea_Republic___World_Cup_U17___ENG_HD____ENG____08_00_1">
     <display-name>Evento | ◄ Mexico vs Korea Republic ► World Cup U17 ► ENG-HD ◄ [ENG] | 08:00</display-name>
@@ -138916,9 +138910,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____England_vs_Venezuela___World_Cup_U17___ENG_HD____ENG____10_15_1">
     <display-name>Evento | ◄ England vs Venezuela ► World Cup U17 ► ENG-HD ◄ [ENG] | 10:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
-    <display-name>Evento | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG] | 10:45</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Korea_DPR_vs_El_Salvador___World_Cup_U17___ENG_HD____ENG____10_45_1">
     <display-name>Evento | ◄ Korea DPR vs El Salvador ► World Cup U17 ► ENG-HD ◄ [ENG] | 10:45</display-name>
@@ -139382,15 +139373,6 @@
   <programme start="20251104190000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Liverpool_U19_vs_Real_Madrid_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
     <title>Finalizado | ◄ Liverpool U19 vs Real Madrid U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
   </programme>
-  <programme start="20251104060000" stop="20251104160000" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
-    <title>Próximamente | 10:00 | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104160000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
-    <title>⌾ En vivo | 10:00 | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104190000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
-    <title>Finalizado | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
-  </programme>
   <programme start="20251104060000" stop="20251104133000" channel="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
     <title>Próximamente | 07:30 | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG]</title>
   </programme>
@@ -139399,15 +139381,6 @@
   </programme>
   <programme start="20251104163000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
     <title>Finalizado | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104060000" stop="20251104133000" channel="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
-    <title>Próximamente | 07:30 | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104133000" stop="20251104163000" channel="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104163000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
-    <title>Finalizado | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
   </programme>
   <programme start="20251104060000" stop="20251104140000" channel="EVENTOS_VIP__Evento_____Mexico_vs_Korea_Republic___World_Cup_U17___ENG_HD____ENG____08_00_1">
     <title>Próximamente | 08:00 | ◄ Mexico vs Korea Republic ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
@@ -139444,15 +139417,6 @@
   </programme>
   <programme start="20251104191500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____England_vs_Venezuela___World_Cup_U17___ENG_HD____ENG____10_15_1">
     <title>Finalizado | ◄ England vs Venezuela ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104060000" stop="20251104164500" channel="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
-    <title>Próximamente | 10:45 | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104164500" stop="20251104194500" channel="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
-    <title>⌾ En vivo | 10:45 | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251104194500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
-    <title>Finalizado | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
   </programme>
   <programme start="20251104060000" stop="20251104164500" channel="EVENTOS_VIP__Evento_____Korea_DPR_vs_El_Salvador___World_Cup_U17___ENG_HD____ENG____10_45_1">
     <title>Próximamente | 10:45 | ◄ Korea DPR vs El Salvador ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
