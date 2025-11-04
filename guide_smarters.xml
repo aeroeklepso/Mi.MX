@@ -138758,41 +138758,845 @@
     <desc>Todd y Savannah chocan entre sí mientras planean un desfile de modas para caridad.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento___Seattle_Kraken_vs_Chicago_Blackhawks__ENG____22_00_1">
-    <display-name>Evento | Seattle Kraken vs Chicago Blackhawks [ENG] | 22:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____Venados_De_Mazatlan_vs_Aguilas_De_Mexicali___LMP___ESP_HD____ESP____21_00_1">
+    <display-name>Evento | ◄ Venados De Mazatlan vs Aguilas De Mexicali ► LMP ► ESP-HD ◄ [ESP] | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Portland_Trail_Blazers_vs_Los_Angeles_Lakers__ENG____22_00_1">
-    <display-name>Evento | Portland Trail Blazers vs Los Angeles Lakers [ENG] | 22:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____Yaquis_De_Ciudad_Obreg_n_vs_Charros_de_Jalisco___LMP___ESP_HD____ESP____21_10_1">
+    <display-name>Evento | ◄ Yaquis De Ciudad Obregón vs Charros de Jalisco ► LMP ► ESP-HD ◄ [ESP] | 21:10</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento___Los_Angeles_Clippers_vs_Miami_Heat__ENG____22_30_1">
-    <display-name>Evento | Los Angeles Clippers vs Miami Heat [ENG] | 22:30</display-name>
+  <channel id="EVENTOS_VIP__Evento_____Naranjeros_De_Hermosillo_vs_Algodoneros_De_Guasave___LMP___ESP_HD____ESP____21_30_1">
+    <display-name>Evento | ◄ Naranjeros De Hermosillo vs Algodoneros De Guasave ► LMP ► ESP-HD ◄ [ESP] | 21:30</display-name>
   </channel>
-  <programme start="20251104060000" stop="20251105040000" channel="EVENTOS_VIP__Evento___Seattle_Kraken_vs_Chicago_Blackhawks__ENG____22_00_1">
-    <title>Próximamente | 22:00 | Seattle Kraken vs Chicago Blackhawks [ENG]</title>
+  <channel id="EVENTOS_VIP__Evento_____Jaguares_de_Nayarit_vs_Tucson___LMP___ESP_HD____ESP____21_30_1">
+    <display-name>Evento | ◄ Jaguares de Nayarit vs Tucson ► LMP ► ESP-HD ◄ [ESP] | 21:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Tomateros_De_Culiacan___LMP___ESP_HD____ESP____21_30_1">
+    <display-name>Evento | ◄ Cañeros de los Mochis vs Tomateros De Culiacan ► LMP ► ESP-HD ◄ [ESP] | 21:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____New_York_Rangers_vs_Carolina_Hurricanes___NHL___ENG_HD____ENG____19_00_1">
+    <display-name>Evento | ◄ New York Rangers vs Carolina Hurricanes ► NHL ► ENG-HD ◄ [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Montreal_Canadiens_vs_Philadelphia_Flyers___NHL___ENG_HD____ENG____19_00_1">
+    <display-name>Evento | ◄ Montreal Canadiens vs Philadelphia Flyers ► NHL ► ENG-HD ◄ [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____New_York_Islanders_vs_Boston_Bruins___NHL___ENG_HD____ENG____19_00_1">
+    <display-name>Evento | ◄ New York Islanders vs Boston Bruins ► NHL ► ENG-HD ◄ [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Buffalo_Sabres_vs_Utah_Mammoth___NHL___ENG_HD____ENG____19_00_1">
+    <display-name>Evento | ◄ Buffalo Sabres vs Utah Mammoth ► NHL ► ENG-HD ◄ [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Dallas_Stars_vs_Edmonton_Oilers___NHL___ENG_HD____ENG____20_00_1">
+    <display-name>Evento | ◄ Dallas Stars vs Edmonton Oilers ► NHL ► ENG-HD ◄ [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Minnesota_Wild_vs_Nashville_Predators___NHL___ENG_HD____ENG____20_00_1">
+    <display-name>Evento | ◄ Minnesota Wild vs Nashville Predators ► NHL ► ENG-HD ◄ [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Colorado_Avalanche_vs_Tampa_Bay_Lightning___NHL___ENG_HD____ENG____21_30_1">
+    <display-name>Evento | ◄ Colorado Avalanche vs Tampa Bay Lightning ► NHL ► ENG-HD ◄ [ENG] | 21:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Vegas_Golden_Knights_vs_Detroit_Red_Wings___NHL___ENG_HD__ENG____22_00_1">
+    <display-name>Evento | ◄ Vegas Golden Knights vs Detroit Red Wings ► NHL ► ENG-HD [ENG] | 22:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Anaheim_Ducks_vs_Florida_Panthers___NHL___ENG_HD____ENG____22_00_1">
+    <display-name>Evento | ◄ Anaheim Ducks vs Florida Panthers ► NHL ► ENG-HD ◄ [ENG] | 22:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Los_Angeles_Kings_vs_Winnipeg_Jets___NHL___ENG_HD____ENG____22_30_1">
+    <display-name>Evento | ◄ Los Angeles Kings vs Winnipeg Jets ► NHL ► ENG-HD ◄ [ENG] | 22:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Toronto_Raptors_vs_Milwaukee_Bucks___NBA___ENG_HD____ENG____19_40_1">
+    <display-name>Evento | ◄ Toronto Raptors vs Milwaukee Bucks ► NBA ► ENG-HD ◄ [ENG] | 19:40</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____New_Orleans_Pelicans_vs_Charlotte_Hornets___NBA___ENG_HD____ENG____20_00_1">
+    <display-name>Evento | ◄ New Orleans Pelicans vs Charlotte Hornets ► NBA ► ENG-HD ◄ [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Atlanta_Hawks_vs_Orlando_Magic___NBA___ENG_HD____ENG____20_00_1">
+    <display-name>Evento | ◄ Atlanta Hawks vs Orlando Magic ► NBA ► ENG-HD ◄ [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Chicago_Bulls_vs_Philadelphia_76ers___NBA___ENG_HD____ENG____20_00_1">
+    <display-name>Evento | ◄ Chicago Bulls vs Philadelphia 76ers ► NBA ► ENG-HD ◄ [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Golden_State_Warriors_vs_Phoenix_Suns___NBA___ENG_HD____ENG____22_00_1">
+    <display-name>Evento | ◄ Golden State Warriors vs Phoenix Suns ► NBA ► ENG-HD ◄ [ENG] | 22:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA___ENG_HD____ENG____23_00_1">
+    <display-name>Evento | ◄ Los Angeles Clippers vs Oklahoma City Thunder ► NBA ► ENG-HD ◄ [ENG] | 23:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <display-name>Evento | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ [ESP] | 12:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD___mx__ESP____12_45_1">
+    <display-name>Evento | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ mx [ESP] | 12:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <display-name>Evento | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP] | 12:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_2">
+    <display-name>Evento | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP] | 12:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <display-name>Evento | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ mx [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Tottenham_Hotspur_vs_K_benhavn___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Tottenham Hotspur vs København ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <display-name>Evento | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ mx [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <display-name>Evento | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-FHD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <display-name>Evento | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ mx [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <display-name>Evento | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ mx [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <display-name>Evento | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-FHD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Bod____Glimt_vs_Monaco___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Bodø / Glimt vs Monaco ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_vs_PSV___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Olympiakos Piraeus vs PSV ► UEFA Champions ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Coventry_City_vs_Sheffield_United___Championship___ESP_HD____ESP____15_00_1">
+    <display-name>Evento | ◄ Coventry City vs Sheffield United ► Championship ► ESP-HD ◄ [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Valencia_vs_Espanyol___Copa_de_La_Reina___ESP_HD____ESP____13_00_1">
+    <display-name>Evento | ◄ Valencia vs Espanyol ► Copa de La Reina ► ESP-HD ◄ [ESP] | 13:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Ahli___AFC_Champions_League_Elite___PORT_HD_____11_00_1">
+    <display-name>Evento | ◄ Al Sadd vs Al-Ahli ► AFC Champions League Elite ► PORT-HD ◄ | 11:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Al_Ittihad_vs_Al_Sharjah___AFC_Champions_League_Elite___PORT_HD_____13_15_1">
+    <display-name>Evento | ◄ Al Ittihad vs Al Sharjah ► AFC Champions League Elite ► PORT-HD ◄ | 13:15</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PSG_U19_vs_Bayern_U19___UEFA_Youth_League___ENG_HD____ENG____08_00_1">
+    <display-name>Evento | ◄ PSG U19 vs Bayern U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 08:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Juventus_U19_vs_Sporting_CP_U19___UEFA_Youth_League___ENG_HD____ENG____09_00_1">
+    <display-name>Evento | ◄ Juventus U19 vs Sporting CP U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 09:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Atl_tico_Madrid_U19_vs_R__Union_SG_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <display-name>Evento | ◄ Atlético Madrid U19 vs R. Union SG U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 10:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Liverpool_U19_vs_Real_Madrid_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <display-name>Evento | ◄ Liverpool U19 vs Real Madrid U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 10:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <display-name>Evento | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG] | 10:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
+    <display-name>Evento | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG] | 07:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
+    <display-name>Evento | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG] | 07:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Mexico_vs_Korea_Republic___World_Cup_U17___ENG_HD____ENG____08_00_1">
+    <display-name>Evento | ◄ Mexico vs Korea Republic ► World Cup U17 ► ENG-HD ◄ [ENG] | 08:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Haiti_vs_Egypt____World_Cup_U17___ENG_HD____ENG____08_30_1">
+    <display-name>Evento | ◄ Haiti vs Egypt  ► World Cup U17 ► ENG-HD ◄ [ENG] | 08:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Germany_vs_Colombia___World_Cup_U17___ENG_HD____ENG____09_45_1">
+    <display-name>Evento | ◄ Germany vs Colombia ► World Cup U17 ► ENG-HD ◄ [ENG] | 09:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____England_vs_Venezuela___World_Cup_U17___ENG_HD____ENG____10_15_1">
+    <display-name>Evento | ◄ England vs Venezuela ► World Cup U17 ► ENG-HD ◄ [ENG] | 10:15</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <display-name>Evento | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG] | 10:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Korea_DPR_vs_El_Salvador___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <display-name>Evento | ◄ Korea DPR vs El Salvador ► World Cup U17 ► ENG-HD ◄ [ENG] | 10:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LDU_Quito_vs_Orense___Liga_Pro___ESP_HD____ESP____19_00_1">
+    <display-name>Evento | ◄ LDU Quito vs Orense ► Liga Pro ► ESP-HD ◄ [ESP] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Bowling_Green_vs_Miami_OH___ESP_HD____ESP____13_00_1">
+    <display-name>Evento | ► NCAA Soccer ◄ Bowling Green vs Miami OH ► ESP-HD ◄ [ESP] | 13:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Navy_vs_American___ESP_HD____ESP____13_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Navy vs American ► ESP-HD ◄ [ESP] | 13:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Detroit_Mercy_vs_Milwaukee___ESP_HD____ESP____14_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Detroit Mercy vs Milwaukee ► ESP-HD ◄ [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Green_Bay_vs_Cleveland_St___ESP_HD____ESP____14_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Green Bay vs Cleveland St ► ESP-HD ◄ [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___IU_Indy_vs_Oakland___ESP_HD____ESP____14_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► IU Indy vs Oakland ► ESP-HD ◄ [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___N_Kentucky_vs_Purdue_FW___ESP_HD____ESP____14_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► N Kentucky vs Purdue FW ► ESP-HD ◄ [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Ball_State_vs_W_Michigan___ESP_HD____ESP____16_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Ball State vs W Michigan ► ESP-HD ◄ [ESP] | 16:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Colgate_vs_Army___ESP_HD____ESP____18_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Colgate vs Army ► ESP-HD ◄ [ESP] | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Holy_Cross_vs_Boston_U___ESP_HD____ESP____18_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Holy Cross vs Boston U ► ESP-HD ◄ [ESP] | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Lafayette_vs_Lehigh___ESP_HD____ESP____18_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Lafayette vs Lehigh ► ESP-HD ◄ [ESP] | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Loyola_MD_vs_Bucknell___ESP_HD____ESP____18_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► Loyola MD vs Bucknell ► ESP-HD ◄ [ESP] | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___UMBC_vs_NJIT___ESP_HD____ESP____18_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► UMBC vs NJIT ► ESP-HD ◄ [ESP] | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___GA_Southern_vs_Georgia_St___ESP_HD____ESP____19_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► GA Southern vs Georgia St ► ESP-HD ◄ [ESP] | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___James_Madison_vs_Coastal___ESP_HD____ESP____19_00_1">
+    <display-name>Evento | ◄ NCAA Soccer ► James Madison vs Coastal ► ESP-HD ◄ [ESP] | 19:00</display-name>
+  </channel>
+  <programme start="20251104060000" stop="20251105030000" channel="EVENTOS_VIP__Evento_____Venados_De_Mazatlan_vs_Aguilas_De_Mexicali___LMP___ESP_HD____ESP____21_00_1">
+    <title>Próximamente | 21:00 | ◄ Venados De Mazatlan vs Aguilas De Mexicali ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105040000" stop="20251105070000" channel="EVENTOS_VIP__Evento___Seattle_Kraken_vs_Chicago_Blackhawks__ENG____22_00_1">
-    <title>⌾ En vivo | 22:00 | Seattle Kraken vs Chicago Blackhawks [ENG]</title>
+  <programme start="20251105030000" stop="20251105060000" channel="EVENTOS_VIP__Evento_____Venados_De_Mazatlan_vs_Aguilas_De_Mexicali___LMP___ESP_HD____ESP____21_00_1">
+    <title>⌾ En vivo | 21:00 | ◄ Venados De Mazatlan vs Aguilas De Mexicali ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105070000" stop="20251105055959" channel="EVENTOS_VIP__Evento___Seattle_Kraken_vs_Chicago_Blackhawks__ENG____22_00_1">
-    <title>Finalizado | Seattle Kraken vs Chicago Blackhawks [ENG]</title>
+  <programme start="20251105060000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Venados_De_Mazatlan_vs_Aguilas_De_Mexicali___LMP___ESP_HD____ESP____21_00_1">
+    <title>Finalizado | ◄ Venados De Mazatlan vs Aguilas De Mexicali ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251104060000" stop="20251105040000" channel="EVENTOS_VIP__Evento___Portland_Trail_Blazers_vs_Los_Angeles_Lakers__ENG____22_00_1">
-    <title>Próximamente | 22:00 | Portland Trail Blazers vs Los Angeles Lakers [ENG]</title>
+  <programme start="20251104060000" stop="20251105031000" channel="EVENTOS_VIP__Evento_____Yaquis_De_Ciudad_Obreg_n_vs_Charros_de_Jalisco___LMP___ESP_HD____ESP____21_10_1">
+    <title>Próximamente | 21:10 | ◄ Yaquis De Ciudad Obregón vs Charros de Jalisco ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105040000" stop="20251105070000" channel="EVENTOS_VIP__Evento___Portland_Trail_Blazers_vs_Los_Angeles_Lakers__ENG____22_00_1">
-    <title>⌾ En vivo | 22:00 | Portland Trail Blazers vs Los Angeles Lakers [ENG]</title>
+  <programme start="20251105031000" stop="20251105061000" channel="EVENTOS_VIP__Evento_____Yaquis_De_Ciudad_Obreg_n_vs_Charros_de_Jalisco___LMP___ESP_HD____ESP____21_10_1">
+    <title>⌾ En vivo | 21:10 | ◄ Yaquis De Ciudad Obregón vs Charros de Jalisco ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105070000" stop="20251105055959" channel="EVENTOS_VIP__Evento___Portland_Trail_Blazers_vs_Los_Angeles_Lakers__ENG____22_00_1">
-    <title>Finalizado | Portland Trail Blazers vs Los Angeles Lakers [ENG]</title>
+  <programme start="20251105061000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Yaquis_De_Ciudad_Obreg_n_vs_Charros_de_Jalisco___LMP___ESP_HD____ESP____21_10_1">
+    <title>Finalizado | ◄ Yaquis De Ciudad Obregón vs Charros de Jalisco ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251104060000" stop="20251105043000" channel="EVENTOS_VIP__Evento___Los_Angeles_Clippers_vs_Miami_Heat__ENG____22_30_1">
-    <title>Próximamente | 22:30 | Los Angeles Clippers vs Miami Heat [ENG]</title>
+  <programme start="20251104060000" stop="20251105033000" channel="EVENTOS_VIP__Evento_____Naranjeros_De_Hermosillo_vs_Algodoneros_De_Guasave___LMP___ESP_HD____ESP____21_30_1">
+    <title>Próximamente | 21:30 | ◄ Naranjeros De Hermosillo vs Algodoneros De Guasave ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105043000" stop="20251105073000" channel="EVENTOS_VIP__Evento___Los_Angeles_Clippers_vs_Miami_Heat__ENG____22_30_1">
-    <title>⌾ En vivo | 22:30 | Los Angeles Clippers vs Miami Heat [ENG]</title>
+  <programme start="20251105033000" stop="20251105063000" channel="EVENTOS_VIP__Evento_____Naranjeros_De_Hermosillo_vs_Algodoneros_De_Guasave___LMP___ESP_HD____ESP____21_30_1">
+    <title>⌾ En vivo | 21:30 | ◄ Naranjeros De Hermosillo vs Algodoneros De Guasave ► LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105073000" stop="20251105055959" channel="EVENTOS_VIP__Evento___Los_Angeles_Clippers_vs_Miami_Heat__ENG____22_30_1">
-    <title>Finalizado | Los Angeles Clippers vs Miami Heat [ENG]</title>
+  <programme start="20251105063000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Naranjeros_De_Hermosillo_vs_Algodoneros_De_Guasave___LMP___ESP_HD____ESP____21_30_1">
+    <title>Finalizado | ◄ Naranjeros De Hermosillo vs Algodoneros De Guasave ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105033000" channel="EVENTOS_VIP__Evento_____Jaguares_de_Nayarit_vs_Tucson___LMP___ESP_HD____ESP____21_30_1">
+    <title>Próximamente | 21:30 | ◄ Jaguares de Nayarit vs Tucson ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105033000" stop="20251105063000" channel="EVENTOS_VIP__Evento_____Jaguares_de_Nayarit_vs_Tucson___LMP___ESP_HD____ESP____21_30_1">
+    <title>⌾ En vivo | 21:30 | ◄ Jaguares de Nayarit vs Tucson ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105063000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Jaguares_de_Nayarit_vs_Tucson___LMP___ESP_HD____ESP____21_30_1">
+    <title>Finalizado | ◄ Jaguares de Nayarit vs Tucson ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105033000" channel="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Tomateros_De_Culiacan___LMP___ESP_HD____ESP____21_30_1">
+    <title>Próximamente | 21:30 | ◄ Cañeros de los Mochis vs Tomateros De Culiacan ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105033000" stop="20251105063000" channel="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Tomateros_De_Culiacan___LMP___ESP_HD____ESP____21_30_1">
+    <title>⌾ En vivo | 21:30 | ◄ Cañeros de los Mochis vs Tomateros De Culiacan ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105063000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Tomateros_De_Culiacan___LMP___ESP_HD____ESP____21_30_1">
+    <title>Finalizado | ◄ Cañeros de los Mochis vs Tomateros De Culiacan ► LMP ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____New_York_Rangers_vs_Carolina_Hurricanes___NHL___ENG_HD____ENG____19_00_1">
+    <title>Próximamente | 19:00 | ◄ New York Rangers vs Carolina Hurricanes ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____New_York_Rangers_vs_Carolina_Hurricanes___NHL___ENG_HD____ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ New York Rangers vs Carolina Hurricanes ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____New_York_Rangers_vs_Carolina_Hurricanes___NHL___ENG_HD____ENG____19_00_1">
+    <title>Finalizado | ◄ New York Rangers vs Carolina Hurricanes ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____Montreal_Canadiens_vs_Philadelphia_Flyers___NHL___ENG_HD____ENG____19_00_1">
+    <title>Próximamente | 19:00 | ◄ Montreal Canadiens vs Philadelphia Flyers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____Montreal_Canadiens_vs_Philadelphia_Flyers___NHL___ENG_HD____ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ Montreal Canadiens vs Philadelphia Flyers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Montreal_Canadiens_vs_Philadelphia_Flyers___NHL___ENG_HD____ENG____19_00_1">
+    <title>Finalizado | ◄ Montreal Canadiens vs Philadelphia Flyers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____New_York_Islanders_vs_Boston_Bruins___NHL___ENG_HD____ENG____19_00_1">
+    <title>Próximamente | 19:00 | ◄ New York Islanders vs Boston Bruins ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____New_York_Islanders_vs_Boston_Bruins___NHL___ENG_HD____ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ New York Islanders vs Boston Bruins ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____New_York_Islanders_vs_Boston_Bruins___NHL___ENG_HD____ENG____19_00_1">
+    <title>Finalizado | ◄ New York Islanders vs Boston Bruins ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____Buffalo_Sabres_vs_Utah_Mammoth___NHL___ENG_HD____ENG____19_00_1">
+    <title>Próximamente | 19:00 | ◄ Buffalo Sabres vs Utah Mammoth ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____Buffalo_Sabres_vs_Utah_Mammoth___NHL___ENG_HD____ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ Buffalo Sabres vs Utah Mammoth ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Buffalo_Sabres_vs_Utah_Mammoth___NHL___ENG_HD____ENG____19_00_1">
+    <title>Finalizado | ◄ Buffalo Sabres vs Utah Mammoth ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105020000" channel="EVENTOS_VIP__Evento_____Dallas_Stars_vs_Edmonton_Oilers___NHL___ENG_HD____ENG____20_00_1">
+    <title>Próximamente | 20:00 | ◄ Dallas Stars vs Edmonton Oilers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105020000" stop="20251105050000" channel="EVENTOS_VIP__Evento_____Dallas_Stars_vs_Edmonton_Oilers___NHL___ENG_HD____ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | ◄ Dallas Stars vs Edmonton Oilers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105050000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Dallas_Stars_vs_Edmonton_Oilers___NHL___ENG_HD____ENG____20_00_1">
+    <title>Finalizado | ◄ Dallas Stars vs Edmonton Oilers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105020000" channel="EVENTOS_VIP__Evento_____Minnesota_Wild_vs_Nashville_Predators___NHL___ENG_HD____ENG____20_00_1">
+    <title>Próximamente | 20:00 | ◄ Minnesota Wild vs Nashville Predators ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105020000" stop="20251105050000" channel="EVENTOS_VIP__Evento_____Minnesota_Wild_vs_Nashville_Predators___NHL___ENG_HD____ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | ◄ Minnesota Wild vs Nashville Predators ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105050000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Minnesota_Wild_vs_Nashville_Predators___NHL___ENG_HD____ENG____20_00_1">
+    <title>Finalizado | ◄ Minnesota Wild vs Nashville Predators ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105033000" channel="EVENTOS_VIP__Evento_____Colorado_Avalanche_vs_Tampa_Bay_Lightning___NHL___ENG_HD____ENG____21_30_1">
+    <title>Próximamente | 21:30 | ◄ Colorado Avalanche vs Tampa Bay Lightning ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105033000" stop="20251105063000" channel="EVENTOS_VIP__Evento_____Colorado_Avalanche_vs_Tampa_Bay_Lightning___NHL___ENG_HD____ENG____21_30_1">
+    <title>⌾ En vivo | 21:30 | ◄ Colorado Avalanche vs Tampa Bay Lightning ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105063000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Colorado_Avalanche_vs_Tampa_Bay_Lightning___NHL___ENG_HD____ENG____21_30_1">
+    <title>Finalizado | ◄ Colorado Avalanche vs Tampa Bay Lightning ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____Vegas_Golden_Knights_vs_Detroit_Red_Wings___NHL___ENG_HD__ENG____22_00_1">
+    <title>Próximamente | 22:00 | ◄ Vegas Golden Knights vs Detroit Red Wings ► NHL ► ENG-HD [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105070000" channel="EVENTOS_VIP__Evento_____Vegas_Golden_Knights_vs_Detroit_Red_Wings___NHL___ENG_HD__ENG____22_00_1">
+    <title>⌾ En vivo | 22:00 | ◄ Vegas Golden Knights vs Detroit Red Wings ► NHL ► ENG-HD [ENG]</title>
+  </programme>
+  <programme start="20251105070000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Vegas_Golden_Knights_vs_Detroit_Red_Wings___NHL___ENG_HD__ENG____22_00_1">
+    <title>Finalizado | ◄ Vegas Golden Knights vs Detroit Red Wings ► NHL ► ENG-HD [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____Anaheim_Ducks_vs_Florida_Panthers___NHL___ENG_HD____ENG____22_00_1">
+    <title>Próximamente | 22:00 | ◄ Anaheim Ducks vs Florida Panthers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105070000" channel="EVENTOS_VIP__Evento_____Anaheim_Ducks_vs_Florida_Panthers___NHL___ENG_HD____ENG____22_00_1">
+    <title>⌾ En vivo | 22:00 | ◄ Anaheim Ducks vs Florida Panthers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105070000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Anaheim_Ducks_vs_Florida_Panthers___NHL___ENG_HD____ENG____22_00_1">
+    <title>Finalizado | ◄ Anaheim Ducks vs Florida Panthers ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105043000" channel="EVENTOS_VIP__Evento_____Los_Angeles_Kings_vs_Winnipeg_Jets___NHL___ENG_HD____ENG____22_30_1">
+    <title>Próximamente | 22:30 | ◄ Los Angeles Kings vs Winnipeg Jets ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105043000" stop="20251105073000" channel="EVENTOS_VIP__Evento_____Los_Angeles_Kings_vs_Winnipeg_Jets___NHL___ENG_HD____ENG____22_30_1">
+    <title>⌾ En vivo | 22:30 | ◄ Los Angeles Kings vs Winnipeg Jets ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105073000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Los_Angeles_Kings_vs_Winnipeg_Jets___NHL___ENG_HD____ENG____22_30_1">
+    <title>Finalizado | ◄ Los Angeles Kings vs Winnipeg Jets ► NHL ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105014000" channel="EVENTOS_VIP__Evento_____Toronto_Raptors_vs_Milwaukee_Bucks___NBA___ENG_HD____ENG____19_40_1">
+    <title>Próximamente | 19:40 | ◄ Toronto Raptors vs Milwaukee Bucks ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105014000" stop="20251105044000" channel="EVENTOS_VIP__Evento_____Toronto_Raptors_vs_Milwaukee_Bucks___NBA___ENG_HD____ENG____19_40_1">
+    <title>⌾ En vivo | 19:40 | ◄ Toronto Raptors vs Milwaukee Bucks ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105044000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Toronto_Raptors_vs_Milwaukee_Bucks___NBA___ENG_HD____ENG____19_40_1">
+    <title>Finalizado | ◄ Toronto Raptors vs Milwaukee Bucks ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105020000" channel="EVENTOS_VIP__Evento_____New_Orleans_Pelicans_vs_Charlotte_Hornets___NBA___ENG_HD____ENG____20_00_1">
+    <title>Próximamente | 20:00 | ◄ New Orleans Pelicans vs Charlotte Hornets ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105020000" stop="20251105050000" channel="EVENTOS_VIP__Evento_____New_Orleans_Pelicans_vs_Charlotte_Hornets___NBA___ENG_HD____ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | ◄ New Orleans Pelicans vs Charlotte Hornets ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105050000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____New_Orleans_Pelicans_vs_Charlotte_Hornets___NBA___ENG_HD____ENG____20_00_1">
+    <title>Finalizado | ◄ New Orleans Pelicans vs Charlotte Hornets ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105020000" channel="EVENTOS_VIP__Evento_____Atlanta_Hawks_vs_Orlando_Magic___NBA___ENG_HD____ENG____20_00_1">
+    <title>Próximamente | 20:00 | ◄ Atlanta Hawks vs Orlando Magic ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105020000" stop="20251105050000" channel="EVENTOS_VIP__Evento_____Atlanta_Hawks_vs_Orlando_Magic___NBA___ENG_HD____ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | ◄ Atlanta Hawks vs Orlando Magic ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105050000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Atlanta_Hawks_vs_Orlando_Magic___NBA___ENG_HD____ENG____20_00_1">
+    <title>Finalizado | ◄ Atlanta Hawks vs Orlando Magic ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105020000" channel="EVENTOS_VIP__Evento_____Chicago_Bulls_vs_Philadelphia_76ers___NBA___ENG_HD____ENG____20_00_1">
+    <title>Próximamente | 20:00 | ◄ Chicago Bulls vs Philadelphia 76ers ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105020000" stop="20251105050000" channel="EVENTOS_VIP__Evento_____Chicago_Bulls_vs_Philadelphia_76ers___NBA___ENG_HD____ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | ◄ Chicago Bulls vs Philadelphia 76ers ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105050000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Chicago_Bulls_vs_Philadelphia_76ers___NBA___ENG_HD____ENG____20_00_1">
+    <title>Finalizado | ◄ Chicago Bulls vs Philadelphia 76ers ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____Golden_State_Warriors_vs_Phoenix_Suns___NBA___ENG_HD____ENG____22_00_1">
+    <title>Próximamente | 22:00 | ◄ Golden State Warriors vs Phoenix Suns ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105070000" channel="EVENTOS_VIP__Evento_____Golden_State_Warriors_vs_Phoenix_Suns___NBA___ENG_HD____ENG____22_00_1">
+    <title>⌾ En vivo | 22:00 | ◄ Golden State Warriors vs Phoenix Suns ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105070000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Golden_State_Warriors_vs_Phoenix_Suns___NBA___ENG_HD____ENG____22_00_1">
+    <title>Finalizado | ◄ Golden State Warriors vs Phoenix Suns ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105050000" channel="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA___ENG_HD____ENG____23_00_1">
+    <title>Próximamente | 23:00 | ◄ Los Angeles Clippers vs Oklahoma City Thunder ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105050000" stop="20251105080000" channel="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA___ENG_HD____ENG____23_00_1">
+    <title>⌾ En vivo | 23:00 | ◄ Los Angeles Clippers vs Oklahoma City Thunder ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251105080000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA___ENG_HD____ENG____23_00_1">
+    <title>Finalizado | ◄ Los Angeles Clippers vs Oklahoma City Thunder ► NBA ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104184500" channel="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <title>Próximamente | 12:45 | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104184500" stop="20251104214500" channel="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <title>⌾ En vivo | 12:45 | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104214500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <title>Finalizado | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104184500" channel="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD___mx__ESP____12_45_1">
+    <title>Próximamente | 12:45 | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104184500" stop="20251104214500" channel="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD___mx__ESP____12_45_1">
+    <title>⌾ En vivo | 12:45 | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104214500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Napoli_vs_Eintracht_Frankfurt___UEFA_Champions___ESP_HD___mx__ESP____12_45_1">
+    <title>Finalizado | ◄ Napoli vs Eintracht Frankfurt ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104184500" channel="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <title>Próximamente | 12:45 | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104184500" stop="20251104214500" channel="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <title>⌾ En vivo | 12:45 | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104214500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_1">
+    <title>Finalizado | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104184500" channel="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_2">
+    <title>Próximamente | 12:45 | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104184500" stop="20251104214500" channel="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_2">
+    <title>⌾ En vivo | 12:45 | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104214500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Slavia_Praha_vs_Arsenal___UEFA_Champions___ESP_HD____ESP____12_45_2">
+    <title>Finalizado | ◄ Slavia Praha vs Arsenal ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Juventus_vs_Sporting_CP___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Finalizado | ◄ Juventus vs Sporting CP ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Tottenham_Hotspur_vs_K_benhavn___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Tottenham Hotspur vs København ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Tottenham_Hotspur_vs_K_benhavn___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Tottenham Hotspur vs København ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Tottenham_Hotspur_vs_K_benhavn___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Tottenham Hotspur vs København ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Finalizado | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-FHD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-FHD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Real_Madrid___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <title>Finalizado | ◄ Liverpool vs Real Madrid ► UEFA Champions ► ESP-FHD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_vs_Union_Saint_Gilloise___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Finalizado | ◄ Atlético Madrid vs Union Saint-Gilloise ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_HD___mx__ESP____15_00_1">
+    <title>Finalizado | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-HD ◄ mx [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-FHD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-FHD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____PSG_vs_Bayern_M_nchen___UEFA_Champions___ESP_FHD____ESP____15_00_1">
+    <title>Finalizado | ◄ PSG vs Bayern München ► UEFA Champions ► ESP-FHD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Bod____Glimt_vs_Monaco___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Bodø / Glimt vs Monaco ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Bod____Glimt_vs_Monaco___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Bodø / Glimt vs Monaco ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Bod____Glimt_vs_Monaco___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Bodø / Glimt vs Monaco ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_vs_PSV___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Olympiakos Piraeus vs PSV ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_vs_PSV___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Olympiakos Piraeus vs PSV ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_vs_PSV___UEFA_Champions___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Olympiakos Piraeus vs PSV ► UEFA Champions ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104210000" channel="EVENTOS_VIP__Evento_____Coventry_City_vs_Sheffield_United___Championship___ESP_HD____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◄ Coventry City vs Sheffield United ► Championship ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104210000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____Coventry_City_vs_Sheffield_United___Championship___ESP_HD____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◄ Coventry City vs Sheffield United ► Championship ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Coventry_City_vs_Sheffield_United___Championship___ESP_HD____ESP____15_00_1">
+    <title>Finalizado | ◄ Coventry City vs Sheffield United ► Championship ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____Valencia_vs_Espanyol___Copa_de_La_Reina___ESP_HD____ESP____13_00_1">
+    <title>Próximamente | 13:00 | ◄ Valencia vs Espanyol ► Copa de La Reina ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104190000" stop="20251104220000" channel="EVENTOS_VIP__Evento_____Valencia_vs_Espanyol___Copa_de_La_Reina___ESP_HD____ESP____13_00_1">
+    <title>⌾ En vivo | 13:00 | ◄ Valencia vs Espanyol ► Copa de La Reina ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104220000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Valencia_vs_Espanyol___Copa_de_La_Reina___ESP_HD____ESP____13_00_1">
+    <title>Finalizado | ◄ Valencia vs Espanyol ► Copa de La Reina ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104170000" channel="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Ahli___AFC_Champions_League_Elite___PORT_HD_____11_00_1">
+    <title>Próximamente | 11:00 | ◄ Al Sadd vs Al-Ahli ► AFC Champions League Elite ► PORT-HD ◄</title>
+  </programme>
+  <programme start="20251104170000" stop="20251104200000" channel="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Ahli___AFC_Champions_League_Elite___PORT_HD_____11_00_1">
+    <title>⌾ En vivo | 11:00 | ◄ Al Sadd vs Al-Ahli ► AFC Champions League Elite ► PORT-HD ◄</title>
+  </programme>
+  <programme start="20251104200000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Ahli___AFC_Champions_League_Elite___PORT_HD_____11_00_1">
+    <title>Finalizado | ◄ Al Sadd vs Al-Ahli ► AFC Champions League Elite ► PORT-HD ◄</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104191500" channel="EVENTOS_VIP__Evento_____Al_Ittihad_vs_Al_Sharjah___AFC_Champions_League_Elite___PORT_HD_____13_15_1">
+    <title>Próximamente | 13:15 | ◄ Al Ittihad vs Al Sharjah ► AFC Champions League Elite ► PORT-HD ◄</title>
+  </programme>
+  <programme start="20251104191500" stop="20251104221500" channel="EVENTOS_VIP__Evento_____Al_Ittihad_vs_Al_Sharjah___AFC_Champions_League_Elite___PORT_HD_____13_15_1">
+    <title>⌾ En vivo | 13:15 | ◄ Al Ittihad vs Al Sharjah ► AFC Champions League Elite ► PORT-HD ◄</title>
+  </programme>
+  <programme start="20251104221500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Al_Ittihad_vs_Al_Sharjah___AFC_Champions_League_Elite___PORT_HD_____13_15_1">
+    <title>Finalizado | ◄ Al Ittihad vs Al Sharjah ► AFC Champions League Elite ► PORT-HD ◄</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104140000" channel="EVENTOS_VIP__Evento_____PSG_U19_vs_Bayern_U19___UEFA_Youth_League___ENG_HD____ENG____08_00_1">
+    <title>Próximamente | 08:00 | ◄ PSG U19 vs Bayern U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104140000" stop="20251104170000" channel="EVENTOS_VIP__Evento_____PSG_U19_vs_Bayern_U19___UEFA_Youth_League___ENG_HD____ENG____08_00_1">
+    <title>⌾ En vivo | 08:00 | ◄ PSG U19 vs Bayern U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104170000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____PSG_U19_vs_Bayern_U19___UEFA_Youth_League___ENG_HD____ENG____08_00_1">
+    <title>Finalizado | ◄ PSG U19 vs Bayern U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104150000" channel="EVENTOS_VIP__Evento_____Juventus_U19_vs_Sporting_CP_U19___UEFA_Youth_League___ENG_HD____ENG____09_00_1">
+    <title>Próximamente | 09:00 | ◄ Juventus U19 vs Sporting CP U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104150000" stop="20251104180000" channel="EVENTOS_VIP__Evento_____Juventus_U19_vs_Sporting_CP_U19___UEFA_Youth_League___ENG_HD____ENG____09_00_1">
+    <title>⌾ En vivo | 09:00 | ◄ Juventus U19 vs Sporting CP U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104180000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Juventus_U19_vs_Sporting_CP_U19___UEFA_Youth_League___ENG_HD____ENG____09_00_1">
+    <title>Finalizado | ◄ Juventus U19 vs Sporting CP U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104160000" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_U19_vs_R__Union_SG_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>Próximamente | 10:00 | ◄ Atlético Madrid U19 vs R. Union SG U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104160000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_U19_vs_R__Union_SG_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>⌾ En vivo | 10:00 | ◄ Atlético Madrid U19 vs R. Union SG U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104190000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Atl_tico_Madrid_U19_vs_R__Union_SG_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>Finalizado | ◄ Atlético Madrid U19 vs R. Union SG U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104160000" channel="EVENTOS_VIP__Evento_____Liverpool_U19_vs_Real_Madrid_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>Próximamente | 10:00 | ◄ Liverpool U19 vs Real Madrid U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104160000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____Liverpool_U19_vs_Real_Madrid_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>⌾ En vivo | 10:00 | ◄ Liverpool U19 vs Real Madrid U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104190000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Liverpool_U19_vs_Real_Madrid_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>Finalizado | ◄ Liverpool U19 vs Real Madrid U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104160000" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>Próximamente | 10:00 | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104160000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>⌾ En vivo | 10:00 | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104190000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Olympiakos_Piraeus_U19_vs_PSV_U19___UEFA_Youth_League___ENG_HD____ENG____10_00_1">
+    <title>Finalizado | ◄ Olympiakos Piraeus U19 vs PSV U19 ► UEFA Youth League ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104133000" channel="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
+    <title>Próximamente | 07:30 | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104133000" stop="20251104163000" channel="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
+    <title>⌾ En vivo | 07:30 | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104163000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Brazil_vs_Honduras___World_Cup_U17_U17___ENG_HD____ENG____07_30_1">
+    <title>Finalizado | ◄ Brazil vs Honduras ► World Cup U17 U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104133000" channel="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
+    <title>Próximamente | 07:30 | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104133000" stop="20251104163000" channel="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
+    <title>⌾ En vivo | 07:30 | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104163000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Costa_de_Marfil_vs_Switzerland___World_Cup_U17___ENG_HD____ENG____07_30_1">
+    <title>Finalizado | ◄ Costa de Marfil vs Switzerland ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104140000" channel="EVENTOS_VIP__Evento_____Mexico_vs_Korea_Republic___World_Cup_U17___ENG_HD____ENG____08_00_1">
+    <title>Próximamente | 08:00 | ◄ Mexico vs Korea Republic ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104140000" stop="20251104170000" channel="EVENTOS_VIP__Evento_____Mexico_vs_Korea_Republic___World_Cup_U17___ENG_HD____ENG____08_00_1">
+    <title>⌾ En vivo | 08:00 | ◄ Mexico vs Korea Republic ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104170000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Mexico_vs_Korea_Republic___World_Cup_U17___ENG_HD____ENG____08_00_1">
+    <title>Finalizado | ◄ Mexico vs Korea Republic ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104143000" channel="EVENTOS_VIP__Evento_____Haiti_vs_Egypt____World_Cup_U17___ENG_HD____ENG____08_30_1">
+    <title>Próximamente | 08:30 | ◄ Haiti vs Egypt  ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104143000" stop="20251104173000" channel="EVENTOS_VIP__Evento_____Haiti_vs_Egypt____World_Cup_U17___ENG_HD____ENG____08_30_1">
+    <title>⌾ En vivo | 08:30 | ◄ Haiti vs Egypt  ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104173000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Haiti_vs_Egypt____World_Cup_U17___ENG_HD____ENG____08_30_1">
+    <title>Finalizado | ◄ Haiti vs Egypt  ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104154500" channel="EVENTOS_VIP__Evento_____Germany_vs_Colombia___World_Cup_U17___ENG_HD____ENG____09_45_1">
+    <title>Próximamente | 09:45 | ◄ Germany vs Colombia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104154500" stop="20251104184500" channel="EVENTOS_VIP__Evento_____Germany_vs_Colombia___World_Cup_U17___ENG_HD____ENG____09_45_1">
+    <title>⌾ En vivo | 09:45 | ◄ Germany vs Colombia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104184500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Germany_vs_Colombia___World_Cup_U17___ENG_HD____ENG____09_45_1">
+    <title>Finalizado | ◄ Germany vs Colombia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104161500" channel="EVENTOS_VIP__Evento_____England_vs_Venezuela___World_Cup_U17___ENG_HD____ENG____10_15_1">
+    <title>Próximamente | 10:15 | ◄ England vs Venezuela ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104161500" stop="20251104191500" channel="EVENTOS_VIP__Evento_____England_vs_Venezuela___World_Cup_U17___ENG_HD____ENG____10_15_1">
+    <title>⌾ En vivo | 10:15 | ◄ England vs Venezuela ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104191500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____England_vs_Venezuela___World_Cup_U17___ENG_HD____ENG____10_15_1">
+    <title>Finalizado | ◄ England vs Venezuela ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104164500" channel="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <title>Próximamente | 10:45 | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104164500" stop="20251104194500" channel="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <title>⌾ En vivo | 10:45 | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104194500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Indonesia_vs_Zambia___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <title>Finalizado | ◄ Indonesia vs Zambia ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104164500" channel="EVENTOS_VIP__Evento_____Korea_DPR_vs_El_Salvador___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <title>Próximamente | 10:45 | ◄ Korea DPR vs El Salvador ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104164500" stop="20251104194500" channel="EVENTOS_VIP__Evento_____Korea_DPR_vs_El_Salvador___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <title>⌾ En vivo | 10:45 | ◄ Korea DPR vs El Salvador ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104194500" stop="20251105055959" channel="EVENTOS_VIP__Evento_____Korea_DPR_vs_El_Salvador___World_Cup_U17___ENG_HD____ENG____10_45_1">
+    <title>Finalizado | ◄ Korea DPR vs El Salvador ► World Cup U17 ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____LDU_Quito_vs_Orense___Liga_Pro___ESP_HD____ESP____19_00_1">
+    <title>Próximamente | 19:00 | ◄ LDU Quito vs Orense ► Liga Pro ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____LDU_Quito_vs_Orense___Liga_Pro___ESP_HD____ESP____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ LDU Quito vs Orense ► Liga Pro ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____LDU_Quito_vs_Orense___Liga_Pro___ESP_HD____ESP____19_00_1">
+    <title>Finalizado | ◄ LDU Quito vs Orense ► Liga Pro ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Bowling_Green_vs_Miami_OH___ESP_HD____ESP____13_00_1">
+    <title>Próximamente | 13:00 | ► NCAA Soccer ◄ Bowling Green vs Miami OH ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104190000" stop="20251104220000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Bowling_Green_vs_Miami_OH___ESP_HD____ESP____13_00_1">
+    <title>⌾ En vivo | 13:00 | ► NCAA Soccer ◄ Bowling Green vs Miami OH ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104220000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Bowling_Green_vs_Miami_OH___ESP_HD____ESP____13_00_1">
+    <title>Finalizado | ► NCAA Soccer ◄ Bowling Green vs Miami OH ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104190000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Navy_vs_American___ESP_HD____ESP____13_00_1">
+    <title>Próximamente | 13:00 | ◄ NCAA Soccer ► Navy vs American ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104190000" stop="20251104220000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Navy_vs_American___ESP_HD____ESP____13_00_1">
+    <title>⌾ En vivo | 13:00 | ◄ NCAA Soccer ► Navy vs American ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104220000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Navy_vs_American___ESP_HD____ESP____13_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Navy vs American ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104200000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Detroit_Mercy_vs_Milwaukee___ESP_HD____ESP____14_00_1">
+    <title>Próximamente | 14:00 | ◄ NCAA Soccer ► Detroit Mercy vs Milwaukee ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104200000" stop="20251104230000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Detroit_Mercy_vs_Milwaukee___ESP_HD____ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | ◄ NCAA Soccer ► Detroit Mercy vs Milwaukee ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104230000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Detroit_Mercy_vs_Milwaukee___ESP_HD____ESP____14_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Detroit Mercy vs Milwaukee ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104200000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Green_Bay_vs_Cleveland_St___ESP_HD____ESP____14_00_1">
+    <title>Próximamente | 14:00 | ◄ NCAA Soccer ► Green Bay vs Cleveland St ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104200000" stop="20251104230000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Green_Bay_vs_Cleveland_St___ESP_HD____ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | ◄ NCAA Soccer ► Green Bay vs Cleveland St ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104230000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Green_Bay_vs_Cleveland_St___ESP_HD____ESP____14_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Green Bay vs Cleveland St ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104200000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___IU_Indy_vs_Oakland___ESP_HD____ESP____14_00_1">
+    <title>Próximamente | 14:00 | ◄ NCAA Soccer ► IU Indy vs Oakland ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104200000" stop="20251104230000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___IU_Indy_vs_Oakland___ESP_HD____ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | ◄ NCAA Soccer ► IU Indy vs Oakland ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104230000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___IU_Indy_vs_Oakland___ESP_HD____ESP____14_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► IU Indy vs Oakland ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104200000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___N_Kentucky_vs_Purdue_FW___ESP_HD____ESP____14_00_1">
+    <title>Próximamente | 14:00 | ◄ NCAA Soccer ► N Kentucky vs Purdue FW ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104200000" stop="20251104230000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___N_Kentucky_vs_Purdue_FW___ESP_HD____ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | ◄ NCAA Soccer ► N Kentucky vs Purdue FW ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104230000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___N_Kentucky_vs_Purdue_FW___ESP_HD____ESP____14_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► N Kentucky vs Purdue FW ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251104220000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Ball_State_vs_W_Michigan___ESP_HD____ESP____16_00_1">
+    <title>Próximamente | 16:00 | ◄ NCAA Soccer ► Ball State vs W Michigan ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104220000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Ball_State_vs_W_Michigan___ESP_HD____ESP____16_00_1">
+    <title>⌾ En vivo | 16:00 | ◄ NCAA Soccer ► Ball State vs W Michigan ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Ball_State_vs_W_Michigan___ESP_HD____ESP____16_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Ball State vs W Michigan ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Colgate_vs_Army___ESP_HD____ESP____18_00_1">
+    <title>Próximamente | 18:00 | ◄ NCAA Soccer ► Colgate vs Army ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Colgate_vs_Army___ESP_HD____ESP____18_00_1">
+    <title>⌾ En vivo | 18:00 | ◄ NCAA Soccer ► Colgate vs Army ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105030000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Colgate_vs_Army___ESP_HD____ESP____18_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Colgate vs Army ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Holy_Cross_vs_Boston_U___ESP_HD____ESP____18_00_1">
+    <title>Próximamente | 18:00 | ◄ NCAA Soccer ► Holy Cross vs Boston U ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Holy_Cross_vs_Boston_U___ESP_HD____ESP____18_00_1">
+    <title>⌾ En vivo | 18:00 | ◄ NCAA Soccer ► Holy Cross vs Boston U ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105030000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Holy_Cross_vs_Boston_U___ESP_HD____ESP____18_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Holy Cross vs Boston U ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Lafayette_vs_Lehigh___ESP_HD____ESP____18_00_1">
+    <title>Próximamente | 18:00 | ◄ NCAA Soccer ► Lafayette vs Lehigh ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Lafayette_vs_Lehigh___ESP_HD____ESP____18_00_1">
+    <title>⌾ En vivo | 18:00 | ◄ NCAA Soccer ► Lafayette vs Lehigh ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105030000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Lafayette_vs_Lehigh___ESP_HD____ESP____18_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Lafayette vs Lehigh ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Loyola_MD_vs_Bucknell___ESP_HD____ESP____18_00_1">
+    <title>Próximamente | 18:00 | ◄ NCAA Soccer ► Loyola MD vs Bucknell ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Loyola_MD_vs_Bucknell___ESP_HD____ESP____18_00_1">
+    <title>⌾ En vivo | 18:00 | ◄ NCAA Soccer ► Loyola MD vs Bucknell ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105030000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Loyola_MD_vs_Bucknell___ESP_HD____ESP____18_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► Loyola MD vs Bucknell ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___UMBC_vs_NJIT___ESP_HD____ESP____18_00_1">
+    <title>Próximamente | 18:00 | ◄ NCAA Soccer ► UMBC vs NJIT ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105000000" stop="20251105030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___UMBC_vs_NJIT___ESP_HD____ESP____18_00_1">
+    <title>⌾ En vivo | 18:00 | ◄ NCAA Soccer ► UMBC vs NJIT ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105030000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___UMBC_vs_NJIT___ESP_HD____ESP____18_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► UMBC vs NJIT ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___GA_Southern_vs_Georgia_St___ESP_HD____ESP____19_00_1">
+    <title>Próximamente | 19:00 | ◄ NCAA Soccer ► GA Southern vs Georgia St ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___GA_Southern_vs_Georgia_St___ESP_HD____ESP____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ NCAA Soccer ► GA Southern vs Georgia St ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___GA_Southern_vs_Georgia_St___ESP_HD____ESP____19_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► GA Southern vs Georgia St ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251104060000" stop="20251105010000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___James_Madison_vs_Coastal___ESP_HD____ESP____19_00_1">
+    <title>Próximamente | 19:00 | ◄ NCAA Soccer ► James Madison vs Coastal ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105010000" stop="20251105040000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___James_Madison_vs_Coastal___ESP_HD____ESP____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◄ NCAA Soccer ► James Madison vs Coastal ► ESP-HD ◄ [ESP]</title>
+  </programme>
+  <programme start="20251105040000" stop="20251105055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___James_Madison_vs_Coastal___ESP_HD____ESP____19_00_1">
+    <title>Finalizado | ◄ NCAA Soccer ► James Madison vs Coastal ► ESP-HD ◄ [ESP]</title>
   </programme>
 </tv>
 
