@@ -141914,9 +141914,6 @@
   <channel id="EVENTOS_VIP__Evento_____Los_Chankas_vs_Alianza_Lima___Primera_Peru___ESP_HD____ESP____15_15_1">
     <display-name>Evento | ► Los Chankas vs Alianza Lima ◄ Primera Peru ► ESP-HD ◄ [ESP] | 15:15</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Everton___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <display-name>Evento | ► Universidad Chile vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP] | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento______H_rcules_vs_Firpo___Primera_Salvador___ESP_HD____ESP____20_30_1">
     <display-name>Evento | ► 	Hércules vs Firpo ◄ Primera Salvador ► ESP-HD ◄ [ESP] | 20:30</display-name>
   </channel>
@@ -141926,15 +141923,6 @@
   <channel id="EVENTOS_VIP__Evento_____RB_Bragantino_vs_Corinthians___Brasileirao___PORT_HD_____17_00_1">
     <display-name>Evento | ► RB Bragantino vs Corinthians ◄ Brasileirao ► PORT-HD ◄ | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Sport_Recife_vs_Juventude___Brasileirao___PORT_HD_____17_00_1">
-    <display-name>Evento | ► Sport Recife vs Juventude ◄ Brasileirao ► PORT-HD ◄ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Vit_ria_vs_Internacional___Brasileirao___PORT_HD_____17_00_1">
-    <display-name>Evento | ► Vitória vs Internacional ◄ Brasileirao ► PORT-HD ◄ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Botafogo_vs_Vasco_da_Gama___Brasileirao___PORT_HD_____17_30_1">
-    <display-name>Evento | ► Botafogo vs Vasco da Gama ◄ Brasileirao ► PORT-HD ◄ | 17:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Atl_tico_Mineiro_vs_Bahia___Brasileirao___PORT_HD_____18_00_1">
     <display-name>Evento | ► Atlético Mineiro vs Bahia ◄ Brasileirao ► PORT-HD ◄ | 18:00</display-name>
   </channel>
@@ -141943,21 +141931,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Independiente_Rivadavia_vs_Argentinos_Juniors___Copa_Argentina___ESP_HD____ESP____19_10_1">
     <display-name>Evento | ► Independiente Rivadavia vs Argentinos Juniors ◄ Copa Argentina ► ESP-HD ◄ [ESP] | 19:10</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___UL_Monroe_vs_Old_Dominion___ENG_HD____ENG____17_00_1">
-    <display-name>Evento | ► NCAA Soccer ◄ UL Monroe vs Old Dominion ► ENG-HD ◄ [ENG] | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Utah_Tech_vs_CA_Baptist___ENG_HD____ENG____17_00_1">
-    <display-name>Evento | ► NCAA Soccer ◄ Utah Tech vs CA Baptist ► ENG-HD ◄ [ENG] | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NCAA_Men_s_Basketball___RIT_vs_Binghamton___ENG_HD____ENG____18_00_1">
-    <display-name>Evento | ► NCAA Men's Basketball ◄ RIT vs Binghamton ► ENG-HD ◄ [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Portland_vs_Pepperdine___ENG_HD____ENG____18_00_1">
-    <display-name>Evento | ► NCAA Soccer ◄ Portland vs Pepperdine ► ENG-HD ◄ [ENG] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___SC_Upstate_vs_UNC_Asheville___ENG_HD____ENG____18_00_1">
-    <display-name>Evento | ► NCAA Soccer ◄ SC Upstate vs UNC Asheville ► ENG-HD ◄ [ENG] | 18:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____NCAA_Men_s_Basketball___Carolina_vs_App_State___ENG_HD____ENG____18_30_1">
     <display-name>Evento | ► NCAA Men's Basketball ◄ Carolina vs App State ► ENG-HD ◄ [ENG] | 18:30</display-name>
@@ -142268,15 +142241,6 @@
   <programme start="20251106001500" stop="20251106055959" channel="EVENTOS_VIP__Evento_____Los_Chankas_vs_Alianza_Lima___Primera_Peru___ESP_HD____ESP____15_15_1">
     <title>Finalizado | ► Los Chankas vs Alianza Lima ◄ Primera Peru ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251105060000" stop="20251105213000" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Everton___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <title>Próximamente | 15:30 | ► Universidad Chile vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251105213000" stop="20251106003000" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Everton___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | ► Universidad Chile vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251106003000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Everton___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <title>Finalizado | ► Universidad Chile vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
   <programme start="20251105060000" stop="20251106023000" channel="EVENTOS_VIP__Evento______H_rcules_vs_Firpo___Primera_Salvador___ESP_HD____ESP____20_30_1">
     <title>Próximamente | 20:30 | ► 	Hércules vs Firpo ◄ Primera Salvador ► ESP-HD ◄ [ESP]</title>
   </programme>
@@ -142304,33 +142268,6 @@
   <programme start="20251106020000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____RB_Bragantino_vs_Corinthians___Brasileirao___PORT_HD_____17_00_1">
     <title>Finalizado | ► RB Bragantino vs Corinthians ◄ Brasileirao ► PORT-HD ◄</title>
   </programme>
-  <programme start="20251105060000" stop="20251105230000" channel="EVENTOS_VIP__Evento_____Sport_Recife_vs_Juventude___Brasileirao___PORT_HD_____17_00_1">
-    <title>Próximamente | 17:00 | ► Sport Recife vs Juventude ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251105230000" stop="20251106020000" channel="EVENTOS_VIP__Evento_____Sport_Recife_vs_Juventude___Brasileirao___PORT_HD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ► Sport Recife vs Juventude ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251106020000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____Sport_Recife_vs_Juventude___Brasileirao___PORT_HD_____17_00_1">
-    <title>Finalizado | ► Sport Recife vs Juventude ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251105060000" stop="20251105230000" channel="EVENTOS_VIP__Evento_____Vit_ria_vs_Internacional___Brasileirao___PORT_HD_____17_00_1">
-    <title>Próximamente | 17:00 | ► Vitória vs Internacional ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251105230000" stop="20251106020000" channel="EVENTOS_VIP__Evento_____Vit_ria_vs_Internacional___Brasileirao___PORT_HD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ► Vitória vs Internacional ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251106020000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____Vit_ria_vs_Internacional___Brasileirao___PORT_HD_____17_00_1">
-    <title>Finalizado | ► Vitória vs Internacional ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251105060000" stop="20251105233000" channel="EVENTOS_VIP__Evento_____Botafogo_vs_Vasco_da_Gama___Brasileirao___PORT_HD_____17_30_1">
-    <title>Próximamente | 17:30 | ► Botafogo vs Vasco da Gama ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251105233000" stop="20251106023000" channel="EVENTOS_VIP__Evento_____Botafogo_vs_Vasco_da_Gama___Brasileirao___PORT_HD_____17_30_1">
-    <title>⌾ En vivo | 17:30 | ► Botafogo vs Vasco da Gama ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
-  <programme start="20251106023000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____Botafogo_vs_Vasco_da_Gama___Brasileirao___PORT_HD_____17_30_1">
-    <title>Finalizado | ► Botafogo vs Vasco da Gama ◄ Brasileirao ► PORT-HD ◄</title>
-  </programme>
   <programme start="20251105060000" stop="20251106000000" channel="EVENTOS_VIP__Evento_____Atl_tico_Mineiro_vs_Bahia___Brasileirao___PORT_HD_____18_00_1">
     <title>Próximamente | 18:00 | ► Atlético Mineiro vs Bahia ◄ Brasileirao ► PORT-HD ◄</title>
   </programme>
@@ -142357,51 +142294,6 @@
   </programme>
   <programme start="20251106041000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____Independiente_Rivadavia_vs_Argentinos_Juniors___Copa_Argentina___ESP_HD____ESP____19_10_1">
     <title>Finalizado | ► Independiente Rivadavia vs Argentinos Juniors ◄ Copa Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251105060000" stop="20251105230000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___UL_Monroe_vs_Old_Dominion___ENG_HD____ENG____17_00_1">
-    <title>Próximamente | 17:00 | ► NCAA Soccer ◄ UL Monroe vs Old Dominion ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251105230000" stop="20251106020000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___UL_Monroe_vs_Old_Dominion___ENG_HD____ENG____17_00_1">
-    <title>⌾ En vivo | 17:00 | ► NCAA Soccer ◄ UL Monroe vs Old Dominion ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106020000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___UL_Monroe_vs_Old_Dominion___ENG_HD____ENG____17_00_1">
-    <title>Finalizado | ► NCAA Soccer ◄ UL Monroe vs Old Dominion ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251105060000" stop="20251105230000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Utah_Tech_vs_CA_Baptist___ENG_HD____ENG____17_00_1">
-    <title>Próximamente | 17:00 | ► NCAA Soccer ◄ Utah Tech vs CA Baptist ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251105230000" stop="20251106020000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Utah_Tech_vs_CA_Baptist___ENG_HD____ENG____17_00_1">
-    <title>⌾ En vivo | 17:00 | ► NCAA Soccer ◄ Utah Tech vs CA Baptist ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106020000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Utah_Tech_vs_CA_Baptist___ENG_HD____ENG____17_00_1">
-    <title>Finalizado | ► NCAA Soccer ◄ Utah Tech vs CA Baptist ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251105060000" stop="20251106000000" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Basketball___RIT_vs_Binghamton___ENG_HD____ENG____18_00_1">
-    <title>Próximamente | 18:00 | ► NCAA Men's Basketball ◄ RIT vs Binghamton ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106000000" stop="20251106030000" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Basketball___RIT_vs_Binghamton___ENG_HD____ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | ► NCAA Men's Basketball ◄ RIT vs Binghamton ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106030000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Basketball___RIT_vs_Binghamton___ENG_HD____ENG____18_00_1">
-    <title>Finalizado | ► NCAA Men's Basketball ◄ RIT vs Binghamton ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251105060000" stop="20251106000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Portland_vs_Pepperdine___ENG_HD____ENG____18_00_1">
-    <title>Próximamente | 18:00 | ► NCAA Soccer ◄ Portland vs Pepperdine ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106000000" stop="20251106030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Portland_vs_Pepperdine___ENG_HD____ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | ► NCAA Soccer ◄ Portland vs Pepperdine ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106030000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___Portland_vs_Pepperdine___ENG_HD____ENG____18_00_1">
-    <title>Finalizado | ► NCAA Soccer ◄ Portland vs Pepperdine ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251105060000" stop="20251106000000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___SC_Upstate_vs_UNC_Asheville___ENG_HD____ENG____18_00_1">
-    <title>Próximamente | 18:00 | ► NCAA Soccer ◄ SC Upstate vs UNC Asheville ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106000000" stop="20251106030000" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___SC_Upstate_vs_UNC_Asheville___ENG_HD____ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | ► NCAA Soccer ◄ SC Upstate vs UNC Asheville ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251106030000" stop="20251106055959" channel="EVENTOS_VIP__Evento_____NCAA_Soccer___SC_Upstate_vs_UNC_Asheville___ENG_HD____ENG____18_00_1">
-    <title>Finalizado | ► NCAA Soccer ◄ SC Upstate vs UNC Asheville ► ENG-HD ◄ [ENG]</title>
   </programme>
   <programme start="20251105060000" stop="20251106003000" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Basketball___Carolina_vs_App_State___ENG_HD____ENG____18_30_1">
     <title>Próximamente | 18:30 | ► NCAA Men's Basketball ◄ Carolina vs App State ► ENG-HD ◄ [ENG]</title>
