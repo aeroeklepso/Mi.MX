@@ -143819,23 +143819,8 @@
   <channel id="EVENTOS_VIP__Evento_____Borussia_M_gladbach_vs_K_ln___Bundesliga___ESP_HD____ESP____12_30_1">
     <display-name>Evento | ► Borussia M'gladbach vs Köln ◄ Bundesliga ► ESP-HD ◄ [ESP] | 12:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Arminia_Bielefeld_vs_Karlsruher_SC___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <display-name>Evento | ► Arminia Bielefeld vs Karlsruher SC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG] | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Hannover_96_vs_Darmstadt_98___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <display-name>Evento | ► Hannover 96 vs Darmstadt 98 ◄ Bundesliga 2 ► ENG-HD ◄ [ENG] | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Schalke_04_vs_Elversberg___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <display-name>Evento | ► Schalke 04 vs Elversberg ◄ Bundesliga 2 ► ENG-HD ◄ [ENG] | 07:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Kaiserslautern_vs_Hertha_BSC___Bundesliga_2___ENG_HD____ENG____14_30_1">
     <display-name>Evento | ► Kaiserslautern vs Hertha BSC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG] | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea_FC___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <display-name>Evento | ► Arsenal vs Chelsea FC ◄ Women's Super League ► ESP-HD ◄ [ESP] | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Manchester_United_vs_Aston_Villa___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <display-name>Evento | ► Manchester United vs Aston Villa ◄ Women's Super League ► ESP-HD ◄ [ESP] | 07:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Blackburn_Rovers_vs_Derby_County___Championship___ENG_HD____ENG____07_30_1">
     <display-name>Evento | ► Blackburn Rovers vs Derby County ◄ Championship ► ENG-HD ◄ [ENG] | 07:30</display-name>
@@ -143848,15 +143833,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Stoke_City_vs_Coventry_City___Championship___ENG_HD____ENG____10_00_1">
     <display-name>Evento | ► Stoke City vs Coventry City ◄ Championship ► ENG-HD ◄ [ENG] | 10:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Chequia_vs_Burkina_Faso___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <display-name>Evento | ► Chequia vs Burkina Faso ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG] | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Uganda_vs_Chile___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <display-name>Evento | ► Uganda vs Chile ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG] | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Mal__vs_Austria___Copa_Mundial_Sub_17___ENG_HD____ENG____08_00_1">
-    <display-name>Evento | ► Malí vs Austria ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG] | 08:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Francia_vs_Canad____Copa_Mundial_Sub_17___ENG_HD____ENG____08_30_1">
     <display-name>Evento | ► Francia vs Canadá ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG] | 08:30</display-name>
@@ -144320,6 +144296,9 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_Men_Soccer___San_Diego_vs_Gonzaga___ENG_HD____ENG____22_00_1">
     <display-name>Evento | ► NCAA Men Soccer ◄ San Diego vs Gonzaga ► ENG-HD ◄ [ENG] | 22:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Rugby_Escocia_vs_Nueva_Zelanda___00_00_1">
+    <display-name>Evento | Rugby Escocia vs Nueva Zelanda | 00:00</display-name>
+  </channel>
   <programme start="20251108000000 -0600" stop="20251108123000 -0600" channel="EVENTOS_VIP__Evento_____New_Jersey_Devils_vs_Pittsburgh_Penguins___NHL___ENG_HD____ENG____12_30_1">
     <title>Próximamente | 12:30 | ► New Jersey Devils vs Pittsburgh Penguins ◄ NHL ► ENG-HD ◄ [ENG]</title>
   </programme>
@@ -144635,33 +144614,6 @@
   <programme start="20251108153000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Borussia_M_gladbach_vs_K_ln___Bundesliga___ESP_HD____ESP____12_30_1">
     <title>Finalizado | ► Borussia M'gladbach vs Köln ◄ Bundesliga ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251108000000 -0600" stop="20251108070000 -0600" channel="EVENTOS_VIP__Evento_____Arminia_Bielefeld_vs_Karlsruher_SC___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>Próximamente | 07:00 | ► Arminia Bielefeld vs Karlsruher SC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108070000 -0600" stop="20251108100000 -0600" channel="EVENTOS_VIP__Evento_____Arminia_Bielefeld_vs_Karlsruher_SC___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>⌾ En vivo | 07:00 | ► Arminia Bielefeld vs Karlsruher SC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108100000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Arminia_Bielefeld_vs_Karlsruher_SC___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>Finalizado | ► Arminia Bielefeld vs Karlsruher SC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108070000 -0600" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_Darmstadt_98___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>Próximamente | 07:00 | ► Hannover 96 vs Darmstadt 98 ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108070000 -0600" stop="20251108100000 -0600" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_Darmstadt_98___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>⌾ En vivo | 07:00 | ► Hannover 96 vs Darmstadt 98 ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108100000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_Darmstadt_98___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>Finalizado | ► Hannover 96 vs Darmstadt 98 ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108070000 -0600" channel="EVENTOS_VIP__Evento_____Schalke_04_vs_Elversberg___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>Próximamente | 07:00 | ► Schalke 04 vs Elversberg ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108070000 -0600" stop="20251108100000 -0600" channel="EVENTOS_VIP__Evento_____Schalke_04_vs_Elversberg___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>⌾ En vivo | 07:00 | ► Schalke 04 vs Elversberg ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108100000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Schalke_04_vs_Elversberg___Bundesliga_2___ENG_HD____ENG____07_00_1">
-    <title>Finalizado | ► Schalke 04 vs Elversberg ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
   <programme start="20251108000000 -0600" stop="20251108143000 -0600" channel="EVENTOS_VIP__Evento_____Kaiserslautern_vs_Hertha_BSC___Bundesliga_2___ENG_HD____ENG____14_30_1">
     <title>Próximamente | 14:30 | ► Kaiserslautern vs Hertha BSC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
   </programme>
@@ -144670,24 +144622,6 @@
   </programme>
   <programme start="20251108173000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Kaiserslautern_vs_Hertha_BSC___Bundesliga_2___ENG_HD____ENG____14_30_1">
     <title>Finalizado | ► Kaiserslautern vs Hertha BSC ◄ Bundesliga 2 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108070000 -0600" channel="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea_FC___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <title>Próximamente | 07:00 | ► Arsenal vs Chelsea FC ◄ Women's Super League ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251108070000 -0600" stop="20251108100000 -0600" channel="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea_FC___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <title>⌾ En vivo | 07:00 | ► Arsenal vs Chelsea FC ◄ Women's Super League ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251108100000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea_FC___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <title>Finalizado | ► Arsenal vs Chelsea FC ◄ Women's Super League ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108070000 -0600" channel="EVENTOS_VIP__Evento_____Manchester_United_vs_Aston_Villa___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <title>Próximamente | 07:00 | ► Manchester United vs Aston Villa ◄ Women's Super League ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251108070000 -0600" stop="20251108100000 -0600" channel="EVENTOS_VIP__Evento_____Manchester_United_vs_Aston_Villa___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <title>⌾ En vivo | 07:00 | ► Manchester United vs Aston Villa ◄ Women's Super League ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251108100000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Manchester_United_vs_Aston_Villa___Women_s_Super_League___ESP_HD____ESP____07_00_1">
-    <title>Finalizado | ► Manchester United vs Aston Villa ◄ Women's Super League ► ESP-HD ◄ [ESP]</title>
   </programme>
   <programme start="20251108000000 -0600" stop="20251108073000 -0600" channel="EVENTOS_VIP__Evento_____Blackburn_Rovers_vs_Derby_County___Championship___ENG_HD____ENG____07_30_1">
     <title>Próximamente | 07:30 | ► Blackburn Rovers vs Derby County ◄ Championship ► ENG-HD ◄ [ENG]</title>
@@ -144724,33 +144658,6 @@
   </programme>
   <programme start="20251108130000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Stoke_City_vs_Coventry_City___Championship___ENG_HD____ENG____10_00_1">
     <title>Finalizado | ► Stoke City vs Coventry City ◄ Championship ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108073000 -0600" channel="EVENTOS_VIP__Evento_____Chequia_vs_Burkina_Faso___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <title>Próximamente | 07:30 | ► Chequia vs Burkina Faso ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108073000 -0600" stop="20251108103000 -0600" channel="EVENTOS_VIP__Evento_____Chequia_vs_Burkina_Faso___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <title>⌾ En vivo | 07:30 | ► Chequia vs Burkina Faso ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108103000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Chequia_vs_Burkina_Faso___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <title>Finalizado | ► Chequia vs Burkina Faso ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108073000 -0600" channel="EVENTOS_VIP__Evento_____Uganda_vs_Chile___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <title>Próximamente | 07:30 | ► Uganda vs Chile ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108073000 -0600" stop="20251108103000 -0600" channel="EVENTOS_VIP__Evento_____Uganda_vs_Chile___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <title>⌾ En vivo | 07:30 | ► Uganda vs Chile ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108103000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Uganda_vs_Chile___Copa_Mundial_Sub_17___ENG_HD____ENG____07_30_1">
-    <title>Finalizado | ► Uganda vs Chile ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108000000 -0600" stop="20251108080000 -0600" channel="EVENTOS_VIP__Evento_____Mal__vs_Austria___Copa_Mundial_Sub_17___ENG_HD____ENG____08_00_1">
-    <title>Próximamente | 08:00 | ► Malí vs Austria ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108080000 -0600" stop="20251108110000 -0600" channel="EVENTOS_VIP__Evento_____Mal__vs_Austria___Copa_Mundial_Sub_17___ENG_HD____ENG____08_00_1">
-    <title>⌾ En vivo | 08:00 | ► Malí vs Austria ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251108110000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____Mal__vs_Austria___Copa_Mundial_Sub_17___ENG_HD____ENG____08_00_1">
-    <title>Finalizado | ► Malí vs Austria ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
   </programme>
   <programme start="20251108000000 -0600" stop="20251108083000 -0600" channel="EVENTOS_VIP__Evento_____Francia_vs_Canad____Copa_Mundial_Sub_17___ENG_HD____ENG____08_30_1">
     <title>Próximamente | 08:30 | ► Francia vs Canadá ◄ Copa Mundial Sub-17 ► ENG-HD ◄ [ENG]</title>
@@ -146137,6 +146044,15 @@
   </programme>
   <programme start="20251109010000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Men_Soccer___San_Diego_vs_Gonzaga___ENG_HD____ENG____22_00_1">
     <title>Finalizado | ► NCAA Men Soccer ◄ San Diego vs Gonzaga ► ENG-HD ◄ [ENG]</title>
+  </programme>
+  <programme start="20251108000000 -0600" stop="20251108000000 -0600" channel="EVENTOS_VIP__Evento___Rugby_Escocia_vs_Nueva_Zelanda___00_00_1">
+    <title>Próximamente | 00:00 | Rugby Escocia vs Nueva Zelanda</title>
+  </programme>
+  <programme start="20251108000000 -0600" stop="20251108030000 -0600" channel="EVENTOS_VIP__Evento___Rugby_Escocia_vs_Nueva_Zelanda___00_00_1">
+    <title>⌾ En vivo | 00:00 | Rugby Escocia vs Nueva Zelanda</title>
+  </programme>
+  <programme start="20251108030000 -0600" stop="20251108235959 -0600" channel="EVENTOS_VIP__Evento___Rugby_Escocia_vs_Nueva_Zelanda___00_00_1">
+    <title>Finalizado | Rugby Escocia vs Nueva Zelanda</title>
   </programme>
 </tv>
 
