@@ -138722,9 +138722,6 @@
     <desc>Cuatro músicos famosos en búsqueda de las mejores voces de America y serán mentores de estos cantantes para convertirse en artistas. America decidirá que cantante será digno del gran premio.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Charros_de_Jalisco_vs_Ca_eros_de_los_Mochis___LMP___ESP_HD____ESP____19_00_1">
-    <display-name>Evento | ► Charros de Jalisco vs Cañeros de los Mochis ◄ LMP ► ESP-HD ◄ [ESP] | 19:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Algodoneros_De_Guasave_vs_Yaquis_De_Ciudad_Obreg_n___LMP___ESP_HD____ESP____20_00_1">
     <display-name>Evento | ► Algodoneros De Guasave vs Yaquis De Ciudad Obregón ◄ LMP ► ESP-HD ◄ [ESP] | 20:00</display-name>
   </channel>
@@ -138770,9 +138767,6 @@
   <channel id="EVENTOS_VIP__Evento_____Los_Angeles_Chargers_vs_Pittsburgh_Steelers___NFL___ESP_HD____ESP____20_20_1">
     <display-name>Evento | ► Los Angeles Chargers vs Pittsburgh Steelers ◄ NFL ► ESP-HD ◄ [ESP] | 20:20</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Milwaukee_Bucks_vs_Houston_Rockets___NBA___ENG_HD____ENG____15_30_1">
-    <display-name>Evento | ► Milwaukee Bucks vs Houston Rockets ◄ NBA ► ENG-HD ◄ [ENG] | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Memphis_Grizzlies_vs_Oklahoma_City_Thunder___NBA___ENG_HD____ENG____18_00_1">
     <display-name>Evento | ► Memphis Grizzlies vs Oklahoma City Thunder ◄ NBA ► ENG-HD ◄ [ENG] | 18:00</display-name>
   </channel>
@@ -138793,9 +138787,6 @@
   </channel>
   <channel id="Evento_MLS____San_Diego_vs_Portland_Timbers___MLS___ESP_HD____ESP____20_00___Evento_MLS_1">
     <display-name>► San Diego vs Portland Timbers ◄ MLS ► ESP-HD ◄ [ESP] | 20:00 | Evento MLS</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Athletic_Club_vs_Real_Oviedo___LaLiga___ESP_HD____ESP____08_00_1">
-    <display-name>Evento | ► Athletic Club vs Real Oviedo ◄ LaLiga ► ESP-HD ◄ [ESP] | 08:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Athletic_Club_vs_Real_Oviedo___LaLiga___ESP_SD____ESP____08_00_1">
     <display-name>Evento | ► Athletic Club vs Real Oviedo ◄ LaLiga ► ESP-SD ◄ [ESP] | 08:00</display-name>
@@ -138818,35 +138809,11 @@
   <channel id="EVENTOS_VIP__Evento_____Celta_de_Vigo_vs_Barcelona___LaLiga___ESP_SD____ESP____15_00_1">
     <display-name>Evento | ► Celta de Vigo vs Barcelona ◄ LaLiga ► ESP-SD ◄ [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Orense_vs_Barcelona___Serie_A_de_Ecuador___ESP_HD____ESP____18_00_1">
-    <display-name>Evento | ► Orense vs Barcelona ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP] | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Benfica_vs_Casa_Pia___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <display-name>Evento | ► Benfica vs Casa Pia ◄ Primeira Liga ► ESP-HD ◄ [ESP] | 15:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Sporting_Braga_vs_Moreirense___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <display-name>Evento | ► Sporting Braga vs Moreirense ◄ Primeira Liga ► ESP-HD ◄ [ESP] | 15:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Cobresal_vs_Everton___Primera_Chile___ESP_HD____ESP____18_30_1">
-    <display-name>Evento | ► Cobresal vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP] | 18:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alianza_Atl_tico_vs_Alianza_Universidad___Primera_Peru___ESP_HD____ESP____15_15_1">
-    <display-name>Evento | ► Alianza Atlético vs Alianza Universidad ◄ Primera Peru ► ESP-HD ◄ [ESP] | 15:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Banfield_vs_Aldosivi___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <display-name>Evento | ► Banfield vs Aldosivi ◄ Primera Argentina ► ESP-HD ◄ [ESP] | 17:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Sarmiento_vs_Instituto___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <display-name>Evento | ► Sarmiento vs Instituto ◄ Primera Argentina ► ESP-HD ◄ [ESP] | 17:20</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Atl_tico_Tucum_n_vs_Godoy_Cruz___Primera_Argentina___ESP_HD____ESP____19_30_1">
     <display-name>Evento | ► Atlético Tucumán vs Godoy Cruz ◄ Primera Argentina ► ESP-HD ◄ [ESP] | 19:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Tigre_vs_Estudiantes___Primera_Argentina___ESP_HD____ESP____19_30_1">
     <display-name>Evento | ► Tigre vs Estudiantes ◄ Primera Argentina ► ESP-HD ◄ [ESP] | 19:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olimpia___Primera_Honduras___ESP_HD____ESP____16_00_1">
-    <display-name>Evento | ► Policía Nacional vs Olimpia ◄ Primera Honduras ► ESP-HD ◄ [ESP] | 16:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Motagua_vs_Choloma___Primera_Honduras___ESP_HD____ESP____18_15_1">
     <display-name>Evento | ► Motagua vs Choloma ◄ Primera Honduras ► ESP-HD ◄ [ESP] | 18:15</display-name>
@@ -138884,15 +138851,6 @@
   <channel id="Evento_LigaMX____Toluca_vs_Guadalajara___Liga_MX_Femenil___ESP_HD____ESP____21_15___Evento_LigaMX_1">
     <display-name>► Toluca vs Guadalajara ◄ Liga MX Femenil ► ESP-HD ◄ [ESP] | 21:15 | Evento LigaMX</display-name>
   </channel>
-  <programme start="20251109000000 -0600" stop="20251109190000 -0600" channel="EVENTOS_VIP__Evento_____Charros_de_Jalisco_vs_Ca_eros_de_los_Mochis___LMP___ESP_HD____ESP____19_00_1">
-    <title>Próximamente | 19:00 | ► Charros de Jalisco vs Cañeros de los Mochis ◄ LMP ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109190000 -0600" stop="20251109220000 -0600" channel="EVENTOS_VIP__Evento_____Charros_de_Jalisco_vs_Ca_eros_de_los_Mochis___LMP___ESP_HD____ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | ► Charros de Jalisco vs Cañeros de los Mochis ◄ LMP ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109220000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Charros_de_Jalisco_vs_Ca_eros_de_los_Mochis___LMP___ESP_HD____ESP____19_00_1">
-    <title>Finalizado | ► Charros de Jalisco vs Cañeros de los Mochis ◄ LMP ► ESP-HD ◄ [ESP]</title>
-  </programme>
   <programme start="20251109000000 -0600" stop="20251109200000 -0600" channel="EVENTOS_VIP__Evento_____Algodoneros_De_Guasave_vs_Yaquis_De_Ciudad_Obreg_n___LMP___ESP_HD____ESP____20_00_1">
     <title>Próximamente | 20:00 | ► Algodoneros De Guasave vs Yaquis De Ciudad Obregón ◄ LMP ► ESP-HD ◄ [ESP]</title>
   </programme>
@@ -139028,15 +138986,6 @@
   <programme start="20251109232000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Los_Angeles_Chargers_vs_Pittsburgh_Steelers___NFL___ESP_HD____ESP____20_20_1">
     <title>Finalizado | ► Los Angeles Chargers vs Pittsburgh Steelers ◄ NFL ► ESP-HD ◄ [ESP]</title>
   </programme>
-  <programme start="20251109000000 -0600" stop="20251109153000 -0600" channel="EVENTOS_VIP__Evento_____Milwaukee_Bucks_vs_Houston_Rockets___NBA___ENG_HD____ENG____15_30_1">
-    <title>Próximamente | 15:30 | ► Milwaukee Bucks vs Houston Rockets ◄ NBA ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251109153000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____Milwaukee_Bucks_vs_Houston_Rockets___NBA___ENG_HD____ENG____15_30_1">
-    <title>⌾ En vivo | 15:30 | ► Milwaukee Bucks vs Houston Rockets ◄ NBA ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251109183000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Milwaukee_Bucks_vs_Houston_Rockets___NBA___ENG_HD____ENG____15_30_1">
-    <title>Finalizado | ► Milwaukee Bucks vs Houston Rockets ◄ NBA ► ENG-HD ◄ [ENG]</title>
-  </programme>
   <programme start="20251109000000 -0600" stop="20251109180000 -0600" channel="EVENTOS_VIP__Evento_____Memphis_Grizzlies_vs_Oklahoma_City_Thunder___NBA___ENG_HD____ENG____18_00_1">
     <title>Próximamente | 18:00 | ► Memphis Grizzlies vs Oklahoma City Thunder ◄ NBA ► ENG-HD ◄ [ENG]</title>
   </programme>
@@ -139099,15 +139048,6 @@
   </programme>
   <programme start="20251109230000 -0600" stop="20251109235959 -0600" channel="Evento_MLS____San_Diego_vs_Portland_Timbers___MLS___ESP_HD____ESP____20_00___Evento_MLS_1">
     <title>Finalizado | ► San Diego vs Portland Timbers ◄ MLS ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109080000 -0600" channel="EVENTOS_VIP__Evento_____Athletic_Club_vs_Real_Oviedo___LaLiga___ESP_HD____ESP____08_00_1">
-    <title>Próximamente | 08:00 | ► Athletic Club vs Real Oviedo ◄ LaLiga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109080000 -0600" stop="20251109110000 -0600" channel="EVENTOS_VIP__Evento_____Athletic_Club_vs_Real_Oviedo___LaLiga___ESP_HD____ESP____08_00_1">
-    <title>⌾ En vivo | 08:00 | ► Athletic Club vs Real Oviedo ◄ LaLiga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109110000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Athletic_Club_vs_Real_Oviedo___LaLiga___ESP_HD____ESP____08_00_1">
-    <title>Finalizado | ► Athletic Club vs Real Oviedo ◄ LaLiga ► ESP-HD ◄ [ESP]</title>
   </programme>
   <programme start="20251109000000 -0600" stop="20251109080000 -0600" channel="EVENTOS_VIP__Evento_____Athletic_Club_vs_Real_Oviedo___LaLiga___ESP_SD____ESP____08_00_1">
     <title>Próximamente | 08:00 | ► Athletic Club vs Real Oviedo ◄ LaLiga ► ESP-SD ◄ [ESP]</title>
@@ -139172,69 +139112,6 @@
   <programme start="20251109180000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Celta_de_Vigo_vs_Barcelona___LaLiga___ESP_SD____ESP____15_00_1">
     <title>Finalizado | ► Celta de Vigo vs Barcelona ◄ LaLiga ► ESP-SD ◄ [ESP]</title>
   </programme>
-  <programme start="20251109000000 -0600" stop="20251109180000 -0600" channel="EVENTOS_VIP__Evento_____Orense_vs_Barcelona___Serie_A_de_Ecuador___ESP_HD____ESP____18_00_1">
-    <title>Próximamente | 18:00 | ► Orense vs Barcelona ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109180000 -0600" stop="20251109210000 -0600" channel="EVENTOS_VIP__Evento_____Orense_vs_Barcelona___Serie_A_de_Ecuador___ESP_HD____ESP____18_00_1">
-    <title>⌾ En vivo | 18:00 | ► Orense vs Barcelona ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109210000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Orense_vs_Barcelona___Serie_A_de_Ecuador___ESP_HD____ESP____18_00_1">
-    <title>Finalizado | ► Orense vs Barcelona ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109153000 -0600" channel="EVENTOS_VIP__Evento_____Benfica_vs_Casa_Pia___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <title>Próximamente | 15:30 | ► Benfica vs Casa Pia ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109153000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____Benfica_vs_Casa_Pia___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | ► Benfica vs Casa Pia ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109183000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Benfica_vs_Casa_Pia___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <title>Finalizado | ► Benfica vs Casa Pia ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109153000 -0600" channel="EVENTOS_VIP__Evento_____Sporting_Braga_vs_Moreirense___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <title>Próximamente | 15:30 | ► Sporting Braga vs Moreirense ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109153000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____Sporting_Braga_vs_Moreirense___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | ► Sporting Braga vs Moreirense ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109183000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Sporting_Braga_vs_Moreirense___Primeira_Liga___ESP_HD____ESP____15_30_1">
-    <title>Finalizado | ► Sporting Braga vs Moreirense ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____Cobresal_vs_Everton___Primera_Chile___ESP_HD____ESP____18_30_1">
-    <title>Próximamente | 18:30 | ► Cobresal vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109183000 -0600" stop="20251109213000 -0600" channel="EVENTOS_VIP__Evento_____Cobresal_vs_Everton___Primera_Chile___ESP_HD____ESP____18_30_1">
-    <title>⌾ En vivo | 18:30 | ► Cobresal vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109213000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Cobresal_vs_Everton___Primera_Chile___ESP_HD____ESP____18_30_1">
-    <title>Finalizado | ► Cobresal vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109151500 -0600" channel="EVENTOS_VIP__Evento_____Alianza_Atl_tico_vs_Alianza_Universidad___Primera_Peru___ESP_HD____ESP____15_15_1">
-    <title>Próximamente | 15:15 | ► Alianza Atlético vs Alianza Universidad ◄ Primera Peru ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109151500 -0600" stop="20251109181500 -0600" channel="EVENTOS_VIP__Evento_____Alianza_Atl_tico_vs_Alianza_Universidad___Primera_Peru___ESP_HD____ESP____15_15_1">
-    <title>⌾ En vivo | 15:15 | ► Alianza Atlético vs Alianza Universidad ◄ Primera Peru ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109181500 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Alianza_Atl_tico_vs_Alianza_Universidad___Primera_Peru___ESP_HD____ESP____15_15_1">
-    <title>Finalizado | ► Alianza Atlético vs Alianza Universidad ◄ Primera Peru ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109172000 -0600" channel="EVENTOS_VIP__Evento_____Banfield_vs_Aldosivi___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <title>Próximamente | 17:20 | ► Banfield vs Aldosivi ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109172000 -0600" stop="20251109202000 -0600" channel="EVENTOS_VIP__Evento_____Banfield_vs_Aldosivi___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <title>⌾ En vivo | 17:20 | ► Banfield vs Aldosivi ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109202000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Banfield_vs_Aldosivi___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <title>Finalizado | ► Banfield vs Aldosivi ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109172000 -0600" channel="EVENTOS_VIP__Evento_____Sarmiento_vs_Instituto___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <title>Próximamente | 17:20 | ► Sarmiento vs Instituto ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109172000 -0600" stop="20251109202000 -0600" channel="EVENTOS_VIP__Evento_____Sarmiento_vs_Instituto___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <title>⌾ En vivo | 17:20 | ► Sarmiento vs Instituto ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109202000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Sarmiento_vs_Instituto___Primera_Argentina___ESP_HD____ESP____17_20_1">
-    <title>Finalizado | ► Sarmiento vs Instituto ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
   <programme start="20251109000000 -0600" stop="20251109193000 -0600" channel="EVENTOS_VIP__Evento_____Atl_tico_Tucum_n_vs_Godoy_Cruz___Primera_Argentina___ESP_HD____ESP____19_30_1">
     <title>Próximamente | 19:30 | ► Atlético Tucumán vs Godoy Cruz ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
   </programme>
@@ -139252,15 +139129,6 @@
   </programme>
   <programme start="20251109223000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Tigre_vs_Estudiantes___Primera_Argentina___ESP_HD____ESP____19_30_1">
     <title>Finalizado | ► Tigre vs Estudiantes ◄ Primera Argentina ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109160000 -0600" channel="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olimpia___Primera_Honduras___ESP_HD____ESP____16_00_1">
-    <title>Próximamente | 16:00 | ► Policía Nacional vs Olimpia ◄ Primera Honduras ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109160000 -0600" stop="20251109190000 -0600" channel="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olimpia___Primera_Honduras___ESP_HD____ESP____16_00_1">
-    <title>⌾ En vivo | 16:00 | ► Policía Nacional vs Olimpia ◄ Primera Honduras ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109190000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olimpia___Primera_Honduras___ESP_HD____ESP____16_00_1">
-    <title>Finalizado | ► Policía Nacional vs Olimpia ◄ Primera Honduras ► ESP-HD ◄ [ESP]</title>
   </programme>
   <programme start="20251109000000 -0600" stop="20251109181500 -0600" channel="EVENTOS_VIP__Evento_____Motagua_vs_Choloma___Primera_Honduras___ESP_HD____ESP____18_15_1">
     <title>Próximamente | 18:15 | ► Motagua vs Choloma ◄ Primera Honduras ► ESP-HD ◄ [ESP]</title>
