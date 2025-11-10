@@ -138818,9 +138818,6 @@
   <channel id="EVENTOS_VIP__Evento_____Celta_de_Vigo_vs_Barcelona___LaLiga___ESP_SD____ESP____15_00_1">
     <display-name>Evento | ► Celta de Vigo vs Barcelona ◄ LaLiga ► ESP-SD ◄ [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____El_Nacional_vs_Emelec___Serie_A_de_Ecuador___ESP_HD____ESP____15_30_1">
-    <display-name>Evento | ► El Nacional vs Emelec ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP] | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Orense_vs_Barcelona___Serie_A_de_Ecuador___ESP_HD____ESP____18_00_1">
     <display-name>Evento | ► Orense vs Barcelona ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP] | 18:00</display-name>
   </channel>
@@ -138829,9 +138826,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Sporting_Braga_vs_Moreirense___Primeira_Liga___ESP_HD____ESP____15_30_1">
     <display-name>Evento | ► Sporting Braga vs Moreirense ◄ Primeira Liga ► ESP-HD ◄ [ESP] | 15:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Deportes_Limache___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <display-name>Evento | ► Universidad Chile vs Deportes Limache ◄ Primera Chile ► ESP-HD ◄ [ESP] | 15:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Cobresal_vs_Everton___Primera_Chile___ESP_HD____ESP____18_30_1">
     <display-name>Evento | ► Cobresal vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP] | 18:30</display-name>
@@ -139178,15 +139172,6 @@
   <programme start="20251109180000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Celta_de_Vigo_vs_Barcelona___LaLiga___ESP_SD____ESP____15_00_1">
     <title>Finalizado | ► Celta de Vigo vs Barcelona ◄ LaLiga ► ESP-SD ◄ [ESP]</title>
   </programme>
-  <programme start="20251109000000 -0600" stop="20251109153000 -0600" channel="EVENTOS_VIP__Evento_____El_Nacional_vs_Emelec___Serie_A_de_Ecuador___ESP_HD____ESP____15_30_1">
-    <title>Próximamente | 15:30 | ► El Nacional vs Emelec ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109153000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____El_Nacional_vs_Emelec___Serie_A_de_Ecuador___ESP_HD____ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | ► El Nacional vs Emelec ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109183000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____El_Nacional_vs_Emelec___Serie_A_de_Ecuador___ESP_HD____ESP____15_30_1">
-    <title>Finalizado | ► El Nacional vs Emelec ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
-  </programme>
   <programme start="20251109000000 -0600" stop="20251109180000 -0600" channel="EVENTOS_VIP__Evento_____Orense_vs_Barcelona___Serie_A_de_Ecuador___ESP_HD____ESP____18_00_1">
     <title>Próximamente | 18:00 | ► Orense vs Barcelona ◄ Serie A de Ecuador ► ESP-HD ◄ [ESP]</title>
   </programme>
@@ -139213,15 +139198,6 @@
   </programme>
   <programme start="20251109183000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Sporting_Braga_vs_Moreirense___Primeira_Liga___ESP_HD____ESP____15_30_1">
     <title>Finalizado | ► Sporting Braga vs Moreirense ◄ Primeira Liga ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109000000 -0600" stop="20251109153000 -0600" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Deportes_Limache___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <title>Próximamente | 15:30 | ► Universidad Chile vs Deportes Limache ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109153000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Deportes_Limache___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | ► Universidad Chile vs Deportes Limache ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251109183000 -0600" stop="20251109235959 -0600" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Deportes_Limache___Primera_Chile___ESP_HD____ESP____15_30_1">
-    <title>Finalizado | ► Universidad Chile vs Deportes Limache ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
   </programme>
   <programme start="20251109000000 -0600" stop="20251109183000 -0600" channel="EVENTOS_VIP__Evento_____Cobresal_vs_Everton___Primera_Chile___ESP_HD____ESP____18_30_1">
     <title>Próximamente | 18:30 | ► Cobresal vs Everton ◄ Primera Chile ► ESP-HD ◄ [ESP]</title>
