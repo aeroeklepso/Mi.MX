@@ -140315,9 +140315,6 @@
   <channel id="EVENTOS_VIP__Evento_____Milwaukee_Bucks_vs_Los_Angeles_Lakers___NBA___ENG_HD____ENG____20_00_1">
     <display-name>Evento | ► Milwaukee Bucks vs Los Angeles Lakers ◄ NBA ► ENG-HD ◄ [ENG] | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Manchester_City_vs_Manchester_United___English_Women_s_Super_Leagueifying___ENG_HD____ENG____08_25_1">
-    <display-name>Evento | ► Manchester City vs Manchester United ◄ English Women's Super Leagueifying ► ENG-HD ◄ [ENG] | 08:25</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Kazajst_n_vs_B_lgica___World_Cup_Qualifying___ENG_HD____ENG____09_00_1">
     <display-name>Evento | ► Kazajstán vs Bélgica ◄ World Cup Qualifying ► ENG-HD ◄ [ENG] | 09:00</display-name>
   </channel>
@@ -140380,18 +140377,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____LA_Galaxy_vs_Am_rica___Amistos___ESP_HD___Tentativo__ESP____21_30_1">
     <display-name>Evento | ► LA Galaxy vs América ◄ Amistos ► ESP-HD ◄ Tentativo [ESP] | 21:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Inglaterra___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <display-name>Evento | ► Corea del Sur vs Inglaterra ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP] | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Senegal_vs_Uganda___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <display-name>Evento | ► Senegal vs Uganda ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP] | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Italia_vs_Chequia___Copa_Mundial_Sub_17___ESP_HD____ESP____08_00_1">
-    <display-name>Evento | ► Italia vs Chequia ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP] | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Jap_n_vs_Sur__frica___Copa_Mundial_Sub_17___ESP_HD____ESP____08_30_1">
-    <display-name>Evento | ► Japón vs Sur África ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP] | 08:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Alemania_vs_Burkina_Faso___Copa_Mundial_Sub_17___ESP_HD____ESP____09_45_1">
     <display-name>Evento | ► Alemania vs Burkina Faso ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP] | 09:45</display-name>
@@ -140969,15 +140954,6 @@
   <programme start="20251116050000" stop="20251116055959" channel="EVENTOS_VIP__Evento_____Milwaukee_Bucks_vs_Los_Angeles_Lakers___NBA___ENG_HD____ENG____20_00_1">
     <title>Finalizado | ► Milwaukee Bucks vs Los Angeles Lakers ◄ NBA ► ENG-HD ◄ [ENG]</title>
   </programme>
-  <programme start="20251115060000" stop="20251115142500" channel="EVENTOS_VIP__Evento_____Manchester_City_vs_Manchester_United___English_Women_s_Super_Leagueifying___ENG_HD____ENG____08_25_1">
-    <title>Próximamente | 08:25 | ► Manchester City vs Manchester United ◄ English Women's Super Leagueifying ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251115142500" stop="20251115172500" channel="EVENTOS_VIP__Evento_____Manchester_City_vs_Manchester_United___English_Women_s_Super_Leagueifying___ENG_HD____ENG____08_25_1">
-    <title>⌾ En vivo | 08:25 | ► Manchester City vs Manchester United ◄ English Women's Super Leagueifying ► ENG-HD ◄ [ENG]</title>
-  </programme>
-  <programme start="20251115172500" stop="20251116055959" channel="EVENTOS_VIP__Evento_____Manchester_City_vs_Manchester_United___English_Women_s_Super_Leagueifying___ENG_HD____ENG____08_25_1">
-    <title>Finalizado | ► Manchester City vs Manchester United ◄ English Women's Super Leagueifying ► ENG-HD ◄ [ENG]</title>
-  </programme>
   <programme start="20251115060000" stop="20251115150000" channel="EVENTOS_VIP__Evento_____Kazajst_n_vs_B_lgica___World_Cup_Qualifying___ENG_HD____ENG____09_00_1">
     <title>Próximamente | 09:00 | ► Kazajstán vs Bélgica ◄ World Cup Qualifying ► ENG-HD ◄ [ENG]</title>
   </programme>
@@ -141166,42 +141142,6 @@
   </programme>
   <programme start="20251116063000" stop="20251116055959" channel="EVENTOS_VIP__Evento_____LA_Galaxy_vs_Am_rica___Amistos___ESP_HD___Tentativo__ESP____21_30_1">
     <title>Finalizado | ► LA Galaxy vs América ◄ Amistos ► ESP-HD ◄ Tentativo [ESP]</title>
-  </programme>
-  <programme start="20251115060000" stop="20251115133000" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Inglaterra___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <title>Próximamente | 07:30 | ► Corea del Sur vs Inglaterra ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115133000" stop="20251115163000" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Inglaterra___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <title>⌾ En vivo | 07:30 | ► Corea del Sur vs Inglaterra ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115163000" stop="20251116055959" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Inglaterra___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <title>Finalizado | ► Corea del Sur vs Inglaterra ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115060000" stop="20251115133000" channel="EVENTOS_VIP__Evento_____Senegal_vs_Uganda___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <title>Próximamente | 07:30 | ► Senegal vs Uganda ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115133000" stop="20251115163000" channel="EVENTOS_VIP__Evento_____Senegal_vs_Uganda___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <title>⌾ En vivo | 07:30 | ► Senegal vs Uganda ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115163000" stop="20251116055959" channel="EVENTOS_VIP__Evento_____Senegal_vs_Uganda___Copa_Mundial_Sub_17___ESP_HD____ESP____07_30_1">
-    <title>Finalizado | ► Senegal vs Uganda ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115060000" stop="20251115140000" channel="EVENTOS_VIP__Evento_____Italia_vs_Chequia___Copa_Mundial_Sub_17___ESP_HD____ESP____08_00_1">
-    <title>Próximamente | 08:00 | ► Italia vs Chequia ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115140000" stop="20251115170000" channel="EVENTOS_VIP__Evento_____Italia_vs_Chequia___Copa_Mundial_Sub_17___ESP_HD____ESP____08_00_1">
-    <title>⌾ En vivo | 08:00 | ► Italia vs Chequia ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115170000" stop="20251116055959" channel="EVENTOS_VIP__Evento_____Italia_vs_Chequia___Copa_Mundial_Sub_17___ESP_HD____ESP____08_00_1">
-    <title>Finalizado | ► Italia vs Chequia ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115060000" stop="20251115143000" channel="EVENTOS_VIP__Evento_____Jap_n_vs_Sur__frica___Copa_Mundial_Sub_17___ESP_HD____ESP____08_30_1">
-    <title>Próximamente | 08:30 | ► Japón vs Sur África ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115143000" stop="20251115173000" channel="EVENTOS_VIP__Evento_____Jap_n_vs_Sur__frica___Copa_Mundial_Sub_17___ESP_HD____ESP____08_30_1">
-    <title>⌾ En vivo | 08:30 | ► Japón vs Sur África ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
-  </programme>
-  <programme start="20251115173000" stop="20251116055959" channel="EVENTOS_VIP__Evento_____Jap_n_vs_Sur__frica___Copa_Mundial_Sub_17___ESP_HD____ESP____08_30_1">
-    <title>Finalizado | ► Japón vs Sur África ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
   </programme>
   <programme start="20251115060000" stop="20251115154500" channel="EVENTOS_VIP__Evento_____Alemania_vs_Burkina_Faso___Copa_Mundial_Sub_17___ESP_HD____ESP____09_45_1">
     <title>Próximamente | 09:45 | ► Alemania vs Burkina Faso ◄ Copa Mundial Sub-17 ► ESP-HD ◄ [ESP]</title>
