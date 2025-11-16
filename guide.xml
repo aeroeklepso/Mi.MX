@@ -139706,12 +139706,6 @@
     <desc>Los artistas restantes no tienen nada que perder mientras se toman decisiones difíciles.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ESP_HD___Main_Card__ESP____22_00_1">
-    <display-name>Evento | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ESP-HD ◄ Main Card [ESP] | 22:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ENG_HD___Main_Card__ENG____22_00_1">
-    <display-name>Evento | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ENG-HD ◄ Main Card [ENG] | 22:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Pittsburgh_Penguins_vs_Nashville_Predators___NHL___ENG_HD____ENG____09_00_1">
     <display-name>Evento | ► Pittsburgh Penguins vs Nashville Predators ◄ NHL ► ENG-HD ◄ [ENG] | 09:00</display-name>
   </channel>
@@ -140003,24 +139997,6 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_Soccer___Orlando_vs_NY_Gotham_FC___ENG_HD____ENG____15_00_1">
     <display-name>Evento | ► NCAA Soccer ◄ Orlando vs NY Gotham FC ► ENG-HD ◄ [ENG] | 15:00</display-name>
   </channel>
-  <programme start="20251116000000 -0600" stop="20251116220000 -0600" channel="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ESP_HD___Main_Card__ESP____22_00_1">
-    <title>Próximamente | 22:00 | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ESP-HD ◄ Main Card [ESP]</title>
-  </programme>
-  <programme start="20251116220000 -0600" stop="20251117010000 -0600" channel="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ESP_HD___Main_Card__ESP____22_00_1">
-    <title>⌾ En vivo | 22:00 | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ESP-HD ◄ Main Card [ESP]</title>
-  </programme>
-  <programme start="20251117010000 -0600" stop="20251116235959 -0600" channel="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ESP_HD___Main_Card__ESP____22_00_1">
-    <title>Finalizado | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ESP-HD ◄ Main Card [ESP]</title>
-  </programme>
-  <programme start="20251116000000 -0600" stop="20251116220000 -0600" channel="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ENG_HD___Main_Card__ENG____22_00_1">
-    <title>Próximamente | 22:00 | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ENG-HD ◄ Main Card [ENG]</title>
-  </programme>
-  <programme start="20251116220000 -0600" stop="20251117010000 -0600" channel="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ENG_HD___Main_Card__ENG____22_00_1">
-    <title>⌾ En vivo | 22:00 | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ENG-HD ◄ Main Card [ENG]</title>
-  </programme>
-  <programme start="20251117010000 -0600" stop="20251116235959 -0600" channel="EVENTOS_VIP__Evento_____Jack_Della_Maddalena_vs_Islam_Makhachev___UFC___ENG_HD___Main_Card__ENG____22_00_1">
-    <title>Finalizado | ► Jack Della Maddalena vs Islam Makhachev ◄ UFC ► ENG-HD ◄ Main Card [ENG]</title>
-  </programme>
   <programme start="20251116000000 -0600" stop="20251116090000 -0600" channel="EVENTOS_VIP__Evento_____Pittsburgh_Penguins_vs_Nashville_Predators___NHL___ENG_HD____ENG____09_00_1">
     <title>Próximamente | 09:00 | ► Pittsburgh Penguins vs Nashville Predators ◄ NHL ► ENG-HD ◄ [ENG]</title>
   </programme>
