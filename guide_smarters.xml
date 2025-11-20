@@ -94043,9 +94043,6 @@
   <channel id="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___OH_Leuven_vs_Roma__ENG____14_00_1">
     <display-name>UEFA Women's Champions League | OH Leuven vs Roma [ENG] | 14:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___PSG_vs_Bayern__ENG____14_00_1">
-    <display-name>UEFA Women's Champions League | PSG vs Bayern [ENG] | 14:00</display-name>
-  </channel>
   <channel id="Evento_League_One__League_One___Peterborough_United_vs_Stockport_County__ENG____14_00_1">
     <display-name>League One | Peterborough United vs Stockport County [ENG] | 14:00</display-name>
   </channel>
@@ -94057,9 +94054,6 @@
   </channel>
   <channel id="Evento_Primera_Honduras__Primera_Honduras___Motagua_vs_Olancho__ESP____19_00_1">
     <display-name>Primera Honduras | Motagua vs Olancho [ESP] | 19:00</display-name>
-  </channel>
-  <channel id="Evento_Brasileirao__Brasileirao___Juventude_vs_Cruzeiro___13_00_1">
-    <display-name>Brasileirao | Juventude vs Cruzeiro | 13:00</display-name>
   </channel>
   <channel id="Evento_Brasileirao__Brasileirao___Bahia_vs_Fortaleza___15_00_1">
     <display-name>Brasileirao | Bahia vs Fortaleza | 15:00</display-name>
@@ -94397,15 +94391,6 @@
   <programme start="20251120230000" stop="20251121055959" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___OH_Leuven_vs_Roma__ENG____14_00_1">
     <title>Finalizado | OH Leuven vs Roma [ENG]</title>
   </programme>
-  <programme start="20251120060000" stop="20251120200000" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___PSG_vs_Bayern__ENG____14_00_1">
-    <title>Próximamente | 14:00 | PSG vs Bayern [ENG]</title>
-  </programme>
-  <programme start="20251120200000" stop="20251120230000" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___PSG_vs_Bayern__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | PSG vs Bayern [ENG]</title>
-  </programme>
-  <programme start="20251120230000" stop="20251121055959" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___PSG_vs_Bayern__ENG____14_00_1">
-    <title>Finalizado | PSG vs Bayern [ENG]</title>
-  </programme>
   <programme start="20251120060000" stop="20251120200000" channel="Evento_League_One__League_One___Peterborough_United_vs_Stockport_County__ENG____14_00_1">
     <title>Próximamente | 14:00 | Peterborough United vs Stockport County [ENG]</title>
   </programme>
@@ -94441,15 +94426,6 @@
   </programme>
   <programme start="20251121040000" stop="20251121055959" channel="Evento_Primera_Honduras__Primera_Honduras___Motagua_vs_Olancho__ESP____19_00_1">
     <title>Finalizado | Motagua vs Olancho [ESP]</title>
-  </programme>
-  <programme start="20251120060000" stop="20251120190000" channel="Evento_Brasileirao__Brasileirao___Juventude_vs_Cruzeiro___13_00_1">
-    <title>Próximamente | 13:00 | Juventude vs Cruzeiro</title>
-  </programme>
-  <programme start="20251120190000" stop="20251120220000" channel="Evento_Brasileirao__Brasileirao___Juventude_vs_Cruzeiro___13_00_1">
-    <title>⌾ En vivo | 13:00 | Juventude vs Cruzeiro</title>
-  </programme>
-  <programme start="20251120220000" stop="20251121055959" channel="Evento_Brasileirao__Brasileirao___Juventude_vs_Cruzeiro___13_00_1">
-    <title>Finalizado | Juventude vs Cruzeiro</title>
   </programme>
   <programme start="20251120060000" stop="20251120210000" channel="Evento_Brasileirao__Brasileirao___Bahia_vs_Fortaleza___15_00_1">
     <title>Próximamente | 15:00 | Bahia vs Fortaleza</title>
