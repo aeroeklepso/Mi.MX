@@ -93272,12 +93272,6 @@
   <channel id="Evento_NBA__NBA___Memphis_Grizzlies_vs_Sacramento_Kings__ESP____19_00_1">
     <display-name>NBA | Memphis Grizzlies vs Sacramento Kings [ESP] | 19:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___Chelsea_FC_vs_Barcelona__ENG____14_00_1">
-    <display-name>UEFA Women's Champions League | Chelsea FC vs Barcelona [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___OH_Leuven_vs_Roma__ENG____14_00_1">
-    <display-name>UEFA Women's Champions League | OH Leuven vs Roma [ENG] | 14:00</display-name>
-  </channel>
   <channel id="Evento_League_One__League_One___Peterborough_United_vs_Stockport_County__ENG____14_00_1">
     <display-name>League One | Peterborough United vs Stockport County [ENG] | 14:00</display-name>
   </channel>
@@ -93589,24 +93583,6 @@
   </programme>
   <programme start="20251121040000" stop="20251121055959" channel="Evento_NBA__NBA___Memphis_Grizzlies_vs_Sacramento_Kings__ESP____19_00_1">
     <title>Finalizado | Memphis Grizzlies vs Sacramento Kings [ESP]</title>
-  </programme>
-  <programme start="20251120060000" stop="20251120200000" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___Chelsea_FC_vs_Barcelona__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Chelsea FC vs Barcelona [ENG]</title>
-  </programme>
-  <programme start="20251120200000" stop="20251120230000" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___Chelsea_FC_vs_Barcelona__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Chelsea FC vs Barcelona [ENG]</title>
-  </programme>
-  <programme start="20251120230000" stop="20251121055959" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___Chelsea_FC_vs_Barcelona__ENG____14_00_1">
-    <title>Finalizado | Chelsea FC vs Barcelona [ENG]</title>
-  </programme>
-  <programme start="20251120060000" stop="20251120200000" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___OH_Leuven_vs_Roma__ENG____14_00_1">
-    <title>Próximamente | 14:00 | OH Leuven vs Roma [ENG]</title>
-  </programme>
-  <programme start="20251120200000" stop="20251120230000" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___OH_Leuven_vs_Roma__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | OH Leuven vs Roma [ENG]</title>
-  </programme>
-  <programme start="20251120230000" stop="20251121055959" channel="Evento_UEFA_Women_s_Champions_League__UEFA_Women_s_Champions_League___OH_Leuven_vs_Roma__ENG____14_00_1">
-    <title>Finalizado | OH Leuven vs Roma [ENG]</title>
   </programme>
   <programme start="20251120060000" stop="20251120200000" channel="Evento_League_One__League_One___Peterborough_United_vs_Stockport_County__ENG____14_00_1">
     <title>Próximamente | 14:00 | Peterborough United vs Stockport County [ENG]</title>
