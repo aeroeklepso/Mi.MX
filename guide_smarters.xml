@@ -139256,9 +139256,6 @@
     <desc>Los ocho mejores artistas interpretan sus canciones frente a los coaches para obtener un lugar dentro de la gran final.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento___Colo_Colo_vs_Coquimbo_Unido___00_00_1">
-    <display-name>Evento | Colo-Colo vs Coquimbo Unido | 00:00</display-name>
-  </channel>
   <channel id="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Yaquis_De_Ciudad_Obreg_n__ESP____20_00_1">
     <display-name>LMP | Venados De Maz vs lan vs. Yaquis De Ciudad Obregón [ESP] | 20:00</display-name>
   </channel>
@@ -139273,9 +139270,6 @@
   </channel>
   <channel id="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Tomateros_De_Culiacan__ESP____21_30_1">
     <display-name>LMP | Aguilas De Mexicali vs Tomateros De Culiacan [ESP] | 21:30</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Buffalo_Sabres_vs_Chicago_Blackhawks__ENG____18_00_1">
-    <display-name>NHL | Buffalo Sabres vs Chicago Blackhawks [ENG] | 18:00</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Minnesota_Wild__ENG____18_00_1">
     <display-name>NHL | Pittsburgh Penguins vs Minnesota Wild [ENG] | 18:00</display-name>
@@ -139316,44 +139310,11 @@
   <channel id="Evento_NBA__NBA___Utah_Jazz_vs_Oklahoma_City_Thunder__ESP____21_00_1">
     <display-name>NBA | Utah Jazz vs Oklahoma City Thunder [ESP] | 21:00</display-name>
   </channel>
-  <channel id="Evento_Serie_A_de_Ecuador__Serie_A_de_Ecuador___Universidad_C_vs__lica_vs__Libertad__ESP____15_30_1">
-    <display-name>Serie A de Ecuador | Universidad C vs ólica vs. Libertad [ESP] | 15:30</display-name>
-  </channel>
   <channel id="Evento_USL_Super_League__USL_Super_League___DC_Power_vs_Carolina_Ascent__ENG____18_00_1">
     <display-name>USL Super League | DC Power vs Carolina Ascent [ENG] | 18:00</display-name>
   </channel>
   <channel id="Evento_Serie_A_de_Ecuador__Serie_A_de_Ecuador___Deportivo_Cuenca_vs_El_Nacional__ESP____18_00_1">
     <display-name>Serie A de Ecuador | Deportivo Cuenca vs El Nacional [ESP] | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Army_vs_Colgate__ENG____14_00_1">
-    <display-name>NCAA Women Volleyball | Army vs Colgate [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Davidson_vs_Boston_College__ENG____14_30_1">
-    <display-name>NCAA Men Basketball | Davidson vs Boston College [ENG] | 14:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Binghamton_vs_UMBC__ENG____15_00_1">
-    <display-name>NCAA Women Volleyball | Binghamton vs UMBC [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Brown_vs_Princeton__ENG____15_00_1">
-    <display-name>NCAA Women Volleyball | Brown vs Princeton [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Eastern_Kentucky_vs_Jacksonville__ENG____15_00_1">
-    <display-name>NCAA Women Volleyball | Eastern Kentucky vs Jacksonville [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Loyola_Marymount_vs_Hawai_i__ENG____15_00_1">
-    <display-name>NCAA Women Basketball | Loyola Marymount vs Hawai'i [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Mercer_vs_Furman__ENG____15_00_1">
-    <display-name>NCAA Women Volleyball | Mercer vs Furman [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Miami__OH__vs_Toled__ENG____15_00_1">
-    <display-name>NCAA Women Volleyball | Miami (OH) vs Toled [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Yale_vs_Cornell__ENG____15_00_1">
-    <display-name>NCAA Women Volleyball | Yale vs Cornell [ENG] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_USC_vs__24_Notre_Dame__ENG____17_00_1">
-    <display-name>NCAA Women Basketball | #11 USC vs #24 Notre Dame [ENG] | 17:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball____6_Louisville_vs_Cincinnati__ENG____17_30_1">
     <display-name>NCAA Men Basketball | #6 Louisville vs Cincinnati [ENG] | 17:30</display-name>
@@ -139400,18 +139361,12 @@
   <channel id="Evento_BOX__BOX___Damien_Davila_vs_Nestor_Ramirez__ENG____19_00_1">
     <display-name>BOX | Damien Davila vs Nestor Ramirez [ENG] | 19:00</display-name>
   </channel>
+  <channel id="Evento_BOX__BOX___Damien_Davila_vs_Nestor_Ramirez__ENG____19_00_2">
+    <display-name>BOX | Damien Davila vs Nestor Ramirez [ENG] | 19:00</display-name>
+  </channel>
   <channel id="Evento_Primera_Honduras__Primera_Honduras___Deportivo_Cuenca_vs_El_Nacional__ESP____19_30_1">
     <display-name>Primera Honduras | Deportivo Cuenca vs El Nacional [ESP] | 19:30</display-name>
   </channel>
-  <programme start="20251121060000" stop="20251121060000" channel="EVENTOS_VIP__Evento___Colo_Colo_vs_Coquimbo_Unido___00_00_1">
-    <title>Próximamente | 00:00 | Colo-Colo vs Coquimbo Unido</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121090000" channel="EVENTOS_VIP__Evento___Colo_Colo_vs_Coquimbo_Unido___00_00_1">
-    <title>⌾ En vivo | 00:00 | Colo-Colo vs Coquimbo Unido</title>
-  </programme>
-  <programme start="20251121090000" stop="20251122055959" channel="EVENTOS_VIP__Evento___Colo_Colo_vs_Coquimbo_Unido___00_00_1">
-    <title>Finalizado | Colo-Colo vs Coquimbo Unido</title>
-  </programme>
   <programme start="20251121060000" stop="20251122020000" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Yaquis_De_Ciudad_Obreg_n__ESP____20_00_1">
     <title>Próximamente | 20:00 | Venados De Maz vs lan vs. Yaquis De Ciudad Obregón [ESP]</title>
   </programme>
@@ -139456,15 +139411,6 @@
   </programme>
   <programme start="20251122063000" stop="20251122055959" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Tomateros_De_Culiacan__ESP____21_30_1">
     <title>Finalizado | Aguilas De Mexicali vs Tomateros De Culiacan [ESP]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251122000000" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Chicago_Blackhawks__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Buffalo Sabres vs Chicago Blackhawks [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122030000" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Chicago_Blackhawks__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Buffalo Sabres vs Chicago Blackhawks [ENG]</title>
-  </programme>
-  <programme start="20251122030000" stop="20251122055959" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Chicago_Blackhawks__ENG____18_00_1">
-    <title>Finalizado | Buffalo Sabres vs Chicago Blackhawks [ENG]</title>
   </programme>
   <programme start="20251121060000" stop="20251122000000" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Minnesota_Wild__ENG____18_00_1">
     <title>Próximamente | 18:00 | Pittsburgh Penguins vs Minnesota Wild [ENG]</title>
@@ -139583,15 +139529,6 @@
   <programme start="20251122060000" stop="20251122055959" channel="Evento_NBA__NBA___Utah_Jazz_vs_Oklahoma_City_Thunder__ESP____21_00_1">
     <title>Finalizado | Utah Jazz vs Oklahoma City Thunder [ESP]</title>
   </programme>
-  <programme start="20251121060000" stop="20251121213000" channel="Evento_Serie_A_de_Ecuador__Serie_A_de_Ecuador___Universidad_C_vs__lica_vs__Libertad__ESP____15_30_1">
-    <title>Próximamente | 15:30 | Universidad C vs ólica vs. Libertad [ESP]</title>
-  </programme>
-  <programme start="20251121213000" stop="20251122003000" channel="Evento_Serie_A_de_Ecuador__Serie_A_de_Ecuador___Universidad_C_vs__lica_vs__Libertad__ESP____15_30_1">
-    <title>⌾ En vivo | 15:30 | Universidad C vs ólica vs. Libertad [ESP]</title>
-  </programme>
-  <programme start="20251122003000" stop="20251122055959" channel="Evento_Serie_A_de_Ecuador__Serie_A_de_Ecuador___Universidad_C_vs__lica_vs__Libertad__ESP____15_30_1">
-    <title>Finalizado | Universidad C vs ólica vs. Libertad [ESP]</title>
-  </programme>
   <programme start="20251121060000" stop="20251122000000" channel="Evento_USL_Super_League__USL_Super_League___DC_Power_vs_Carolina_Ascent__ENG____18_00_1">
     <title>Próximamente | 18:00 | DC Power vs Carolina Ascent [ENG]</title>
   </programme>
@@ -139609,96 +139546,6 @@
   </programme>
   <programme start="20251122030000" stop="20251122055959" channel="Evento_Serie_A_de_Ecuador__Serie_A_de_Ecuador___Deportivo_Cuenca_vs_El_Nacional__ESP____18_00_1">
     <title>Finalizado | Deportivo Cuenca vs El Nacional [ESP]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121200000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Army_vs_Colgate__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Army vs Colgate [ENG]</title>
-  </programme>
-  <programme start="20251121200000" stop="20251121230000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Army_vs_Colgate__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Army vs Colgate [ENG]</title>
-  </programme>
-  <programme start="20251121230000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Army_vs_Colgate__ENG____14_00_1">
-    <title>Finalizado | Army vs Colgate [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121203000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Davidson_vs_Boston_College__ENG____14_30_1">
-    <title>Próximamente | 14:30 | Davidson vs Boston College [ENG]</title>
-  </programme>
-  <programme start="20251121203000" stop="20251121233000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Davidson_vs_Boston_College__ENG____14_30_1">
-    <title>⌾ En vivo | 14:30 | Davidson vs Boston College [ENG]</title>
-  </programme>
-  <programme start="20251121233000" stop="20251122055959" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Davidson_vs_Boston_College__ENG____14_30_1">
-    <title>Finalizado | Davidson vs Boston College [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Binghamton_vs_UMBC__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Binghamton vs UMBC [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Binghamton_vs_UMBC__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Binghamton vs UMBC [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Binghamton_vs_UMBC__ENG____15_00_1">
-    <title>Finalizado | Binghamton vs UMBC [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Brown_vs_Princeton__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Brown vs Princeton [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Brown_vs_Princeton__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Brown vs Princeton [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Brown_vs_Princeton__ENG____15_00_1">
-    <title>Finalizado | Brown vs Princeton [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Eastern_Kentucky_vs_Jacksonville__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Eastern Kentucky vs Jacksonville [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Eastern_Kentucky_vs_Jacksonville__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Eastern Kentucky vs Jacksonville [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Eastern_Kentucky_vs_Jacksonville__ENG____15_00_1">
-    <title>Finalizado | Eastern Kentucky vs Jacksonville [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Loyola_Marymount_vs_Hawai_i__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Loyola Marymount vs Hawai'i [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Loyola_Marymount_vs_Hawai_i__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Loyola Marymount vs Hawai'i [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Loyola_Marymount_vs_Hawai_i__ENG____15_00_1">
-    <title>Finalizado | Loyola Marymount vs Hawai'i [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Mercer_vs_Furman__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Mercer vs Furman [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Mercer_vs_Furman__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Mercer vs Furman [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Mercer_vs_Furman__ENG____15_00_1">
-    <title>Finalizado | Mercer vs Furman [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Miami__OH__vs_Toled__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Miami (OH) vs Toled [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Miami__OH__vs_Toled__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Miami (OH) vs Toled [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Miami__OH__vs_Toled__ENG____15_00_1">
-    <title>Finalizado | Miami (OH) vs Toled [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Yale_vs_Cornell__ENG____15_00_1">
-    <title>Próximamente | 15:00 | Yale vs Cornell [ENG]</title>
-  </programme>
-  <programme start="20251121210000" stop="20251122000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Yale_vs_Cornell__ENG____15_00_1">
-    <title>⌾ En vivo | 15:00 | Yale vs Cornell [ENG]</title>
-  </programme>
-  <programme start="20251122000000" stop="20251122055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Yale_vs_Cornell__ENG____15_00_1">
-    <title>Finalizado | Yale vs Cornell [ENG]</title>
-  </programme>
-  <programme start="20251121060000" stop="20251121230000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_USC_vs__24_Notre_Dame__ENG____17_00_1">
-    <title>Próximamente | 17:00 | #11 USC vs #24 Notre Dame [ENG]</title>
-  </programme>
-  <programme start="20251121230000" stop="20251122020000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_USC_vs__24_Notre_Dame__ENG____17_00_1">
-    <title>⌾ En vivo | 17:00 | #11 USC vs #24 Notre Dame [ENG]</title>
-  </programme>
-  <programme start="20251122020000" stop="20251122055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_USC_vs__24_Notre_Dame__ENG____17_00_1">
-    <title>Finalizado | #11 USC vs #24 Notre Dame [ENG]</title>
   </programme>
   <programme start="20251121060000" stop="20251121233000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball____6_Louisville_vs_Cincinnati__ENG____17_30_1">
     <title>Próximamente | 17:30 | #6 Louisville vs Cincinnati [ENG]</title>
@@ -139833,6 +139680,15 @@
     <title>⌾ En vivo | 19:00 | Damien Davila vs Nestor Ramirez [ENG]</title>
   </programme>
   <programme start="20251122040000" stop="20251122055959" channel="Evento_BOX__BOX___Damien_Davila_vs_Nestor_Ramirez__ENG____19_00_1">
+    <title>Finalizado | Damien Davila vs Nestor Ramirez [ENG]</title>
+  </programme>
+  <programme start="20251121060000" stop="20251122010000" channel="Evento_BOX__BOX___Damien_Davila_vs_Nestor_Ramirez__ENG____19_00_2">
+    <title>Próximamente | 19:00 | Damien Davila vs Nestor Ramirez [ENG]</title>
+  </programme>
+  <programme start="20251122010000" stop="20251122040000" channel="Evento_BOX__BOX___Damien_Davila_vs_Nestor_Ramirez__ENG____19_00_2">
+    <title>⌾ En vivo | 19:00 | Damien Davila vs Nestor Ramirez [ENG]</title>
+  </programme>
+  <programme start="20251122040000" stop="20251122055959" channel="Evento_BOX__BOX___Damien_Davila_vs_Nestor_Ramirez__ENG____19_00_2">
     <title>Finalizado | Damien Davila vs Nestor Ramirez [ENG]</title>
   </programme>
   <programme start="20251121060000" stop="20251122013000" channel="Evento_Primera_Honduras__Primera_Honduras___Deportivo_Cuenca_vs_El_Nacional__ESP____19_30_1">
