@@ -137981,9 +137981,6 @@
   <channel id="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Tomateros_De_Culiacan__ESP____20_00_1">
     <display-name>LMP | Aguilas De Mexicali vs Tomateros De Culiacan [ESP] | 20:00</display-name>
   </channel>
-  <channel id="Evento_NHL__NHL___New_York_Islanders_vs_St__Louis_Blues__ENG____14_30_1">
-    <display-name>NHL | New York Islanders vs St. Louis Blues [ENG] | 14:30</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Florida_Panthers_vs_Edmonton_Oilers__ENG____18_00_1">
     <display-name>NHL | Florida Panthers vs Edmonton Oilers [ENG] | 18:00</display-name>
   </channel>
@@ -138041,44 +138038,14 @@
   <channel id="Evento_MLS__MLS___Vancouver_Whitecaps_vs_Los_Angeles_FC__ENG____20_30_1">
     <display-name>MLS | Vancouver Whitecaps vs Los Angeles FC [ENG] | 20:30</display-name>
   </channel>
-  <channel id="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_1">
-    <display-name>La Liga | Villarreal vs Mallorca [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_2">
-    <display-name>La Liga | Villarreal vs Mallorca [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Ligue_1__Ligue_1___PSG_vs_Le_Havre__ESP____14_05_1">
-    <display-name>Ligue 1 | PSG vs Le Havre [ESP] | 14:05</display-name>
-  </channel>
   <channel id="Evento_Eredivisie__Eredivisie___Heracles_vs_Go_Ahead_Eagles__ENG____14_00_1">
     <display-name>Eredivisie | Heracles vs Go Ahead Eagles [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Eredivisie__Eredivisie___Sparta_Rotterdam_vs_Fortuna_Sittard__ENG____14_00_1">
-    <display-name>Eredivisie | Sparta Rotterdam vs Fortuna Sittard [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Italia_vs_Chile__ENG____14_00_1">
-    <display-name>Autumn Nations Series | Italia vs Chile [ENG] | 14:00</display-name>
   </channel>
   <channel id="Evento_Tentativo__Tentativo___Manta_vs_Cuniburo__ESP____13_00_1">
     <display-name>Tentativo | Manta vs Cuniburo [ESP] | 13:00</display-name>
   </channel>
   <channel id="Evento_Tentativo__Tentativo___Emelec_vs_Aucas__ESP____18_00_1">
     <display-name>Tentativo | Emelec vs Aucas [ESP] | 18:00</display-name>
-  </channel>
-  <channel id="Evento_USL_Super_League__USL_Super_League___Sporting_Jax_vs_Fort_Lauderdale_Unit__ENG____18_30_1">
-    <display-name>USL Super League | Sporting Jax vs Fort Lauderdale Unit [ENG] | 18:30</display-name>
-  </channel>
-  <channel id="Evento_USL_Super_League__USL_Super_League___Tampa_Bay_Sun_vs_Lexington_Sporting_Club__ENG____18_30_1">
-    <display-name>USL Super League | Tampa Bay Sun vs Lexington Sporting Club [ENG] | 18:30</display-name>
-  </channel>
-  <channel id="Evento_Primera_Guatemala__Primera_Guatemala___Mixco_vs_Achuapa__ESP____14_00_1">
-    <display-name>Primera Guatemala | Mixco vs Achuapa [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Primera_Guatemala__Primera_Guatemala___Mictl_n_vs_Aurora__ESP____16_00_1">
-    <display-name>Primera Guatemala | Mictlán vs Aurora [ESP] | 16:00</display-name>
-  </channel>
-  <channel id="Evento_Primera_Guatemala__Primera_Guatemala___Municipal_vs_Antigua_GFC__ESP____18_00_1">
-    <display-name>Primera Guatemala | Municipal vs Antigua GFC [ESP] | 18:00</display-name>
   </channel>
   <channel id="Evento_Primera_Guatemala__Primera_Guatemala___Xelaj__vs_Cob_n_Imperial__ESP____20_00_1">
     <display-name>Primera Guatemala | Xelajú vs Cobán Imperial [ESP] | 20:00</display-name>
@@ -138125,12 +138092,6 @@
   <channel id="Evento_Liga_Profesional_Argentina__Liga_Profesional_Argentina___Central_C_rdoba_SdE_vs_San_Lorenzo__ESP____19_00_1">
     <display-name>Liga Profesional Argentina | Central Córdoba SdE vs San Lorenzo [ESP] | 19:00</display-name>
   </channel>
-  <channel id="Evento_NWSL__NWSL___Washington_Spirit_vs_NJ_NY_Gotham_FC__ENG____19_00_1">
-    <display-name>NWSL | Washington Spirit vs NJ/NY Gotham FC [ENG] | 19:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Men_Football__NCAA_Men_Football___Arkansas_vs__17_Texas__ENG____14_30_1">
-    <display-name>NCAA Men Football | Arkansas vs #17 Texas [ENG] | 14:30</display-name>
-  </channel>
   <programme start="20251122000000 -0600" stop="20251122180000 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Yaquis_De_Ciudad_Obreg_n__ESP____18_00_1">
     <title>Próximamente | 18:00 | Venados De Maz vs lan vs. Yaquis De Ciudad Obregón [ESP]</title>
   </programme>
@@ -138175,15 +138136,6 @@
   </programme>
   <programme start="20251122230000 -0600" stop="20251122235959 -0600" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Tomateros_De_Culiacan__ESP____20_00_1">
     <title>Finalizado | Aguilas De Mexicali vs Tomateros De Culiacan [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122143000 -0600" channel="Evento_NHL__NHL___New_York_Islanders_vs_St__Louis_Blues__ENG____14_30_1">
-    <title>Próximamente | 14:30 | New York Islanders vs St. Louis Blues [ENG]</title>
-  </programme>
-  <programme start="20251122143000 -0600" stop="20251122173000 -0600" channel="Evento_NHL__NHL___New_York_Islanders_vs_St__Louis_Blues__ENG____14_30_1">
-    <title>⌾ En vivo | 14:30 | New York Islanders vs St. Louis Blues [ENG]</title>
-  </programme>
-  <programme start="20251122173000 -0600" stop="20251122235959 -0600" channel="Evento_NHL__NHL___New_York_Islanders_vs_St__Louis_Blues__ENG____14_30_1">
-    <title>Finalizado | New York Islanders vs St. Louis Blues [ENG]</title>
   </programme>
   <programme start="20251122000000 -0600" stop="20251122180000 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Edmonton_Oilers__ENG____18_00_1">
     <title>Próximamente | 18:00 | Florida Panthers vs Edmonton Oilers [ENG]</title>
@@ -138356,33 +138308,6 @@
   <programme start="20251122233000 -0600" stop="20251122235959 -0600" channel="Evento_MLS__MLS___Vancouver_Whitecaps_vs_Los_Angeles_FC__ENG____20_30_1">
     <title>Finalizado | Vancouver Whitecaps vs Los Angeles FC [ENG]</title>
   </programme>
-  <programme start="20251122000000 -0600" stop="20251122140000 -0600" channel="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_1">
-    <title>Próximamente | 14:00 | Villarreal vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251122140000 -0600" stop="20251122170000 -0600" channel="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Villarreal vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251122170000 -0600" stop="20251122235959 -0600" channel="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_1">
-    <title>Finalizado | Villarreal vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122140000 -0600" channel="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_2">
-    <title>Próximamente | 14:00 | Villarreal vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251122140000 -0600" stop="20251122170000 -0600" channel="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_2">
-    <title>⌾ En vivo | 14:00 | Villarreal vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251122170000 -0600" stop="20251122235959 -0600" channel="Evento_La_Liga__La_Liga___Villarreal_vs_Mallorca__ESP____14_00_2">
-    <title>Finalizado | Villarreal vs Mallorca [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122140500 -0600" channel="Evento_Ligue_1__Ligue_1___PSG_vs_Le_Havre__ESP____14_05_1">
-    <title>Próximamente | 14:05 | PSG vs Le Havre [ESP]</title>
-  </programme>
-  <programme start="20251122140500 -0600" stop="20251122170500 -0600" channel="Evento_Ligue_1__Ligue_1___PSG_vs_Le_Havre__ESP____14_05_1">
-    <title>⌾ En vivo | 14:05 | PSG vs Le Havre [ESP]</title>
-  </programme>
-  <programme start="20251122170500 -0600" stop="20251122235959 -0600" channel="Evento_Ligue_1__Ligue_1___PSG_vs_Le_Havre__ESP____14_05_1">
-    <title>Finalizado | PSG vs Le Havre [ESP]</title>
-  </programme>
   <programme start="20251122000000 -0600" stop="20251122140000 -0600" channel="Evento_Eredivisie__Eredivisie___Heracles_vs_Go_Ahead_Eagles__ENG____14_00_1">
     <title>Próximamente | 14:00 | Heracles vs Go Ahead Eagles [ENG]</title>
   </programme>
@@ -138391,24 +138316,6 @@
   </programme>
   <programme start="20251122170000 -0600" stop="20251122235959 -0600" channel="Evento_Eredivisie__Eredivisie___Heracles_vs_Go_Ahead_Eagles__ENG____14_00_1">
     <title>Finalizado | Heracles vs Go Ahead Eagles [ENG]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122140000 -0600" channel="Evento_Eredivisie__Eredivisie___Sparta_Rotterdam_vs_Fortuna_Sittard__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Sparta Rotterdam vs Fortuna Sittard [ENG]</title>
-  </programme>
-  <programme start="20251122140000 -0600" stop="20251122170000 -0600" channel="Evento_Eredivisie__Eredivisie___Sparta_Rotterdam_vs_Fortuna_Sittard__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Sparta Rotterdam vs Fortuna Sittard [ENG]</title>
-  </programme>
-  <programme start="20251122170000 -0600" stop="20251122235959 -0600" channel="Evento_Eredivisie__Eredivisie___Sparta_Rotterdam_vs_Fortuna_Sittard__ENG____14_00_1">
-    <title>Finalizado | Sparta Rotterdam vs Fortuna Sittard [ENG]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122140000 -0600" channel="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Italia_vs_Chile__ENG____14_00_1">
-    <title>Próximamente | 14:00 | Italia vs Chile [ENG]</title>
-  </programme>
-  <programme start="20251122140000 -0600" stop="20251122170000 -0600" channel="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Italia_vs_Chile__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Italia vs Chile [ENG]</title>
-  </programme>
-  <programme start="20251122170000 -0600" stop="20251122235959 -0600" channel="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Italia_vs_Chile__ENG____14_00_1">
-    <title>Finalizado | Italia vs Chile [ENG]</title>
   </programme>
   <programme start="20251122000000 -0600" stop="20251122130000 -0600" channel="Evento_Tentativo__Tentativo___Manta_vs_Cuniburo__ESP____13_00_1">
     <title>Próximamente | 13:00 | Manta vs Cuniburo [ESP]</title>
@@ -138427,51 +138334,6 @@
   </programme>
   <programme start="20251122210000 -0600" stop="20251122235959 -0600" channel="Evento_Tentativo__Tentativo___Emelec_vs_Aucas__ESP____18_00_1">
     <title>Finalizado | Emelec vs Aucas [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122183000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Sporting_Jax_vs_Fort_Lauderdale_Unit__ENG____18_30_1">
-    <title>Próximamente | 18:30 | Sporting Jax vs Fort Lauderdale Unit [ENG]</title>
-  </programme>
-  <programme start="20251122183000 -0600" stop="20251122213000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Sporting_Jax_vs_Fort_Lauderdale_Unit__ENG____18_30_1">
-    <title>⌾ En vivo | 18:30 | Sporting Jax vs Fort Lauderdale Unit [ENG]</title>
-  </programme>
-  <programme start="20251122213000 -0600" stop="20251122235959 -0600" channel="Evento_USL_Super_League__USL_Super_League___Sporting_Jax_vs_Fort_Lauderdale_Unit__ENG____18_30_1">
-    <title>Finalizado | Sporting Jax vs Fort Lauderdale Unit [ENG]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122183000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Tampa_Bay_Sun_vs_Lexington_Sporting_Club__ENG____18_30_1">
-    <title>Próximamente | 18:30 | Tampa Bay Sun vs Lexington Sporting Club [ENG]</title>
-  </programme>
-  <programme start="20251122183000 -0600" stop="20251122213000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Tampa_Bay_Sun_vs_Lexington_Sporting_Club__ENG____18_30_1">
-    <title>⌾ En vivo | 18:30 | Tampa Bay Sun vs Lexington Sporting Club [ENG]</title>
-  </programme>
-  <programme start="20251122213000 -0600" stop="20251122235959 -0600" channel="Evento_USL_Super_League__USL_Super_League___Tampa_Bay_Sun_vs_Lexington_Sporting_Club__ENG____18_30_1">
-    <title>Finalizado | Tampa Bay Sun vs Lexington Sporting Club [ENG]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122140000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Mixco_vs_Achuapa__ESP____14_00_1">
-    <title>Próximamente | 14:00 | Mixco vs Achuapa [ESP]</title>
-  </programme>
-  <programme start="20251122140000 -0600" stop="20251122170000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Mixco_vs_Achuapa__ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Mixco vs Achuapa [ESP]</title>
-  </programme>
-  <programme start="20251122170000 -0600" stop="20251122235959 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Mixco_vs_Achuapa__ESP____14_00_1">
-    <title>Finalizado | Mixco vs Achuapa [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122160000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Mictl_n_vs_Aurora__ESP____16_00_1">
-    <title>Próximamente | 16:00 | Mictlán vs Aurora [ESP]</title>
-  </programme>
-  <programme start="20251122160000 -0600" stop="20251122190000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Mictl_n_vs_Aurora__ESP____16_00_1">
-    <title>⌾ En vivo | 16:00 | Mictlán vs Aurora [ESP]</title>
-  </programme>
-  <programme start="20251122190000 -0600" stop="20251122235959 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Mictl_n_vs_Aurora__ESP____16_00_1">
-    <title>Finalizado | Mictlán vs Aurora [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122180000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Municipal_vs_Antigua_GFC__ESP____18_00_1">
-    <title>Próximamente | 18:00 | Municipal vs Antigua GFC [ESP]</title>
-  </programme>
-  <programme start="20251122180000 -0600" stop="20251122210000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Municipal_vs_Antigua_GFC__ESP____18_00_1">
-    <title>⌾ En vivo | 18:00 | Municipal vs Antigua GFC [ESP]</title>
-  </programme>
-  <programme start="20251122210000 -0600" stop="20251122235959 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Municipal_vs_Antigua_GFC__ESP____18_00_1">
-    <title>Finalizado | Municipal vs Antigua GFC [ESP]</title>
   </programme>
   <programme start="20251122000000 -0600" stop="20251122200000 -0600" channel="Evento_Primera_Guatemala__Primera_Guatemala___Xelaj__vs_Cob_n_Imperial__ESP____20_00_1">
     <title>Próximamente | 20:00 | Xelajú vs Cobán Imperial [ESP]</title>
@@ -138607,24 +138469,6 @@
   </programme>
   <programme start="20251122220000 -0600" stop="20251122235959 -0600" channel="Evento_Liga_Profesional_Argentina__Liga_Profesional_Argentina___Central_C_rdoba_SdE_vs_San_Lorenzo__ESP____19_00_1">
     <title>Finalizado | Central Córdoba SdE vs San Lorenzo [ESP]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122190000 -0600" channel="Evento_NWSL__NWSL___Washington_Spirit_vs_NJ_NY_Gotham_FC__ENG____19_00_1">
-    <title>Próximamente | 19:00 | Washington Spirit vs NJ/NY Gotham FC [ENG]</title>
-  </programme>
-  <programme start="20251122190000 -0600" stop="20251122220000 -0600" channel="Evento_NWSL__NWSL___Washington_Spirit_vs_NJ_NY_Gotham_FC__ENG____19_00_1">
-    <title>⌾ En vivo | 19:00 | Washington Spirit vs NJ/NY Gotham FC [ENG]</title>
-  </programme>
-  <programme start="20251122220000 -0600" stop="20251122235959 -0600" channel="Evento_NWSL__NWSL___Washington_Spirit_vs_NJ_NY_Gotham_FC__ENG____19_00_1">
-    <title>Finalizado | Washington Spirit vs NJ/NY Gotham FC [ENG]</title>
-  </programme>
-  <programme start="20251122000000 -0600" stop="20251122143000 -0600" channel="Evento_NCAA_Men_Football__NCAA_Men_Football___Arkansas_vs__17_Texas__ENG____14_30_1">
-    <title>Próximamente | 14:30 | Arkansas vs #17 Texas [ENG]</title>
-  </programme>
-  <programme start="20251122143000 -0600" stop="20251122173000 -0600" channel="Evento_NCAA_Men_Football__NCAA_Men_Football___Arkansas_vs__17_Texas__ENG____14_30_1">
-    <title>⌾ En vivo | 14:30 | Arkansas vs #17 Texas [ENG]</title>
-  </programme>
-  <programme start="20251122173000 -0600" stop="20251122235959 -0600" channel="Evento_NCAA_Men_Football__NCAA_Men_Football___Arkansas_vs__17_Texas__ENG____14_30_1">
-    <title>Finalizado | Arkansas vs #17 Texas [ENG]</title>
   </programme>
 </tv>
 
