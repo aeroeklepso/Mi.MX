@@ -138047,46 +138047,13 @@
   <channel id="Evento_MLS__MLS___Philadelphia_Union_vs_New_York_City__ENG____18_45_1">
     <display-name>MLS | Philadelphia Union vs New York City [ENG] | 18:45</display-name>
   </channel>
-  <channel id="Evento_Premier_League__Premier_League___Leeds_United_vs_Aston_Villa__ESP____08_00_1">
-    <display-name>Premier League | Leeds United vs Aston Villa [ESP] | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_1">
-    <display-name>Premier League | Arsenal vs Tottenham Hotspur [ESP] | 10:30</display-name>
-  </channel>
-  <channel id="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_2">
-    <display-name>Premier League | Arsenal vs Tottenham Hotspur [ESP] | 10:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Hellas_Verona_vs_Parma__ESP____05_30_1">
-    <display-name>Serie A | Hellas Verona vs Parma [ESP] | 05:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Cremonese_vs_Roma__ESP____08_00_1">
-    <display-name>Serie A | Cremonese vs Roma [ESP] | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Lazio_vs_Lecce__ESP____11_00_1">
-    <display-name>Serie A | Lazio vs Lecce [ESP] | 11:00</display-name>
-  </channel>
   <channel id="Evento_Serie_A__Serie_A___Inter_vs_Milan__ESP____13_30_1">
     <display-name>Serie A | Inter vs Milan [ESP] | 13:30</display-name>
   </channel>
   <channel id="Evento_Serie_A__Serie_A___Inter_vs_Milan__ESP____13_30_2">
     <display-name>Serie A | Inter vs Milan [ESP] | 13:30</display-name>
   </channel>
-  <channel id="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_1">
-    <display-name>La Liga | Real Oviedo vs Rayo Vallecano [ESP] | 07:00</display-name>
-  </channel>
-  <channel id="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_2">
-    <display-name>La Liga | Real Oviedo vs Rayo Vallecano [ESP] | 07:00</display-name>
-  </channel>
-  <channel id="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_1">
-    <display-name>La Liga | Real Betis vs Girona [ESP] | 09:15</display-name>
-  </channel>
-  <channel id="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_2">
-    <display-name>La Liga | Real Betis vs Girona [ESP] | 09:15</display-name>
-  </channel>
   <channel id="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_1">
-    <display-name>La Liga | Getafe vs Atlético Madrid [ESP] | 11:30</display-name>
-  </channel>
-  <channel id="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_2">
     <display-name>La Liga | Getafe vs Atlético Madrid [ESP] | 11:30</display-name>
   </channel>
   <channel id="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_1">
@@ -138098,14 +138065,8 @@
   <channel id="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_3">
     <display-name>La Liga | Elche vs Real Madrid [ESP] | 14:00</display-name>
   </channel>
-  <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Deportivo_La_Coru_a_vs_Ceuta__ESP____07_00_1">
-    <display-name>LaLiga SmartBank | Deportivo La Coruña vs Ceuta [ESP] | 07:00</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Cultural_Leonesa__ESP____09_15_1">
-    <display-name>LaLiga SmartBank | Cádiz vs Cultural Leonesa [ESP] | 09:15</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Huesca_vs_Sporting_Gij_n__ESP____09_15_1">
-    <display-name>LaLiga SmartBank | Huesca vs Sporting Gijón [ESP] | 09:15</display-name>
+  <channel id="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_4">
+    <display-name>La Liga | Elche vs Real Madrid [ESP] | 14:00</display-name>
   </channel>
   <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Burgos_vs_Racing_Santander__ESP____11_30_1">
     <display-name>LaLiga SmartBank | Burgos vs Racing Santander [ESP] | 11:30</display-name>
@@ -138113,68 +138074,14 @@
   <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___M_laga_vs_Mirand_s__ESP____14_00_1">
     <display-name>LaLiga SmartBank | Málaga vs Mirandés [ESP] | 14:00</display-name>
   </channel>
-  <channel id="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_1">
-    <display-name>Bundesliga | RB Leipzig vs Werder Bremen [ESP] | 08:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_2">
-    <display-name>Bundesliga | RB Leipzig vs Werder Bremen [ESP] | 08:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Arminia_Bielefeld__ENG____06_30_1">
-    <display-name>Bundesliga 2 | Nürnberg vs Arminia Bielefeld [ENG] | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___Karlsruher_SC_vs_Elversberg__ENG____06_30_1">
-    <display-name>Bundesliga 2 | Karlsruher SC vs Elversberg [ENG] | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___Kaiserslautern_vs_Holstein_Kiel__ENG____06_30_1">
-    <display-name>Bundesliga 2 | Kaiserslautern vs Holstein Kiel [ENG] | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Ligue_1__Ligue_1___Auxerre_vs_Olympique_Lyonnais__ESP____08_00_1">
-    <display-name>Ligue 1 | Auxerre vs Olympique Lyonnais [ESP] | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Ligue_1__Ligue_1___Toulouse_vs_Angers_SCO__ESP____10_15_1">
-    <display-name>Ligue 1 | Toulouse vs Angers SCO [ESP] | 10:15</display-name>
-  </channel>
-  <channel id="Evento_Ligue_1__Ligue_1___Brest_vs_Metz__ESP____10_15_1">
-    <display-name>Ligue 1 | Brest vs Metz [ESP] | 10:15</display-name>
-  </channel>
-  <channel id="Evento_Ligue_1__Ligue_1___Nantes_vs_Lorient__ESP____10_15_1">
-    <display-name>Ligue 1 | Nantes vs Lorient [ESP] | 10:15</display-name>
-  </channel>
   <channel id="Evento_Ligue_1__Ligue_1___Lille_vs_Paris__ESP____13_45_1">
     <display-name>Ligue 1 | Lille vs Paris [ESP] | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Championship__Championship___Sheffield_Wednesday_vs_Sheffield_United__ESP____06_30_1">
-    <display-name>Championship | Sheffield Wednesday vs Sheffield United [ESP] | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Eredivisie__Eredivisie___Heerenveen_vs_AZ__ENG____05_15_1">
-    <display-name>Eredivisie | Heerenveen vs AZ [ENG] | 05:15</display-name>
-  </channel>
-  <channel id="Evento_Eredivisie__Eredivisie___Telstar_vs_Utrecht__ENG____07_30_1">
-    <display-name>Eredivisie | Telstar vs Utrecht [ENG] | 07:30</display-name>
-  </channel>
-  <channel id="Evento_Eredivisie__Eredivisie___Feyenoord_vs_NEC__ENG____07_30_1">
-    <display-name>Eredivisie | Feyenoord vs NEC [ENG] | 07:30</display-name>
-  </channel>
-  <channel id="Evento_Eredivisie__Eredivisie___Groningen_vs_PEC_Zwolle__ENG____09_45_1">
-    <display-name>Eredivisie | Groningen vs PEC Zwolle [ENG] | 09:45</display-name>
-  </channel>
-  <channel id="Evento_Super_Lig__Super_Lig___Be_ikta__vs_Samsunspor__ENG____08_00_1">
-    <display-name>Super Lig | Beşiktaş vs Samsunspor [ENG] | 08:00</display-name>
   </channel>
   <channel id="Evento_Super_Lig__Super_Lig___Rizespor_vs_Fenerbah_e__ENG____11_00_1">
     <display-name>Super Lig | Rizespor vs Fenerbahçe [ENG] | 11:00</display-name>
   </channel>
   <channel id="Evento_Pro_League__Pro_League___Al_Nassr_vs_Al_Khaleej__ENG____11_30_1">
     <display-name>Pro League | Al Nassr vs Al Khaleej [ENG] | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Portugal__Copa_Portugal___Lusitania_FC_Lourosa_vs_Torreense___05_00_1">
-    <display-name>Copa Portugal | Lusitania FC Lourosa vs Torreense | 05:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Portugal__Copa_Portugal___Fafe_vs_Arouca___08_00_1">
-    <display-name>Copa Portugal | Fafe vs Arouca | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Portugal__Copa_Portugal___Tondela_vs_Caldas___11_00_1">
-    <display-name>Copa Portugal | Tondela vs Caldas | 11:00</display-name>
   </channel>
   <channel id="Evento_Copa_Portugal__Copa_Portugal___Sporting_Braga_vs_Nacional___11_30_1">
     <display-name>Copa Portugal | Sporting Braga vs Nacional | 11:30</display-name>
@@ -138256,24 +138163,6 @@
   </channel>
   <channel id="Evento_Primera_ESV__Primera_ESV___Pl_vs_ense_vs__Firpo__ESP____15_00_1">
     <display-name>Primera ESV | Pl vs ense vs. Firpo [ESP] | 15:00</display-name>
-  </channel>
-  <channel id="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Escocia_vs_Tonga__ENG____07_30_1">
-    <display-name>Autumn Nations Series | Escocia vs Tonga [ENG] | 07:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Davis__Copa_Davis___Gales_vs_Nueva_Zelanda__ENG____05_00_1">
-    <display-name>Copa Davis | Gales vs Nueva Zelanda [ENG] | 05:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___SIU_Edwardsville_vs_Morehead_State__ENG____10_00_1">
-    <display-name>NCAA Women Volleyball | SIU Edwardsville vs Morehead State [ENG] | 10:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Auburn_vs__2_Kentucky__ENG____11_00_1">
-    <display-name>NCAA Women Volleyball | Auburn vs #2 Kentucky [ENG] | 11:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____7_Louisville_vs_Clemson__ENG____12_00_1">
-    <display-name>NCAA Women Volleyball | #7 Louisville vs Clemson [ENG] | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Central_Arkansas_vs_Eastern_Kentucky__ENG____12_00_1">
-    <display-name>NCAA Women Volleyball | Central Arkansas vs Eastern Kentucky [ENG] | 12:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Tulsa_vs_Rice__ENG____12_00_1">
     <display-name>NCAA Women Volleyball | Tulsa vs Rice [ENG] | 12:00</display-name>
@@ -138554,60 +138443,6 @@
   <programme start="20251124034500" stop="20251124055959" channel="Evento_MLS__MLS___Philadelphia_Union_vs_New_York_City__ENG____18_45_1">
     <title>Finalizado | Philadelphia Union vs New York City [ENG]</title>
   </programme>
-  <programme start="20251123060000" stop="20251123140000" channel="Evento_Premier_League__Premier_League___Leeds_United_vs_Aston_Villa__ESP____08_00_1">
-    <title>Próximamente | 08:00 | Leeds United vs Aston Villa [ESP]</title>
-  </programme>
-  <programme start="20251123140000" stop="20251123170000" channel="Evento_Premier_League__Premier_League___Leeds_United_vs_Aston_Villa__ESP____08_00_1">
-    <title>⌾ En vivo | 08:00 | Leeds United vs Aston Villa [ESP]</title>
-  </programme>
-  <programme start="20251123170000" stop="20251124055959" channel="Evento_Premier_League__Premier_League___Leeds_United_vs_Aston_Villa__ESP____08_00_1">
-    <title>Finalizado | Leeds United vs Aston Villa [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123163000" channel="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_1">
-    <title>Próximamente | 10:30 | Arsenal vs Tottenham Hotspur [ESP]</title>
-  </programme>
-  <programme start="20251123163000" stop="20251123193000" channel="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_1">
-    <title>⌾ En vivo | 10:30 | Arsenal vs Tottenham Hotspur [ESP]</title>
-  </programme>
-  <programme start="20251123193000" stop="20251124055959" channel="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_1">
-    <title>Finalizado | Arsenal vs Tottenham Hotspur [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123163000" channel="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_2">
-    <title>Próximamente | 10:30 | Arsenal vs Tottenham Hotspur [ESP]</title>
-  </programme>
-  <programme start="20251123163000" stop="20251123193000" channel="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_2">
-    <title>⌾ En vivo | 10:30 | Arsenal vs Tottenham Hotspur [ESP]</title>
-  </programme>
-  <programme start="20251123193000" stop="20251124055959" channel="Evento_Premier_League__Premier_League___Arsenal_vs_Tottenham_Hotspur__ESP____10_30_2">
-    <title>Finalizado | Arsenal vs Tottenham Hotspur [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123113000" channel="Evento_Serie_A__Serie_A___Hellas_Verona_vs_Parma__ESP____05_30_1">
-    <title>Próximamente | 05:30 | Hellas Verona vs Parma [ESP]</title>
-  </programme>
-  <programme start="20251123113000" stop="20251123143000" channel="Evento_Serie_A__Serie_A___Hellas_Verona_vs_Parma__ESP____05_30_1">
-    <title>⌾ En vivo | 05:30 | Hellas Verona vs Parma [ESP]</title>
-  </programme>
-  <programme start="20251123143000" stop="20251124055959" channel="Evento_Serie_A__Serie_A___Hellas_Verona_vs_Parma__ESP____05_30_1">
-    <title>Finalizado | Hellas Verona vs Parma [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123140000" channel="Evento_Serie_A__Serie_A___Cremonese_vs_Roma__ESP____08_00_1">
-    <title>Próximamente | 08:00 | Cremonese vs Roma [ESP]</title>
-  </programme>
-  <programme start="20251123140000" stop="20251123170000" channel="Evento_Serie_A__Serie_A___Cremonese_vs_Roma__ESP____08_00_1">
-    <title>⌾ En vivo | 08:00 | Cremonese vs Roma [ESP]</title>
-  </programme>
-  <programme start="20251123170000" stop="20251124055959" channel="Evento_Serie_A__Serie_A___Cremonese_vs_Roma__ESP____08_00_1">
-    <title>Finalizado | Cremonese vs Roma [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123170000" channel="Evento_Serie_A__Serie_A___Lazio_vs_Lecce__ESP____11_00_1">
-    <title>Próximamente | 11:00 | Lazio vs Lecce [ESP]</title>
-  </programme>
-  <programme start="20251123170000" stop="20251123200000" channel="Evento_Serie_A__Serie_A___Lazio_vs_Lecce__ESP____11_00_1">
-    <title>⌾ En vivo | 11:00 | Lazio vs Lecce [ESP]</title>
-  </programme>
-  <programme start="20251123200000" stop="20251124055959" channel="Evento_Serie_A__Serie_A___Lazio_vs_Lecce__ESP____11_00_1">
-    <title>Finalizado | Lazio vs Lecce [ESP]</title>
-  </programme>
   <programme start="20251123060000" stop="20251123193000" channel="Evento_Serie_A__Serie_A___Inter_vs_Milan__ESP____13_30_1">
     <title>Próximamente | 13:30 | Inter vs Milan [ESP]</title>
   </programme>
@@ -138626,42 +138461,6 @@
   <programme start="20251123223000" stop="20251124055959" channel="Evento_Serie_A__Serie_A___Inter_vs_Milan__ESP____13_30_2">
     <title>Finalizado | Inter vs Milan [ESP]</title>
   </programme>
-  <programme start="20251123060000" stop="20251123130000" channel="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_1">
-    <title>Próximamente | 07:00 | Real Oviedo vs Rayo Vallecano [ESP]</title>
-  </programme>
-  <programme start="20251123130000" stop="20251123160000" channel="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_1">
-    <title>⌾ En vivo | 07:00 | Real Oviedo vs Rayo Vallecano [ESP]</title>
-  </programme>
-  <programme start="20251123160000" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_1">
-    <title>Finalizado | Real Oviedo vs Rayo Vallecano [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123130000" channel="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_2">
-    <title>Próximamente | 07:00 | Real Oviedo vs Rayo Vallecano [ESP]</title>
-  </programme>
-  <programme start="20251123130000" stop="20251123160000" channel="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_2">
-    <title>⌾ En vivo | 07:00 | Real Oviedo vs Rayo Vallecano [ESP]</title>
-  </programme>
-  <programme start="20251123160000" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Real_Oviedo_vs_Rayo_Vallecano__ESP____07_00_2">
-    <title>Finalizado | Real Oviedo vs Rayo Vallecano [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123151500" channel="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_1">
-    <title>Próximamente | 09:15 | Real Betis vs Girona [ESP]</title>
-  </programme>
-  <programme start="20251123151500" stop="20251123181500" channel="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_1">
-    <title>⌾ En vivo | 09:15 | Real Betis vs Girona [ESP]</title>
-  </programme>
-  <programme start="20251123181500" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_1">
-    <title>Finalizado | Real Betis vs Girona [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123151500" channel="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_2">
-    <title>Próximamente | 09:15 | Real Betis vs Girona [ESP]</title>
-  </programme>
-  <programme start="20251123151500" stop="20251123181500" channel="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_2">
-    <title>⌾ En vivo | 09:15 | Real Betis vs Girona [ESP]</title>
-  </programme>
-  <programme start="20251123181500" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Real_Betis_vs_Girona__ESP____09_15_2">
-    <title>Finalizado | Real Betis vs Girona [ESP]</title>
-  </programme>
   <programme start="20251123060000" stop="20251123173000" channel="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_1">
     <title>Próximamente | 11:30 | Getafe vs Atlético Madrid [ESP]</title>
   </programme>
@@ -138669,15 +138468,6 @@
     <title>⌾ En vivo | 11:30 | Getafe vs Atlético Madrid [ESP]</title>
   </programme>
   <programme start="20251123203000" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_1">
-    <title>Finalizado | Getafe vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123173000" channel="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_2">
-    <title>Próximamente | 11:30 | Getafe vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251123173000" stop="20251123203000" channel="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_2">
-    <title>⌾ En vivo | 11:30 | Getafe vs Atlético Madrid [ESP]</title>
-  </programme>
-  <programme start="20251123203000" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Getafe_vs_Atl_tico_Madrid__ESP____11_30_2">
     <title>Finalizado | Getafe vs Atlético Madrid [ESP]</title>
   </programme>
   <programme start="20251123060000" stop="20251123200000" channel="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_1">
@@ -138707,32 +138497,14 @@
   <programme start="20251123230000" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_3">
     <title>Finalizado | Elche vs Real Madrid [ESP]</title>
   </programme>
-  <programme start="20251123060000" stop="20251123130000" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Deportivo_La_Coru_a_vs_Ceuta__ESP____07_00_1">
-    <title>Próximamente | 07:00 | Deportivo La Coruña vs Ceuta [ESP]</title>
+  <programme start="20251123060000" stop="20251123200000" channel="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_4">
+    <title>Próximamente | 14:00 | Elche vs Real Madrid [ESP]</title>
   </programme>
-  <programme start="20251123130000" stop="20251123160000" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Deportivo_La_Coru_a_vs_Ceuta__ESP____07_00_1">
-    <title>⌾ En vivo | 07:00 | Deportivo La Coruña vs Ceuta [ESP]</title>
+  <programme start="20251123200000" stop="20251123230000" channel="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_4">
+    <title>⌾ En vivo | 14:00 | Elche vs Real Madrid [ESP]</title>
   </programme>
-  <programme start="20251123160000" stop="20251124055959" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Deportivo_La_Coru_a_vs_Ceuta__ESP____07_00_1">
-    <title>Finalizado | Deportivo La Coruña vs Ceuta [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123151500" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Cultural_Leonesa__ESP____09_15_1">
-    <title>Próximamente | 09:15 | Cádiz vs Cultural Leonesa [ESP]</title>
-  </programme>
-  <programme start="20251123151500" stop="20251123181500" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Cultural_Leonesa__ESP____09_15_1">
-    <title>⌾ En vivo | 09:15 | Cádiz vs Cultural Leonesa [ESP]</title>
-  </programme>
-  <programme start="20251123181500" stop="20251124055959" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Cultural_Leonesa__ESP____09_15_1">
-    <title>Finalizado | Cádiz vs Cultural Leonesa [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123151500" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Huesca_vs_Sporting_Gij_n__ESP____09_15_1">
-    <title>Próximamente | 09:15 | Huesca vs Sporting Gijón [ESP]</title>
-  </programme>
-  <programme start="20251123151500" stop="20251123181500" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Huesca_vs_Sporting_Gij_n__ESP____09_15_1">
-    <title>⌾ En vivo | 09:15 | Huesca vs Sporting Gijón [ESP]</title>
-  </programme>
-  <programme start="20251123181500" stop="20251124055959" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Huesca_vs_Sporting_Gij_n__ESP____09_15_1">
-    <title>Finalizado | Huesca vs Sporting Gijón [ESP]</title>
+  <programme start="20251123230000" stop="20251124055959" channel="Evento_La_Liga__La_Liga___Elche_vs_Real_Madrid__ESP____14_00_4">
+    <title>Finalizado | Elche vs Real Madrid [ESP]</title>
   </programme>
   <programme start="20251123060000" stop="20251123173000" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Burgos_vs_Racing_Santander__ESP____11_30_1">
     <title>Próximamente | 11:30 | Burgos vs Racing Santander [ESP]</title>
@@ -138752,87 +138524,6 @@
   <programme start="20251123230000" stop="20251124055959" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___M_laga_vs_Mirand_s__ESP____14_00_1">
     <title>Finalizado | Málaga vs Mirandés [ESP]</title>
   </programme>
-  <programme start="20251123060000" stop="20251123143000" channel="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_1">
-    <title>Próximamente | 08:30 | RB Leipzig vs Werder Bremen [ESP]</title>
-  </programme>
-  <programme start="20251123143000" stop="20251123173000" channel="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_1">
-    <title>⌾ En vivo | 08:30 | RB Leipzig vs Werder Bremen [ESP]</title>
-  </programme>
-  <programme start="20251123173000" stop="20251124055959" channel="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_1">
-    <title>Finalizado | RB Leipzig vs Werder Bremen [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123143000" channel="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_2">
-    <title>Próximamente | 08:30 | RB Leipzig vs Werder Bremen [ESP]</title>
-  </programme>
-  <programme start="20251123143000" stop="20251123173000" channel="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_2">
-    <title>⌾ En vivo | 08:30 | RB Leipzig vs Werder Bremen [ESP]</title>
-  </programme>
-  <programme start="20251123173000" stop="20251124055959" channel="Evento_Bundesliga__Bundesliga___RB_Leipzig_vs_Werder_Bremen__ESP____08_30_2">
-    <title>Finalizado | RB Leipzig vs Werder Bremen [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123123000" channel="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Arminia_Bielefeld__ENG____06_30_1">
-    <title>Próximamente | 06:30 | Nürnberg vs Arminia Bielefeld [ENG]</title>
-  </programme>
-  <programme start="20251123123000" stop="20251123153000" channel="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Arminia_Bielefeld__ENG____06_30_1">
-    <title>⌾ En vivo | 06:30 | Nürnberg vs Arminia Bielefeld [ENG]</title>
-  </programme>
-  <programme start="20251123153000" stop="20251124055959" channel="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Arminia_Bielefeld__ENG____06_30_1">
-    <title>Finalizado | Nürnberg vs Arminia Bielefeld [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123123000" channel="Evento_Bundesliga_2__Bundesliga_2___Karlsruher_SC_vs_Elversberg__ENG____06_30_1">
-    <title>Próximamente | 06:30 | Karlsruher SC vs Elversberg [ENG]</title>
-  </programme>
-  <programme start="20251123123000" stop="20251123153000" channel="Evento_Bundesliga_2__Bundesliga_2___Karlsruher_SC_vs_Elversberg__ENG____06_30_1">
-    <title>⌾ En vivo | 06:30 | Karlsruher SC vs Elversberg [ENG]</title>
-  </programme>
-  <programme start="20251123153000" stop="20251124055959" channel="Evento_Bundesliga_2__Bundesliga_2___Karlsruher_SC_vs_Elversberg__ENG____06_30_1">
-    <title>Finalizado | Karlsruher SC vs Elversberg [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123123000" channel="Evento_Bundesliga_2__Bundesliga_2___Kaiserslautern_vs_Holstein_Kiel__ENG____06_30_1">
-    <title>Próximamente | 06:30 | Kaiserslautern vs Holstein Kiel [ENG]</title>
-  </programme>
-  <programme start="20251123123000" stop="20251123153000" channel="Evento_Bundesliga_2__Bundesliga_2___Kaiserslautern_vs_Holstein_Kiel__ENG____06_30_1">
-    <title>⌾ En vivo | 06:30 | Kaiserslautern vs Holstein Kiel [ENG]</title>
-  </programme>
-  <programme start="20251123153000" stop="20251124055959" channel="Evento_Bundesliga_2__Bundesliga_2___Kaiserslautern_vs_Holstein_Kiel__ENG____06_30_1">
-    <title>Finalizado | Kaiserslautern vs Holstein Kiel [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123140000" channel="Evento_Ligue_1__Ligue_1___Auxerre_vs_Olympique_Lyonnais__ESP____08_00_1">
-    <title>Próximamente | 08:00 | Auxerre vs Olympique Lyonnais [ESP]</title>
-  </programme>
-  <programme start="20251123140000" stop="20251123170000" channel="Evento_Ligue_1__Ligue_1___Auxerre_vs_Olympique_Lyonnais__ESP____08_00_1">
-    <title>⌾ En vivo | 08:00 | Auxerre vs Olympique Lyonnais [ESP]</title>
-  </programme>
-  <programme start="20251123170000" stop="20251124055959" channel="Evento_Ligue_1__Ligue_1___Auxerre_vs_Olympique_Lyonnais__ESP____08_00_1">
-    <title>Finalizado | Auxerre vs Olympique Lyonnais [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123161500" channel="Evento_Ligue_1__Ligue_1___Toulouse_vs_Angers_SCO__ESP____10_15_1">
-    <title>Próximamente | 10:15 | Toulouse vs Angers SCO [ESP]</title>
-  </programme>
-  <programme start="20251123161500" stop="20251123191500" channel="Evento_Ligue_1__Ligue_1___Toulouse_vs_Angers_SCO__ESP____10_15_1">
-    <title>⌾ En vivo | 10:15 | Toulouse vs Angers SCO [ESP]</title>
-  </programme>
-  <programme start="20251123191500" stop="20251124055959" channel="Evento_Ligue_1__Ligue_1___Toulouse_vs_Angers_SCO__ESP____10_15_1">
-    <title>Finalizado | Toulouse vs Angers SCO [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123161500" channel="Evento_Ligue_1__Ligue_1___Brest_vs_Metz__ESP____10_15_1">
-    <title>Próximamente | 10:15 | Brest vs Metz [ESP]</title>
-  </programme>
-  <programme start="20251123161500" stop="20251123191500" channel="Evento_Ligue_1__Ligue_1___Brest_vs_Metz__ESP____10_15_1">
-    <title>⌾ En vivo | 10:15 | Brest vs Metz [ESP]</title>
-  </programme>
-  <programme start="20251123191500" stop="20251124055959" channel="Evento_Ligue_1__Ligue_1___Brest_vs_Metz__ESP____10_15_1">
-    <title>Finalizado | Brest vs Metz [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123161500" channel="Evento_Ligue_1__Ligue_1___Nantes_vs_Lorient__ESP____10_15_1">
-    <title>Próximamente | 10:15 | Nantes vs Lorient [ESP]</title>
-  </programme>
-  <programme start="20251123161500" stop="20251123191500" channel="Evento_Ligue_1__Ligue_1___Nantes_vs_Lorient__ESP____10_15_1">
-    <title>⌾ En vivo | 10:15 | Nantes vs Lorient [ESP]</title>
-  </programme>
-  <programme start="20251123191500" stop="20251124055959" channel="Evento_Ligue_1__Ligue_1___Nantes_vs_Lorient__ESP____10_15_1">
-    <title>Finalizado | Nantes vs Lorient [ESP]</title>
-  </programme>
   <programme start="20251123060000" stop="20251123194500" channel="Evento_Ligue_1__Ligue_1___Lille_vs_Paris__ESP____13_45_1">
     <title>Próximamente | 13:45 | Lille vs Paris [ESP]</title>
   </programme>
@@ -138841,60 +138532,6 @@
   </programme>
   <programme start="20251123224500" stop="20251124055959" channel="Evento_Ligue_1__Ligue_1___Lille_vs_Paris__ESP____13_45_1">
     <title>Finalizado | Lille vs Paris [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123123000" channel="Evento_Championship__Championship___Sheffield_Wednesday_vs_Sheffield_United__ESP____06_30_1">
-    <title>Próximamente | 06:30 | Sheffield Wednesday vs Sheffield United [ESP]</title>
-  </programme>
-  <programme start="20251123123000" stop="20251123153000" channel="Evento_Championship__Championship___Sheffield_Wednesday_vs_Sheffield_United__ESP____06_30_1">
-    <title>⌾ En vivo | 06:30 | Sheffield Wednesday vs Sheffield United [ESP]</title>
-  </programme>
-  <programme start="20251123153000" stop="20251124055959" channel="Evento_Championship__Championship___Sheffield_Wednesday_vs_Sheffield_United__ESP____06_30_1">
-    <title>Finalizado | Sheffield Wednesday vs Sheffield United [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123111500" channel="Evento_Eredivisie__Eredivisie___Heerenveen_vs_AZ__ENG____05_15_1">
-    <title>Próximamente | 05:15 | Heerenveen vs AZ [ENG]</title>
-  </programme>
-  <programme start="20251123111500" stop="20251123141500" channel="Evento_Eredivisie__Eredivisie___Heerenveen_vs_AZ__ENG____05_15_1">
-    <title>⌾ En vivo | 05:15 | Heerenveen vs AZ [ENG]</title>
-  </programme>
-  <programme start="20251123141500" stop="20251124055959" channel="Evento_Eredivisie__Eredivisie___Heerenveen_vs_AZ__ENG____05_15_1">
-    <title>Finalizado | Heerenveen vs AZ [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123133000" channel="Evento_Eredivisie__Eredivisie___Telstar_vs_Utrecht__ENG____07_30_1">
-    <title>Próximamente | 07:30 | Telstar vs Utrecht [ENG]</title>
-  </programme>
-  <programme start="20251123133000" stop="20251123163000" channel="Evento_Eredivisie__Eredivisie___Telstar_vs_Utrecht__ENG____07_30_1">
-    <title>⌾ En vivo | 07:30 | Telstar vs Utrecht [ENG]</title>
-  </programme>
-  <programme start="20251123163000" stop="20251124055959" channel="Evento_Eredivisie__Eredivisie___Telstar_vs_Utrecht__ENG____07_30_1">
-    <title>Finalizado | Telstar vs Utrecht [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123133000" channel="Evento_Eredivisie__Eredivisie___Feyenoord_vs_NEC__ENG____07_30_1">
-    <title>Próximamente | 07:30 | Feyenoord vs NEC [ENG]</title>
-  </programme>
-  <programme start="20251123133000" stop="20251123163000" channel="Evento_Eredivisie__Eredivisie___Feyenoord_vs_NEC__ENG____07_30_1">
-    <title>⌾ En vivo | 07:30 | Feyenoord vs NEC [ENG]</title>
-  </programme>
-  <programme start="20251123163000" stop="20251124055959" channel="Evento_Eredivisie__Eredivisie___Feyenoord_vs_NEC__ENG____07_30_1">
-    <title>Finalizado | Feyenoord vs NEC [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123154500" channel="Evento_Eredivisie__Eredivisie___Groningen_vs_PEC_Zwolle__ENG____09_45_1">
-    <title>Próximamente | 09:45 | Groningen vs PEC Zwolle [ENG]</title>
-  </programme>
-  <programme start="20251123154500" stop="20251123184500" channel="Evento_Eredivisie__Eredivisie___Groningen_vs_PEC_Zwolle__ENG____09_45_1">
-    <title>⌾ En vivo | 09:45 | Groningen vs PEC Zwolle [ENG]</title>
-  </programme>
-  <programme start="20251123184500" stop="20251124055959" channel="Evento_Eredivisie__Eredivisie___Groningen_vs_PEC_Zwolle__ENG____09_45_1">
-    <title>Finalizado | Groningen vs PEC Zwolle [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123140000" channel="Evento_Super_Lig__Super_Lig___Be_ikta__vs_Samsunspor__ENG____08_00_1">
-    <title>Próximamente | 08:00 | Beşiktaş vs Samsunspor [ENG]</title>
-  </programme>
-  <programme start="20251123140000" stop="20251123170000" channel="Evento_Super_Lig__Super_Lig___Be_ikta__vs_Samsunspor__ENG____08_00_1">
-    <title>⌾ En vivo | 08:00 | Beşiktaş vs Samsunspor [ENG]</title>
-  </programme>
-  <programme start="20251123170000" stop="20251124055959" channel="Evento_Super_Lig__Super_Lig___Be_ikta__vs_Samsunspor__ENG____08_00_1">
-    <title>Finalizado | Beşiktaş vs Samsunspor [ENG]</title>
   </programme>
   <programme start="20251123060000" stop="20251123170000" channel="Evento_Super_Lig__Super_Lig___Rizespor_vs_Fenerbah_e__ENG____11_00_1">
     <title>Próximamente | 11:00 | Rizespor vs Fenerbahçe [ENG]</title>
@@ -138913,33 +138550,6 @@
   </programme>
   <programme start="20251123203000" stop="20251124055959" channel="Evento_Pro_League__Pro_League___Al_Nassr_vs_Al_Khaleej__ENG____11_30_1">
     <title>Finalizado | Al Nassr vs Al Khaleej [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123110000" channel="Evento_Copa_Portugal__Copa_Portugal___Lusitania_FC_Lourosa_vs_Torreense___05_00_1">
-    <title>Próximamente | 05:00 | Lusitania FC Lourosa vs Torreense</title>
-  </programme>
-  <programme start="20251123110000" stop="20251123140000" channel="Evento_Copa_Portugal__Copa_Portugal___Lusitania_FC_Lourosa_vs_Torreense___05_00_1">
-    <title>⌾ En vivo | 05:00 | Lusitania FC Lourosa vs Torreense</title>
-  </programme>
-  <programme start="20251123140000" stop="20251124055959" channel="Evento_Copa_Portugal__Copa_Portugal___Lusitania_FC_Lourosa_vs_Torreense___05_00_1">
-    <title>Finalizado | Lusitania FC Lourosa vs Torreense</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123140000" channel="Evento_Copa_Portugal__Copa_Portugal___Fafe_vs_Arouca___08_00_1">
-    <title>Próximamente | 08:00 | Fafe vs Arouca</title>
-  </programme>
-  <programme start="20251123140000" stop="20251123170000" channel="Evento_Copa_Portugal__Copa_Portugal___Fafe_vs_Arouca___08_00_1">
-    <title>⌾ En vivo | 08:00 | Fafe vs Arouca</title>
-  </programme>
-  <programme start="20251123170000" stop="20251124055959" channel="Evento_Copa_Portugal__Copa_Portugal___Fafe_vs_Arouca___08_00_1">
-    <title>Finalizado | Fafe vs Arouca</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123170000" channel="Evento_Copa_Portugal__Copa_Portugal___Tondela_vs_Caldas___11_00_1">
-    <title>Próximamente | 11:00 | Tondela vs Caldas</title>
-  </programme>
-  <programme start="20251123170000" stop="20251123200000" channel="Evento_Copa_Portugal__Copa_Portugal___Tondela_vs_Caldas___11_00_1">
-    <title>⌾ En vivo | 11:00 | Tondela vs Caldas</title>
-  </programme>
-  <programme start="20251123200000" stop="20251124055959" channel="Evento_Copa_Portugal__Copa_Portugal___Tondela_vs_Caldas___11_00_1">
-    <title>Finalizado | Tondela vs Caldas</title>
   </programme>
   <programme start="20251123060000" stop="20251123173000" channel="Evento_Copa_Portugal__Copa_Portugal___Sporting_Braga_vs_Nacional___11_30_1">
     <title>Próximamente | 11:30 | Sporting Braga vs Nacional</title>
@@ -139183,60 +138793,6 @@
   </programme>
   <programme start="20251124000000" stop="20251124055959" channel="Evento_Primera_ESV__Primera_ESV___Pl_vs_ense_vs__Firpo__ESP____15_00_1">
     <title>Finalizado | Pl vs ense vs. Firpo [ESP]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123133000" channel="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Escocia_vs_Tonga__ENG____07_30_1">
-    <title>Próximamente | 07:30 | Escocia vs Tonga [ENG]</title>
-  </programme>
-  <programme start="20251123133000" stop="20251123163000" channel="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Escocia_vs_Tonga__ENG____07_30_1">
-    <title>⌾ En vivo | 07:30 | Escocia vs Tonga [ENG]</title>
-  </programme>
-  <programme start="20251123163000" stop="20251124055959" channel="Evento_Autumn_Nations_Series__Autumn_Nations_Series___Escocia_vs_Tonga__ENG____07_30_1">
-    <title>Finalizado | Escocia vs Tonga [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123110000" channel="Evento_Copa_Davis__Copa_Davis___Gales_vs_Nueva_Zelanda__ENG____05_00_1">
-    <title>Próximamente | 05:00 | Gales vs Nueva Zelanda [ENG]</title>
-  </programme>
-  <programme start="20251123110000" stop="20251123140000" channel="Evento_Copa_Davis__Copa_Davis___Gales_vs_Nueva_Zelanda__ENG____05_00_1">
-    <title>⌾ En vivo | 05:00 | Gales vs Nueva Zelanda [ENG]</title>
-  </programme>
-  <programme start="20251123140000" stop="20251124055959" channel="Evento_Copa_Davis__Copa_Davis___Gales_vs_Nueva_Zelanda__ENG____05_00_1">
-    <title>Finalizado | Gales vs Nueva Zelanda [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123160000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___SIU_Edwardsville_vs_Morehead_State__ENG____10_00_1">
-    <title>Próximamente | 10:00 | SIU Edwardsville vs Morehead State [ENG]</title>
-  </programme>
-  <programme start="20251123160000" stop="20251123190000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___SIU_Edwardsville_vs_Morehead_State__ENG____10_00_1">
-    <title>⌾ En vivo | 10:00 | SIU Edwardsville vs Morehead State [ENG]</title>
-  </programme>
-  <programme start="20251123190000" stop="20251124055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___SIU_Edwardsville_vs_Morehead_State__ENG____10_00_1">
-    <title>Finalizado | SIU Edwardsville vs Morehead State [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123170000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Auburn_vs__2_Kentucky__ENG____11_00_1">
-    <title>Próximamente | 11:00 | Auburn vs #2 Kentucky [ENG]</title>
-  </programme>
-  <programme start="20251123170000" stop="20251123200000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Auburn_vs__2_Kentucky__ENG____11_00_1">
-    <title>⌾ En vivo | 11:00 | Auburn vs #2 Kentucky [ENG]</title>
-  </programme>
-  <programme start="20251123200000" stop="20251124055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Auburn_vs__2_Kentucky__ENG____11_00_1">
-    <title>Finalizado | Auburn vs #2 Kentucky [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123180000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____7_Louisville_vs_Clemson__ENG____12_00_1">
-    <title>Próximamente | 12:00 | #7 Louisville vs Clemson [ENG]</title>
-  </programme>
-  <programme start="20251123180000" stop="20251123210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____7_Louisville_vs_Clemson__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | #7 Louisville vs Clemson [ENG]</title>
-  </programme>
-  <programme start="20251123210000" stop="20251124055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____7_Louisville_vs_Clemson__ENG____12_00_1">
-    <title>Finalizado | #7 Louisville vs Clemson [ENG]</title>
-  </programme>
-  <programme start="20251123060000" stop="20251123180000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Central_Arkansas_vs_Eastern_Kentucky__ENG____12_00_1">
-    <title>Próximamente | 12:00 | Central Arkansas vs Eastern Kentucky [ENG]</title>
-  </programme>
-  <programme start="20251123180000" stop="20251123210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Central_Arkansas_vs_Eastern_Kentucky__ENG____12_00_1">
-    <title>⌾ En vivo | 12:00 | Central Arkansas vs Eastern Kentucky [ENG]</title>
-  </programme>
-  <programme start="20251123210000" stop="20251124055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Central_Arkansas_vs_Eastern_Kentucky__ENG____12_00_1">
-    <title>Finalizado | Central Arkansas vs Eastern Kentucky [ENG]</title>
   </programme>
   <programme start="20251123060000" stop="20251123180000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Tulsa_vs_Rice__ENG____12_00_1">
     <title>Próximamente | 12:00 | Tulsa vs Rice [ENG]</title>
