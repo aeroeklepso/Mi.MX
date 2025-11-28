@@ -139622,9 +139622,6 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Lakers_vs_Dallas_Mavericks__ENG____21_00_1">
     <display-name>NBA | Los Angeles Lakers vs Dallas Mavericks [ENG] | 21:00</display-name>
   </channel>
-  <channel id="Evento_Amistoso__Amistoso___Australia__F__vs_Nueva_Zelanda__F___ENG____02_30_1">
-    <display-name>Amistoso | Australia (F) vs Nueva Zelanda (F) [ENG] | 02:30</display-name>
-  </channel>
   <channel id="Evento_Amistoso__Amistoso___Noruega__F__vs_Brazil__F___ENG____12_00_1">
     <display-name>Amistoso | Noruega (F) vs Brazil (F) [ENG] | 12:00</display-name>
   </channel>
@@ -140080,15 +140077,6 @@
   </programme>
   <programme start="20251129000000 -0600" stop="20251128235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Lakers_vs_Dallas_Mavericks__ENG____21_00_1">
     <title>Finalizado | Los Angeles Lakers vs Dallas Mavericks [ENG]</title>
-  </programme>
-  <programme start="20251128000000 -0600" stop="20251128023000 -0600" channel="Evento_Amistoso__Amistoso___Australia__F__vs_Nueva_Zelanda__F___ENG____02_30_1">
-    <title>Próximamente | 02:30 | Australia (F) vs Nueva Zelanda (F) [ENG]</title>
-  </programme>
-  <programme start="20251128023000 -0600" stop="20251128053000 -0600" channel="Evento_Amistoso__Amistoso___Australia__F__vs_Nueva_Zelanda__F___ENG____02_30_1">
-    <title>⌾ En vivo | 02:30 | Australia (F) vs Nueva Zelanda (F) [ENG]</title>
-  </programme>
-  <programme start="20251128053000 -0600" stop="20251128235959 -0600" channel="Evento_Amistoso__Amistoso___Australia__F__vs_Nueva_Zelanda__F___ENG____02_30_1">
-    <title>Finalizado | Australia (F) vs Nueva Zelanda (F) [ENG]</title>
   </programme>
   <programme start="20251128000000 -0600" stop="20251128120000 -0600" channel="Evento_Amistoso__Amistoso___Noruega__F__vs_Brazil__F___ENG____12_00_1">
     <title>Próximamente | 12:00 | Noruega (F) vs Brazil (F) [ENG]</title>
