@@ -135269,6 +135269,9 @@
   <channel id="Evento_NCAA_Football__NCAA_Football____2_TCU_vs__1_Vanderbilt__ENG____18_30_1">
     <display-name>NCAA Football | #2 TCU vs #1 Vanderbilt [ENG] | 18:30</display-name>
   </channel>
+  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <display-name>NFL | Se vs tle Seahawks at Washigton Commanders | 19:20</display-name>
+  </channel>
   <programme start="20251130060000" stop="20251201010000" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Charros_de_Jalisco__ESP____19_00_1">
     <title>Próximamente | 19:00 | Jaguares de Nayarit vs Charros de Jalisco [ESP]</title>
   </programme>
@@ -135781,6 +135784,15 @@
   </programme>
   <programme start="20251201033000" stop="20251201055959" channel="Evento_NCAA_Football__NCAA_Football____2_TCU_vs__1_Vanderbilt__ENG____18_30_1">
     <title>Finalizado | #2 TCU vs #1 Vanderbilt [ENG]</title>
+  </programme>
+  <programme start="20251130060000" stop="20251201012000" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>Próximamente | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251201012000" stop="20251201042000" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>⌾ En vivo | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251201042000" stop="20251201055959" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>Finalizado | Se vs tle Seahawks at Washigton Commanders</title>
   </programme>
 </tv>
 
