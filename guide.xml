@@ -135170,12 +135170,6 @@
   <channel id="Evento_Eredivisie__Eredivisie___Ajax_vs_Groningen__ENG____13_00_1">
     <display-name>Eredivisie | Ajax vs Groningen [ENG] | 13:00</display-name>
   </channel>
-  <channel id="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_1">
-    <display-name>Serie A | Lecce vs Torino [ESP] | 05:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_2">
-    <display-name>Serie A | Lecce vs Torino [ESP] | 05:30</display-name>
-  </channel>
   <channel id="Evento_Serie_A__Serie_A___Pisa_vs_Internazionale__ESP____08_00_1">
     <display-name>Serie A | Pisa vs Internazionale [ESP] | 08:00</display-name>
   </channel>
@@ -135200,9 +135194,6 @@
   <channel id="Evento_Premier_League__Premier_League___West_Ham_United_vs_Liverpool__ESP____08_05_1">
     <display-name>Premier League | West Ham United vs Liverpool [ESP] | 08:05</display-name>
   </channel>
-  <channel id="Evento_Premier_League__Premier_League___West_Ham_United_vs_Liverpool__ESP____08_05_2">
-    <display-name>Premier League | West Ham United vs Liverpool [ESP] | 08:05</display-name>
-  </channel>
   <channel id="Evento_Premier_League__Premier_League___Chelsea_vs_Arsenal__ESP____14_00_1">
     <display-name>Premier League | Chelsea vs Arsenal [ESP] | 14:00</display-name>
   </channel>
@@ -135211,9 +135202,6 @@
   </channel>
   <channel id="Evento_Bundesliga_2__Bundesliga_2___Arminia_Bielefeld_vs_Preu_en_M_nster__ENG____06_30_1">
     <display-name>Bundesliga 2 | Arminia Bielefeld vs Preußen Münster [ENG] | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___Dynamo_Dresden_vs_Fortuna_D_sseldorf__ENG____06_30_1">
-    <display-name>Bundesliga 2 | Dynamo Dresden vs Fortuna Düsseldorf [ENG] | 06:30</display-name>
   </channel>
   <channel id="Evento_Bundesliga_2__Bundesliga_2___Elversberg_vs_Darmstadt_98__ENG____06_30_1">
     <display-name>Bundesliga 2 | Elversberg vs Darmstadt 98 [ENG] | 06:30</display-name>
@@ -135602,24 +135590,6 @@
   <programme start="20251130160000 -0600" stop="20251130235959 -0600" channel="Evento_Eredivisie__Eredivisie___Ajax_vs_Groningen__ENG____13_00_1">
     <title>Finalizado | Ajax vs Groningen [ENG]</title>
   </programme>
-  <programme start="20251130000000 -0600" stop="20251130053000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_1">
-    <title>Próximamente | 05:30 | Lecce vs Torino [ESP]</title>
-  </programme>
-  <programme start="20251130053000 -0600" stop="20251130083000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_1">
-    <title>⌾ En vivo | 05:30 | Lecce vs Torino [ESP]</title>
-  </programme>
-  <programme start="20251130083000 -0600" stop="20251130235959 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_1">
-    <title>Finalizado | Lecce vs Torino [ESP]</title>
-  </programme>
-  <programme start="20251130000000 -0600" stop="20251130053000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_2">
-    <title>Próximamente | 05:30 | Lecce vs Torino [ESP]</title>
-  </programme>
-  <programme start="20251130053000 -0600" stop="20251130083000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_2">
-    <title>⌾ En vivo | 05:30 | Lecce vs Torino [ESP]</title>
-  </programme>
-  <programme start="20251130083000 -0600" stop="20251130235959 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Torino__ESP____05_30_2">
-    <title>Finalizado | Lecce vs Torino [ESP]</title>
-  </programme>
   <programme start="20251130000000 -0600" stop="20251130080000 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Internazionale__ESP____08_00_1">
     <title>Próximamente | 08:00 | Pisa vs Internazionale [ESP]</title>
   </programme>
@@ -135692,15 +135662,6 @@
   <programme start="20251130110500 -0600" stop="20251130235959 -0600" channel="Evento_Premier_League__Premier_League___West_Ham_United_vs_Liverpool__ESP____08_05_1">
     <title>Finalizado | West Ham United vs Liverpool [ESP]</title>
   </programme>
-  <programme start="20251130000000 -0600" stop="20251130080500 -0600" channel="Evento_Premier_League__Premier_League___West_Ham_United_vs_Liverpool__ESP____08_05_2">
-    <title>Próximamente | 08:05 | West Ham United vs Liverpool [ESP]</title>
-  </programme>
-  <programme start="20251130080500 -0600" stop="20251130110500 -0600" channel="Evento_Premier_League__Premier_League___West_Ham_United_vs_Liverpool__ESP____08_05_2">
-    <title>⌾ En vivo | 08:05 | West Ham United vs Liverpool [ESP]</title>
-  </programme>
-  <programme start="20251130110500 -0600" stop="20251130235959 -0600" channel="Evento_Premier_League__Premier_League___West_Ham_United_vs_Liverpool__ESP____08_05_2">
-    <title>Finalizado | West Ham United vs Liverpool [ESP]</title>
-  </programme>
   <programme start="20251130000000 -0600" stop="20251130140000 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Arsenal__ESP____14_00_1">
     <title>Próximamente | 14:00 | Chelsea vs Arsenal [ESP]</title>
   </programme>
@@ -135727,15 +135688,6 @@
   </programme>
   <programme start="20251130093000 -0600" stop="20251130235959 -0600" channel="Evento_Bundesliga_2__Bundesliga_2___Arminia_Bielefeld_vs_Preu_en_M_nster__ENG____06_30_1">
     <title>Finalizado | Arminia Bielefeld vs Preußen Münster [ENG]</title>
-  </programme>
-  <programme start="20251130000000 -0600" stop="20251130063000 -0600" channel="Evento_Bundesliga_2__Bundesliga_2___Dynamo_Dresden_vs_Fortuna_D_sseldorf__ENG____06_30_1">
-    <title>Próximamente | 06:30 | Dynamo Dresden vs Fortuna Düsseldorf [ENG]</title>
-  </programme>
-  <programme start="20251130063000 -0600" stop="20251130093000 -0600" channel="Evento_Bundesliga_2__Bundesliga_2___Dynamo_Dresden_vs_Fortuna_D_sseldorf__ENG____06_30_1">
-    <title>⌾ En vivo | 06:30 | Dynamo Dresden vs Fortuna Düsseldorf [ENG]</title>
-  </programme>
-  <programme start="20251130093000 -0600" stop="20251130235959 -0600" channel="Evento_Bundesliga_2__Bundesliga_2___Dynamo_Dresden_vs_Fortuna_D_sseldorf__ENG____06_30_1">
-    <title>Finalizado | Dynamo Dresden vs Fortuna Düsseldorf [ENG]</title>
   </programme>
   <programme start="20251130000000 -0600" stop="20251130063000 -0600" channel="Evento_Bundesliga_2__Bundesliga_2___Elversberg_vs_Darmstadt_98__ENG____06_30_1">
     <title>Próximamente | 06:30 | Elversberg vs Darmstadt 98 [ENG]</title>
