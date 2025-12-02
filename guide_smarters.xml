@@ -137249,12 +137249,6 @@
   <channel id="Evento_Copa_Italia__Copa_Italia___Juventus_vs_Udinese__ESP____14_00_1">
     <display-name>Copa Italia | Juventus vs Udinese [ESP] | 14:00</display-name>
   </channel>
-  <channel id="Evento_DFB_Pokal__DFB_Pokal___Hertha_BSC_vs_Kaiserslautern__ENG____11_00_1">
-    <display-name>DFB Pokal | Hertha BSC vs Kaiserslautern [ENG] | 11:00</display-name>
-  </channel>
-  <channel id="Evento_DFB_Pokal__DFB_Pokal___Borussia_M_gladbach_vs_St__Pauli__ENG____11_00_1">
-    <display-name>DFB Pokal | Borussia M'gladbach vs St. Pauli [ENG] | 11:00</display-name>
-  </channel>
   <channel id="Evento_DFB_Pokal__DFB_Pokal___RB_Leipzig_vs_Magdeburg__ENG____14_00_1">
     <display-name>DFB Pokal | RB Leipzig vs Magdeburg [ENG] | 14:00</display-name>
   </channel>
@@ -137707,24 +137701,6 @@
   </programme>
   <programme start="20251202230000" stop="20251203055959" channel="Evento_Copa_Italia__Copa_Italia___Juventus_vs_Udinese__ESP____14_00_1">
     <title>Finalizado | Juventus vs Udinese [ESP]</title>
-  </programme>
-  <programme start="20251202060000" stop="20251202170000" channel="Evento_DFB_Pokal__DFB_Pokal___Hertha_BSC_vs_Kaiserslautern__ENG____11_00_1">
-    <title>Próximamente | 11:00 | Hertha BSC vs Kaiserslautern [ENG]</title>
-  </programme>
-  <programme start="20251202170000" stop="20251202200000" channel="Evento_DFB_Pokal__DFB_Pokal___Hertha_BSC_vs_Kaiserslautern__ENG____11_00_1">
-    <title>⌾ En vivo | 11:00 | Hertha BSC vs Kaiserslautern [ENG]</title>
-  </programme>
-  <programme start="20251202200000" stop="20251203055959" channel="Evento_DFB_Pokal__DFB_Pokal___Hertha_BSC_vs_Kaiserslautern__ENG____11_00_1">
-    <title>Finalizado | Hertha BSC vs Kaiserslautern [ENG]</title>
-  </programme>
-  <programme start="20251202060000" stop="20251202170000" channel="Evento_DFB_Pokal__DFB_Pokal___Borussia_M_gladbach_vs_St__Pauli__ENG____11_00_1">
-    <title>Próximamente | 11:00 | Borussia M'gladbach vs St. Pauli [ENG]</title>
-  </programme>
-  <programme start="20251202170000" stop="20251202200000" channel="Evento_DFB_Pokal__DFB_Pokal___Borussia_M_gladbach_vs_St__Pauli__ENG____11_00_1">
-    <title>⌾ En vivo | 11:00 | Borussia M'gladbach vs St. Pauli [ENG]</title>
-  </programme>
-  <programme start="20251202200000" stop="20251203055959" channel="Evento_DFB_Pokal__DFB_Pokal___Borussia_M_gladbach_vs_St__Pauli__ENG____11_00_1">
-    <title>Finalizado | Borussia M'gladbach vs St. Pauli [ENG]</title>
   </programme>
   <programme start="20251202060000" stop="20251202200000" channel="Evento_DFB_Pokal__DFB_Pokal___RB_Leipzig_vs_Magdeburg__ENG____14_00_1">
     <title>Próximamente | 14:00 | RB Leipzig vs Magdeburg [ENG]</title>
