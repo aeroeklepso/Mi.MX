@@ -137204,23 +137204,8 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Lakers_vs_Phoenix_Suns__ENG____21_00_1">
     <display-name>NBA | Los Angeles Lakers vs Phoenix Suns [ENG] | 21:00</display-name>
   </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___FP_Riviera_Maya_vs_Municipal__ENG____08_55_1">
-    <display-name>Beach Soccer WorldWide | FP Riviera Maya vs Municipal [ENG] | 08:55</display-name>
-  </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cali_BSC_vs_FP_Riviera_Maya__ENG____10_10_1">
-    <display-name>Beach Soccer WorldWide | Cali BSC vs FP Riviera Maya [ENG] | 10:10</display-name>
-  </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Arcos_FC_vs_Cruzn__ENG____11_25_1">
-    <display-name>Beach Soccer WorldWide | Arcos FC vs Cruzn [ENG] | 11:25</display-name>
-  </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Barra_vs_Nassau_BSC__ENG____12_40_1">
-    <display-name>Beach Soccer WorldWide | Barra vs Nassau BSC [ENG] | 12:40</display-name>
-  </channel>
   <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Isla_San_Sebastian_vs_Samara__ENG____13_55_1">
     <display-name>Beach Soccer WorldWide | Isla San Sebastian vs Samara [ENG] | 13:55</display-name>
-  </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___USAC_vs_Fuego_FC__ENG____15_25_1">
-    <display-name>Beach Soccer WorldWide | USAC vs Fuego FC [ENG] | 15:25</display-name>
   </channel>
   <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Sao_Pedro_BS_vs_San_Salvador__ENG____16_40_1">
     <display-name>Beach Soccer WorldWide | Sao Pedro BS vs San Salvador [ENG] | 16:40</display-name>
@@ -137233,9 +137218,6 @@
   </channel>
   <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Nopaleros_FC_vs_Barra__ENG____20_25_1">
     <display-name>Beach Soccer WorldWide | Nopaleros FC vs Barra [ENG] | 20:25</display-name>
-  </channel>
-  <channel id="Evento_Super_Lig__Super_Lig___Fenerbah_e_vs_Galatasaray__ESP____11_00_1">
-    <display-name>Super Lig | Fenerbahçe vs Galatasaray [ESP] | 11:00</display-name>
   </channel>
   <channel id="Evento_Serie_A__Serie_A___Bologna_vs_Cremonese__ESP____13_45_1">
     <display-name>Serie A | Bologna vs Cremonese [ESP] | 13:45</display-name>
@@ -137257,9 +137239,6 @@
   </channel>
   <channel id="Evento_Primera_ARG__Primera_ARG___Racing_Club_vs_Tigre__ESP____18_30_1">
     <display-name>Primera ARG | Racing Club vs Tigre [ESP] | 18:30</display-name>
-  </channel>
-  <channel id="Evento_W_de_CONCACAF__W_de_CONCACAF___San_Vicente___Granadinas_vs_Trinidad_y_Tobago__ENG____14_00_1">
-    <display-name>W de CONCACAF | San Vicente / Granadinas vs Trinidad y Tobago [ENG] | 14:00</display-name>
   </channel>
   <channel id="Evento_W_de_CONCACAF__W_de_CONCACAF___Barbados_vs_Trinidad_y_Tobago__ENG____17_00_1">
     <display-name>W de CONCACAF | Barbados vs Trinidad y Tobago [ENG] | 17:00</display-name>
@@ -137459,42 +137438,6 @@
   <programme start="20251202000000 -0600" stop="20251201235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Lakers_vs_Phoenix_Suns__ENG____21_00_1">
     <title>Finalizado | Los Angeles Lakers vs Phoenix Suns [ENG]</title>
   </programme>
-  <programme start="20251201000000 -0600" stop="20251201085500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___FP_Riviera_Maya_vs_Municipal__ENG____08_55_1">
-    <title>Próximamente | 08:55 | FP Riviera Maya vs Municipal [ENG]</title>
-  </programme>
-  <programme start="20251201085500 -0600" stop="20251201115500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___FP_Riviera_Maya_vs_Municipal__ENG____08_55_1">
-    <title>⌾ En vivo | 08:55 | FP Riviera Maya vs Municipal [ENG]</title>
-  </programme>
-  <programme start="20251201115500 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___FP_Riviera_Maya_vs_Municipal__ENG____08_55_1">
-    <title>Finalizado | FP Riviera Maya vs Municipal [ENG]</title>
-  </programme>
-  <programme start="20251201000000 -0600" stop="20251201101000 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cali_BSC_vs_FP_Riviera_Maya__ENG____10_10_1">
-    <title>Próximamente | 10:10 | Cali BSC vs FP Riviera Maya [ENG]</title>
-  </programme>
-  <programme start="20251201101000 -0600" stop="20251201131000 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cali_BSC_vs_FP_Riviera_Maya__ENG____10_10_1">
-    <title>⌾ En vivo | 10:10 | Cali BSC vs FP Riviera Maya [ENG]</title>
-  </programme>
-  <programme start="20251201131000 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cali_BSC_vs_FP_Riviera_Maya__ENG____10_10_1">
-    <title>Finalizado | Cali BSC vs FP Riviera Maya [ENG]</title>
-  </programme>
-  <programme start="20251201000000 -0600" stop="20251201112500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Arcos_FC_vs_Cruzn__ENG____11_25_1">
-    <title>Próximamente | 11:25 | Arcos FC vs Cruzn [ENG]</title>
-  </programme>
-  <programme start="20251201112500 -0600" stop="20251201142500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Arcos_FC_vs_Cruzn__ENG____11_25_1">
-    <title>⌾ En vivo | 11:25 | Arcos FC vs Cruzn [ENG]</title>
-  </programme>
-  <programme start="20251201142500 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Arcos_FC_vs_Cruzn__ENG____11_25_1">
-    <title>Finalizado | Arcos FC vs Cruzn [ENG]</title>
-  </programme>
-  <programme start="20251201000000 -0600" stop="20251201124000 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Barra_vs_Nassau_BSC__ENG____12_40_1">
-    <title>Próximamente | 12:40 | Barra vs Nassau BSC [ENG]</title>
-  </programme>
-  <programme start="20251201124000 -0600" stop="20251201154000 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Barra_vs_Nassau_BSC__ENG____12_40_1">
-    <title>⌾ En vivo | 12:40 | Barra vs Nassau BSC [ENG]</title>
-  </programme>
-  <programme start="20251201154000 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Barra_vs_Nassau_BSC__ENG____12_40_1">
-    <title>Finalizado | Barra vs Nassau BSC [ENG]</title>
-  </programme>
   <programme start="20251201000000 -0600" stop="20251201135500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Isla_San_Sebastian_vs_Samara__ENG____13_55_1">
     <title>Próximamente | 13:55 | Isla San Sebastian vs Samara [ENG]</title>
   </programme>
@@ -137503,15 +137446,6 @@
   </programme>
   <programme start="20251201165500 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Isla_San_Sebastian_vs_Samara__ENG____13_55_1">
     <title>Finalizado | Isla San Sebastian vs Samara [ENG]</title>
-  </programme>
-  <programme start="20251201000000 -0600" stop="20251201152500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___USAC_vs_Fuego_FC__ENG____15_25_1">
-    <title>Próximamente | 15:25 | USAC vs Fuego FC [ENG]</title>
-  </programme>
-  <programme start="20251201152500 -0600" stop="20251201182500 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___USAC_vs_Fuego_FC__ENG____15_25_1">
-    <title>⌾ En vivo | 15:25 | USAC vs Fuego FC [ENG]</title>
-  </programme>
-  <programme start="20251201182500 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___USAC_vs_Fuego_FC__ENG____15_25_1">
-    <title>Finalizado | USAC vs Fuego FC [ENG]</title>
   </programme>
   <programme start="20251201000000 -0600" stop="20251201164000 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Sao_Pedro_BS_vs_San_Salvador__ENG____16_40_1">
     <title>Próximamente | 16:40 | Sao Pedro BS vs San Salvador [ENG]</title>
@@ -137548,15 +137482,6 @@
   </programme>
   <programme start="20251201232500 -0600" stop="20251201235959 -0600" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Nopaleros_FC_vs_Barra__ENG____20_25_1">
     <title>Finalizado | Nopaleros FC vs Barra [ENG]</title>
-  </programme>
-  <programme start="20251201000000 -0600" stop="20251201110000 -0600" channel="Evento_Super_Lig__Super_Lig___Fenerbah_e_vs_Galatasaray__ESP____11_00_1">
-    <title>Próximamente | 11:00 | Fenerbahçe vs Galatasaray [ESP]</title>
-  </programme>
-  <programme start="20251201110000 -0600" stop="20251201140000 -0600" channel="Evento_Super_Lig__Super_Lig___Fenerbah_e_vs_Galatasaray__ESP____11_00_1">
-    <title>⌾ En vivo | 11:00 | Fenerbahçe vs Galatasaray [ESP]</title>
-  </programme>
-  <programme start="20251201140000 -0600" stop="20251201235959 -0600" channel="Evento_Super_Lig__Super_Lig___Fenerbah_e_vs_Galatasaray__ESP____11_00_1">
-    <title>Finalizado | Fenerbahçe vs Galatasaray [ESP]</title>
   </programme>
   <programme start="20251201000000 -0600" stop="20251201134500 -0600" channel="Evento_Serie_A__Serie_A___Bologna_vs_Cremonese__ESP____13_45_1">
     <title>Próximamente | 13:45 | Bologna vs Cremonese [ESP]</title>
@@ -137620,15 +137545,6 @@
   </programme>
   <programme start="20251201213000 -0600" stop="20251201235959 -0600" channel="Evento_Primera_ARG__Primera_ARG___Racing_Club_vs_Tigre__ESP____18_30_1">
     <title>Finalizado | Racing Club vs Tigre [ESP]</title>
-  </programme>
-  <programme start="20251201000000 -0600" stop="20251201140000 -0600" channel="Evento_W_de_CONCACAF__W_de_CONCACAF___San_Vicente___Granadinas_vs_Trinidad_y_Tobago__ENG____14_00_1">
-    <title>Próximamente | 14:00 | San Vicente / Granadinas vs Trinidad y Tobago [ENG]</title>
-  </programme>
-  <programme start="20251201140000 -0600" stop="20251201170000 -0600" channel="Evento_W_de_CONCACAF__W_de_CONCACAF___San_Vicente___Granadinas_vs_Trinidad_y_Tobago__ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | San Vicente / Granadinas vs Trinidad y Tobago [ENG]</title>
-  </programme>
-  <programme start="20251201170000 -0600" stop="20251201235959 -0600" channel="Evento_W_de_CONCACAF__W_de_CONCACAF___San_Vicente___Granadinas_vs_Trinidad_y_Tobago__ENG____14_00_1">
-    <title>Finalizado | San Vicente / Granadinas vs Trinidad y Tobago [ENG]</title>
   </programme>
   <programme start="20251201000000 -0600" stop="20251201170000 -0600" channel="Evento_W_de_CONCACAF__W_de_CONCACAF___Barbados_vs_Trinidad_y_Tobago__ENG____17_00_1">
     <title>Próximamente | 17:00 | Barbados vs Trinidad y Tobago [ENG]</title>
