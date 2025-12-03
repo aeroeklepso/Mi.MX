@@ -136118,12 +136118,6 @@
   <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Torrent_vs_Real_Betis__ESP____14_00_1">
     <display-name>Copa del Rey | Torrent vs Real Betis [ESP] | 14:00</display-name>
   </channel>
-  <channel id="Evento_DFB_Pokal__DFB_Pokal___Bochum_vs_Stuttgart__ESP____11_00_1">
-    <display-name>DFB Pokal | Bochum vs Stuttgart [ESP] | 11:00</display-name>
-  </channel>
-  <channel id="Evento_DFB_Pokal__DFB_Pokal___Freiburg_vs_Darmstadt_98__ESP____11_00_1">
-    <display-name>DFB Pokal | Freiburg vs Darmstadt 98 [ESP] | 11:00</display-name>
-  </channel>
   <channel id="Evento_DFB_Pokal__DFB_Pokal___Union_Berlin_vs_Bayern_M_nchen__ESP____13_45_1">
     <display-name>DFB Pokal | Union Berlin vs Bayern München [ESP] | 13:45</display-name>
   </channel>
@@ -136594,24 +136588,6 @@
   </programme>
   <programme start="20251203170000 -0600" stop="20251203235959 -0600" channel="Evento_Copa_del_Rey__Copa_del_Rey___Torrent_vs_Real_Betis__ESP____14_00_1">
     <title>Finalizado | Torrent vs Real Betis [ESP]</title>
-  </programme>
-  <programme start="20251203000000 -0600" stop="20251203110000 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Bochum_vs_Stuttgart__ESP____11_00_1">
-    <title>Próximamente | 11:00 | Bochum vs Stuttgart [ESP]</title>
-  </programme>
-  <programme start="20251203110000 -0600" stop="20251203140000 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Bochum_vs_Stuttgart__ESP____11_00_1">
-    <title>⌾ En vivo | 11:00 | Bochum vs Stuttgart [ESP]</title>
-  </programme>
-  <programme start="20251203140000 -0600" stop="20251203235959 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Bochum_vs_Stuttgart__ESP____11_00_1">
-    <title>Finalizado | Bochum vs Stuttgart [ESP]</title>
-  </programme>
-  <programme start="20251203000000 -0600" stop="20251203110000 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Freiburg_vs_Darmstadt_98__ESP____11_00_1">
-    <title>Próximamente | 11:00 | Freiburg vs Darmstadt 98 [ESP]</title>
-  </programme>
-  <programme start="20251203110000 -0600" stop="20251203140000 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Freiburg_vs_Darmstadt_98__ESP____11_00_1">
-    <title>⌾ En vivo | 11:00 | Freiburg vs Darmstadt 98 [ESP]</title>
-  </programme>
-  <programme start="20251203140000 -0600" stop="20251203235959 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Freiburg_vs_Darmstadt_98__ESP____11_00_1">
-    <title>Finalizado | Freiburg vs Darmstadt 98 [ESP]</title>
   </programme>
   <programme start="20251203000000 -0600" stop="20251203134500 -0600" channel="Evento_DFB_Pokal__DFB_Pokal___Union_Berlin_vs_Bayern_M_nchen__ESP____13_45_1">
     <title>Próximamente | 13:45 | Union Berlin vs Bayern München [ESP]</title>
