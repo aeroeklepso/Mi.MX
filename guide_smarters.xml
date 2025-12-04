@@ -134318,12 +134318,6 @@
   <channel id="Evento_Brasileir_o__Brasileir_o___Juventude_vs_Santos___16_30_1">
     <display-name>Brasileirão | Juventude vs Santos | 16:30</display-name>
   </channel>
-  <channel id="Evento_Brasileir_o__Brasileir_o___Bahia_vs_Sport_Recife___17_00_1">
-    <display-name>Brasileirão | Bahia vs Sport Recife | 17:00</display-name>
-  </channel>
-  <channel id="Evento_Brasileir_o__Brasileir_o___S_o_Paulo_vs_Internacional___17_00_1">
-    <display-name>Brasileirão | São Paulo vs Internacional | 17:00</display-name>
-  </channel>
   <channel id="Evento_Brasileir_o__Brasileir_o___Flamengo_vs_Cear____18_30_1">
     <display-name>Brasileirão | Flamengo vs Ceará | 18:30</display-name>
   </channel>
@@ -134359,12 +134353,6 @@
   </channel>
   <channel id="Evento_Volleyball__Volleyball___La_Verne_vs_UW__ENG____19_00_1">
     <display-name>Volleyball | La Verne vs UW [ENG] | 19:00</display-name>
-  </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cruzn_vs_FP_Riviera_Maya__ENG____17_55_1">
-    <display-name>Beach Soccer WorldWide | Cruzn vs FP Riviera Maya [ENG] | 17:55</display-name>
-  </channel>
-  <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Sportivo_vs_San_Sebastian__ENG____19_10_1">
-    <display-name>Beach Soccer WorldWide | Sportivo vs San Sebastian [ENG] | 19:10</display-name>
   </channel>
   <channel id="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Barra_vs_USAC__ENG____20_25_1">
     <display-name>Beach Soccer WorldWide | Barra vs USAC [ENG] | 20:25</display-name>
@@ -134603,24 +134591,6 @@
   <programme start="20251204013000" stop="20251204055959" channel="Evento_Brasileir_o__Brasileir_o___Juventude_vs_Santos___16_30_1">
     <title>Finalizado | Juventude vs Santos</title>
   </programme>
-  <programme start="20251203060000" stop="20251203230000" channel="Evento_Brasileir_o__Brasileir_o___Bahia_vs_Sport_Recife___17_00_1">
-    <title>Próximamente | 17:00 | Bahia vs Sport Recife</title>
-  </programme>
-  <programme start="20251203230000" stop="20251204020000" channel="Evento_Brasileir_o__Brasileir_o___Bahia_vs_Sport_Recife___17_00_1">
-    <title>⌾ En vivo | 17:00 | Bahia vs Sport Recife</title>
-  </programme>
-  <programme start="20251204020000" stop="20251204055959" channel="Evento_Brasileir_o__Brasileir_o___Bahia_vs_Sport_Recife___17_00_1">
-    <title>Finalizado | Bahia vs Sport Recife</title>
-  </programme>
-  <programme start="20251203060000" stop="20251203230000" channel="Evento_Brasileir_o__Brasileir_o___S_o_Paulo_vs_Internacional___17_00_1">
-    <title>Próximamente | 17:00 | São Paulo vs Internacional</title>
-  </programme>
-  <programme start="20251203230000" stop="20251204020000" channel="Evento_Brasileir_o__Brasileir_o___S_o_Paulo_vs_Internacional___17_00_1">
-    <title>⌾ En vivo | 17:00 | São Paulo vs Internacional</title>
-  </programme>
-  <programme start="20251204020000" stop="20251204055959" channel="Evento_Brasileir_o__Brasileir_o___S_o_Paulo_vs_Internacional___17_00_1">
-    <title>Finalizado | São Paulo vs Internacional</title>
-  </programme>
   <programme start="20251203060000" stop="20251204003000" channel="Evento_Brasileir_o__Brasileir_o___Flamengo_vs_Cear____18_30_1">
     <title>Próximamente | 18:30 | Flamengo vs Ceará</title>
   </programme>
@@ -134728,24 +134698,6 @@
   </programme>
   <programme start="20251204040000" stop="20251204055959" channel="Evento_Volleyball__Volleyball___La_Verne_vs_UW__ENG____19_00_1">
     <title>Finalizado | La Verne vs UW [ENG]</title>
-  </programme>
-  <programme start="20251203060000" stop="20251203235500" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cruzn_vs_FP_Riviera_Maya__ENG____17_55_1">
-    <title>Próximamente | 17:55 | Cruzn vs FP Riviera Maya [ENG]</title>
-  </programme>
-  <programme start="20251203235500" stop="20251204025500" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cruzn_vs_FP_Riviera_Maya__ENG____17_55_1">
-    <title>⌾ En vivo | 17:55 | Cruzn vs FP Riviera Maya [ENG]</title>
-  </programme>
-  <programme start="20251204025500" stop="20251204055959" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Cruzn_vs_FP_Riviera_Maya__ENG____17_55_1">
-    <title>Finalizado | Cruzn vs FP Riviera Maya [ENG]</title>
-  </programme>
-  <programme start="20251203060000" stop="20251204011000" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Sportivo_vs_San_Sebastian__ENG____19_10_1">
-    <title>Próximamente | 19:10 | Sportivo vs San Sebastian [ENG]</title>
-  </programme>
-  <programme start="20251204011000" stop="20251204041000" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Sportivo_vs_San_Sebastian__ENG____19_10_1">
-    <title>⌾ En vivo | 19:10 | Sportivo vs San Sebastian [ENG]</title>
-  </programme>
-  <programme start="20251204041000" stop="20251204055959" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Sportivo_vs_San_Sebastian__ENG____19_10_1">
-    <title>Finalizado | Sportivo vs San Sebastian [ENG]</title>
   </programme>
   <programme start="20251203060000" stop="20251204022500" channel="Evento_Beach_Soccer_WorldWide__Beach_Soccer_WorldWide___Barra_vs_USAC__ENG____20_25_1">
     <title>Próximamente | 20:25 | Barra vs USAC [ENG]</title>
