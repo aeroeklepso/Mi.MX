@@ -122933,428 +122933,476 @@
   <channel id="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
     <display-name>Evento | PITBUL vs ROACH | 00:00</display-name>
   </channel>
-  <programme start="20251206000000 -0600" stop="20251206143000 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Columbus_Blue_Jackets__ENG____14_30_1">
+  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Atlanta_Falcons__ENG____12_00_1">
+    <display-name>NFL | Se vs tle Seahawks at Atlanta Falcons [ENG] | 12:00</display-name>
+  </channel>
+  <channel id="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Buffalo_Bills__ENG____12_00_1">
+    <display-name>NFL | Cincinn vs i Bengals at Buffalo Bills [ENG] | 12:00</display-name>
+  </channel>
+  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <display-name>NFL | Se vs tle Seahawks at Washigton Commanders | 19:20</display-name>
+  </channel>
+  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_2">
+    <display-name>NFL | Se vs tle Seahawks at Washigton Commanders | 19:20</display-name>
+  </channel>
+  <programme start="20251207000000 -0600" stop="20251207143000 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Columbus_Blue_Jackets__ENG____14_30_1">
     <title>Próximamente | 14:30 | Florida Panthers vs Columbus Blue Jackets [ENG]</title>
   </programme>
-  <programme start="20251206143000 -0600" stop="20251206173000 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Columbus_Blue_Jackets__ENG____14_30_1">
+  <programme start="20251207143000 -0600" stop="20251207173000 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Columbus_Blue_Jackets__ENG____14_30_1">
     <title>⌾ En vivo | 14:30 | Florida Panthers vs Columbus Blue Jackets [ENG]</title>
   </programme>
-  <programme start="20251206173000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Columbus_Blue_Jackets__ENG____14_30_1">
+  <programme start="20251207173000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Florida_Panthers_vs_Columbus_Blue_Jackets__ENG____14_30_1">
     <title>Finalizado | Florida Panthers vs Columbus Blue Jackets [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_New_Jersey_Devils__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_New_Jersey_Devils__ENG____18_00_1">
     <title>Próximamente | 18:00 | Boston Bruins vs New Jersey Devils [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_New_Jersey_Devils__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_New_Jersey_Devils__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Boston Bruins vs New Jersey Devils [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_New_Jersey_Devils__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_New_Jersey_Devils__ENG____18_00_1">
     <title>Finalizado | Boston Bruins vs New Jersey Devils [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NHL__NHL___Calgary_Flames_vs_Utah_Mammoth__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NHL__NHL___Calgary_Flames_vs_Utah_Mammoth__ENG____18_00_1">
     <title>Próximamente | 18:00 | Calgary Flames vs Utah Mammoth [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Calgary_Flames_vs_Utah_Mammoth__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Calgary_Flames_vs_Utah_Mammoth__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Calgary Flames vs Utah Mammoth [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Calgary_Flames_vs_Utah_Mammoth__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Calgary_Flames_vs_Utah_Mammoth__ENG____18_00_1">
     <title>Finalizado | Calgary Flames vs Utah Mammoth [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Nashville_Predators__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Nashville_Predators__ENG____18_00_1">
     <title>Próximamente | 18:00 | Carolina Hurricanes vs Nashville Predators [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Nashville_Predators__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Nashville_Predators__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Carolina Hurricanes vs Nashville Predators [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Nashville_Predators__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Nashville_Predators__ENG____18_00_1">
     <title>Finalizado | Carolina Hurricanes vs Nashville Predators [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__St__Louis_Blues__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__St__Louis_Blues__ENG____18_00_1">
     <title>Próximamente | 18:00 | Ottawa Sen vs ors vs. St. Louis Blues [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__St__Louis_Blues__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__St__Louis_Blues__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Ottawa Sen vs ors vs. St. Louis Blues [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__St__Louis_Blues__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__St__Louis_Blues__ENG____18_00_1">
     <title>Finalizado | Ottawa Sen vs ors vs. St. Louis Blues [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_York_Islanders__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_York_Islanders__ENG____18_00_1">
     <title>Próximamente | 18:00 | Tampa Bay Lightning vs New York Islanders [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_York_Islanders__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_York_Islanders__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Tampa Bay Lightning vs New York Islanders [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_York_Islanders__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_York_Islanders__ENG____18_00_1">
     <title>Finalizado | Tampa Bay Lightning vs New York Islanders [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Montreal_Canadiens__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Montreal_Canadiens__ENG____18_00_1">
     <title>Próximamente | 18:00 | Toronto Maple Leafs vs Montreal Canadiens [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Montreal_Canadiens__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Montreal_Canadiens__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Toronto Maple Leafs vs Montreal Canadiens [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Montreal_Canadiens__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Montreal_Canadiens__ENG____18_00_1">
     <title>Finalizado | Toronto Maple Leafs vs Montreal Canadiens [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206200000 -0600" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Chicago_Blackhawks__ENG____20_00_1">
+  <programme start="20251207000000 -0600" stop="20251207200000 -0600" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Chicago_Blackhawks__ENG____20_00_1">
     <title>Próximamente | 20:00 | Los Angeles Kings vs Chicago Blackhawks [ENG]</title>
   </programme>
-  <programme start="20251206200000 -0600" stop="20251206230000 -0600" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Chicago_Blackhawks__ENG____20_00_1">
+  <programme start="20251207200000 -0600" stop="20251207230000 -0600" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Chicago_Blackhawks__ENG____20_00_1">
     <title>⌾ En vivo | 20:00 | Los Angeles Kings vs Chicago Blackhawks [ENG]</title>
   </programme>
-  <programme start="20251206230000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Chicago_Blackhawks__ENG____20_00_1">
+  <programme start="20251207230000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Chicago_Blackhawks__ENG____20_00_1">
     <title>Finalizado | Los Angeles Kings vs Chicago Blackhawks [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Edmonton_Oilers_vs_Winnipeg_Jets__ENG____21_00_1">
+  <programme start="20251207000000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Edmonton_Oilers_vs_Winnipeg_Jets__ENG____21_00_1">
     <title>Próximamente | 21:00 | Edmonton Oilers vs Winnipeg Jets [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251207000000 -0600" channel="Evento_NHL__NHL___Edmonton_Oilers_vs_Winnipeg_Jets__ENG____21_00_1">
+  <programme start="20251207210000 -0600" stop="20251208000000 -0600" channel="Evento_NHL__NHL___Edmonton_Oilers_vs_Winnipeg_Jets__ENG____21_00_1">
     <title>⌾ En vivo | 21:00 | Edmonton Oilers vs Winnipeg Jets [ENG]</title>
   </programme>
-  <programme start="20251207000000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Edmonton_Oilers_vs_Winnipeg_Jets__ENG____21_00_1">
+  <programme start="20251208000000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Edmonton_Oilers_vs_Winnipeg_Jets__ENG____21_00_1">
     <title>Finalizado | Edmonton Oilers vs Winnipeg Jets [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Detroit_Red_Wings__ENG____21_00_1">
+  <programme start="20251207000000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Detroit_Red_Wings__ENG____21_00_1">
     <title>Próximamente | 21:00 | Se vs tle Kraken vs. Detroit Red Wings [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251207000000 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Detroit_Red_Wings__ENG____21_00_1">
+  <programme start="20251207210000 -0600" stop="20251208000000 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Detroit_Red_Wings__ENG____21_00_1">
     <title>⌾ En vivo | 21:00 | Se vs tle Kraken vs. Detroit Red Wings [ENG]</title>
   </programme>
-  <programme start="20251207000000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Detroit_Red_Wings__ENG____21_00_1">
+  <programme start="20251208000000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Detroit_Red_Wings__ENG____21_00_1">
     <title>Finalizado | Se vs tle Kraken vs. Detroit Red Wings [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206210000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Minnesota_Wild__ENG____21_00_1">
+  <programme start="20251207000000 -0600" stop="20251207210000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Minnesota_Wild__ENG____21_00_1">
     <title>Próximamente | 21:00 | Vancouver Canucks vs Minnesota Wild [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251207000000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Minnesota_Wild__ENG____21_00_1">
+  <programme start="20251207210000 -0600" stop="20251208000000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Minnesota_Wild__ENG____21_00_1">
     <title>⌾ En vivo | 21:00 | Vancouver Canucks vs Minnesota Wild [ENG]</title>
   </programme>
-  <programme start="20251207000000 -0600" stop="20251206235959 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Minnesota_Wild__ENG____21_00_1">
+  <programme start="20251208000000 -0600" stop="20251207235959 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Minnesota_Wild__ENG____21_00_1">
     <title>Finalizado | Vancouver Canucks vs Minnesota Wild [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Algodoneros_De_Guasave__ESP____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Algodoneros_De_Guasave__ESP____18_00_1">
     <title>Próximamente | 18:00 | Venados De Maz vs lan vs. Algodoneros De Guasave [ESP]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Algodoneros_De_Guasave__ESP____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Algodoneros_De_Guasave__ESP____18_00_1">
     <title>⌾ En vivo | 18:00 | Venados De Maz vs lan vs. Algodoneros De Guasave [ESP]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Algodoneros_De_Guasave__ESP____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_LMP__LMP___Venados_De_Maz_vs_lan_vs__Algodoneros_De_Guasave__ESP____18_00_1">
     <title>Finalizado | Venados De Maz vs lan vs. Algodoneros De Guasave [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Tucson__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Tucson__ESP____19_00_1">
     <title>Próximamente | 19:00 | Cañeros de los Mochis vs Tucson [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Tucson__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Tucson__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Cañeros de los Mochis vs Tucson [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Tucson__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Tucson__ESP____19_00_1">
     <title>Finalizado | Cañeros de los Mochis vs Tucson [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Aguilas_De_Mexicali__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Aguilas_De_Mexicali__ESP____19_00_1">
     <title>Próximamente | 19:00 | Jaguares de Nayarit vs Aguilas De Mexicali [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Aguilas_De_Mexicali__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Aguilas_De_Mexicali__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Jaguares de Nayarit vs Aguilas De Mexicali [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Aguilas_De_Mexicali__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Aguilas_De_Mexicali__ESP____19_00_1">
     <title>Finalizado | Jaguares de Nayarit vs Aguilas De Mexicali [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Charros_de_Jalisco__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Charros_de_Jalisco__ESP____19_00_1">
     <title>Próximamente | 19:00 | Naranjeros De Hermosillo vs Charros de Jalisco [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Charros_de_Jalisco__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Charros_de_Jalisco__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Naranjeros De Hermosillo vs Charros de Jalisco [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Charros_de_Jalisco__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Charros_de_Jalisco__ESP____19_00_1">
     <title>Finalizado | Naranjeros De Hermosillo vs Charros de Jalisco [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206191000 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Tomateros_De_Culiacan__ESP____19_10_1">
+  <programme start="20251207000000 -0600" stop="20251207191000 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Tomateros_De_Culiacan__ESP____19_10_1">
     <title>Próximamente | 19:10 | Yaquis De Ciudad Obregón vs Tomateros De Culiacan [ESP]</title>
   </programme>
-  <programme start="20251206191000 -0600" stop="20251206221000 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Tomateros_De_Culiacan__ESP____19_10_1">
+  <programme start="20251207191000 -0600" stop="20251207221000 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Tomateros_De_Culiacan__ESP____19_10_1">
     <title>⌾ En vivo | 19:10 | Yaquis De Ciudad Obregón vs Tomateros De Culiacan [ESP]</title>
   </programme>
-  <programme start="20251206221000 -0600" stop="20251206235959 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Tomateros_De_Culiacan__ESP____19_10_1">
+  <programme start="20251207221000 -0600" stop="20251207235959 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Tomateros_De_Culiacan__ESP____19_10_1">
     <title>Finalizado | Yaquis De Ciudad Obregón vs Tomateros De Culiacan [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206120000 -0600" channel="Evento_BOX__BOX___Temur_Mamoyan_vs_Djuar_El_Scheich__ENG____12_00_1">
+  <programme start="20251207000000 -0600" stop="20251207120000 -0600" channel="Evento_BOX__BOX___Temur_Mamoyan_vs_Djuar_El_Scheich__ENG____12_00_1">
     <title>Próximamente | 12:00 | Temur Mamoyan vs Djuar El Scheich [ENG]</title>
   </programme>
-  <programme start="20251206120000 -0600" stop="20251206150000 -0600" channel="Evento_BOX__BOX___Temur_Mamoyan_vs_Djuar_El_Scheich__ENG____12_00_1">
+  <programme start="20251207120000 -0600" stop="20251207150000 -0600" channel="Evento_BOX__BOX___Temur_Mamoyan_vs_Djuar_El_Scheich__ENG____12_00_1">
     <title>⌾ En vivo | 12:00 | Temur Mamoyan vs Djuar El Scheich [ENG]</title>
   </programme>
-  <programme start="20251206150000 -0600" stop="20251206235959 -0600" channel="Evento_BOX__BOX___Temur_Mamoyan_vs_Djuar_El_Scheich__ENG____12_00_1">
+  <programme start="20251207150000 -0600" stop="20251207235959 -0600" channel="Evento_BOX__BOX___Temur_Mamoyan_vs_Djuar_El_Scheich__ENG____12_00_1">
     <title>Finalizado | Temur Mamoyan vs Djuar El Scheich [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206131500 -0600" channel="Evento_BOX__BOX___Melissa_Mortensen_vs_Dorota_Norek__ENG____13_15_1">
+  <programme start="20251207000000 -0600" stop="20251207131500 -0600" channel="Evento_BOX__BOX___Melissa_Mortensen_vs_Dorota_Norek__ENG____13_15_1">
     <title>Próximamente | 13:15 | Melissa Mortensen vs Dorota Norek [ENG]</title>
   </programme>
-  <programme start="20251206131500 -0600" stop="20251206161500 -0600" channel="Evento_BOX__BOX___Melissa_Mortensen_vs_Dorota_Norek__ENG____13_15_1">
+  <programme start="20251207131500 -0600" stop="20251207161500 -0600" channel="Evento_BOX__BOX___Melissa_Mortensen_vs_Dorota_Norek__ENG____13_15_1">
     <title>⌾ En vivo | 13:15 | Melissa Mortensen vs Dorota Norek [ENG]</title>
   </programme>
-  <programme start="20251206161500 -0600" stop="20251206235959 -0600" channel="Evento_BOX__BOX___Melissa_Mortensen_vs_Dorota_Norek__ENG____13_15_1">
+  <programme start="20251207161500 -0600" stop="20251207235959 -0600" channel="Evento_BOX__BOX___Melissa_Mortensen_vs_Dorota_Norek__ENG____13_15_1">
     <title>Finalizado | Melissa Mortensen vs Dorota Norek [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206160000 -0600" channel="Evento_BOX__BOX___Peter_McGrail_vs_Shabaz_Masoud__ENG____16_00_1">
+  <programme start="20251207000000 -0600" stop="20251207160000 -0600" channel="Evento_BOX__BOX___Peter_McGrail_vs_Shabaz_Masoud__ENG____16_00_1">
     <title>Próximamente | 16:00 | Peter McGrail vs Shabaz Masoud [ENG]</title>
   </programme>
-  <programme start="20251206160000 -0600" stop="20251206190000 -0600" channel="Evento_BOX__BOX___Peter_McGrail_vs_Shabaz_Masoud__ENG____16_00_1">
+  <programme start="20251207160000 -0600" stop="20251207190000 -0600" channel="Evento_BOX__BOX___Peter_McGrail_vs_Shabaz_Masoud__ENG____16_00_1">
     <title>⌾ En vivo | 16:00 | Peter McGrail vs Shabaz Masoud [ENG]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206235959 -0600" channel="Evento_BOX__BOX___Peter_McGrail_vs_Shabaz_Masoud__ENG____16_00_1">
+  <programme start="20251207190000 -0600" stop="20251207235959 -0600" channel="Evento_BOX__BOX___Peter_McGrail_vs_Shabaz_Masoud__ENG____16_00_1">
     <title>Finalizado | Peter McGrail vs Shabaz Masoud [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206170000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_1">
+  <programme start="20251207000000 -0600" stop="20251207170000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_1">
     <title>Próximamente | 17:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206170000 -0600" stop="20251206200000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_1">
+  <programme start="20251207170000 -0600" stop="20251207200000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_1">
     <title>⌾ En vivo | 17:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206200000 -0600" stop="20251206235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_1">
+  <programme start="20251207200000 -0600" stop="20251207235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_1">
     <title>Finalizado | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206170000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_2">
+  <programme start="20251207000000 -0600" stop="20251207170000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_2">
     <title>Próximamente | 17:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206170000 -0600" stop="20251206200000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_2">
+  <programme start="20251207170000 -0600" stop="20251207200000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_2">
     <title>⌾ En vivo | 17:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206200000 -0600" stop="20251206235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_2">
+  <programme start="20251207200000 -0600" stop="20251207235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____17_00_2">
     <title>Finalizado | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206213000 -0600" channel="Evento_BOX__BOX___Eduardo_Alvarado_vs_Shane_Torres__ENG____21_30_1">
+  <programme start="20251207000000 -0600" stop="20251207213000 -0600" channel="Evento_BOX__BOX___Eduardo_Alvarado_vs_Shane_Torres__ENG____21_30_1">
     <title>Próximamente | 21:30 | Eduardo Alvarado vs Shane Torres [ENG]</title>
   </programme>
-  <programme start="20251206213000 -0600" stop="20251207003000 -0600" channel="Evento_BOX__BOX___Eduardo_Alvarado_vs_Shane_Torres__ENG____21_30_1">
+  <programme start="20251207213000 -0600" stop="20251208003000 -0600" channel="Evento_BOX__BOX___Eduardo_Alvarado_vs_Shane_Torres__ENG____21_30_1">
     <title>⌾ En vivo | 21:30 | Eduardo Alvarado vs Shane Torres [ENG]</title>
   </programme>
-  <programme start="20251207003000 -0600" stop="20251206235959 -0600" channel="Evento_BOX__BOX___Eduardo_Alvarado_vs_Shane_Torres__ENG____21_30_1">
+  <programme start="20251208003000 -0600" stop="20251207235959 -0600" channel="Evento_BOX__BOX___Eduardo_Alvarado_vs_Shane_Torres__ENG____21_30_1">
     <title>Finalizado | Eduardo Alvarado vs Shane Torres [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206220000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_1">
+  <programme start="20251207000000 -0600" stop="20251207220000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_1">
     <title>Próximamente | 22:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251207010000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_1">
+  <programme start="20251207220000 -0600" stop="20251208010000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_1">
     <title>⌾ En vivo | 22:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251207010000 -0600" stop="20251206235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_1">
+  <programme start="20251208010000 -0600" stop="20251207235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_1">
     <title>Finalizado | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206220000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_2">
+  <programme start="20251207000000 -0600" stop="20251207220000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_2">
     <title>Próximamente | 22:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251207010000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_2">
+  <programme start="20251207220000 -0600" stop="20251208010000 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_2">
     <title>⌾ En vivo | 22:00 | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251207010000 -0600" stop="20251206235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_2">
+  <programme start="20251208010000 -0600" stop="20251207235959 -0600" channel="Evento_UFC__UFC___Merab_Dvalishvili_vs_Petr_Yan__ENG____22_00_2">
     <title>Finalizado | Merab Dvalishvili vs Petr Yan [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206160000 -0600" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_New_Orleans_Pelicans__ENG____16_00_1">
+  <programme start="20251207000000 -0600" stop="20251207160000 -0600" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_New_Orleans_Pelicans__ENG____16_00_1">
     <title>Próximamente | 16:00 | Brooklyn Nets vs New Orleans Pelicans [ENG]</title>
   </programme>
-  <programme start="20251206160000 -0600" stop="20251206190000 -0600" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_New_Orleans_Pelicans__ENG____16_00_1">
+  <programme start="20251207160000 -0600" stop="20251207190000 -0600" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_New_Orleans_Pelicans__ENG____16_00_1">
     <title>⌾ En vivo | 16:00 | Brooklyn Nets vs New Orleans Pelicans [ENG]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_New_Orleans_Pelicans__ENG____16_00_1">
+  <programme start="20251207190000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_New_Orleans_Pelicans__ENG____16_00_1">
     <title>Finalizado | Brooklyn Nets vs New Orleans Pelicans [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206180000 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Atlanta_Hawks__ENG____18_00_1">
+  <programme start="20251207000000 -0600" stop="20251207180000 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Atlanta_Hawks__ENG____18_00_1">
     <title>Próximamente | 18:00 | Washington Wizards vs Atlanta Hawks [ENG]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Atlanta_Hawks__ENG____18_00_1">
+  <programme start="20251207180000 -0600" stop="20251207210000 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Atlanta_Hawks__ENG____18_00_1">
     <title>⌾ En vivo | 18:00 | Washington Wizards vs Atlanta Hawks [ENG]</title>
   </programme>
-  <programme start="20251206210000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Atlanta_Hawks__ENG____18_00_1">
+  <programme start="20251207210000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Atlanta_Hawks__ENG____18_00_1">
     <title>Finalizado | Washington Wizards vs Atlanta Hawks [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206183000 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Golden_State_Warriors__ENG____18_30_1">
+  <programme start="20251207000000 -0600" stop="20251207183000 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Golden_State_Warriors__ENG____18_30_1">
     <title>Próximamente | 18:30 | Cleveland Cavaliers vs Golden State Warriors [ENG]</title>
   </programme>
-  <programme start="20251206183000 -0600" stop="20251206213000 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Golden_State_Warriors__ENG____18_30_1">
+  <programme start="20251207183000 -0600" stop="20251207213000 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Golden_State_Warriors__ENG____18_30_1">
     <title>⌾ En vivo | 18:30 | Cleveland Cavaliers vs Golden State Warriors [ENG]</title>
   </programme>
-  <programme start="20251206213000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Golden_State_Warriors__ENG____18_30_1">
+  <programme start="20251207213000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Golden_State_Warriors__ENG____18_30_1">
     <title>Finalizado | Cleveland Cavaliers vs Golden State Warriors [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206183000 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Milwaukee_Bucks__ENG____18_30_1">
+  <programme start="20251207000000 -0600" stop="20251207183000 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Milwaukee_Bucks__ENG____18_30_1">
     <title>Próximamente | 18:30 | Detroit Pistons vs Milwaukee Bucks [ENG]</title>
   </programme>
-  <programme start="20251206183000 -0600" stop="20251206213000 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Milwaukee_Bucks__ENG____18_30_1">
+  <programme start="20251207183000 -0600" stop="20251207213000 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Milwaukee_Bucks__ENG____18_30_1">
     <title>⌾ En vivo | 18:30 | Detroit Pistons vs Milwaukee Bucks [ENG]</title>
   </programme>
-  <programme start="20251206213000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Milwaukee_Bucks__ENG____18_30_1">
+  <programme start="20251207213000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Milwaukee_Bucks__ENG____18_30_1">
     <title>Finalizado | Detroit Pistons vs Milwaukee Bucks [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Sacramento_Kings__ENG____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Sacramento_Kings__ENG____19_00_1">
     <title>Próximamente | 19:00 | Miami He vs vs. Sacramento Kings [ENG]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Sacramento_Kings__ENG____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Sacramento_Kings__ENG____19_00_1">
     <title>⌾ En vivo | 19:00 | Miami He vs vs. Sacramento Kings [ENG]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Sacramento_Kings__ENG____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Sacramento_Kings__ENG____19_00_1">
     <title>Finalizado | Miami He vs vs. Sacramento Kings [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Los_Angeles_Clippers__ENG____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Los_Angeles_Clippers__ENG____19_00_1">
     <title>Próximamente | 19:00 | Minnesota Timberwolves vs Los Angeles Clippers [ENG]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Los_Angeles_Clippers__ENG____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Los_Angeles_Clippers__ENG____19_00_1">
     <title>⌾ En vivo | 19:00 | Minnesota Timberwolves vs Los Angeles Clippers [ENG]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Los_Angeles_Clippers__ENG____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Los_Angeles_Clippers__ENG____19_00_1">
     <title>Finalizado | Minnesota Timberwolves vs Los Angeles Clippers [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206193000 -0600" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Houston_Rockets__ENG____19_30_1">
+  <programme start="20251207000000 -0600" stop="20251207193000 -0600" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Houston_Rockets__ENG____19_30_1">
     <title>Próximamente | 19:30 | Dallas Mavericks vs Houston Rockets [ENG]</title>
   </programme>
-  <programme start="20251206193000 -0600" stop="20251206223000 -0600" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Houston_Rockets__ENG____19_30_1">
+  <programme start="20251207193000 -0600" stop="20251207223000 -0600" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Houston_Rockets__ENG____19_30_1">
     <title>⌾ En vivo | 19:30 | Dallas Mavericks vs Houston Rockets [ENG]</title>
   </programme>
-  <programme start="20251206223000 -0600" stop="20251206235959 -0600" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Houston_Rockets__ENG____19_30_1">
+  <programme start="20251207223000 -0600" stop="20251207235959 -0600" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Houston_Rockets__ENG____19_30_1">
     <title>Finalizado | Dallas Mavericks vs Houston Rockets [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206113000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_1">
+  <programme start="20251207000000 -0600" stop="20251207113000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_1">
     <title>Próximamente | 11:30 | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206113000 -0600" stop="20251206143000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_1">
+  <programme start="20251207113000 -0600" stop="20251207143000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_1">
     <title>⌾ En vivo | 11:30 | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206143000 -0600" stop="20251206235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_1">
+  <programme start="20251207143000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_1">
     <title>Finalizado | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206113000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_2">
+  <programme start="20251207000000 -0600" stop="20251207113000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_2">
     <title>Próximamente | 11:30 | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206113000 -0600" stop="20251206143000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_2">
+  <programme start="20251207113000 -0600" stop="20251207143000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_2">
     <title>⌾ En vivo | 11:30 | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206143000 -0600" stop="20251206235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_2">
+  <programme start="20251207143000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_2">
     <title>Finalizado | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206113000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_3">
+  <programme start="20251207000000 -0600" stop="20251207113000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_3">
     <title>Próximamente | 11:30 | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206113000 -0600" stop="20251206143000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_3">
+  <programme start="20251207113000 -0600" stop="20251207143000 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_3">
     <title>⌾ En vivo | 11:30 | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206143000 -0600" stop="20251206235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_3">
+  <programme start="20251207143000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Betis_vs_Barcelona__ESP____11_30_3">
     <title>Finalizado | Real Betis vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206140000 -0600" channel="Evento_LaLiga__LaLiga___Athletic_Club_vs_Atl_tico_Madrid__ESP____14_00_1">
+  <programme start="20251207000000 -0600" stop="20251207140000 -0600" channel="Evento_LaLiga__LaLiga___Athletic_Club_vs_Atl_tico_Madrid__ESP____14_00_1">
     <title>Próximamente | 14:00 | Athletic Club vs Atlético Madrid [ESP]</title>
   </programme>
-  <programme start="20251206140000 -0600" stop="20251206170000 -0600" channel="Evento_LaLiga__LaLiga___Athletic_Club_vs_Atl_tico_Madrid__ESP____14_00_1">
+  <programme start="20251207140000 -0600" stop="20251207170000 -0600" channel="Evento_LaLiga__LaLiga___Athletic_Club_vs_Atl_tico_Madrid__ESP____14_00_1">
     <title>⌾ En vivo | 14:00 | Athletic Club vs Atlético Madrid [ESP]</title>
   </programme>
-  <programme start="20251206170000 -0600" stop="20251206235959 -0600" channel="Evento_LaLiga__LaLiga___Athletic_Club_vs_Atl_tico_Madrid__ESP____14_00_1">
+  <programme start="20251207170000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Athletic_Club_vs_Atl_tico_Madrid__ESP____14_00_1">
     <title>Finalizado | Athletic Club vs Atlético Madrid [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206173000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Dallas_Trinity_vs_DC_Power__ENG____17_30_1">
+  <programme start="20251207000000 -0600" stop="20251207173000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Dallas_Trinity_vs_DC_Power__ENG____17_30_1">
     <title>Próximamente | 17:30 | Dallas Trinity vs DC Power [ENG]</title>
   </programme>
-  <programme start="20251206173000 -0600" stop="20251206203000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Dallas_Trinity_vs_DC_Power__ENG____17_30_1">
+  <programme start="20251207173000 -0600" stop="20251207203000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Dallas_Trinity_vs_DC_Power__ENG____17_30_1">
     <title>⌾ En vivo | 17:30 | Dallas Trinity vs DC Power [ENG]</title>
   </programme>
-  <programme start="20251206203000 -0600" stop="20251206235959 -0600" channel="Evento_USL_Super_League__USL_Super_League___Dallas_Trinity_vs_DC_Power__ENG____17_30_1">
+  <programme start="20251207203000 -0600" stop="20251207235959 -0600" channel="Evento_USL_Super_League__USL_Super_League___Dallas_Trinity_vs_DC_Power__ENG____17_30_1">
     <title>Finalizado | Dallas Trinity vs DC Power [ENG]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206150000 -0600" channel="Evento_Primera_GT__Primera_GT___Mictl_n_vs_Municipal__ESP____15_00_1">
+  <programme start="20251207000000 -0600" stop="20251207150000 -0600" channel="Evento_Primera_GT__Primera_GT___Mictl_n_vs_Municipal__ESP____15_00_1">
     <title>Próximamente | 15:00 | Mictlán vs Municipal [ESP]</title>
   </programme>
-  <programme start="20251206150000 -0600" stop="20251206180000 -0600" channel="Evento_Primera_GT__Primera_GT___Mictl_n_vs_Municipal__ESP____15_00_1">
+  <programme start="20251207150000 -0600" stop="20251207180000 -0600" channel="Evento_Primera_GT__Primera_GT___Mictl_n_vs_Municipal__ESP____15_00_1">
     <title>⌾ En vivo | 15:00 | Mictlán vs Municipal [ESP]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_GT__Primera_GT___Mictl_n_vs_Municipal__ESP____15_00_1">
+  <programme start="20251207180000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_GT__Primera_GT___Mictl_n_vs_Municipal__ESP____15_00_1">
     <title>Finalizado | Mictlán vs Municipal [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_Primera_GT__Primera_GT___Malac_vs_eco_vs__Aurora__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_Primera_GT__Primera_GT___Malac_vs_eco_vs__Aurora__ESP____19_00_1">
     <title>Próximamente | 19:00 | Malac vs eco vs. Aurora [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_Primera_GT__Primera_GT___Malac_vs_eco_vs__Aurora__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_Primera_GT__Primera_GT___Malac_vs_eco_vs__Aurora__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Malac vs eco vs. Aurora [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_GT__Primera_GT___Malac_vs_eco_vs__Aurora__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_GT__Primera_GT___Malac_vs_eco_vs__Aurora__ESP____19_00_1">
     <title>Finalizado | Malac vs eco vs. Aurora [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206150000 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Victoria__ESP____15_00_1">
+  <programme start="20251207000000 -0600" stop="20251207150000 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Victoria__ESP____15_00_1">
     <title>Próximamente | 15:00 | Olimpia vs Victoria [ESP]</title>
   </programme>
-  <programme start="20251206150000 -0600" stop="20251206180000 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Victoria__ESP____15_00_1">
+  <programme start="20251207150000 -0600" stop="20251207180000 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Victoria__ESP____15_00_1">
     <title>⌾ En vivo | 15:00 | Olimpia vs Victoria [ESP]</title>
   </programme>
-  <programme start="20251206180000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Victoria__ESP____15_00_1">
+  <programme start="20251207180000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Victoria__ESP____15_00_1">
     <title>Finalizado | Olimpia vs Victoria [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_Primera_HN__Primera_HN___Juticalpa_vs_Motagua__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_Primera_HN__Primera_HN___Juticalpa_vs_Motagua__ESP____19_00_1">
     <title>Próximamente | 19:00 | Juticalpa vs Motagua [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_Primera_HN__Primera_HN___Juticalpa_vs_Motagua__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_Primera_HN__Primera_HN___Juticalpa_vs_Motagua__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Juticalpa vs Motagua [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_HN__Primera_HN___Juticalpa_vs_Motagua__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_HN__Primera_HN___Juticalpa_vs_Motagua__ESP____19_00_1">
     <title>Finalizado | Juticalpa vs Motagua [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206153000 -0600" channel="Evento_Brasileirao__Brasileirao___Mirassol_vs_Flamengo___15_30_1">
+  <programme start="20251207000000 -0600" stop="20251207153000 -0600" channel="Evento_Brasileirao__Brasileirao___Mirassol_vs_Flamengo___15_30_1">
     <title>Próximamente | 15:30 | Mirassol vs Flamengo</title>
   </programme>
-  <programme start="20251206153000 -0600" stop="20251206183000 -0600" channel="Evento_Brasileirao__Brasileirao___Mirassol_vs_Flamengo___15_30_1">
+  <programme start="20251207153000 -0600" stop="20251207183000 -0600" channel="Evento_Brasileirao__Brasileirao___Mirassol_vs_Flamengo___15_30_1">
     <title>⌾ En vivo | 15:30 | Mirassol vs Flamengo</title>
   </programme>
-  <programme start="20251206183000 -0600" stop="20251206235959 -0600" channel="Evento_Brasileirao__Brasileirao___Mirassol_vs_Flamengo___15_30_1">
+  <programme start="20251207183000 -0600" stop="20251207235959 -0600" channel="Evento_Brasileirao__Brasileirao___Mirassol_vs_Flamengo___15_30_1">
     <title>Finalizado | Mirassol vs Flamengo</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206170000 -0600" channel="Evento_Primera_CR__Primera_CR___Puntarenas_vs_Guadalupe__ESP____17_00_1">
+  <programme start="20251207000000 -0600" stop="20251207170000 -0600" channel="Evento_Primera_CR__Primera_CR___Puntarenas_vs_Guadalupe__ESP____17_00_1">
     <title>Próximamente | 17:00 | Puntarenas vs Guadalupe [ESP]</title>
   </programme>
-  <programme start="20251206170000 -0600" stop="20251206200000 -0600" channel="Evento_Primera_CR__Primera_CR___Puntarenas_vs_Guadalupe__ESP____17_00_1">
+  <programme start="20251207170000 -0600" stop="20251207200000 -0600" channel="Evento_Primera_CR__Primera_CR___Puntarenas_vs_Guadalupe__ESP____17_00_1">
     <title>⌾ En vivo | 17:00 | Puntarenas vs Guadalupe [ESP]</title>
   </programme>
-  <programme start="20251206200000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_CR__Primera_CR___Puntarenas_vs_Guadalupe__ESP____17_00_1">
+  <programme start="20251207200000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_CR__Primera_CR___Puntarenas_vs_Guadalupe__ESP____17_00_1">
     <title>Finalizado | Puntarenas vs Guadalupe [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206200000 -0600" channel="Evento_Primera_CR__Primera_CR___San_Carlos_vs_Alajuelense__ESP____20_00_1">
+  <programme start="20251207000000 -0600" stop="20251207200000 -0600" channel="Evento_Primera_CR__Primera_CR___San_Carlos_vs_Alajuelense__ESP____20_00_1">
     <title>Próximamente | 20:00 | San Carlos vs Alajuelense [ESP]</title>
   </programme>
-  <programme start="20251206200000 -0600" stop="20251206230000 -0600" channel="Evento_Primera_CR__Primera_CR___San_Carlos_vs_Alajuelense__ESP____20_00_1">
+  <programme start="20251207200000 -0600" stop="20251207230000 -0600" channel="Evento_Primera_CR__Primera_CR___San_Carlos_vs_Alajuelense__ESP____20_00_1">
     <title>⌾ En vivo | 20:00 | San Carlos vs Alajuelense [ESP]</title>
   </programme>
-  <programme start="20251206230000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_CR__Primera_CR___San_Carlos_vs_Alajuelense__ESP____20_00_1">
+  <programme start="20251207230000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_CR__Primera_CR___San_Carlos_vs_Alajuelense__ESP____20_00_1">
     <title>Finalizado | San Carlos vs Alajuelense [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_Primera_PE__Primera_PE___Alianza_Lima_vs_Sporting_Cristal__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_Primera_PE__Primera_PE___Alianza_Lima_vs_Sporting_Cristal__ESP____19_00_1">
     <title>Próximamente | 19:00 | Alianza Lima vs Sporting Cristal [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_Primera_PE__Primera_PE___Alianza_Lima_vs_Sporting_Cristal__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_Primera_PE__Primera_PE___Alianza_Lima_vs_Sporting_Cristal__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Alianza Lima vs Sporting Cristal [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_Primera_PE__Primera_PE___Alianza_Lima_vs_Sporting_Cristal__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_Primera_PE__Primera_PE___Alianza_Lima_vs_Sporting_Cristal__ESP____19_00_1">
     <title>Finalizado | Alianza Lima vs Sporting Cristal [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206190000 -0600" channel="Evento_LigaMX__LigaMX___Toluca_vs_Monterrey__ESP____19_00_1">
+  <programme start="20251207000000 -0600" stop="20251207190000 -0600" channel="Evento_LigaMX__LigaMX___Toluca_vs_Monterrey__ESP____19_00_1">
     <title>Próximamente | 19:00 | Toluca vs Monterrey [ESP]</title>
   </programme>
-  <programme start="20251206190000 -0600" stop="20251206220000 -0600" channel="Evento_LigaMX__LigaMX___Toluca_vs_Monterrey__ESP____19_00_1">
+  <programme start="20251207190000 -0600" stop="20251207220000 -0600" channel="Evento_LigaMX__LigaMX___Toluca_vs_Monterrey__ESP____19_00_1">
     <title>⌾ En vivo | 19:00 | Toluca vs Monterrey [ESP]</title>
   </programme>
-  <programme start="20251206220000 -0600" stop="20251206235959 -0600" channel="Evento_LigaMX__LigaMX___Toluca_vs_Monterrey__ESP____19_00_1">
+  <programme start="20251207220000 -0600" stop="20251207235959 -0600" channel="Evento_LigaMX__LigaMX___Toluca_vs_Monterrey__ESP____19_00_1">
     <title>Finalizado | Toluca vs Monterrey [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206211000 -0600" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Cruz_Azul__ESP____21_10_1">
+  <programme start="20251207000000 -0600" stop="20251207211000 -0600" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Cruz_Azul__ESP____21_10_1">
     <title>Próximamente | 21:10 | Tigres UANL vs Cruz Azul [ESP]</title>
   </programme>
-  <programme start="20251206211000 -0600" stop="20251207001000 -0600" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Cruz_Azul__ESP____21_10_1">
+  <programme start="20251207211000 -0600" stop="20251208001000 -0600" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Cruz_Azul__ESP____21_10_1">
     <title>⌾ En vivo | 21:10 | Tigres UANL vs Cruz Azul [ESP]</title>
   </programme>
-  <programme start="20251207001000 -0600" stop="20251206235959 -0600" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Cruz_Azul__ESP____21_10_1">
+  <programme start="20251208001000 -0600" stop="20251207235959 -0600" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Cruz_Azul__ESP____21_10_1">
     <title>Finalizado | Tigres UANL vs Cruz Azul [ESP]</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206000000 -0600" channel="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
+  <programme start="20251207000000 -0600" stop="20251207000000 -0600" channel="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
     <title>Próximamente | 00:00 | PITBUL vs ROACH</title>
   </programme>
-  <programme start="20251206000000 -0600" stop="20251206030000 -0600" channel="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
+  <programme start="20251207000000 -0600" stop="20251207030000 -0600" channel="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
     <title>⌾ En vivo | 00:00 | PITBUL vs ROACH</title>
   </programme>
-  <programme start="20251206030000 -0600" stop="20251206235959 -0600" channel="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
+  <programme start="20251207030000 -0600" stop="20251207235959 -0600" channel="EVENTOS_VIP__Evento___PITBUL_vs_ROACH___00_00_1">
     <title>Finalizado | PITBUL vs ROACH</title>
+  </programme>
+  <programme start="20251207000000 -0600" stop="20251207120000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Atlanta_Falcons__ENG____12_00_1">
+    <title>Próximamente | 12:00 | Se vs tle Seahawks at Atlanta Falcons [ENG]</title>
+  </programme>
+  <programme start="20251207120000 -0600" stop="20251207150000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Atlanta_Falcons__ENG____12_00_1">
+    <title>⌾ En vivo | 12:00 | Se vs tle Seahawks at Atlanta Falcons [ENG]</title>
+  </programme>
+  <programme start="20251207150000 -0600" stop="20251207235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Atlanta_Falcons__ENG____12_00_1">
+    <title>Finalizado | Se vs tle Seahawks at Atlanta Falcons [ENG]</title>
+  </programme>
+  <programme start="20251207000000 -0600" stop="20251207120000 -0600" channel="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Buffalo_Bills__ENG____12_00_1">
+    <title>Próximamente | 12:00 | Cincinn vs i Bengals at Buffalo Bills [ENG]</title>
+  </programme>
+  <programme start="20251207120000 -0600" stop="20251207150000 -0600" channel="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Buffalo_Bills__ENG____12_00_1">
+    <title>⌾ En vivo | 12:00 | Cincinn vs i Bengals at Buffalo Bills [ENG]</title>
+  </programme>
+  <programme start="20251207150000 -0600" stop="20251207235959 -0600" channel="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Buffalo_Bills__ENG____12_00_1">
+    <title>Finalizado | Cincinn vs i Bengals at Buffalo Bills [ENG]</title>
+  </programme>
+  <programme start="20251207000000 -0600" stop="20251207192000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>Próximamente | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251207192000 -0600" stop="20251207222000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>⌾ En vivo | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251207222000 -0600" stop="20251207235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>Finalizado | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251207000000 -0600" stop="20251207192000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_2">
+    <title>Próximamente | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251207192000 -0600" stop="20251207222000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_2">
+    <title>⌾ En vivo | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251207222000 -0600" stop="20251207235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_2">
+    <title>Finalizado | Se vs tle Seahawks at Washigton Commanders</title>
   </programme>
 </tv>
 
