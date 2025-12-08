@@ -137216,12 +137216,6 @@
   <channel id="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_1">
     <display-name>LaLiga | Real Madrid vs Celta de Vigo [ESP] | 14:00</display-name>
   </channel>
-  <channel id="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_2">
-    <display-name>LaLiga | Real Madrid vs Celta de Vigo [ESP] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_3">
-    <display-name>LaLiga | Real Madrid vs Celta de Vigo [ESP] | 14:00</display-name>
-  </channel>
   <programme start="20251207000000 -0600" stop="20251207120000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Atlanta_Falcons__ENG____12_00_1">
     <title>Próximamente | 12:00 | Se vs tle Seahawks at Atlanta Falcons [ENG]</title>
   </programme>
@@ -137346,24 +137340,6 @@
     <title>⌾ En vivo | 14:00 | Real Madrid vs Celta de Vigo [ESP]</title>
   </programme>
   <programme start="20251207170000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_1">
-    <title>Finalizado | Real Madrid vs Celta de Vigo [ESP]</title>
-  </programme>
-  <programme start="20251207000000 -0600" stop="20251207140000 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_2">
-    <title>Próximamente | 14:00 | Real Madrid vs Celta de Vigo [ESP]</title>
-  </programme>
-  <programme start="20251207140000 -0600" stop="20251207170000 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_2">
-    <title>⌾ En vivo | 14:00 | Real Madrid vs Celta de Vigo [ESP]</title>
-  </programme>
-  <programme start="20251207170000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_2">
-    <title>Finalizado | Real Madrid vs Celta de Vigo [ESP]</title>
-  </programme>
-  <programme start="20251207000000 -0600" stop="20251207140000 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_3">
-    <title>Próximamente | 14:00 | Real Madrid vs Celta de Vigo [ESP]</title>
-  </programme>
-  <programme start="20251207140000 -0600" stop="20251207170000 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_3">
-    <title>⌾ En vivo | 14:00 | Real Madrid vs Celta de Vigo [ESP]</title>
-  </programme>
-  <programme start="20251207170000 -0600" stop="20251207235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Celta_de_Vigo__ESP____14_00_3">
     <title>Finalizado | Real Madrid vs Celta de Vigo [ESP]</title>
   </programme>
 </tv>
