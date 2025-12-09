@@ -139070,5 +139070,677 @@
     <desc>Las Batallas terminan, mientras los coaches y asesores musicales preparan a sus artistas para un duelo de duetos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
+  <channel id="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+    <display-name>LMP | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP] | 19:30</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+    <display-name>LMP | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP] | 20:05</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+    <display-name>LMP | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP] | 20:30</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+    <display-name>LMP | Tucson vs Jaguares de Nayarit [ESP] | 20:30</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+    <display-name>LMP | Aguilas De Mexicali vs Venados De Mazatlan [ESP] | 21:30</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Anaheim_Ducks_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <display-name>NHL | Anaheim Ducks vs Pittsburgh Penguins [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___New_Jersey_Devils_vs_Ottawa_Senators__ENG____18_00_1">
+    <display-name>NHL | New Jersey Devils vs Ottawa Senators [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___San_Jose_Sharks_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <display-name>NHL | San Jose Sharks vs Philadelphia Flyers [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Montreal_Canadiens__ENG____18_00_1">
+    <display-name>NHL | Tampa Bay Lightning vs Montreal Canadiens [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Vegas_Golden_Knights_vs_New_York_Islanders__ENG____18_00_1">
+    <display-name>NHL | Vegas Golden Knights vs New York Islanders [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Carolina_Hurricanes__ENG____18_30_1">
+    <display-name>NHL | Columbus Blue Jackets vs Carolina Hurricanes [ENG] | 18:30</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Boston_Bruins_vs_St__Louis_Blues__ENG____19_00_1">
+    <display-name>NHL | Boston Bruins vs St. Louis Blues [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Dallas_Stars_vs_Winnipeg_Jets__ENG____19_00_1">
+    <display-name>NHL | Dallas Stars vs Winnipeg Jets [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Buffalo_Sabres_vs_Edmonton_Oilers__ENG____20_00_1">
+    <display-name>NHL | Buffalo Sabres vs Edmonton Oilers [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Colorado_Avalanche_vs_Nashville_Predators__ENG____20_30_1">
+    <display-name>NHL | Colorado Avalanche vs Nashville Predators [ENG] | 20:30</display-name>
+  </channel>
+  <channel id="Evento_NBA__NBA___Orlando_Magic_vs_Miami_Heat__ENG____17_00_1">
+    <display-name>NBA | Orlando Magic vs Miami Heat [ENG] | 17:00</display-name>
+  </channel>
+  <channel id="Evento_NBA__NBA___Toronto_Raptors_vs_New_York_Knicks__ENG____19_30_1">
+    <display-name>NBA | Toronto Raptors vs New York Knicks [ENG] | 19:30</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_1">
+    <display-name>UEFA Champions | Kair vs vs. Olympiakos Piraeus [ESP] | 09:30</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_2">
+    <display-name>UEFA Champions | Kair vs vs. Olympiakos Piraeus [ESP] | 09:30</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_1">
+    <display-name>UEFA Champions | Bayern München vs Sporting CP [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_2">
+    <display-name>UEFA Champions | Bayern München vs Sporting CP [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_1">
+    <display-name>UEFA Champions | Atalanta vs Chelsea [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_2">
+    <display-name>UEFA Champions | Atalanta vs Chelsea [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_3">
+    <display-name>UEFA Champions | Atalanta vs Chelsea [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_1">
+    <display-name>UEFA Champions | Barcelona vs Eintracht Frankfurt [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_2">
+    <display-name>UEFA Champions | Barcelona vs Eintracht Frankfurt [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_3">
+    <display-name>UEFA Champions | Barcelona vs Eintracht Frankfurt [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_4">
+    <display-name>UEFA Champions | Barcelona vs Eintracht Frankfurt [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_1">
+    <display-name>UEFA Champions | Internazionale vs Liverpool [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_2">
+    <display-name>UEFA Champions | Internazionale vs Liverpool [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_1">
+    <display-name>UEFA Champions | Monaco vs Galatasaray [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_2">
+    <display-name>UEFA Champions | Monaco vs Galatasaray [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_1">
+    <display-name>UEFA Champions | PSV vs Atlético Madrid [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_2">
+    <display-name>UEFA Champions | PSV vs Atlético Madrid [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_1">
+    <display-name>UEFA Champions | Tottenham Hotspur vs Slavia Praha [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_2">
+    <display-name>UEFA Champions | Tottenham Hotspur vs Slavia Praha [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_1">
+    <display-name>UEFA Champions | Union Saint-Gilloise vs Olympique Marseille [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_2">
+    <display-name>UEFA Champions | Union Saint-Gilloise vs Olympique Marseille [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Youth_League__UEFA_Youth_League___PSV_vs_Atletico_Madrid__ESP____07_00_1">
+    <display-name>UEFA Youth League | PSV vs Atletico Madrid [ESP] | 07:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Youth_League__UEFA_Youth_League___Inter_vs_Liverpool__ESP____09_00_1">
+    <display-name>UEFA Youth League | Inter vs Liverpool [ESP] | 09:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___St__P_lten_vs_Juventus__ENG____11_45_1">
+    <display-name>UEFA Women's Champions | St. Pölten vs Juventus [ENG] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Arsenal_vs_Twente__ENG____14_00_1">
+    <display-name>UEFA Women's Champions | Arsenal vs Twente [ENG] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Paris_Saint_Germain_vs_OH_Leuven__ENG____14_00_1">
+    <display-name>UEFA Women's Champions | Paris Saint-Germain vs OH Leuven [ENG] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Real_Madrid_vs_Wolfsburg__ENG____14_00_1">
+    <display-name>UEFA Women's Champions | Real Madrid vs Wolfsburg [ENG] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Championship__Championship___Queens_Park_Rangers_vs_Birmingham_City__ESP____14_00_1">
+    <display-name>Championship | Queens Park Rangers vs Birmingham City [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_AFC_Champions_League__AFC_Champions_League___Johor_Darul_Ta_zim__MAS__vs_Shanghai_Port__ESP____06_30_1">
+    <display-name>AFC Champions League | Johor Darul Ta'zim (MAS) vs Shanghai Port [ESP] | 06:30</display-name>
+  </channel>
+  <channel id="Evento_AMISTOSO__AMISTOSO___Nicaragua_Sub_19_vs_Cuba_Sub_19___08_30_1">
+    <display-name>AMISTOSO | Nicaragua Sub-19 vs Cuba Sub-19 | 08:30</display-name>
+  </channel>
+  <channel id="Evento_AMISTOSO__AMISTOSO___Puerto_Rico_Sub_19_vs_El_Salvador_Sub_19___08_30_1">
+    <display-name>AMISTOSO | Puerto Rico Sub-19 vs El Salvador Sub-19 | 08:30</display-name>
+  </channel>
+  <channel id="Evento_AMISTOSO__AMISTOSO___Gu_vs_emala_Sub_19_vs_Costa_Rica_Sub_19___14_00_1">
+    <display-name>AMISTOSO | Gu vs emala Sub-19 vs Costa Rica Sub-19 | 14:00</display-name>
+  </channel>
+  <channel id="Evento_AMISTOSO__AMISTOSO___Panam__Sub_19_vs_Honduras_Sub_19___14_00_1">
+    <display-name>AMISTOSO | Panamá Sub-19 vs Honduras Sub-19 | 14:00</display-name>
+  </channel>
+  <channel id="Evento_COPA_ARABE__COPA_ARABE___Egipto_vs_Jordania___08_30_1">
+    <display-name>COPA ARABE | Egipto vs Jordania | 08:30</display-name>
+  </channel>
+  <channel id="Evento_COPA_ARABE__COPA_ARABE___Argelia_vs_Iraq___11_00_1">
+    <display-name>COPA ARABE | Argelia vs Iraq | 11:00</display-name>
+  </channel>
+  <channel id="Evento_D_a__1__D_a__1___FC_Barcelona_vs_River_Plate__ESP____16_45_1">
+    <display-name>Día #1 | FC Barcelona vs River Plate [ESP] | 16:45</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Clemson_vs__10_BYU__ENG____17_30_1">
+    <display-name>NCAA Basketball | Clemson vs #10 BYU [ENG] | 17:30</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Basketball__NCAA_Basketball____15_Florida_vs__5_UConn__ENG____20_00_1">
+    <display-name>NCAA Basketball | #15 Florida vs #5 UConn [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___USC_vs_San_Diego__ENG____20_00_1">
+    <display-name>NCAA Basketball | USC vs San Diego [ENG] | 20:00</display-name>
+  </channel>
+  <programme start="20251209000000 -0600" stop="20251209193000 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+    <title>Próximamente | 19:30 | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP]</title>
+  </programme>
+  <programme start="20251209193000 -0600" stop="20251209223000 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+    <title>⌾ En vivo | 19:30 | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP]</title>
+  </programme>
+  <programme start="20251209223000 -0600" stop="20251209235959 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+    <title>Finalizado | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209200500 -0600" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+    <title>Próximamente | 20:05 | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP]</title>
+  </programme>
+  <programme start="20251209200500 -0600" stop="20251209230500 -0600" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+    <title>⌾ En vivo | 20:05 | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP]</title>
+  </programme>
+  <programme start="20251209230500 -0600" stop="20251209235959 -0600" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+    <title>Finalizado | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209203000 -0600" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+    <title>Próximamente | 20:30 | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP]</title>
+  </programme>
+  <programme start="20251209203000 -0600" stop="20251209233000 -0600" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+    <title>⌾ En vivo | 20:30 | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP]</title>
+  </programme>
+  <programme start="20251209233000 -0600" stop="20251209235959 -0600" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+    <title>Finalizado | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209203000 -0600" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+    <title>Próximamente | 20:30 | Tucson vs Jaguares de Nayarit [ESP]</title>
+  </programme>
+  <programme start="20251209203000 -0600" stop="20251209233000 -0600" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+    <title>⌾ En vivo | 20:30 | Tucson vs Jaguares de Nayarit [ESP]</title>
+  </programme>
+  <programme start="20251209233000 -0600" stop="20251209235959 -0600" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+    <title>Finalizado | Tucson vs Jaguares de Nayarit [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209213000 -0600" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+    <title>Próximamente | 21:30 | Aguilas De Mexicali vs Venados De Mazatlan [ESP]</title>
+  </programme>
+  <programme start="20251209213000 -0600" stop="20251210003000 -0600" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+    <title>⌾ En vivo | 21:30 | Aguilas De Mexicali vs Venados De Mazatlan [ESP]</title>
+  </programme>
+  <programme start="20251210003000 -0600" stop="20251209235959 -0600" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+    <title>Finalizado | Aguilas De Mexicali vs Venados De Mazatlan [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209180000 -0600" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Anaheim Ducks vs Pittsburgh Penguins [ENG]</title>
+  </programme>
+  <programme start="20251209180000 -0600" stop="20251209210000 -0600" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Anaheim Ducks vs Pittsburgh Penguins [ENG]</title>
+  </programme>
+  <programme start="20251209210000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <title>Finalizado | Anaheim Ducks vs Pittsburgh Penguins [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209180000 -0600" channel="Evento_NHL__NHL___New_Jersey_Devils_vs_Ottawa_Senators__ENG____18_00_1">
+    <title>Próximamente | 18:00 | New Jersey Devils vs Ottawa Senators [ENG]</title>
+  </programme>
+  <programme start="20251209180000 -0600" stop="20251209210000 -0600" channel="Evento_NHL__NHL___New_Jersey_Devils_vs_Ottawa_Senators__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | New Jersey Devils vs Ottawa Senators [ENG]</title>
+  </programme>
+  <programme start="20251209210000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___New_Jersey_Devils_vs_Ottawa_Senators__ENG____18_00_1">
+    <title>Finalizado | New Jersey Devils vs Ottawa Senators [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209180000 -0600" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <title>Próximamente | 18:00 | San Jose Sharks vs Philadelphia Flyers [ENG]</title>
+  </programme>
+  <programme start="20251209180000 -0600" stop="20251209210000 -0600" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | San Jose Sharks vs Philadelphia Flyers [ENG]</title>
+  </programme>
+  <programme start="20251209210000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <title>Finalizado | San Jose Sharks vs Philadelphia Flyers [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209180000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Montreal_Canadiens__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Tampa Bay Lightning vs Montreal Canadiens [ENG]</title>
+  </programme>
+  <programme start="20251209180000 -0600" stop="20251209210000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Montreal_Canadiens__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Tampa Bay Lightning vs Montreal Canadiens [ENG]</title>
+  </programme>
+  <programme start="20251209210000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Montreal_Canadiens__ENG____18_00_1">
+    <title>Finalizado | Tampa Bay Lightning vs Montreal Canadiens [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209180000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_New_York_Islanders__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Vegas Golden Knights vs New York Islanders [ENG]</title>
+  </programme>
+  <programme start="20251209180000 -0600" stop="20251209210000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_New_York_Islanders__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Vegas Golden Knights vs New York Islanders [ENG]</title>
+  </programme>
+  <programme start="20251209210000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_New_York_Islanders__ENG____18_00_1">
+    <title>Finalizado | Vegas Golden Knights vs New York Islanders [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209183000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Carolina_Hurricanes__ENG____18_30_1">
+    <title>Próximamente | 18:30 | Columbus Blue Jackets vs Carolina Hurricanes [ENG]</title>
+  </programme>
+  <programme start="20251209183000 -0600" stop="20251209213000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Carolina_Hurricanes__ENG____18_30_1">
+    <title>⌾ En vivo | 18:30 | Columbus Blue Jackets vs Carolina Hurricanes [ENG]</title>
+  </programme>
+  <programme start="20251209213000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Carolina_Hurricanes__ENG____18_30_1">
+    <title>Finalizado | Columbus Blue Jackets vs Carolina Hurricanes [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209190000 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_St__Louis_Blues__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Boston Bruins vs St. Louis Blues [ENG]</title>
+  </programme>
+  <programme start="20251209190000 -0600" stop="20251209220000 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_St__Louis_Blues__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Boston Bruins vs St. Louis Blues [ENG]</title>
+  </programme>
+  <programme start="20251209220000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Boston_Bruins_vs_St__Louis_Blues__ENG____19_00_1">
+    <title>Finalizado | Boston Bruins vs St. Louis Blues [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209190000 -0600" channel="Evento_NHL__NHL___Dallas_Stars_vs_Winnipeg_Jets__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Dallas Stars vs Winnipeg Jets [ENG]</title>
+  </programme>
+  <programme start="20251209190000 -0600" stop="20251209220000 -0600" channel="Evento_NHL__NHL___Dallas_Stars_vs_Winnipeg_Jets__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Dallas Stars vs Winnipeg Jets [ENG]</title>
+  </programme>
+  <programme start="20251209220000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Dallas_Stars_vs_Winnipeg_Jets__ENG____19_00_1">
+    <title>Finalizado | Dallas Stars vs Winnipeg Jets [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209200000 -0600" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Edmonton_Oilers__ENG____20_00_1">
+    <title>Próximamente | 20:00 | Buffalo Sabres vs Edmonton Oilers [ENG]</title>
+  </programme>
+  <programme start="20251209200000 -0600" stop="20251209230000 -0600" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Edmonton_Oilers__ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | Buffalo Sabres vs Edmonton Oilers [ENG]</title>
+  </programme>
+  <programme start="20251209230000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Edmonton_Oilers__ENG____20_00_1">
+    <title>Finalizado | Buffalo Sabres vs Edmonton Oilers [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209203000 -0600" channel="Evento_NHL__NHL___Colorado_Avalanche_vs_Nashville_Predators__ENG____20_30_1">
+    <title>Próximamente | 20:30 | Colorado Avalanche vs Nashville Predators [ENG]</title>
+  </programme>
+  <programme start="20251209203000 -0600" stop="20251209233000 -0600" channel="Evento_NHL__NHL___Colorado_Avalanche_vs_Nashville_Predators__ENG____20_30_1">
+    <title>⌾ En vivo | 20:30 | Colorado Avalanche vs Nashville Predators [ENG]</title>
+  </programme>
+  <programme start="20251209233000 -0600" stop="20251209235959 -0600" channel="Evento_NHL__NHL___Colorado_Avalanche_vs_Nashville_Predators__ENG____20_30_1">
+    <title>Finalizado | Colorado Avalanche vs Nashville Predators [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209170000 -0600" channel="Evento_NBA__NBA___Orlando_Magic_vs_Miami_Heat__ENG____17_00_1">
+    <title>Próximamente | 17:00 | Orlando Magic vs Miami Heat [ENG]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209200000 -0600" channel="Evento_NBA__NBA___Orlando_Magic_vs_Miami_Heat__ENG____17_00_1">
+    <title>⌾ En vivo | 17:00 | Orlando Magic vs Miami Heat [ENG]</title>
+  </programme>
+  <programme start="20251209200000 -0600" stop="20251209235959 -0600" channel="Evento_NBA__NBA___Orlando_Magic_vs_Miami_Heat__ENG____17_00_1">
+    <title>Finalizado | Orlando Magic vs Miami Heat [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209193000 -0600" channel="Evento_NBA__NBA___Toronto_Raptors_vs_New_York_Knicks__ENG____19_30_1">
+    <title>Próximamente | 19:30 | Toronto Raptors vs New York Knicks [ENG]</title>
+  </programme>
+  <programme start="20251209193000 -0600" stop="20251209223000 -0600" channel="Evento_NBA__NBA___Toronto_Raptors_vs_New_York_Knicks__ENG____19_30_1">
+    <title>⌾ En vivo | 19:30 | Toronto Raptors vs New York Knicks [ENG]</title>
+  </programme>
+  <programme start="20251209223000 -0600" stop="20251209235959 -0600" channel="Evento_NBA__NBA___Toronto_Raptors_vs_New_York_Knicks__ENG____19_30_1">
+    <title>Finalizado | Toronto Raptors vs New York Knicks [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209093000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_1">
+    <title>Próximamente | 09:30 | Kair vs vs. Olympiakos Piraeus [ESP]</title>
+  </programme>
+  <programme start="20251209093000 -0600" stop="20251209123000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_1">
+    <title>⌾ En vivo | 09:30 | Kair vs vs. Olympiakos Piraeus [ESP]</title>
+  </programme>
+  <programme start="20251209123000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_1">
+    <title>Finalizado | Kair vs vs. Olympiakos Piraeus [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209093000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_2">
+    <title>Próximamente | 09:30 | Kair vs vs. Olympiakos Piraeus [ESP]</title>
+  </programme>
+  <programme start="20251209093000 -0600" stop="20251209123000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_2">
+    <title>⌾ En vivo | 09:30 | Kair vs vs. Olympiakos Piraeus [ESP]</title>
+  </programme>
+  <programme start="20251209123000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Kair_vs_vs__Olympiakos_Piraeus__ESP____09_30_2">
+    <title>Finalizado | Kair vs vs. Olympiakos Piraeus [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209114500 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_1">
+    <title>Próximamente | 11:45 | Bayern München vs Sporting CP [ESP]</title>
+  </programme>
+  <programme start="20251209114500 -0600" stop="20251209144500 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Bayern München vs Sporting CP [ESP]</title>
+  </programme>
+  <programme start="20251209144500 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_1">
+    <title>Finalizado | Bayern München vs Sporting CP [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209114500 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_2">
+    <title>Próximamente | 11:45 | Bayern München vs Sporting CP [ESP]</title>
+  </programme>
+  <programme start="20251209114500 -0600" stop="20251209144500 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_2">
+    <title>⌾ En vivo | 11:45 | Bayern München vs Sporting CP [ESP]</title>
+  </programme>
+  <programme start="20251209144500 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Bayern_M_nchen_vs_Sporting_CP__ESP____11_45_2">
+    <title>Finalizado | Bayern München vs Sporting CP [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_1">
+    <title>Finalizado | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_2">
+    <title>Próximamente | 14:00 | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_2">
+    <title>Finalizado | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_3">
+    <title>Próximamente | 14:00 | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_3">
+    <title>⌾ En vivo | 14:00 | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Atalanta_vs_Chelsea__ESP____14_00_3">
+    <title>Finalizado | Atalanta vs Chelsea [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_1">
+    <title>Finalizado | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_2">
+    <title>Próximamente | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_2">
+    <title>Finalizado | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_3">
+    <title>Próximamente | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_3">
+    <title>⌾ En vivo | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_3">
+    <title>Finalizado | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_4">
+    <title>Próximamente | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_4">
+    <title>⌾ En vivo | 14:00 | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Barcelona_vs_Eintracht_Frankfurt__ESP____14_00_4">
+    <title>Finalizado | Barcelona vs Eintracht Frankfurt [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Internazionale vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Internazionale vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_1">
+    <title>Finalizado | Internazionale vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_2">
+    <title>Próximamente | 14:00 | Internazionale vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | Internazionale vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Internazionale_vs_Liverpool__ESP____14_00_2">
+    <title>Finalizado | Internazionale vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Monaco vs Galatasaray [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Monaco vs Galatasaray [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_1">
+    <title>Finalizado | Monaco vs Galatasaray [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_2">
+    <title>Próximamente | 14:00 | Monaco vs Galatasaray [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | Monaco vs Galatasaray [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Monaco_vs_Galatasaray__ESP____14_00_2">
+    <title>Finalizado | Monaco vs Galatasaray [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_1">
+    <title>Próximamente | 14:00 | PSV vs Atlético Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | PSV vs Atlético Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_1">
+    <title>Finalizado | PSV vs Atlético Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_2">
+    <title>Próximamente | 14:00 | PSV vs Atlético Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | PSV vs Atlético Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___PSV_vs_Atl_tico_Madrid__ESP____14_00_2">
+    <title>Finalizado | PSV vs Atlético Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Tottenham Hotspur vs Slavia Praha [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Tottenham Hotspur vs Slavia Praha [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_1">
+    <title>Finalizado | Tottenham Hotspur vs Slavia Praha [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_2">
+    <title>Próximamente | 14:00 | Tottenham Hotspur vs Slavia Praha [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | Tottenham Hotspur vs Slavia Praha [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Tottenham_Hotspur_vs_Slavia_Praha__ESP____14_00_2">
+    <title>Finalizado | Tottenham Hotspur vs Slavia Praha [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Union Saint-Gilloise vs Olympique Marseille [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Union Saint-Gilloise vs Olympique Marseille [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_1">
+    <title>Finalizado | Union Saint-Gilloise vs Olympique Marseille [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_2">
+    <title>Próximamente | 14:00 | Union Saint-Gilloise vs Olympique Marseille [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_2">
+    <title>⌾ En vivo | 14:00 | Union Saint-Gilloise vs Olympique Marseille [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Union_Saint_Gilloise_vs_Olympique_Marseille__ESP____14_00_2">
+    <title>Finalizado | Union Saint-Gilloise vs Olympique Marseille [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209070000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___PSV_vs_Atletico_Madrid__ESP____07_00_1">
+    <title>Próximamente | 07:00 | PSV vs Atletico Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209070000 -0600" stop="20251209100000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___PSV_vs_Atletico_Madrid__ESP____07_00_1">
+    <title>⌾ En vivo | 07:00 | PSV vs Atletico Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209100000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___PSV_vs_Atletico_Madrid__ESP____07_00_1">
+    <title>Finalizado | PSV vs Atletico Madrid [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209090000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Inter_vs_Liverpool__ESP____09_00_1">
+    <title>Próximamente | 09:00 | Inter vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209090000 -0600" stop="20251209120000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Inter_vs_Liverpool__ESP____09_00_1">
+    <title>⌾ En vivo | 09:00 | Inter vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209120000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Inter_vs_Liverpool__ESP____09_00_1">
+    <title>Finalizado | Inter vs Liverpool [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209114500 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___St__P_lten_vs_Juventus__ENG____11_45_1">
+    <title>Próximamente | 11:45 | St. Pölten vs Juventus [ENG]</title>
+  </programme>
+  <programme start="20251209114500 -0600" stop="20251209144500 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___St__P_lten_vs_Juventus__ENG____11_45_1">
+    <title>⌾ En vivo | 11:45 | St. Pölten vs Juventus [ENG]</title>
+  </programme>
+  <programme start="20251209144500 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___St__P_lten_vs_Juventus__ENG____11_45_1">
+    <title>Finalizado | St. Pölten vs Juventus [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Arsenal_vs_Twente__ENG____14_00_1">
+    <title>Próximamente | 14:00 | Arsenal vs Twente [ENG]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Arsenal_vs_Twente__ENG____14_00_1">
+    <title>⌾ En vivo | 14:00 | Arsenal vs Twente [ENG]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Arsenal_vs_Twente__ENG____14_00_1">
+    <title>Finalizado | Arsenal vs Twente [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Paris_Saint_Germain_vs_OH_Leuven__ENG____14_00_1">
+    <title>Próximamente | 14:00 | Paris Saint-Germain vs OH Leuven [ENG]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Paris_Saint_Germain_vs_OH_Leuven__ENG____14_00_1">
+    <title>⌾ En vivo | 14:00 | Paris Saint-Germain vs OH Leuven [ENG]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Paris_Saint_Germain_vs_OH_Leuven__ENG____14_00_1">
+    <title>Finalizado | Paris Saint-Germain vs OH Leuven [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Real_Madrid_vs_Wolfsburg__ENG____14_00_1">
+    <title>Próximamente | 14:00 | Real Madrid vs Wolfsburg [ENG]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Real_Madrid_vs_Wolfsburg__ENG____14_00_1">
+    <title>⌾ En vivo | 14:00 | Real Madrid vs Wolfsburg [ENG]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Real_Madrid_vs_Wolfsburg__ENG____14_00_1">
+    <title>Finalizado | Real Madrid vs Wolfsburg [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_Championship__Championship___Queens_Park_Rangers_vs_Birmingham_City__ESP____14_00_1">
+    <title>Próximamente | 14:00 | Queens Park Rangers vs Birmingham City [ESP]</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_Championship__Championship___Queens_Park_Rangers_vs_Birmingham_City__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Queens Park Rangers vs Birmingham City [ESP]</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_Championship__Championship___Queens_Park_Rangers_vs_Birmingham_City__ESP____14_00_1">
+    <title>Finalizado | Queens Park Rangers vs Birmingham City [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209063000 -0600" channel="Evento_AFC_Champions_League__AFC_Champions_League___Johor_Darul_Ta_zim__MAS__vs_Shanghai_Port__ESP____06_30_1">
+    <title>Próximamente | 06:30 | Johor Darul Ta'zim (MAS) vs Shanghai Port [ESP]</title>
+  </programme>
+  <programme start="20251209063000 -0600" stop="20251209093000 -0600" channel="Evento_AFC_Champions_League__AFC_Champions_League___Johor_Darul_Ta_zim__MAS__vs_Shanghai_Port__ESP____06_30_1">
+    <title>⌾ En vivo | 06:30 | Johor Darul Ta'zim (MAS) vs Shanghai Port [ESP]</title>
+  </programme>
+  <programme start="20251209093000 -0600" stop="20251209235959 -0600" channel="Evento_AFC_Champions_League__AFC_Champions_League___Johor_Darul_Ta_zim__MAS__vs_Shanghai_Port__ESP____06_30_1">
+    <title>Finalizado | Johor Darul Ta'zim (MAS) vs Shanghai Port [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209083000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Nicaragua_Sub_19_vs_Cuba_Sub_19___08_30_1">
+    <title>Próximamente | 08:30 | Nicaragua Sub-19 vs Cuba Sub-19</title>
+  </programme>
+  <programme start="20251209083000 -0600" stop="20251209113000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Nicaragua_Sub_19_vs_Cuba_Sub_19___08_30_1">
+    <title>⌾ En vivo | 08:30 | Nicaragua Sub-19 vs Cuba Sub-19</title>
+  </programme>
+  <programme start="20251209113000 -0600" stop="20251209235959 -0600" channel="Evento_AMISTOSO__AMISTOSO___Nicaragua_Sub_19_vs_Cuba_Sub_19___08_30_1">
+    <title>Finalizado | Nicaragua Sub-19 vs Cuba Sub-19</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209083000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Puerto_Rico_Sub_19_vs_El_Salvador_Sub_19___08_30_1">
+    <title>Próximamente | 08:30 | Puerto Rico Sub-19 vs El Salvador Sub-19</title>
+  </programme>
+  <programme start="20251209083000 -0600" stop="20251209113000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Puerto_Rico_Sub_19_vs_El_Salvador_Sub_19___08_30_1">
+    <title>⌾ En vivo | 08:30 | Puerto Rico Sub-19 vs El Salvador Sub-19</title>
+  </programme>
+  <programme start="20251209113000 -0600" stop="20251209235959 -0600" channel="Evento_AMISTOSO__AMISTOSO___Puerto_Rico_Sub_19_vs_El_Salvador_Sub_19___08_30_1">
+    <title>Finalizado | Puerto Rico Sub-19 vs El Salvador Sub-19</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Gu_vs_emala_Sub_19_vs_Costa_Rica_Sub_19___14_00_1">
+    <title>Próximamente | 14:00 | Gu vs emala Sub-19 vs Costa Rica Sub-19</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Gu_vs_emala_Sub_19_vs_Costa_Rica_Sub_19___14_00_1">
+    <title>⌾ En vivo | 14:00 | Gu vs emala Sub-19 vs Costa Rica Sub-19</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_AMISTOSO__AMISTOSO___Gu_vs_emala_Sub_19_vs_Costa_Rica_Sub_19___14_00_1">
+    <title>Finalizado | Gu vs emala Sub-19 vs Costa Rica Sub-19</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209140000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Panam__Sub_19_vs_Honduras_Sub_19___14_00_1">
+    <title>Próximamente | 14:00 | Panamá Sub-19 vs Honduras Sub-19</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209170000 -0600" channel="Evento_AMISTOSO__AMISTOSO___Panam__Sub_19_vs_Honduras_Sub_19___14_00_1">
+    <title>⌾ En vivo | 14:00 | Panamá Sub-19 vs Honduras Sub-19</title>
+  </programme>
+  <programme start="20251209170000 -0600" stop="20251209235959 -0600" channel="Evento_AMISTOSO__AMISTOSO___Panam__Sub_19_vs_Honduras_Sub_19___14_00_1">
+    <title>Finalizado | Panamá Sub-19 vs Honduras Sub-19</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209083000 -0600" channel="Evento_COPA_ARABE__COPA_ARABE___Egipto_vs_Jordania___08_30_1">
+    <title>Próximamente | 08:30 | Egipto vs Jordania</title>
+  </programme>
+  <programme start="20251209083000 -0600" stop="20251209113000 -0600" channel="Evento_COPA_ARABE__COPA_ARABE___Egipto_vs_Jordania___08_30_1">
+    <title>⌾ En vivo | 08:30 | Egipto vs Jordania</title>
+  </programme>
+  <programme start="20251209113000 -0600" stop="20251209235959 -0600" channel="Evento_COPA_ARABE__COPA_ARABE___Egipto_vs_Jordania___08_30_1">
+    <title>Finalizado | Egipto vs Jordania</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209110000 -0600" channel="Evento_COPA_ARABE__COPA_ARABE___Argelia_vs_Iraq___11_00_1">
+    <title>Próximamente | 11:00 | Argelia vs Iraq</title>
+  </programme>
+  <programme start="20251209110000 -0600" stop="20251209140000 -0600" channel="Evento_COPA_ARABE__COPA_ARABE___Argelia_vs_Iraq___11_00_1">
+    <title>⌾ En vivo | 11:00 | Argelia vs Iraq</title>
+  </programme>
+  <programme start="20251209140000 -0600" stop="20251209235959 -0600" channel="Evento_COPA_ARABE__COPA_ARABE___Argelia_vs_Iraq___11_00_1">
+    <title>Finalizado | Argelia vs Iraq</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209164500 -0600" channel="Evento_D_a__1__D_a__1___FC_Barcelona_vs_River_Plate__ESP____16_45_1">
+    <title>Próximamente | 16:45 | FC Barcelona vs River Plate [ESP]</title>
+  </programme>
+  <programme start="20251209164500 -0600" stop="20251209194500 -0600" channel="Evento_D_a__1__D_a__1___FC_Barcelona_vs_River_Plate__ESP____16_45_1">
+    <title>⌾ En vivo | 16:45 | FC Barcelona vs River Plate [ESP]</title>
+  </programme>
+  <programme start="20251209194500 -0600" stop="20251209235959 -0600" channel="Evento_D_a__1__D_a__1___FC_Barcelona_vs_River_Plate__ESP____16_45_1">
+    <title>Finalizado | FC Barcelona vs River Plate [ESP]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209173000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___Clemson_vs__10_BYU__ENG____17_30_1">
+    <title>Próximamente | 17:30 | Clemson vs #10 BYU [ENG]</title>
+  </programme>
+  <programme start="20251209173000 -0600" stop="20251209203000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___Clemson_vs__10_BYU__ENG____17_30_1">
+    <title>⌾ En vivo | 17:30 | Clemson vs #10 BYU [ENG]</title>
+  </programme>
+  <programme start="20251209203000 -0600" stop="20251209235959 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___Clemson_vs__10_BYU__ENG____17_30_1">
+    <title>Finalizado | Clemson vs #10 BYU [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209200000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball____15_Florida_vs__5_UConn__ENG____20_00_1">
+    <title>Próximamente | 20:00 | #15 Florida vs #5 UConn [ENG]</title>
+  </programme>
+  <programme start="20251209200000 -0600" stop="20251209230000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball____15_Florida_vs__5_UConn__ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | #15 Florida vs #5 UConn [ENG]</title>
+  </programme>
+  <programme start="20251209230000 -0600" stop="20251209235959 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball____15_Florida_vs__5_UConn__ENG____20_00_1">
+    <title>Finalizado | #15 Florida vs #5 UConn [ENG]</title>
+  </programme>
+  <programme start="20251209000000 -0600" stop="20251209200000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___USC_vs_San_Diego__ENG____20_00_1">
+    <title>Próximamente | 20:00 | USC vs San Diego [ENG]</title>
+  </programme>
+  <programme start="20251209200000 -0600" stop="20251209230000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___USC_vs_San_Diego__ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | USC vs San Diego [ENG]</title>
+  </programme>
+  <programme start="20251209230000 -0600" stop="20251209235959 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___USC_vs_San_Diego__ENG____20_00_1">
+    <title>Finalizado | USC vs San Diego [ENG]</title>
+  </programme>
 </tv>
 
