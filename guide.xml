@@ -138659,12 +138659,6 @@
   <channel id="Evento_Copa_Intercontinental__Copa_Intercontinental___Cruz_Azul__MEX__vs_Flamengo__BRA___ESP____11_00_2">
     <display-name>Copa Intercontinental | Cruz Azul (MEX) vs Flamengo (BRA) [ESP] | 11:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Barcelona_vs_Benfica__ENG____11_45_1">
-    <display-name>UEFA Women's Champions | Barcelona vs Benfica [ENG] | 11:45</display-name>
-  </channel>
-  <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Valerenga_vs_Paris_FC__ENG____11_45_1">
-    <display-name>UEFA Women's Champions | Valerenga vs Paris FC [ENG] | 11:45</display-name>
-  </channel>
   <channel id="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Manchester_United_vs_OL_Lyonnes__ENG____14_00_1">
     <display-name>UEFA Women's Champions | Manchester United vs OL Lyonnes [ENG] | 14:00</display-name>
   </channel>
@@ -139006,24 +139000,6 @@
   </programme>
   <programme start="20251210140000 -0600" stop="20251210235959 -0600" channel="Evento_Copa_Intercontinental__Copa_Intercontinental___Cruz_Azul__MEX__vs_Flamengo__BRA___ESP____11_00_2">
     <title>Finalizado | Cruz Azul (MEX) vs Flamengo (BRA) [ESP]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210114500 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Barcelona_vs_Benfica__ENG____11_45_1">
-    <title>Próximamente | 11:45 | Barcelona vs Benfica [ENG]</title>
-  </programme>
-  <programme start="20251210114500 -0600" stop="20251210144500 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Barcelona_vs_Benfica__ENG____11_45_1">
-    <title>⌾ En vivo | 11:45 | Barcelona vs Benfica [ENG]</title>
-  </programme>
-  <programme start="20251210144500 -0600" stop="20251210235959 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Barcelona_vs_Benfica__ENG____11_45_1">
-    <title>Finalizado | Barcelona vs Benfica [ENG]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210114500 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Valerenga_vs_Paris_FC__ENG____11_45_1">
-    <title>Próximamente | 11:45 | Valerenga vs Paris FC [ENG]</title>
-  </programme>
-  <programme start="20251210114500 -0600" stop="20251210144500 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Valerenga_vs_Paris_FC__ENG____11_45_1">
-    <title>⌾ En vivo | 11:45 | Valerenga vs Paris FC [ENG]</title>
-  </programme>
-  <programme start="20251210144500 -0600" stop="20251210235959 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Valerenga_vs_Paris_FC__ENG____11_45_1">
-    <title>Finalizado | Valerenga vs Paris FC [ENG]</title>
   </programme>
   <programme start="20251210000000 -0600" stop="20251210140000 -0600" channel="Evento_UEFA_Women_s_Champions__UEFA_Women_s_Champions___Manchester_United_vs_OL_Lyonnes__ENG____14_00_1">
     <title>Próximamente | 14:00 | Manchester United vs OL Lyonnes [ENG]</title>
