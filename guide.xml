@@ -138599,12 +138599,6 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Lakers_vs_San_Antonio_Spurs__ENG____21_00_1">
     <display-name>NBA | Los Angeles Lakers vs San Antonio Spurs [ENG] | 21:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Youth_League__UEFA_Youth_League___Club_Brugge_vs_Arsenal__ESP____07_00_1">
-    <display-name>UEFA Youth League | Club Brugge vs Arsenal [ESP] | 07:00</display-name>
-  </channel>
-  <channel id="Evento_UEFA_Youth_League__UEFA_Youth_League___Real_Madrid_vs_Manchester_City__ESP____09_00_1">
-    <display-name>UEFA Youth League | Real Madrid vs Manchester City [ESP] | 09:00</display-name>
-  </channel>
   <channel id="Evento_UEFA_Champions__UEFA_Champions___Qaraba__FK__AZE__vs_Ajax__NED___ESP____11_45_1">
     <display-name>UEFA Champions | Qarabağ FK (AZE) vs Ajax (NED) [ESP] | 11:45</display-name>
   </channel>
@@ -138832,24 +138826,6 @@
   </programme>
   <programme start="20251211000000 -0600" stop="20251210235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Lakers_vs_San_Antonio_Spurs__ENG____21_00_1">
     <title>Finalizado | Los Angeles Lakers vs San Antonio Spurs [ENG]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210070000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Club_Brugge_vs_Arsenal__ESP____07_00_1">
-    <title>Próximamente | 07:00 | Club Brugge vs Arsenal [ESP]</title>
-  </programme>
-  <programme start="20251210070000 -0600" stop="20251210100000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Club_Brugge_vs_Arsenal__ESP____07_00_1">
-    <title>⌾ En vivo | 07:00 | Club Brugge vs Arsenal [ESP]</title>
-  </programme>
-  <programme start="20251210100000 -0600" stop="20251210235959 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Club_Brugge_vs_Arsenal__ESP____07_00_1">
-    <title>Finalizado | Club Brugge vs Arsenal [ESP]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210090000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Real_Madrid_vs_Manchester_City__ESP____09_00_1">
-    <title>Próximamente | 09:00 | Real Madrid vs Manchester City [ESP]</title>
-  </programme>
-  <programme start="20251210090000 -0600" stop="20251210120000 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Real_Madrid_vs_Manchester_City__ESP____09_00_1">
-    <title>⌾ En vivo | 09:00 | Real Madrid vs Manchester City [ESP]</title>
-  </programme>
-  <programme start="20251210120000 -0600" stop="20251210235959 -0600" channel="Evento_UEFA_Youth_League__UEFA_Youth_League___Real_Madrid_vs_Manchester_City__ESP____09_00_1">
-    <title>Finalizado | Real Madrid vs Manchester City [ESP]</title>
   </programme>
   <programme start="20251210000000 -0600" stop="20251210114500 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Qaraba__FK__AZE__vs_Ajax__NED___ESP____11_45_1">
     <title>Próximamente | 11:45 | Qarabağ FK (AZE) vs Ajax (NED) [ESP]</title>
