@@ -136148,9 +136148,6 @@
   <channel id="Evento_NBA__NBA___Sacramento_Kings_vs_Denver_Nuggets__ENG____21_00_1">
     <display-name>NBA | Sacramento Kings vs Denver Nuggets [ENG] | 21:00</display-name>
   </channel>
-  <channel id="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
-    <display-name>AFC Champions League | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP] | 04:00</display-name>
-  </channel>
   <channel id="Evento_Messi_Cup__Messi_Cup___River_Pl_vs_e_vs__Inter_Milan__ESP____09_00_1">
     <display-name>Messi Cup | River Pl vs e vs. Inter Milan [ESP] | 09:00</display-name>
   </channel>
@@ -136531,15 +136528,6 @@
   </programme>
   <programme start="20251212060000" stop="20251212055959" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Denver_Nuggets__ENG____21_00_1">
     <title>Finalizado | Sacramento Kings vs Denver Nuggets [ENG]</title>
-  </programme>
-  <programme start="20251211060000" stop="20251211100000" channel="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
-    <title>Próximamente | 04:00 | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP]</title>
-  </programme>
-  <programme start="20251211100000" stop="20251211130000" channel="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
-    <title>⌾ En vivo | 04:00 | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP]</title>
-  </programme>
-  <programme start="20251211130000" stop="20251212055959" channel="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
-    <title>Finalizado | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP]</title>
   </programme>
   <programme start="20251211060000" stop="20251211150000" channel="Evento_Messi_Cup__Messi_Cup___River_Pl_vs_e_vs__Inter_Milan__ESP____09_00_1">
     <title>Próximamente | 09:00 | River Pl vs e vs. Inter Milan [ESP]</title>
