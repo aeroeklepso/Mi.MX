@@ -136082,9 +136082,6 @@
     <desc>Con la partida de Savannah y Chase en los proximos años, Todd y Julie deciden reducir el tamaño de su hogar. Cuando comienza la mudanza, el control de Todd se exacerba, lo que lleva a la familia a un nuevo nivel de locura.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___New_York_Rangers_vs_Chicago_Blackhawks__ENG____18_30_1">
-    <display-name>NHL | New York Rangers vs Chicago Blackhawks [ENG] | 18:30</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Detroit_Red_Wings_vs_Calgary_Flames__ENG____19_30_1">
     <display-name>NHL | Detroit Red Wings vs Calgary Flames [ENG] | 19:30</display-name>
   </channel>
@@ -136151,20 +136148,11 @@
   <channel id="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_2">
     <display-name>UEFA Champions | Real Madrid (ESP) vs Manchester City (ENG) [ENG] | 14:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_3">
-    <display-name>UEFA Champions | Real Madrid (ESP) vs Manchester City (ENG) [ENG] | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Intercontinental__Copa_Intercontinental___Cruz_Azul__MEX__vs_Flamengo__BRA___ESP____11_00_1">
-    <display-name>Copa Intercontinental | Cruz Azul (MEX) vs Flamengo (BRA) [ESP] | 11:00</display-name>
-  </channel>
   <channel id="Evento_Primera_GT__Primera_GT___Municipal_vs_Mictl_n__ESP____20_00_1">
     <display-name>Primera GT | Municipal vs Mictlán [ESP] | 20:00</display-name>
   </channel>
   <channel id="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Olimpia__ESP____19_00_1">
     <display-name>Primera HN | Real España vs Olimpia [ESP] | 19:00</display-name>
-  </channel>
-  <channel id="Evento_Primera_PE__Primera_PE___Sporting_Cristal_vs_Cusco__ESP____19_00_1">
-    <display-name>Primera PE | Sporting Cristal vs Cusco [ESP] | 19:00</display-name>
   </channel>
   <channel id="Evento_Copa_de_Brasil__Copa_de_Brasil___Cruzeiro_vs_Corinthians___18_30_1">
     <display-name>Copa de Brasil | Cruzeiro vs Corinthians | 18:30</display-name>
@@ -136175,30 +136163,12 @@
   <channel id="Evento_Liga_Pro__Liga_Pro___Independiente_del_Valle_vs_LDU_Quito__ESP____19_00_1">
     <display-name>Liga Pro | Independiente del Valle vs LDU Quito [ESP] | 19:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_Iowa_vs__10_Iowa_State__ENG____18_00_1">
-    <display-name>NCAA Women Basketball | #11 Iowa vs #10 Iowa State [ENG] | 18:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Eastern_Washington_vs_Washington_State__ENG____20_00_1">
     <display-name>NCAA Women Basketball | Eastern Washington vs Washington State [ENG] | 20:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Fresno_St_vs_e_vs__Saint_Mary_s__ENG____20_30_1">
     <display-name>NCAA Women Basketball | Fresno St vs e vs. Saint Mary's [ENG] | 20:30</display-name>
   </channel>
-  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___UAlbany_vs_Yale__ENG____15_30_1">
-    <display-name>NCAA Basketball | UAlbany vs Yale [ENG] | 15:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Massachusetts_vs_Boston_College__ENG____18_00_1">
-    <display-name>NCAA Basketball | Massachusetts vs Boston College [ENG] | 18:00</display-name>
-  </channel>
-  <programme start="20251210000000 -0600" stop="20251210183000 -0600" channel="Evento_NHL__NHL___New_York_Rangers_vs_Chicago_Blackhawks__ENG____18_30_1">
-    <title>Próximamente | 18:30 | New York Rangers vs Chicago Blackhawks [ENG]</title>
-  </programme>
-  <programme start="20251210183000 -0600" stop="20251210213000 -0600" channel="Evento_NHL__NHL___New_York_Rangers_vs_Chicago_Blackhawks__ENG____18_30_1">
-    <title>⌾ En vivo | 18:30 | New York Rangers vs Chicago Blackhawks [ENG]</title>
-  </programme>
-  <programme start="20251210213000 -0600" stop="20251210235959 -0600" channel="Evento_NHL__NHL___New_York_Rangers_vs_Chicago_Blackhawks__ENG____18_30_1">
-    <title>Finalizado | New York Rangers vs Chicago Blackhawks [ENG]</title>
-  </programme>
   <programme start="20251210000000 -0600" stop="20251210193000 -0600" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Calgary_Flames__ENG____19_30_1">
     <title>Próximamente | 19:30 | Detroit Red Wings vs Calgary Flames [ENG]</title>
   </programme>
@@ -136397,24 +136367,6 @@
   <programme start="20251210170000 -0600" stop="20251210235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_2">
     <title>Finalizado | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
   </programme>
-  <programme start="20251210000000 -0600" stop="20251210140000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_3">
-    <title>Próximamente | 14:00 | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
-  </programme>
-  <programme start="20251210140000 -0600" stop="20251210170000 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_3">
-    <title>⌾ En vivo | 14:00 | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
-  </programme>
-  <programme start="20251210170000 -0600" stop="20251210235959 -0600" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_3">
-    <title>Finalizado | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210110000 -0600" channel="Evento_Copa_Intercontinental__Copa_Intercontinental___Cruz_Azul__MEX__vs_Flamengo__BRA___ESP____11_00_1">
-    <title>Próximamente | 11:00 | Cruz Azul (MEX) vs Flamengo (BRA) [ESP]</title>
-  </programme>
-  <programme start="20251210110000 -0600" stop="20251210140000 -0600" channel="Evento_Copa_Intercontinental__Copa_Intercontinental___Cruz_Azul__MEX__vs_Flamengo__BRA___ESP____11_00_1">
-    <title>⌾ En vivo | 11:00 | Cruz Azul (MEX) vs Flamengo (BRA) [ESP]</title>
-  </programme>
-  <programme start="20251210140000 -0600" stop="20251210235959 -0600" channel="Evento_Copa_Intercontinental__Copa_Intercontinental___Cruz_Azul__MEX__vs_Flamengo__BRA___ESP____11_00_1">
-    <title>Finalizado | Cruz Azul (MEX) vs Flamengo (BRA) [ESP]</title>
-  </programme>
   <programme start="20251210000000 -0600" stop="20251210200000 -0600" channel="Evento_Primera_GT__Primera_GT___Municipal_vs_Mictl_n__ESP____20_00_1">
     <title>Próximamente | 20:00 | Municipal vs Mictlán [ESP]</title>
   </programme>
@@ -136432,15 +136384,6 @@
   </programme>
   <programme start="20251210220000 -0600" stop="20251210235959 -0600" channel="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Olimpia__ESP____19_00_1">
     <title>Finalizado | Real España vs Olimpia [ESP]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210190000 -0600" channel="Evento_Primera_PE__Primera_PE___Sporting_Cristal_vs_Cusco__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Sporting Cristal vs Cusco [ESP]</title>
-  </programme>
-  <programme start="20251210190000 -0600" stop="20251210220000 -0600" channel="Evento_Primera_PE__Primera_PE___Sporting_Cristal_vs_Cusco__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Sporting Cristal vs Cusco [ESP]</title>
-  </programme>
-  <programme start="20251210220000 -0600" stop="20251210235959 -0600" channel="Evento_Primera_PE__Primera_PE___Sporting_Cristal_vs_Cusco__ESP____19_00_1">
-    <title>Finalizado | Sporting Cristal vs Cusco [ESP]</title>
   </programme>
   <programme start="20251210000000 -0600" stop="20251210183000 -0600" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Cruzeiro_vs_Corinthians___18_30_1">
     <title>Próximamente | 18:30 | Cruzeiro vs Corinthians</title>
@@ -136469,15 +136412,6 @@
   <programme start="20251210220000 -0600" stop="20251210235959 -0600" channel="Evento_Liga_Pro__Liga_Pro___Independiente_del_Valle_vs_LDU_Quito__ESP____19_00_1">
     <title>Finalizado | Independiente del Valle vs LDU Quito [ESP]</title>
   </programme>
-  <programme start="20251210000000 -0600" stop="20251210180000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_Iowa_vs__10_Iowa_State__ENG____18_00_1">
-    <title>Próximamente | 18:00 | #11 Iowa vs #10 Iowa State [ENG]</title>
-  </programme>
-  <programme start="20251210180000 -0600" stop="20251210210000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_Iowa_vs__10_Iowa_State__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | #11 Iowa vs #10 Iowa State [ENG]</title>
-  </programme>
-  <programme start="20251210210000 -0600" stop="20251210235959 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____11_Iowa_vs__10_Iowa_State__ENG____18_00_1">
-    <title>Finalizado | #11 Iowa vs #10 Iowa State [ENG]</title>
-  </programme>
   <programme start="20251210000000 -0600" stop="20251210200000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Eastern_Washington_vs_Washington_State__ENG____20_00_1">
     <title>Próximamente | 20:00 | Eastern Washington vs Washington State [ENG]</title>
   </programme>
@@ -136495,24 +136429,6 @@
   </programme>
   <programme start="20251210233000 -0600" stop="20251210235959 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Fresno_St_vs_e_vs__Saint_Mary_s__ENG____20_30_1">
     <title>Finalizado | Fresno St vs e vs. Saint Mary's [ENG]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210153000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___UAlbany_vs_Yale__ENG____15_30_1">
-    <title>Próximamente | 15:30 | UAlbany vs Yale [ENG]</title>
-  </programme>
-  <programme start="20251210153000 -0600" stop="20251210183000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___UAlbany_vs_Yale__ENG____15_30_1">
-    <title>⌾ En vivo | 15:30 | UAlbany vs Yale [ENG]</title>
-  </programme>
-  <programme start="20251210183000 -0600" stop="20251210235959 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___UAlbany_vs_Yale__ENG____15_30_1">
-    <title>Finalizado | UAlbany vs Yale [ENG]</title>
-  </programme>
-  <programme start="20251210000000 -0600" stop="20251210180000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___Massachusetts_vs_Boston_College__ENG____18_00_1">
-    <title>Próximamente | 18:00 | Massachusetts vs Boston College [ENG]</title>
-  </programme>
-  <programme start="20251210180000 -0600" stop="20251210210000 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___Massachusetts_vs_Boston_College__ENG____18_00_1">
-    <title>⌾ En vivo | 18:00 | Massachusetts vs Boston College [ENG]</title>
-  </programme>
-  <programme start="20251210210000 -0600" stop="20251210235959 -0600" channel="Evento_NCAA_Basketball__NCAA_Basketball___Massachusetts_vs_Boston_College__ENG____18_00_1">
-    <title>Finalizado | Massachusetts vs Boston College [ENG]</title>
   </programme>
 </tv>
 
