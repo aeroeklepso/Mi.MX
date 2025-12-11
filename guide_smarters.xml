@@ -136082,14 +136082,44 @@
     <desc>Con la partida de Savannah y Chase en los proximos años, Todd y Julie deciden reducir el tamaño de su hogar. Cuando comienza la mudanza, el control de Todd se exacerba, lo que lleva a la familia a un nuevo nivel de locura.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Detroit_Red_Wings_vs_Calgary_Flames__ENG____19_30_1">
-    <display-name>NHL | Detroit Red Wings vs Calgary Flames [ENG] | 19:30</display-name>
+  <channel id="Evento_NHL__NHL___Anaheim_Ducks_vs_New_York_Islanders__ENG____18_00_1">
+    <display-name>NHL | Anaheim Ducks vs New York Islanders [ENG] | 18:00</display-name>
   </channel>
-  <channel id="Evento_NHL__NHL___Florida_Panthers_vs_Utah_Mammoth__ENG____20_00_1">
-    <display-name>NHL | Florida Panthers vs Utah Mammoth [ENG] | 20:00</display-name>
+  <channel id="Evento_NHL__NHL___Carolina_Hurricanes_vs_Washington_Capitals__ENG____18_00_1">
+    <display-name>NHL | Carolina Hurricanes vs Washington Capitals [ENG] | 18:00</display-name>
   </channel>
-  <channel id="Evento_NHL__NHL___Los_Angeles_Kings_vs_Seattle_Kraken__ENG____21_00_1">
-    <display-name>NHL | Los Angeles Kings vs Seattle Kraken [ENG] | 21:00</display-name>
+  <channel id="Evento_NHL__NHL___Montreal_Canadiens_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <display-name>NHL | Montreal Canadiens vs Pittsburgh Penguins [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Columbus_Blue_Jackets__ENG____18_00_1">
+    <display-name>NHL | Ottawa Sen vs ors vs. Columbus Blue Jackets [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___San_Jose_Sharks_vs_Toronto_Maple_Leafs__ENG____18_00_1">
+    <display-name>NHL | San Jose Sharks vs Toronto Maple Leafs [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_Jersey_Devils__ENG____18_00_1">
+    <display-name>NHL | Tampa Bay Lightning vs New Jersey Devils [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <display-name>NHL | Vegas Golden Knights vs Philadelphia Flyers [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Boston_Bruins_vs_Winnipeg_Jets__ENG____19_00_1">
+    <display-name>NHL | Boston Bruins vs Winnipeg Jets [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Dallas_Stars_vs_Minnesota_Wild__ENG____19_00_1">
+    <display-name>NHL | Dallas Stars vs Minnesota Wild [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___St__Louis_Blues_vs_Nashville_Predators__ENG____19_00_1">
+    <display-name>NHL | St. Louis Blues vs Nashville Predators [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Detroit_Red_Wings_vs_Edmonton_Oilers__ENG____20_00_1">
+    <display-name>NHL | Detroit Red Wings vs Edmonton Oilers [ENG] | 20:00</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Florida_Panthers_vs_Colorado_Avalanche__ENG____20_30_1">
+    <display-name>NHL | Florida Panthers vs Colorado Avalanche [ENG] | 20:30</display-name>
+  </channel>
+  <channel id="Evento_NHL__NHL___Buffalo_Sabres_vs_Vancouver_Canucks__ENG____21_00_1">
+    <display-name>NHL | Buffalo Sabres vs Vancouver Canucks [ENG] | 21:00</display-name>
   </channel>
   <channel id="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
     <display-name>LMP | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP] | 19:30</display-name>
@@ -136106,329 +136136,959 @@
   <channel id="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
     <display-name>LMP | Aguilas De Mexicali vs Venados De Mazatlan [ESP] | 21:30</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Phoenix_Suns__ENG____18_30_1">
-    <display-name>NBA | Oklahoma City Thunder vs Phoenix Suns [ENG] | 18:30</display-name>
+  <channel id="Evento_NBA__NBA___Houston_Rockets_vs_Los_Angeles_Clippers__ENG____19_00_1">
+    <display-name>NBA | Houston Rockets vs Los Angeles Clippers [ENG] | 19:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Los_Angeles_Lakers_vs_San_Antonio_Spurs__ENG____21_00_1">
-    <display-name>NBA | Los Angeles Lakers vs San Antonio Spurs [ENG] | 21:00</display-name>
+  <channel id="Evento_NBA__NBA___Milwaukee_Bucks_vs_Boston_Celtics__ENG____19_00_1">
+    <display-name>NBA | Milwaukee Bucks vs Boston Celtics [ENG] | 19:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_1">
-    <display-name>UEFA Champions | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP] | 14:00</display-name>
+  <channel id="Evento_NBA__NBA___New_Orleans_Pelicans_vs_Portland_Trail_Blazers__ENG____19_00_1">
+    <display-name>NBA | New Orleans Pelicans vs Portland Trail Blazers [ENG] | 19:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_2">
-    <display-name>UEFA Champions | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP] | 14:00</display-name>
+  <channel id="Evento_NBA__NBA___Sacramento_Kings_vs_Denver_Nuggets__ENG____21_00_1">
+    <display-name>NBA | Sacramento Kings vs Denver Nuggets [ENG] | 21:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_1">
-    <display-name>UEFA Champions | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG] | 14:00</display-name>
+  <channel id="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
+    <display-name>AFC Champions League | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP] | 04:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_2">
-    <display-name>UEFA Champions | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG] | 14:00</display-name>
+  <channel id="Evento_Messi_Cup__Messi_Cup___River_Pl_vs_e_vs__Inter_Milan__ESP____09_00_1">
+    <display-name>Messi Cup | River Pl vs e vs. Inter Milan [ESP] | 09:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_1">
-    <display-name>UEFA Champions | Benfica (POR) vs Napoli (ITA) [ESP] | 14:00</display-name>
+  <channel id="Evento_Messi_Cup__Messi_Cup___Atl_tico_de_Madrid_vs_Newell_s_Old_Boys__ESP____11_00_1">
+    <display-name>Messi Cup | Atlético de Madrid vs Newell's Old Boys [ESP] | 11:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_2">
-    <display-name>UEFA Champions | Benfica (POR) vs Napoli (ITA) [ESP] | 14:00</display-name>
+  <channel id="Evento_Messi_Cup__Messi_Cup___Chelsea_vs_Inter_Miami__ESP____11_00_1">
+    <display-name>Messi Cup | Chelsea vs Inter Miami [ESP] | 11:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_1">
-    <display-name>UEFA Champions | Club Brugge (BEL) vs Arsenal (ENG) [ENG] | 14:00</display-name>
+  <channel id="Evento_Messi_Cup__Messi_Cup___Man_City_vs_Barcelona__ESP____13_00_1">
+    <display-name>Messi Cup | Man City vs Barcelona [ESP] | 13:00</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_2">
-    <display-name>UEFA Champions | Club Brugge (BEL) vs Arsenal (ENG) [ENG] | 14:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Breidablik__ISL__vs_Shamrock_Rovers__IRL___ESP____11_45_1">
+    <display-name>Conference League | Breidablik (ISL) vs Shamrock Rovers (IRL) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_1">
-    <display-name>UEFA Champions | Juventus (ITA) vs Pafos FC (CYP) [ESP] | 14:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___CSU_Craiova__ROU__vs_Sparta_Praha__CZE___ESP____11_45_1">
+    <display-name>Conference League | CSU Craiova (ROU) vs Sparta Praha (CZE) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_2">
-    <display-name>UEFA Champions | Juventus (ITA) vs Pafos FC (CYP) [ESP] | 14:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Dinamo_Zagreb__CRO__vs_Real_Betis__ESP___ESP____11_45_1">
+    <display-name>Conference League | Dinamo Zagreb (CRO) vs Real Betis (ESP) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_1">
-    <display-name>UEFA Champions | Real Madrid (ESP) vs Manchester City (ENG) [ENG] | 14:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Drita__KOS__vs_AZ_Alkmaar__NED___ESP____11_45_1">
+    <display-name>Conference League | Drita (KOS) vs AZ Alkmaar (NED) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_2">
-    <display-name>UEFA Champions | Real Madrid (ESP) vs Manchester City (ENG) [ENG] | 14:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Ferencv_ros__HUN__vs_Rangers__SCO___ESP____11_45_1">
+    <display-name>Conference League | Ferencváros (HUN) vs Rangers (SCO) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_Primera_GT__Primera_GT___Municipal_vs_Mictl_n__ESP____20_00_1">
-    <display-name>Primera GT | Municipal vs Mictlán [ESP] | 20:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Fiorentina__ITA__vs_Dynamo_Kyiv__UKR____ESP____11_45_1">
+    <display-name>Conference League | Fiorentina (ITA) vs Dynamo Kyiv (UKR)) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Olimpia__ESP____19_00_1">
-    <display-name>Primera HN | Real España vs Olimpia [ESP] | 19:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___H_cken__SWE__vs_AEK_Larnaca__CYP___ESP____11_45_1">
+    <display-name>Conference League | Häcken (SWE) vs AEK Larnaca (CYP) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_Copa_de_Brasil__Copa_de_Brasil___Cruzeiro_vs_Corinthians___18_30_1">
-    <display-name>Copa de Brasil | Cruzeiro vs Corinthians | 18:30</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Jagiellonia_Bia_ystok__POL__vs_Rayo_Vallecano__ESP___ESP____11_45_1">
+    <display-name>Conference League | Jagiellonia Białystok (POL) vs Rayo Vallecano (ESP) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_Copa_de_Chile__Copa_de_Chile___Huachip_vs_o_vs__Deportes_Limache__ESP____19_00_1">
-    <display-name>Copa de Chile | Huachip vs o vs. Deportes Limache [ESP] | 19:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Ludogorets__BUL__vs_PAOK__GRE___ESP____11_45_1">
+    <display-name>Conference League | Ludogorets (BUL) vs PAOK (GRE) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_Liga_Pro__Liga_Pro___Independiente_del_Valle_vs_LDU_Quito__ESP____19_00_1">
-    <display-name>Liga Pro | Independiente del Valle vs LDU Quito [ESP] | 19:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Midtjylland__DEN__vs_Genk__BEL___ESP____11_45_1">
+    <display-name>Conference League | Midtjylland (DEN) vs Genk (BEL) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Eastern_Washington_vs_Washington_State__ENG____20_00_1">
-    <display-name>NCAA Women Basketball | Eastern Washington vs Washington State [ENG] | 20:00</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Nice__FRA__vs_Sporting_Braga__POR___ESP____11_45_1">
+    <display-name>Conference League | Nice (FRA) vs Sporting Braga (POR) [ESP] | 11:45</display-name>
   </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Fresno_St_vs_e_vs__Saint_Mary_s__ENG____20_30_1">
-    <display-name>NCAA Women Basketball | Fresno St vs e vs. Saint Mary's [ENG] | 20:30</display-name>
+  <channel id="Evento_Conference_League__Conference_League___Noah__ARM__vs_Legia_Warszawa__POL___ESP____11_45_1">
+    <display-name>Conference League | Noah (ARM) vs Legia Warszawa (POL) [ESP] | 11:45</display-name>
   </channel>
-  <programme start="20251210060000" stop="20251211013000" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Calgary_Flames__ENG____19_30_1">
-    <title>Próximamente | 19:30 | Detroit Red Wings vs Calgary Flames [ENG]</title>
+  <channel id="Evento_Conference_League__Conference_League___Samsunspor__TUR__vs_AEK_Athens__GRE___ESP____11_45_1">
+    <display-name>Conference League | Samsunspor (TUR) vs AEK Athens (GRE) [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Shk_ndija_79__MKD__vs_Slovan_Bratislava__SVK___ESP____11_45_1">
+    <display-name>Conference League | Shkëndija 79 (MKD) vs Slovan Bratislava (SVK) [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Sturm_Graz__AUT__vs_Crvena_Zvezda__SRB___ESP____11_45_1">
+    <display-name>Conference League | Sturm Graz (AUT) vs Crvena Zvezda (SRB) [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Stuttgart__GER__vs_Maccabi_Tel_Aviv__IS__ESP____11_45_1">
+    <display-name>Conference League | Stuttgart (GER) vs Maccabi Tel Aviv (IS [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Utrecht__NED__vs_Nottingham_Forest__ENG___ENG____11_45_1">
+    <display-name>Conference League | Utrecht (NED) vs Nottingham Forest (ENG) [ENG] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Young_Boys__SUI__vs_Lille__FRA___ESP____11_45_1">
+    <display-name>Conference League | Young Boys (SUI) vs Lille (FRA) [ESP] | 11:45</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Aberdeen__SCO__vs_Strasbourg__FRA___ESP____14_00_1">
+    <display-name>Conference League | Aberdeen (SCO) vs Strasbourg (FRA) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Basel__SUI__vs_Aston_Villa__ENG___ENG____14_00_1">
+    <display-name>Conference League | Basel (SUI) vs Aston Villa (ENG) [ENG] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Brann__NOR__vs_Fenerbah_e__TUR___ESP____14_00_1">
+    <display-name>Conference League | Brann (NOR) vs Fenerbahçe (TUR) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Celta_de_Vigo__ESP__vs_Bologna__ITA___ESP____14_00_1">
+    <display-name>Conference League | Celta de Vigo (ESP) vs Bologna (ITA) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Celtic__SCO__vs_Roma__ITA___ESP____14_00_1">
+    <display-name>Conference League | Celtic (SCO) vs Roma (ITA) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___FCSB__ROU__vs_Feyenoord__NED__ESP____14_00_1">
+    <display-name>Conference League | FCSB (ROU) vs Feyenoord (NED [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Freiburg__GER__vs_Salzburg__AUT___ESP____14_00_1">
+    <display-name>Conference League | Freiburg (GER) vs Salzburg (AUT) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Hamrun_Spartans__MLT__vs_Shakhtar_Donetsk__UKR___ESP____14_00_1">
+    <display-name>Conference League | Hamrun Spartans (MLT) vs Shakhtar Donetsk (UKR) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___KuPS__FIN__vs_Lausanne_Sport__SUI___ESP____14_00_1">
+    <display-name>Conference League | KuPS (FIN) vs Lausanne Sport (SUI) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Lech_Pozna___POL__vs_Mainz_05__GER___ESP____14_00_1">
+    <display-name>Conference League | Lech Poznań (POL) vs Mainz 05 (GER) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Lincoln_Red_Imps__GIB__vs_Sigma_Olomouc__CZE___ESP____14_00_1">
+    <display-name>Conference League | Lincoln Red Imps (GIB) vs Sigma Olomouc (CZE) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Olympique_Lyonnais__FRA__vs_Go_Ahead_Eagles__NED___ESP____14_00_1">
+    <display-name>Conference League | Olympique Lyonnais (FRA) vs Go Ahead Eagles (NED) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Pan_vs_hinaikos__GRE__vs__Viktoria_Plze___CZE___ESP____14_00_1">
+    <display-name>Conference League | Pan vs hinaikos (GRE) vs. Viktoria Plzeň (CZE) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Porto__POR__vs_Malm__FF__SWE___ESP____14_00_1">
+    <display-name>Conference League | Porto (POR) vs Malmö FF (SWE) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Rak_w_Cz_stochowa__POL__vs_Zrinjski__BIH___ESP____14_00_1">
+    <display-name>Conference League | Raków Częstochowa (POL) vs Zrinjski (BIH) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Rapid_Wien__AUT__vs_Omonia_Nicosia__CYP___ESP____14_00_1">
+    <display-name>Conference League | Rapid Wien (AUT) vs Omonia Nicosia (CYP) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Rijeka__CRO__vs_Celje__SVN___ESP____14_00_1">
+    <display-name>Conference League | Rijeka (CRO) vs Celje (SVN) [ESP] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Conference_League__Conference_League___Shelbourne__IRL__vs_Crystal_Palace__ENG___ENG____14_00_1">
+    <display-name>Conference League | Shelbourne (IRL) vs Crystal Palace (ENG) [ENG] | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Primera_GT__Primera_GT___Mixco_vs_Achuapa__ESP____15_00_1">
+    <display-name>Primera GT | Mixco vs Achuapa [ESP] | 15:00</display-name>
+  </channel>
+  <channel id="Evento_Primera_GT__Primera_GT___Antigua_GFC_vs_Xelaj___ESP____20_00_1">
+    <display-name>Primera GT | Antigua GFC vs Xelajú [ESP] | 20:00</display-name>
+  </channel>
+  <channel id="Evento_Copa_de_Brasil__Copa_de_Brasil___Vasco_da_Gama_vs_Fluminense___17_00_1">
+    <display-name>Copa de Brasil | Vasco da Gama vs Fluminense | 17:00</display-name>
+  </channel>
+  <channel id="Evento_Primera_HN__Primera_HN___Olancho_vs_Marath_n__ESP____19_00_1">
+    <display-name>Primera HN | Olancho vs Marathón [ESP] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Toluca__ESP____20_00_1">
+    <display-name>LigaMX | Tigres UANL vs Toluca [ESP] | 20:00</display-name>
+  </channel>
+  <channel id="Evento_Primera_CR__Primera_CR___Cartagin_s_vs_Deportivo_Saprissa__ESP____20_00_1">
+    <display-name>Primera CR | Cartaginés vs Deportivo Saprissa [ESP] | 20:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Dillard_vs_Norfolk_St__ENG____10_00_1">
+    <display-name>NCAA Women Basketball | Dillard vs Norfolk St [ENG] | 10:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Point_Loma_vs_Bentley__ENG____11_00_1">
+    <display-name>NCAA Women Volleyball | Point Loma vs Bentley [ENG] | 11:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Creighton_vs__2_Arizona_State__ENG____12_00_1">
+    <display-name>NCAA Women Volleyball | #3 Creighton vs #2 Arizona State [ENG] | 12:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Concordia___St__Paul_vs_Gannon__ENG____13_30_1">
+    <display-name>NCAA Women Volleyball | Concordia - St. Paul vs Gannon [ENG] | 13:30</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Cal_Poly_vs__1_Kentucky__ENG____14_30_1">
+    <display-name>NCAA Women Volleyball | Cal Poly vs #1 Kentucky [ENG] | 14:30</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___MSU___Denver_vs_Wingate__ENG____16_30_1">
+    <display-name>NCAA Women Volleyball | MSU - Denver vs Wingate [ENG] | 16:30</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Green_Bay_vs_IU_Indy__ENG____17_30_1">
+    <display-name>NCAA Men Basketball | Green Bay vs IU Indy [ENG] | 17:30</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___App_St_vs_e_vs__East_Carolina__ENG____18_00_1">
+    <display-name>NCAA Men Basketball | App St vs e vs. East Carolina [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Coastal_GA_vs_GA_Southern__ENG____18_00_1">
+    <display-name>NCAA Men Basketball | Coastal GA vs GA Southern [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Trinity__Jax__vs_Jacksonville__ENG____18_00_1">
+    <display-name>NCAA Men Basketball | Trinity (Jax) vs Jacksonville [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Ch_vs_tanooga_vs__Tennessee_St__ENG____18_00_1">
+    <display-name>NCAA Women Basketball | Ch vs tanooga vs. Tennessee St [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___UNC_Asheville_vs_ETSU__ENG____18_00_1">
+    <display-name>NCAA Women Basketball | UNC Asheville vs ETSU [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____4_Minnesota_vs__1_Pittsburgh__ENG____18_00_1">
+    <display-name>NCAA Women Volleyball | #4 Minnesota vs #1 Pittsburgh [ENG] | 18:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Tampa_vs_Ferris_State__ENG____19_00_1">
+    <display-name>NCAA Women Volleyball | Tampa vs Ferris State [ENG] | 19:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Purdue_vs__2_SMU__ENG____20_30_1">
+    <display-name>NCAA Women Volleyball | #3 Purdue vs #2 SMU [ENG] | 20:30</display-name>
+  </channel>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_New_York_Islanders__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Anaheim Ducks vs New York Islanders [ENG]</title>
   </programme>
-  <programme start="20251211013000" stop="20251211043000" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Calgary_Flames__ENG____19_30_1">
-    <title>⌾ En vivo | 19:30 | Detroit Red Wings vs Calgary Flames [ENG]</title>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_New_York_Islanders__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Anaheim Ducks vs New York Islanders [ENG]</title>
   </programme>
-  <programme start="20251211043000" stop="20251211055959" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Calgary_Flames__ENG____19_30_1">
-    <title>Finalizado | Detroit Red Wings vs Calgary Flames [ENG]</title>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_New_York_Islanders__ENG____18_00_1">
+    <title>Finalizado | Anaheim Ducks vs New York Islanders [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211020000" channel="Evento_NHL__NHL___Florida_Panthers_vs_Utah_Mammoth__ENG____20_00_1">
-    <title>Próximamente | 20:00 | Florida Panthers vs Utah Mammoth [ENG]</title>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Washington_Capitals__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Carolina Hurricanes vs Washington Capitals [ENG]</title>
   </programme>
-  <programme start="20251211020000" stop="20251211050000" channel="Evento_NHL__NHL___Florida_Panthers_vs_Utah_Mammoth__ENG____20_00_1">
-    <title>⌾ En vivo | 20:00 | Florida Panthers vs Utah Mammoth [ENG]</title>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Washington_Capitals__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Carolina Hurricanes vs Washington Capitals [ENG]</title>
   </programme>
-  <programme start="20251211050000" stop="20251211055959" channel="Evento_NHL__NHL___Florida_Panthers_vs_Utah_Mammoth__ENG____20_00_1">
-    <title>Finalizado | Florida Panthers vs Utah Mammoth [ENG]</title>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Washington_Capitals__ENG____18_00_1">
+    <title>Finalizado | Carolina Hurricanes vs Washington Capitals [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211030000" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Seattle_Kraken__ENG____21_00_1">
-    <title>Próximamente | 21:00 | Los Angeles Kings vs Seattle Kraken [ENG]</title>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Montreal Canadiens vs Pittsburgh Penguins [ENG]</title>
   </programme>
-  <programme start="20251211030000" stop="20251211060000" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Seattle_Kraken__ENG____21_00_1">
-    <title>⌾ En vivo | 21:00 | Los Angeles Kings vs Seattle Kraken [ENG]</title>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Montreal Canadiens vs Pittsburgh Penguins [ENG]</title>
   </programme>
-  <programme start="20251211060000" stop="20251211055959" channel="Evento_NHL__NHL___Los_Angeles_Kings_vs_Seattle_Kraken__ENG____21_00_1">
-    <title>Finalizado | Los Angeles Kings vs Seattle Kraken [ENG]</title>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Pittsburgh_Penguins__ENG____18_00_1">
+    <title>Finalizado | Montreal Canadiens vs Pittsburgh Penguins [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211013000" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Columbus_Blue_Jackets__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Ottawa Sen vs ors vs. Columbus Blue Jackets [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Columbus_Blue_Jackets__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Ottawa Sen vs ors vs. Columbus Blue Jackets [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Columbus_Blue_Jackets__ENG____18_00_1">
+    <title>Finalizado | Ottawa Sen vs ors vs. Columbus Blue Jackets [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Toronto_Maple_Leafs__ENG____18_00_1">
+    <title>Próximamente | 18:00 | San Jose Sharks vs Toronto Maple Leafs [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Toronto_Maple_Leafs__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | San Jose Sharks vs Toronto Maple Leafs [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Toronto_Maple_Leafs__ENG____18_00_1">
+    <title>Finalizado | San Jose Sharks vs Toronto Maple Leafs [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_Jersey_Devils__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Tampa Bay Lightning vs New Jersey Devils [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_Jersey_Devils__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Tampa Bay Lightning vs New Jersey Devils [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_New_Jersey_Devils__ENG____18_00_1">
+    <title>Finalizado | Tampa Bay Lightning vs New Jersey Devils [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Vegas Golden Knights vs Philadelphia Flyers [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Vegas Golden Knights vs Philadelphia Flyers [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Philadelphia_Flyers__ENG____18_00_1">
+    <title>Finalizado | Vegas Golden Knights vs Philadelphia Flyers [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NHL__NHL___Boston_Bruins_vs_Winnipeg_Jets__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Boston Bruins vs Winnipeg Jets [ENG]</title>
+  </programme>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NHL__NHL___Boston_Bruins_vs_Winnipeg_Jets__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Boston Bruins vs Winnipeg Jets [ENG]</title>
+  </programme>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NHL__NHL___Boston_Bruins_vs_Winnipeg_Jets__ENG____19_00_1">
+    <title>Finalizado | Boston Bruins vs Winnipeg Jets [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NHL__NHL___Dallas_Stars_vs_Minnesota_Wild__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Dallas Stars vs Minnesota Wild [ENG]</title>
+  </programme>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NHL__NHL___Dallas_Stars_vs_Minnesota_Wild__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Dallas Stars vs Minnesota Wild [ENG]</title>
+  </programme>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NHL__NHL___Dallas_Stars_vs_Minnesota_Wild__ENG____19_00_1">
+    <title>Finalizado | Dallas Stars vs Minnesota Wild [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Nashville_Predators__ENG____19_00_1">
+    <title>Próximamente | 19:00 | St. Louis Blues vs Nashville Predators [ENG]</title>
+  </programme>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Nashville_Predators__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | St. Louis Blues vs Nashville Predators [ENG]</title>
+  </programme>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Nashville_Predators__ENG____19_00_1">
+    <title>Finalizado | St. Louis Blues vs Nashville Predators [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212020000" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Edmonton_Oilers__ENG____20_00_1">
+    <title>Próximamente | 20:00 | Detroit Red Wings vs Edmonton Oilers [ENG]</title>
+  </programme>
+  <programme start="20251212020000" stop="20251212050000" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Edmonton_Oilers__ENG____20_00_1">
+    <title>⌾ En vivo | 20:00 | Detroit Red Wings vs Edmonton Oilers [ENG]</title>
+  </programme>
+  <programme start="20251212050000" stop="20251212055959" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Edmonton_Oilers__ENG____20_00_1">
+    <title>Finalizado | Detroit Red Wings vs Edmonton Oilers [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212023000" channel="Evento_NHL__NHL___Florida_Panthers_vs_Colorado_Avalanche__ENG____20_30_1">
+    <title>Próximamente | 20:30 | Florida Panthers vs Colorado Avalanche [ENG]</title>
+  </programme>
+  <programme start="20251212023000" stop="20251212053000" channel="Evento_NHL__NHL___Florida_Panthers_vs_Colorado_Avalanche__ENG____20_30_1">
+    <title>⌾ En vivo | 20:30 | Florida Panthers vs Colorado Avalanche [ENG]</title>
+  </programme>
+  <programme start="20251212053000" stop="20251212055959" channel="Evento_NHL__NHL___Florida_Panthers_vs_Colorado_Avalanche__ENG____20_30_1">
+    <title>Finalizado | Florida Panthers vs Colorado Avalanche [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212030000" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Vancouver_Canucks__ENG____21_00_1">
+    <title>Próximamente | 21:00 | Buffalo Sabres vs Vancouver Canucks [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212060000" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Vancouver_Canucks__ENG____21_00_1">
+    <title>⌾ En vivo | 21:00 | Buffalo Sabres vs Vancouver Canucks [ENG]</title>
+  </programme>
+  <programme start="20251212060000" stop="20251212055959" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Vancouver_Canucks__ENG____21_00_1">
+    <title>Finalizado | Buffalo Sabres vs Vancouver Canucks [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212013000" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
     <title>Próximamente | 19:30 | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP]</title>
   </programme>
-  <programme start="20251211013000" stop="20251211043000" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+  <programme start="20251212013000" stop="20251212043000" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
     <title>⌾ En vivo | 19:30 | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP]</title>
   </programme>
-  <programme start="20251211043000" stop="20251211055959" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
+  <programme start="20251212043000" stop="20251212055959" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Yaquis_De_Ciudad_Obreg_n__ESP____19_30_1">
     <title>Finalizado | Charros de Jalisco vs Yaquis De Ciudad Obregón [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211020500" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+  <programme start="20251211060000" stop="20251212020500" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
     <title>Próximamente | 20:05 | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP]</title>
   </programme>
-  <programme start="20251211020500" stop="20251211050500" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+  <programme start="20251212020500" stop="20251212050500" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
     <title>⌾ En vivo | 20:05 | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP]</title>
   </programme>
-  <programme start="20251211050500" stop="20251211055959" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
+  <programme start="20251212050500" stop="20251212055959" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Ca_eros_de_los_Mochis__ESP____20_05_1">
     <title>Finalizado | Tom vs eros De Culiacan vs. Cañeros de los Mochis [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211023000" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+  <programme start="20251211060000" stop="20251212023000" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
     <title>Próximamente | 20:30 | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP]</title>
   </programme>
-  <programme start="20251211023000" stop="20251211053000" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+  <programme start="20251212023000" stop="20251212053000" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
     <title>⌾ En vivo | 20:30 | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP]</title>
   </programme>
-  <programme start="20251211053000" stop="20251211055959" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
+  <programme start="20251212053000" stop="20251212055959" channel="Evento_LMP__LMP___Algodoneros_De_Guasave_vs_Naranjeros_De_Hermosillo__ESP____20_30_1">
     <title>Finalizado | Algodoneros De Guasave vs Naranjeros De Hermosillo [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211023000" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+  <programme start="20251211060000" stop="20251212023000" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
     <title>Próximamente | 20:30 | Tucson vs Jaguares de Nayarit [ESP]</title>
   </programme>
-  <programme start="20251211023000" stop="20251211053000" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+  <programme start="20251212023000" stop="20251212053000" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
     <title>⌾ En vivo | 20:30 | Tucson vs Jaguares de Nayarit [ESP]</title>
   </programme>
-  <programme start="20251211053000" stop="20251211055959" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
+  <programme start="20251212053000" stop="20251212055959" channel="Evento_LMP__LMP___Tucson_vs_Jaguares_de_Nayarit__ESP____20_30_1">
     <title>Finalizado | Tucson vs Jaguares de Nayarit [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211033000" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+  <programme start="20251211060000" stop="20251212033000" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
     <title>Próximamente | 21:30 | Aguilas De Mexicali vs Venados De Mazatlan [ESP]</title>
   </programme>
-  <programme start="20251211033000" stop="20251211063000" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+  <programme start="20251212033000" stop="20251212063000" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
     <title>⌾ En vivo | 21:30 | Aguilas De Mexicali vs Venados De Mazatlan [ESP]</title>
   </programme>
-  <programme start="20251211063000" stop="20251211055959" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
+  <programme start="20251212063000" stop="20251212055959" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Venados_De_Mazatlan__ESP____21_30_1">
     <title>Finalizado | Aguilas De Mexicali vs Venados De Mazatlan [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211003000" channel="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Phoenix_Suns__ENG____18_30_1">
-    <title>Próximamente | 18:30 | Oklahoma City Thunder vs Phoenix Suns [ENG]</title>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NBA__NBA___Houston_Rockets_vs_Los_Angeles_Clippers__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Houston Rockets vs Los Angeles Clippers [ENG]</title>
   </programme>
-  <programme start="20251211003000" stop="20251211033000" channel="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Phoenix_Suns__ENG____18_30_1">
-    <title>⌾ En vivo | 18:30 | Oklahoma City Thunder vs Phoenix Suns [ENG]</title>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NBA__NBA___Houston_Rockets_vs_Los_Angeles_Clippers__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Houston Rockets vs Los Angeles Clippers [ENG]</title>
   </programme>
-  <programme start="20251211033000" stop="20251211055959" channel="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Phoenix_Suns__ENG____18_30_1">
-    <title>Finalizado | Oklahoma City Thunder vs Phoenix Suns [ENG]</title>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NBA__NBA___Houston_Rockets_vs_Los_Angeles_Clippers__ENG____19_00_1">
+    <title>Finalizado | Houston Rockets vs Los Angeles Clippers [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211030000" channel="Evento_NBA__NBA___Los_Angeles_Lakers_vs_San_Antonio_Spurs__ENG____21_00_1">
-    <title>Próximamente | 21:00 | Los Angeles Lakers vs San Antonio Spurs [ENG]</title>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Boston_Celtics__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Milwaukee Bucks vs Boston Celtics [ENG]</title>
   </programme>
-  <programme start="20251211030000" stop="20251211060000" channel="Evento_NBA__NBA___Los_Angeles_Lakers_vs_San_Antonio_Spurs__ENG____21_00_1">
-    <title>⌾ En vivo | 21:00 | Los Angeles Lakers vs San Antonio Spurs [ENG]</title>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Boston_Celtics__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Milwaukee Bucks vs Boston Celtics [ENG]</title>
   </programme>
-  <programme start="20251211060000" stop="20251211055959" channel="Evento_NBA__NBA___Los_Angeles_Lakers_vs_San_Antonio_Spurs__ENG____21_00_1">
-    <title>Finalizado | Los Angeles Lakers vs San Antonio Spurs [ENG]</title>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Boston_Celtics__ENG____19_00_1">
+    <title>Finalizado | Milwaukee Bucks vs Boston Celtics [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_1">
-    <title>Próximamente | 14:00 | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP]</title>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NBA__NBA___New_Orleans_Pelicans_vs_Portland_Trail_Blazers__ENG____19_00_1">
+    <title>Próximamente | 19:00 | New Orleans Pelicans vs Portland Trail Blazers [ENG]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP]</title>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NBA__NBA___New_Orleans_Pelicans_vs_Portland_Trail_Blazers__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | New Orleans Pelicans vs Portland Trail Blazers [ENG]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_1">
-    <title>Finalizado | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP]</title>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NBA__NBA___New_Orleans_Pelicans_vs_Portland_Trail_Blazers__ENG____19_00_1">
+    <title>Finalizado | New Orleans Pelicans vs Portland Trail Blazers [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_2">
-    <title>Próximamente | 14:00 | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP]</title>
+  <programme start="20251211060000" stop="20251212030000" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Denver_Nuggets__ENG____21_00_1">
+    <title>Próximamente | 21:00 | Sacramento Kings vs Denver Nuggets [ENG]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_2">
-    <title>⌾ En vivo | 14:00 | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP]</title>
+  <programme start="20251212030000" stop="20251212060000" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Denver_Nuggets__ENG____21_00_1">
+    <title>⌾ En vivo | 21:00 | Sacramento Kings vs Denver Nuggets [ENG]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Athletic_Club_Bilbao__ESP__vs_Paris_Saint_Germain__FRA___ESP____14_00_2">
-    <title>Finalizado | Athletic Club Bilbao (ESP) vs Paris Saint-Germain (FRA) [ESP]</title>
+  <programme start="20251212060000" stop="20251212055959" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Denver_Nuggets__ENG____21_00_1">
+    <title>Finalizado | Sacramento Kings vs Denver Nuggets [ENG]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_1">
-    <title>Próximamente | 14:00 | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG]</title>
+  <programme start="20251211060000" stop="20251211100000" channel="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
+    <title>Próximamente | 04:00 | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG]</title>
+  <programme start="20251211100000" stop="20251211130000" channel="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
+    <title>⌾ En vivo | 04:00 | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_1">
-    <title>Finalizado | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG]</title>
+  <programme start="20251211130000" stop="20251212055959" channel="Evento_AFC_Champions_League__AFC_Champions_League___Gamba_Osaka__JPN__vs_Ratchaburi__THA___ESP____04_00_1">
+    <title>Finalizado | Gamba Osaka (JPN) vs Ratchaburi (THA) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_2">
-    <title>Próximamente | 14:00 | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG]</title>
+  <programme start="20251211060000" stop="20251211150000" channel="Evento_Messi_Cup__Messi_Cup___River_Pl_vs_e_vs__Inter_Milan__ESP____09_00_1">
+    <title>Próximamente | 09:00 | River Pl vs e vs. Inter Milan [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_2">
-    <title>⌾ En vivo | 14:00 | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG]</title>
+  <programme start="20251211150000" stop="20251211180000" channel="Evento_Messi_Cup__Messi_Cup___River_Pl_vs_e_vs__Inter_Milan__ESP____09_00_1">
+    <title>⌾ En vivo | 09:00 | River Pl vs e vs. Inter Milan [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Bayer_Leverkusen__GER__vs_Newcastle_United__ENG___ENG____14_00_2">
-    <title>Finalizado | Bayer Leverkusen (GER) vs Newcastle United (ENG) [ENG]</title>
+  <programme start="20251211180000" stop="20251212055959" channel="Evento_Messi_Cup__Messi_Cup___River_Pl_vs_e_vs__Inter_Milan__ESP____09_00_1">
+    <title>Finalizado | River Pl vs e vs. Inter Milan [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_1">
-    <title>Próximamente | 14:00 | Benfica (POR) vs Napoli (ITA) [ESP]</title>
+  <programme start="20251211060000" stop="20251211170000" channel="Evento_Messi_Cup__Messi_Cup___Atl_tico_de_Madrid_vs_Newell_s_Old_Boys__ESP____11_00_1">
+    <title>Próximamente | 11:00 | Atlético de Madrid vs Newell's Old Boys [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Benfica (POR) vs Napoli (ITA) [ESP]</title>
+  <programme start="20251211170000" stop="20251211200000" channel="Evento_Messi_Cup__Messi_Cup___Atl_tico_de_Madrid_vs_Newell_s_Old_Boys__ESP____11_00_1">
+    <title>⌾ En vivo | 11:00 | Atlético de Madrid vs Newell's Old Boys [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_1">
-    <title>Finalizado | Benfica (POR) vs Napoli (ITA) [ESP]</title>
+  <programme start="20251211200000" stop="20251212055959" channel="Evento_Messi_Cup__Messi_Cup___Atl_tico_de_Madrid_vs_Newell_s_Old_Boys__ESP____11_00_1">
+    <title>Finalizado | Atlético de Madrid vs Newell's Old Boys [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_2">
-    <title>Próximamente | 14:00 | Benfica (POR) vs Napoli (ITA) [ESP]</title>
+  <programme start="20251211060000" stop="20251211170000" channel="Evento_Messi_Cup__Messi_Cup___Chelsea_vs_Inter_Miami__ESP____11_00_1">
+    <title>Próximamente | 11:00 | Chelsea vs Inter Miami [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_2">
-    <title>⌾ En vivo | 14:00 | Benfica (POR) vs Napoli (ITA) [ESP]</title>
+  <programme start="20251211170000" stop="20251211200000" channel="Evento_Messi_Cup__Messi_Cup___Chelsea_vs_Inter_Miami__ESP____11_00_1">
+    <title>⌾ En vivo | 11:00 | Chelsea vs Inter Miami [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Benfica__POR__vs_Napoli__ITA___ESP____14_00_2">
-    <title>Finalizado | Benfica (POR) vs Napoli (ITA) [ESP]</title>
+  <programme start="20251211200000" stop="20251212055959" channel="Evento_Messi_Cup__Messi_Cup___Chelsea_vs_Inter_Miami__ESP____11_00_1">
+    <title>Finalizado | Chelsea vs Inter Miami [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_1">
-    <title>Próximamente | 14:00 | Club Brugge (BEL) vs Arsenal (ENG) [ENG]</title>
+  <programme start="20251211060000" stop="20251211190000" channel="Evento_Messi_Cup__Messi_Cup___Man_City_vs_Barcelona__ESP____13_00_1">
+    <title>Próximamente | 13:00 | Man City vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Club Brugge (BEL) vs Arsenal (ENG) [ENG]</title>
+  <programme start="20251211190000" stop="20251211220000" channel="Evento_Messi_Cup__Messi_Cup___Man_City_vs_Barcelona__ESP____13_00_1">
+    <title>⌾ En vivo | 13:00 | Man City vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_1">
-    <title>Finalizado | Club Brugge (BEL) vs Arsenal (ENG) [ENG]</title>
+  <programme start="20251211220000" stop="20251212055959" channel="Evento_Messi_Cup__Messi_Cup___Man_City_vs_Barcelona__ESP____13_00_1">
+    <title>Finalizado | Man City vs Barcelona [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_2">
-    <title>Próximamente | 14:00 | Club Brugge (BEL) vs Arsenal (ENG) [ENG]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Breidablik__ISL__vs_Shamrock_Rovers__IRL___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Breidablik (ISL) vs Shamrock Rovers (IRL) [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_2">
-    <title>⌾ En vivo | 14:00 | Club Brugge (BEL) vs Arsenal (ENG) [ENG]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Breidablik__ISL__vs_Shamrock_Rovers__IRL___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Breidablik (ISL) vs Shamrock Rovers (IRL) [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Club_Brugge__BEL__vs_Arsenal__ENG___ENG____14_00_2">
-    <title>Finalizado | Club Brugge (BEL) vs Arsenal (ENG) [ENG]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Breidablik__ISL__vs_Shamrock_Rovers__IRL___ESP____11_45_1">
+    <title>Finalizado | Breidablik (ISL) vs Shamrock Rovers (IRL) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_1">
-    <title>Próximamente | 14:00 | Juventus (ITA) vs Pafos FC (CYP) [ESP]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___CSU_Craiova__ROU__vs_Sparta_Praha__CZE___ESP____11_45_1">
+    <title>Próximamente | 11:45 | CSU Craiova (ROU) vs Sparta Praha (CZE) [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_1">
-    <title>⌾ En vivo | 14:00 | Juventus (ITA) vs Pafos FC (CYP) [ESP]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___CSU_Craiova__ROU__vs_Sparta_Praha__CZE___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | CSU Craiova (ROU) vs Sparta Praha (CZE) [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_1">
-    <title>Finalizado | Juventus (ITA) vs Pafos FC (CYP) [ESP]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___CSU_Craiova__ROU__vs_Sparta_Praha__CZE___ESP____11_45_1">
+    <title>Finalizado | CSU Craiova (ROU) vs Sparta Praha (CZE) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_2">
-    <title>Próximamente | 14:00 | Juventus (ITA) vs Pafos FC (CYP) [ESP]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Dinamo_Zagreb__CRO__vs_Real_Betis__ESP___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Dinamo Zagreb (CRO) vs Real Betis (ESP) [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_2">
-    <title>⌾ En vivo | 14:00 | Juventus (ITA) vs Pafos FC (CYP) [ESP]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Dinamo_Zagreb__CRO__vs_Real_Betis__ESP___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Dinamo Zagreb (CRO) vs Real Betis (ESP) [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Juventus__ITA__vs_Pafos_FC__CYP___ESP____14_00_2">
-    <title>Finalizado | Juventus (ITA) vs Pafos FC (CYP) [ESP]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Dinamo_Zagreb__CRO__vs_Real_Betis__ESP___ESP____11_45_1">
+    <title>Finalizado | Dinamo Zagreb (CRO) vs Real Betis (ESP) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_1">
-    <title>Próximamente | 14:00 | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Drita__KOS__vs_AZ_Alkmaar__NED___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Drita (KOS) vs AZ Alkmaar (NED) [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_1">
-    <title>⌾ En vivo | 14:00 | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Drita__KOS__vs_AZ_Alkmaar__NED___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Drita (KOS) vs AZ Alkmaar (NED) [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_1">
-    <title>Finalizado | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Drita__KOS__vs_AZ_Alkmaar__NED___ESP____11_45_1">
+    <title>Finalizado | Drita (KOS) vs AZ Alkmaar (NED) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251210200000" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_2">
-    <title>Próximamente | 14:00 | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Ferencv_ros__HUN__vs_Rangers__SCO___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Ferencváros (HUN) vs Rangers (SCO) [ESP]</title>
   </programme>
-  <programme start="20251210200000" stop="20251210230000" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_2">
-    <title>⌾ En vivo | 14:00 | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Ferencv_ros__HUN__vs_Rangers__SCO___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Ferencváros (HUN) vs Rangers (SCO) [ESP]</title>
   </programme>
-  <programme start="20251210230000" stop="20251211055959" channel="Evento_UEFA_Champions__UEFA_Champions___Real_Madrid__ESP__vs_Manchester_City__ENG___ENG____14_00_2">
-    <title>Finalizado | Real Madrid (ESP) vs Manchester City (ENG) [ENG]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Ferencv_ros__HUN__vs_Rangers__SCO___ESP____11_45_1">
+    <title>Finalizado | Ferencváros (HUN) vs Rangers (SCO) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211020000" channel="Evento_Primera_GT__Primera_GT___Municipal_vs_Mictl_n__ESP____20_00_1">
-    <title>Próximamente | 20:00 | Municipal vs Mictlán [ESP]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Fiorentina__ITA__vs_Dynamo_Kyiv__UKR____ESP____11_45_1">
+    <title>Próximamente | 11:45 | Fiorentina (ITA) vs Dynamo Kyiv (UKR)) [ESP]</title>
   </programme>
-  <programme start="20251211020000" stop="20251211050000" channel="Evento_Primera_GT__Primera_GT___Municipal_vs_Mictl_n__ESP____20_00_1">
-    <title>⌾ En vivo | 20:00 | Municipal vs Mictlán [ESP]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Fiorentina__ITA__vs_Dynamo_Kyiv__UKR____ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Fiorentina (ITA) vs Dynamo Kyiv (UKR)) [ESP]</title>
   </programme>
-  <programme start="20251211050000" stop="20251211055959" channel="Evento_Primera_GT__Primera_GT___Municipal_vs_Mictl_n__ESP____20_00_1">
-    <title>Finalizado | Municipal vs Mictlán [ESP]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Fiorentina__ITA__vs_Dynamo_Kyiv__UKR____ESP____11_45_1">
+    <title>Finalizado | Fiorentina (ITA) vs Dynamo Kyiv (UKR)) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211010000" channel="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Olimpia__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Real España vs Olimpia [ESP]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___H_cken__SWE__vs_AEK_Larnaca__CYP___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Häcken (SWE) vs AEK Larnaca (CYP) [ESP]</title>
   </programme>
-  <programme start="20251211010000" stop="20251211040000" channel="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Olimpia__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Real España vs Olimpia [ESP]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___H_cken__SWE__vs_AEK_Larnaca__CYP___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Häcken (SWE) vs AEK Larnaca (CYP) [ESP]</title>
   </programme>
-  <programme start="20251211040000" stop="20251211055959" channel="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Olimpia__ESP____19_00_1">
-    <title>Finalizado | Real España vs Olimpia [ESP]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___H_cken__SWE__vs_AEK_Larnaca__CYP___ESP____11_45_1">
+    <title>Finalizado | Häcken (SWE) vs AEK Larnaca (CYP) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211003000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Cruzeiro_vs_Corinthians___18_30_1">
-    <title>Próximamente | 18:30 | Cruzeiro vs Corinthians</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Jagiellonia_Bia_ystok__POL__vs_Rayo_Vallecano__ESP___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Jagiellonia Białystok (POL) vs Rayo Vallecano (ESP) [ESP]</title>
   </programme>
-  <programme start="20251211003000" stop="20251211033000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Cruzeiro_vs_Corinthians___18_30_1">
-    <title>⌾ En vivo | 18:30 | Cruzeiro vs Corinthians</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Jagiellonia_Bia_ystok__POL__vs_Rayo_Vallecano__ESP___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Jagiellonia Białystok (POL) vs Rayo Vallecano (ESP) [ESP]</title>
   </programme>
-  <programme start="20251211033000" stop="20251211055959" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Cruzeiro_vs_Corinthians___18_30_1">
-    <title>Finalizado | Cruzeiro vs Corinthians</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Jagiellonia_Bia_ystok__POL__vs_Rayo_Vallecano__ESP___ESP____11_45_1">
+    <title>Finalizado | Jagiellonia Białystok (POL) vs Rayo Vallecano (ESP) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211010000" channel="Evento_Copa_de_Chile__Copa_de_Chile___Huachip_vs_o_vs__Deportes_Limache__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Huachip vs o vs. Deportes Limache [ESP]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Ludogorets__BUL__vs_PAOK__GRE___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Ludogorets (BUL) vs PAOK (GRE) [ESP]</title>
   </programme>
-  <programme start="20251211010000" stop="20251211040000" channel="Evento_Copa_de_Chile__Copa_de_Chile___Huachip_vs_o_vs__Deportes_Limache__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Huachip vs o vs. Deportes Limache [ESP]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Ludogorets__BUL__vs_PAOK__GRE___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Ludogorets (BUL) vs PAOK (GRE) [ESP]</title>
   </programme>
-  <programme start="20251211040000" stop="20251211055959" channel="Evento_Copa_de_Chile__Copa_de_Chile___Huachip_vs_o_vs__Deportes_Limache__ESP____19_00_1">
-    <title>Finalizado | Huachip vs o vs. Deportes Limache [ESP]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Ludogorets__BUL__vs_PAOK__GRE___ESP____11_45_1">
+    <title>Finalizado | Ludogorets (BUL) vs PAOK (GRE) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211010000" channel="Evento_Liga_Pro__Liga_Pro___Independiente_del_Valle_vs_LDU_Quito__ESP____19_00_1">
-    <title>Próximamente | 19:00 | Independiente del Valle vs LDU Quito [ESP]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Midtjylland__DEN__vs_Genk__BEL___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Midtjylland (DEN) vs Genk (BEL) [ESP]</title>
   </programme>
-  <programme start="20251211010000" stop="20251211040000" channel="Evento_Liga_Pro__Liga_Pro___Independiente_del_Valle_vs_LDU_Quito__ESP____19_00_1">
-    <title>⌾ En vivo | 19:00 | Independiente del Valle vs LDU Quito [ESP]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Midtjylland__DEN__vs_Genk__BEL___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Midtjylland (DEN) vs Genk (BEL) [ESP]</title>
   </programme>
-  <programme start="20251211040000" stop="20251211055959" channel="Evento_Liga_Pro__Liga_Pro___Independiente_del_Valle_vs_LDU_Quito__ESP____19_00_1">
-    <title>Finalizado | Independiente del Valle vs LDU Quito [ESP]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Midtjylland__DEN__vs_Genk__BEL___ESP____11_45_1">
+    <title>Finalizado | Midtjylland (DEN) vs Genk (BEL) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211020000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Eastern_Washington_vs_Washington_State__ENG____20_00_1">
-    <title>Próximamente | 20:00 | Eastern Washington vs Washington State [ENG]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Nice__FRA__vs_Sporting_Braga__POR___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Nice (FRA) vs Sporting Braga (POR) [ESP]</title>
   </programme>
-  <programme start="20251211020000" stop="20251211050000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Eastern_Washington_vs_Washington_State__ENG____20_00_1">
-    <title>⌾ En vivo | 20:00 | Eastern Washington vs Washington State [ENG]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Nice__FRA__vs_Sporting_Braga__POR___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Nice (FRA) vs Sporting Braga (POR) [ESP]</title>
   </programme>
-  <programme start="20251211050000" stop="20251211055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Eastern_Washington_vs_Washington_State__ENG____20_00_1">
-    <title>Finalizado | Eastern Washington vs Washington State [ENG]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Nice__FRA__vs_Sporting_Braga__POR___ESP____11_45_1">
+    <title>Finalizado | Nice (FRA) vs Sporting Braga (POR) [ESP]</title>
   </programme>
-  <programme start="20251210060000" stop="20251211023000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Fresno_St_vs_e_vs__Saint_Mary_s__ENG____20_30_1">
-    <title>Próximamente | 20:30 | Fresno St vs e vs. Saint Mary's [ENG]</title>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Noah__ARM__vs_Legia_Warszawa__POL___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Noah (ARM) vs Legia Warszawa (POL) [ESP]</title>
   </programme>
-  <programme start="20251211023000" stop="20251211053000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Fresno_St_vs_e_vs__Saint_Mary_s__ENG____20_30_1">
-    <title>⌾ En vivo | 20:30 | Fresno St vs e vs. Saint Mary's [ENG]</title>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Noah__ARM__vs_Legia_Warszawa__POL___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Noah (ARM) vs Legia Warszawa (POL) [ESP]</title>
   </programme>
-  <programme start="20251211053000" stop="20251211055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Fresno_St_vs_e_vs__Saint_Mary_s__ENG____20_30_1">
-    <title>Finalizado | Fresno St vs e vs. Saint Mary's [ENG]</title>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Noah__ARM__vs_Legia_Warszawa__POL___ESP____11_45_1">
+    <title>Finalizado | Noah (ARM) vs Legia Warszawa (POL) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Samsunspor__TUR__vs_AEK_Athens__GRE___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Samsunspor (TUR) vs AEK Athens (GRE) [ESP]</title>
+  </programme>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Samsunspor__TUR__vs_AEK_Athens__GRE___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Samsunspor (TUR) vs AEK Athens (GRE) [ESP]</title>
+  </programme>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Samsunspor__TUR__vs_AEK_Athens__GRE___ESP____11_45_1">
+    <title>Finalizado | Samsunspor (TUR) vs AEK Athens (GRE) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Shk_ndija_79__MKD__vs_Slovan_Bratislava__SVK___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Shkëndija 79 (MKD) vs Slovan Bratislava (SVK) [ESP]</title>
+  </programme>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Shk_ndija_79__MKD__vs_Slovan_Bratislava__SVK___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Shkëndija 79 (MKD) vs Slovan Bratislava (SVK) [ESP]</title>
+  </programme>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Shk_ndija_79__MKD__vs_Slovan_Bratislava__SVK___ESP____11_45_1">
+    <title>Finalizado | Shkëndija 79 (MKD) vs Slovan Bratislava (SVK) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Sturm_Graz__AUT__vs_Crvena_Zvezda__SRB___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Sturm Graz (AUT) vs Crvena Zvezda (SRB) [ESP]</title>
+  </programme>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Sturm_Graz__AUT__vs_Crvena_Zvezda__SRB___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Sturm Graz (AUT) vs Crvena Zvezda (SRB) [ESP]</title>
+  </programme>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Sturm_Graz__AUT__vs_Crvena_Zvezda__SRB___ESP____11_45_1">
+    <title>Finalizado | Sturm Graz (AUT) vs Crvena Zvezda (SRB) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Stuttgart__GER__vs_Maccabi_Tel_Aviv__IS__ESP____11_45_1">
+    <title>Próximamente | 11:45 | Stuttgart (GER) vs Maccabi Tel Aviv (IS [ESP]</title>
+  </programme>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Stuttgart__GER__vs_Maccabi_Tel_Aviv__IS__ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Stuttgart (GER) vs Maccabi Tel Aviv (IS [ESP]</title>
+  </programme>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Stuttgart__GER__vs_Maccabi_Tel_Aviv__IS__ESP____11_45_1">
+    <title>Finalizado | Stuttgart (GER) vs Maccabi Tel Aviv (IS [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Utrecht__NED__vs_Nottingham_Forest__ENG___ENG____11_45_1">
+    <title>Próximamente | 11:45 | Utrecht (NED) vs Nottingham Forest (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Utrecht__NED__vs_Nottingham_Forest__ENG___ENG____11_45_1">
+    <title>⌾ En vivo | 11:45 | Utrecht (NED) vs Nottingham Forest (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Utrecht__NED__vs_Nottingham_Forest__ENG___ENG____11_45_1">
+    <title>Finalizado | Utrecht (NED) vs Nottingham Forest (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211174500" channel="Evento_Conference_League__Conference_League___Young_Boys__SUI__vs_Lille__FRA___ESP____11_45_1">
+    <title>Próximamente | 11:45 | Young Boys (SUI) vs Lille (FRA) [ESP]</title>
+  </programme>
+  <programme start="20251211174500" stop="20251211204500" channel="Evento_Conference_League__Conference_League___Young_Boys__SUI__vs_Lille__FRA___ESP____11_45_1">
+    <title>⌾ En vivo | 11:45 | Young Boys (SUI) vs Lille (FRA) [ESP]</title>
+  </programme>
+  <programme start="20251211204500" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Young_Boys__SUI__vs_Lille__FRA___ESP____11_45_1">
+    <title>Finalizado | Young Boys (SUI) vs Lille (FRA) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Aberdeen__SCO__vs_Strasbourg__FRA___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Aberdeen (SCO) vs Strasbourg (FRA) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Aberdeen__SCO__vs_Strasbourg__FRA___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Aberdeen (SCO) vs Strasbourg (FRA) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Aberdeen__SCO__vs_Strasbourg__FRA___ESP____14_00_1">
+    <title>Finalizado | Aberdeen (SCO) vs Strasbourg (FRA) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Basel__SUI__vs_Aston_Villa__ENG___ENG____14_00_1">
+    <title>Próximamente | 14:00 | Basel (SUI) vs Aston Villa (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Basel__SUI__vs_Aston_Villa__ENG___ENG____14_00_1">
+    <title>⌾ En vivo | 14:00 | Basel (SUI) vs Aston Villa (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Basel__SUI__vs_Aston_Villa__ENG___ENG____14_00_1">
+    <title>Finalizado | Basel (SUI) vs Aston Villa (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Brann__NOR__vs_Fenerbah_e__TUR___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Brann (NOR) vs Fenerbahçe (TUR) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Brann__NOR__vs_Fenerbah_e__TUR___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Brann (NOR) vs Fenerbahçe (TUR) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Brann__NOR__vs_Fenerbah_e__TUR___ESP____14_00_1">
+    <title>Finalizado | Brann (NOR) vs Fenerbahçe (TUR) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Celta_de_Vigo__ESP__vs_Bologna__ITA___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Celta de Vigo (ESP) vs Bologna (ITA) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Celta_de_Vigo__ESP__vs_Bologna__ITA___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Celta de Vigo (ESP) vs Bologna (ITA) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Celta_de_Vigo__ESP__vs_Bologna__ITA___ESP____14_00_1">
+    <title>Finalizado | Celta de Vigo (ESP) vs Bologna (ITA) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Celtic__SCO__vs_Roma__ITA___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Celtic (SCO) vs Roma (ITA) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Celtic__SCO__vs_Roma__ITA___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Celtic (SCO) vs Roma (ITA) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Celtic__SCO__vs_Roma__ITA___ESP____14_00_1">
+    <title>Finalizado | Celtic (SCO) vs Roma (ITA) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___FCSB__ROU__vs_Feyenoord__NED__ESP____14_00_1">
+    <title>Próximamente | 14:00 | FCSB (ROU) vs Feyenoord (NED [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___FCSB__ROU__vs_Feyenoord__NED__ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | FCSB (ROU) vs Feyenoord (NED [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___FCSB__ROU__vs_Feyenoord__NED__ESP____14_00_1">
+    <title>Finalizado | FCSB (ROU) vs Feyenoord (NED [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Freiburg__GER__vs_Salzburg__AUT___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Freiburg (GER) vs Salzburg (AUT) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Freiburg__GER__vs_Salzburg__AUT___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Freiburg (GER) vs Salzburg (AUT) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Freiburg__GER__vs_Salzburg__AUT___ESP____14_00_1">
+    <title>Finalizado | Freiburg (GER) vs Salzburg (AUT) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Hamrun_Spartans__MLT__vs_Shakhtar_Donetsk__UKR___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Hamrun Spartans (MLT) vs Shakhtar Donetsk (UKR) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Hamrun_Spartans__MLT__vs_Shakhtar_Donetsk__UKR___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Hamrun Spartans (MLT) vs Shakhtar Donetsk (UKR) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Hamrun_Spartans__MLT__vs_Shakhtar_Donetsk__UKR___ESP____14_00_1">
+    <title>Finalizado | Hamrun Spartans (MLT) vs Shakhtar Donetsk (UKR) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___KuPS__FIN__vs_Lausanne_Sport__SUI___ESP____14_00_1">
+    <title>Próximamente | 14:00 | KuPS (FIN) vs Lausanne Sport (SUI) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___KuPS__FIN__vs_Lausanne_Sport__SUI___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | KuPS (FIN) vs Lausanne Sport (SUI) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___KuPS__FIN__vs_Lausanne_Sport__SUI___ESP____14_00_1">
+    <title>Finalizado | KuPS (FIN) vs Lausanne Sport (SUI) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Lech_Pozna___POL__vs_Mainz_05__GER___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Lech Poznań (POL) vs Mainz 05 (GER) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Lech_Pozna___POL__vs_Mainz_05__GER___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Lech Poznań (POL) vs Mainz 05 (GER) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Lech_Pozna___POL__vs_Mainz_05__GER___ESP____14_00_1">
+    <title>Finalizado | Lech Poznań (POL) vs Mainz 05 (GER) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Lincoln_Red_Imps__GIB__vs_Sigma_Olomouc__CZE___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Lincoln Red Imps (GIB) vs Sigma Olomouc (CZE) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Lincoln_Red_Imps__GIB__vs_Sigma_Olomouc__CZE___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Lincoln Red Imps (GIB) vs Sigma Olomouc (CZE) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Lincoln_Red_Imps__GIB__vs_Sigma_Olomouc__CZE___ESP____14_00_1">
+    <title>Finalizado | Lincoln Red Imps (GIB) vs Sigma Olomouc (CZE) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Olympique_Lyonnais__FRA__vs_Go_Ahead_Eagles__NED___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Olympique Lyonnais (FRA) vs Go Ahead Eagles (NED) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Olympique_Lyonnais__FRA__vs_Go_Ahead_Eagles__NED___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Olympique Lyonnais (FRA) vs Go Ahead Eagles (NED) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Olympique_Lyonnais__FRA__vs_Go_Ahead_Eagles__NED___ESP____14_00_1">
+    <title>Finalizado | Olympique Lyonnais (FRA) vs Go Ahead Eagles (NED) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Pan_vs_hinaikos__GRE__vs__Viktoria_Plze___CZE___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Pan vs hinaikos (GRE) vs. Viktoria Plzeň (CZE) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Pan_vs_hinaikos__GRE__vs__Viktoria_Plze___CZE___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Pan vs hinaikos (GRE) vs. Viktoria Plzeň (CZE) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Pan_vs_hinaikos__GRE__vs__Viktoria_Plze___CZE___ESP____14_00_1">
+    <title>Finalizado | Pan vs hinaikos (GRE) vs. Viktoria Plzeň (CZE) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Porto__POR__vs_Malm__FF__SWE___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Porto (POR) vs Malmö FF (SWE) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Porto__POR__vs_Malm__FF__SWE___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Porto (POR) vs Malmö FF (SWE) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Porto__POR__vs_Malm__FF__SWE___ESP____14_00_1">
+    <title>Finalizado | Porto (POR) vs Malmö FF (SWE) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Rak_w_Cz_stochowa__POL__vs_Zrinjski__BIH___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Raków Częstochowa (POL) vs Zrinjski (BIH) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Rak_w_Cz_stochowa__POL__vs_Zrinjski__BIH___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Raków Częstochowa (POL) vs Zrinjski (BIH) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Rak_w_Cz_stochowa__POL__vs_Zrinjski__BIH___ESP____14_00_1">
+    <title>Finalizado | Raków Częstochowa (POL) vs Zrinjski (BIH) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Rapid_Wien__AUT__vs_Omonia_Nicosia__CYP___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Rapid Wien (AUT) vs Omonia Nicosia (CYP) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Rapid_Wien__AUT__vs_Omonia_Nicosia__CYP___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Rapid Wien (AUT) vs Omonia Nicosia (CYP) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Rapid_Wien__AUT__vs_Omonia_Nicosia__CYP___ESP____14_00_1">
+    <title>Finalizado | Rapid Wien (AUT) vs Omonia Nicosia (CYP) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Rijeka__CRO__vs_Celje__SVN___ESP____14_00_1">
+    <title>Próximamente | 14:00 | Rijeka (CRO) vs Celje (SVN) [ESP]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Rijeka__CRO__vs_Celje__SVN___ESP____14_00_1">
+    <title>⌾ En vivo | 14:00 | Rijeka (CRO) vs Celje (SVN) [ESP]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Rijeka__CRO__vs_Celje__SVN___ESP____14_00_1">
+    <title>Finalizado | Rijeka (CRO) vs Celje (SVN) [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211200000" channel="Evento_Conference_League__Conference_League___Shelbourne__IRL__vs_Crystal_Palace__ENG___ENG____14_00_1">
+    <title>Próximamente | 14:00 | Shelbourne (IRL) vs Crystal Palace (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251211230000" channel="Evento_Conference_League__Conference_League___Shelbourne__IRL__vs_Crystal_Palace__ENG___ENG____14_00_1">
+    <title>⌾ En vivo | 14:00 | Shelbourne (IRL) vs Crystal Palace (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212055959" channel="Evento_Conference_League__Conference_League___Shelbourne__IRL__vs_Crystal_Palace__ENG___ENG____14_00_1">
+    <title>Finalizado | Shelbourne (IRL) vs Crystal Palace (ENG) [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211210000" channel="Evento_Primera_GT__Primera_GT___Mixco_vs_Achuapa__ESP____15_00_1">
+    <title>Próximamente | 15:00 | Mixco vs Achuapa [ESP]</title>
+  </programme>
+  <programme start="20251211210000" stop="20251212000000" channel="Evento_Primera_GT__Primera_GT___Mixco_vs_Achuapa__ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | Mixco vs Achuapa [ESP]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212055959" channel="Evento_Primera_GT__Primera_GT___Mixco_vs_Achuapa__ESP____15_00_1">
+    <title>Finalizado | Mixco vs Achuapa [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212020000" channel="Evento_Primera_GT__Primera_GT___Antigua_GFC_vs_Xelaj___ESP____20_00_1">
+    <title>Próximamente | 20:00 | Antigua GFC vs Xelajú [ESP]</title>
+  </programme>
+  <programme start="20251212020000" stop="20251212050000" channel="Evento_Primera_GT__Primera_GT___Antigua_GFC_vs_Xelaj___ESP____20_00_1">
+    <title>⌾ En vivo | 20:00 | Antigua GFC vs Xelajú [ESP]</title>
+  </programme>
+  <programme start="20251212050000" stop="20251212055959" channel="Evento_Primera_GT__Primera_GT___Antigua_GFC_vs_Xelaj___ESP____20_00_1">
+    <title>Finalizado | Antigua GFC vs Xelajú [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211230000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Vasco_da_Gama_vs_Fluminense___17_00_1">
+    <title>Próximamente | 17:00 | Vasco da Gama vs Fluminense</title>
+  </programme>
+  <programme start="20251211230000" stop="20251212020000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Vasco_da_Gama_vs_Fluminense___17_00_1">
+    <title>⌾ En vivo | 17:00 | Vasco da Gama vs Fluminense</title>
+  </programme>
+  <programme start="20251212020000" stop="20251212055959" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Vasco_da_Gama_vs_Fluminense___17_00_1">
+    <title>Finalizado | Vasco da Gama vs Fluminense</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_Primera_HN__Primera_HN___Olancho_vs_Marath_n__ESP____19_00_1">
+    <title>Próximamente | 19:00 | Olancho vs Marathón [ESP]</title>
+  </programme>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_Primera_HN__Primera_HN___Olancho_vs_Marath_n__ESP____19_00_1">
+    <title>⌾ En vivo | 19:00 | Olancho vs Marathón [ESP]</title>
+  </programme>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_Primera_HN__Primera_HN___Olancho_vs_Marath_n__ESP____19_00_1">
+    <title>Finalizado | Olancho vs Marathón [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212020000" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Toluca__ESP____20_00_1">
+    <title>Próximamente | 20:00 | Tigres UANL vs Toluca [ESP]</title>
+  </programme>
+  <programme start="20251212020000" stop="20251212050000" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Toluca__ESP____20_00_1">
+    <title>⌾ En vivo | 20:00 | Tigres UANL vs Toluca [ESP]</title>
+  </programme>
+  <programme start="20251212050000" stop="20251212055959" channel="Evento_LigaMX__LigaMX___Tigres_UANL_vs_Toluca__ESP____20_00_1">
+    <title>Finalizado | Tigres UANL vs Toluca [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212020000" channel="Evento_Primera_CR__Primera_CR___Cartagin_s_vs_Deportivo_Saprissa__ESP____20_00_1">
+    <title>Próximamente | 20:00 | Cartaginés vs Deportivo Saprissa [ESP]</title>
+  </programme>
+  <programme start="20251212020000" stop="20251212050000" channel="Evento_Primera_CR__Primera_CR___Cartagin_s_vs_Deportivo_Saprissa__ESP____20_00_1">
+    <title>⌾ En vivo | 20:00 | Cartaginés vs Deportivo Saprissa [ESP]</title>
+  </programme>
+  <programme start="20251212050000" stop="20251212055959" channel="Evento_Primera_CR__Primera_CR___Cartagin_s_vs_Deportivo_Saprissa__ESP____20_00_1">
+    <title>Finalizado | Cartaginés vs Deportivo Saprissa [ESP]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211160000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Dillard_vs_Norfolk_St__ENG____10_00_1">
+    <title>Próximamente | 10:00 | Dillard vs Norfolk St [ENG]</title>
+  </programme>
+  <programme start="20251211160000" stop="20251211190000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Dillard_vs_Norfolk_St__ENG____10_00_1">
+    <title>⌾ En vivo | 10:00 | Dillard vs Norfolk St [ENG]</title>
+  </programme>
+  <programme start="20251211190000" stop="20251212055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Dillard_vs_Norfolk_St__ENG____10_00_1">
+    <title>Finalizado | Dillard vs Norfolk St [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211170000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Point_Loma_vs_Bentley__ENG____11_00_1">
+    <title>Próximamente | 11:00 | Point Loma vs Bentley [ENG]</title>
+  </programme>
+  <programme start="20251211170000" stop="20251211200000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Point_Loma_vs_Bentley__ENG____11_00_1">
+    <title>⌾ En vivo | 11:00 | Point Loma vs Bentley [ENG]</title>
+  </programme>
+  <programme start="20251211200000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Point_Loma_vs_Bentley__ENG____11_00_1">
+    <title>Finalizado | Point Loma vs Bentley [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211180000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Creighton_vs__2_Arizona_State__ENG____12_00_1">
+    <title>Próximamente | 12:00 | #3 Creighton vs #2 Arizona State [ENG]</title>
+  </programme>
+  <programme start="20251211180000" stop="20251211210000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Creighton_vs__2_Arizona_State__ENG____12_00_1">
+    <title>⌾ En vivo | 12:00 | #3 Creighton vs #2 Arizona State [ENG]</title>
+  </programme>
+  <programme start="20251211210000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Creighton_vs__2_Arizona_State__ENG____12_00_1">
+    <title>Finalizado | #3 Creighton vs #2 Arizona State [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211193000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Concordia___St__Paul_vs_Gannon__ENG____13_30_1">
+    <title>Próximamente | 13:30 | Concordia - St. Paul vs Gannon [ENG]</title>
+  </programme>
+  <programme start="20251211193000" stop="20251211223000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Concordia___St__Paul_vs_Gannon__ENG____13_30_1">
+    <title>⌾ En vivo | 13:30 | Concordia - St. Paul vs Gannon [ENG]</title>
+  </programme>
+  <programme start="20251211223000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Concordia___St__Paul_vs_Gannon__ENG____13_30_1">
+    <title>Finalizado | Concordia - St. Paul vs Gannon [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211203000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Cal_Poly_vs__1_Kentucky__ENG____14_30_1">
+    <title>Próximamente | 14:30 | Cal Poly vs #1 Kentucky [ENG]</title>
+  </programme>
+  <programme start="20251211203000" stop="20251211233000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Cal_Poly_vs__1_Kentucky__ENG____14_30_1">
+    <title>⌾ En vivo | 14:30 | Cal Poly vs #1 Kentucky [ENG]</title>
+  </programme>
+  <programme start="20251211233000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Cal_Poly_vs__1_Kentucky__ENG____14_30_1">
+    <title>Finalizado | Cal Poly vs #1 Kentucky [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211223000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___MSU___Denver_vs_Wingate__ENG____16_30_1">
+    <title>Próximamente | 16:30 | MSU - Denver vs Wingate [ENG]</title>
+  </programme>
+  <programme start="20251211223000" stop="20251212013000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___MSU___Denver_vs_Wingate__ENG____16_30_1">
+    <title>⌾ En vivo | 16:30 | MSU - Denver vs Wingate [ENG]</title>
+  </programme>
+  <programme start="20251212013000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___MSU___Denver_vs_Wingate__ENG____16_30_1">
+    <title>Finalizado | MSU - Denver vs Wingate [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251211233000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Green_Bay_vs_IU_Indy__ENG____17_30_1">
+    <title>Próximamente | 17:30 | Green Bay vs IU Indy [ENG]</title>
+  </programme>
+  <programme start="20251211233000" stop="20251212023000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Green_Bay_vs_IU_Indy__ENG____17_30_1">
+    <title>⌾ En vivo | 17:30 | Green Bay vs IU Indy [ENG]</title>
+  </programme>
+  <programme start="20251212023000" stop="20251212055959" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Green_Bay_vs_IU_Indy__ENG____17_30_1">
+    <title>Finalizado | Green Bay vs IU Indy [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___App_St_vs_e_vs__East_Carolina__ENG____18_00_1">
+    <title>Próximamente | 18:00 | App St vs e vs. East Carolina [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___App_St_vs_e_vs__East_Carolina__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | App St vs e vs. East Carolina [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___App_St_vs_e_vs__East_Carolina__ENG____18_00_1">
+    <title>Finalizado | App St vs e vs. East Carolina [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Coastal_GA_vs_GA_Southern__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Coastal GA vs GA Southern [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Coastal_GA_vs_GA_Southern__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Coastal GA vs GA Southern [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Coastal_GA_vs_GA_Southern__ENG____18_00_1">
+    <title>Finalizado | Coastal GA vs GA Southern [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Trinity__Jax__vs_Jacksonville__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Trinity (Jax) vs Jacksonville [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Trinity__Jax__vs_Jacksonville__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Trinity (Jax) vs Jacksonville [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Trinity__Jax__vs_Jacksonville__ENG____18_00_1">
+    <title>Finalizado | Trinity (Jax) vs Jacksonville [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Ch_vs_tanooga_vs__Tennessee_St__ENG____18_00_1">
+    <title>Próximamente | 18:00 | Ch vs tanooga vs. Tennessee St [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Ch_vs_tanooga_vs__Tennessee_St__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | Ch vs tanooga vs. Tennessee St [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Ch_vs_tanooga_vs__Tennessee_St__ENG____18_00_1">
+    <title>Finalizado | Ch vs tanooga vs. Tennessee St [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___UNC_Asheville_vs_ETSU__ENG____18_00_1">
+    <title>Próximamente | 18:00 | UNC Asheville vs ETSU [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___UNC_Asheville_vs_ETSU__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | UNC Asheville vs ETSU [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___UNC_Asheville_vs_ETSU__ENG____18_00_1">
+    <title>Finalizado | UNC Asheville vs ETSU [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212000000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____4_Minnesota_vs__1_Pittsburgh__ENG____18_00_1">
+    <title>Próximamente | 18:00 | #4 Minnesota vs #1 Pittsburgh [ENG]</title>
+  </programme>
+  <programme start="20251212000000" stop="20251212030000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____4_Minnesota_vs__1_Pittsburgh__ENG____18_00_1">
+    <title>⌾ En vivo | 18:00 | #4 Minnesota vs #1 Pittsburgh [ENG]</title>
+  </programme>
+  <programme start="20251212030000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____4_Minnesota_vs__1_Pittsburgh__ENG____18_00_1">
+    <title>Finalizado | #4 Minnesota vs #1 Pittsburgh [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212010000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Tampa_vs_Ferris_State__ENG____19_00_1">
+    <title>Próximamente | 19:00 | Tampa vs Ferris State [ENG]</title>
+  </programme>
+  <programme start="20251212010000" stop="20251212040000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Tampa_vs_Ferris_State__ENG____19_00_1">
+    <title>⌾ En vivo | 19:00 | Tampa vs Ferris State [ENG]</title>
+  </programme>
+  <programme start="20251212040000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball___Tampa_vs_Ferris_State__ENG____19_00_1">
+    <title>Finalizado | Tampa vs Ferris State [ENG]</title>
+  </programme>
+  <programme start="20251211060000" stop="20251212023000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Purdue_vs__2_SMU__ENG____20_30_1">
+    <title>Próximamente | 20:30 | #3 Purdue vs #2 SMU [ENG]</title>
+  </programme>
+  <programme start="20251212023000" stop="20251212053000" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Purdue_vs__2_SMU__ENG____20_30_1">
+    <title>⌾ En vivo | 20:30 | #3 Purdue vs #2 SMU [ENG]</title>
+  </programme>
+  <programme start="20251212053000" stop="20251212055959" channel="Evento_NCAA_Women_Volleyball__NCAA_Women_Volleyball____3_Purdue_vs__2_SMU__ENG____20_30_1">
+    <title>Finalizado | #3 Purdue vs #2 SMU [ENG]</title>
   </programme>
 </tv>
 
