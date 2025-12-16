@@ -139790,8 +139790,8 @@
   <channel id="Evento_NBA__NBA___Boston_Celtics_vs_Detroit_Pistons__ENG____18_00_1">
     <display-name>NBA | Boston Celtics vs Detroit Pistons [ENG] | 18:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Charlotte_Hornets__ENG____18_30_1">
-    <display-name>NBA | Cleveland Cavaliers vs Charlotte Hornets [ENG] | 18:30</display-name>
+  <channel id="Evento_NBA__NBA___Raptor_vs_Miami_Head__ENG____18_30_1">
+    <display-name>NBA | Raptor vs Miami Head [ENG] | 18:30</display-name>
   </channel>
   <channel id="Evento_NBA__NBA___Utah_Jazz_vs_Dallas_Mavericks__ENG____20_00_1">
     <display-name>NBA | Utah Jazz vs Dallas Mavericks [ENG] | 20:00</display-name>
@@ -139865,14 +139865,14 @@
   <programme start="20251215210000 -0600" stop="20251215235959 -0600" channel="Evento_NBA__NBA___Boston_Celtics_vs_Detroit_Pistons__ENG____18_00_1">
     <title>Finalizado | Boston Celtics vs Detroit Pistons [ENG]</title>
   </programme>
-  <programme start="20251215000000 -0600" stop="20251215183000 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Charlotte_Hornets__ENG____18_30_1">
-    <title>Próximamente | 18:30 | Cleveland Cavaliers vs Charlotte Hornets [ENG]</title>
+  <programme start="20251215000000 -0600" stop="20251215183000 -0600" channel="Evento_NBA__NBA___Raptor_vs_Miami_Head__ENG____18_30_1">
+    <title>Próximamente | 18:30 | Raptor vs Miami Head [ENG]</title>
   </programme>
-  <programme start="20251215183000 -0600" stop="20251215213000 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Charlotte_Hornets__ENG____18_30_1">
-    <title>⌾ En vivo | 18:30 | Cleveland Cavaliers vs Charlotte Hornets [ENG]</title>
+  <programme start="20251215183000 -0600" stop="20251215213000 -0600" channel="Evento_NBA__NBA___Raptor_vs_Miami_Head__ENG____18_30_1">
+    <title>⌾ En vivo | 18:30 | Raptor vs Miami Head [ENG]</title>
   </programme>
-  <programme start="20251215213000 -0600" stop="20251215235959 -0600" channel="Evento_NBA__NBA___Cleveland_Cavaliers_vs_Charlotte_Hornets__ENG____18_30_1">
-    <title>Finalizado | Cleveland Cavaliers vs Charlotte Hornets [ENG]</title>
+  <programme start="20251215213000 -0600" stop="20251215235959 -0600" channel="Evento_NBA__NBA___Raptor_vs_Miami_Head__ENG____18_30_1">
+    <title>Finalizado | Raptor vs Miami Head [ENG]</title>
   </programme>
   <programme start="20251215000000 -0600" stop="20251215200000 -0600" channel="Evento_NBA__NBA___Utah_Jazz_vs_Dallas_Mavericks__ENG____20_00_1">
     <title>Próximamente | 20:00 | Utah Jazz vs Dallas Mavericks [ENG]</title>
