@@ -140576,46 +140576,10 @@
   <channel id="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Yaquis_De_Ciudad_Obreg_n___21_30_1">
     <display-name>LMP | Aguilas De Mexicali vs Yaquis De Ciudad Obregón | 21:30</display-name>
   </channel>
-  <channel id="Evento_Copa_de_Portugal__Copa_de_Portugal___Casa_Pia_vs_Torreense___12_30_1">
-    <display-name>Copa de Portugal | Casa Pia vs Torreense | 12:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_de_Portugal__Copa_de_Portugal___Vit_ria_Guimar_es_vs_AVS___14_00_1">
-    <display-name>Copa de Portugal | Vitória Guimarães vs AVS | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_de_Portugal__Copa_de_Portugal___Farense_vs_Benfica___14_45_1">
-    <display-name>Copa de Portugal | Farense vs Benfica | 14:45</display-name>
-  </channel>
-  <channel id="Evento_Copa_Holanda__Copa_Holanda___Excelsior_Maassluis_vs_Ajax___11_45_1">
-    <display-name>Copa Holanda | Excelsior Maassluis vs Ajax | 11:45</display-name>
-  </channel>
-  <channel id="Evento_Copa_Holanda__Copa_Holanda___Roda_JC_vs_Go_Ahead_Eagles___13_00_1">
-    <display-name>Copa Holanda | Roda JC vs Go Ahead Eagles | 13:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Holanda__Copa_Holanda___Feyenoord_vs_Heerenveen___14_00_1">
-    <display-name>Copa Holanda | Feyenoord vs Heerenveen | 14:00</display-name>
-  </channel>
   <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Cultural_Leonesa_vs_Levante___11_00_1">
     <display-name>Copa del Rey | Cultural Leonesa vs Levante | 11:00</display-name>
   </channel>
-  <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_1">
-    <display-name>Copa del Rey | Talavera CF vs Real Madrid | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_2">
-    <display-name>Copa del Rey | Talavera CF vs Real Madrid | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_3">
-    <display-name>Copa del Rey | Talavera CF vs Real Madrid | 14:00</display-name>
-  </channel>
-  <channel id="Evento_UEFA_Women_Champions__UEFA_Women_Champions___OL_Lyonnes_vs_Atl_tico_de_Madrid___14_00_1">
-    <display-name>UEFA Women Champions | OL Lyonnes vs Atlético de Madrid | 14:00</display-name>
-  </channel>
-  <channel id="Evento_UEFA_Women_Champions__UEFA_Women_Champions___Roma_vs_St__P_lten___14_00_1">
-    <display-name>UEFA Women Champions | Roma vs St. Pölten | 14:00</display-name>
-  </channel>
   <channel id="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_1">
-    <display-name>Copa de Brasil | Corinthians vs Vasco da Gama | 15:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_2">
     <display-name>Copa de Brasil | Corinthians vs Vasco da Gama | 15:00</display-name>
   </channel>
   <channel id="Evento_Copa_Colombia__Copa_Colombia___Medell_n_vs_Atl_tico_Nacional___18_30_1">
@@ -140762,60 +140726,6 @@
   <programme start="20251218063000" stop="20251218055959" channel="Evento_LMP__LMP___Aguilas_De_Mexicali_vs_Yaquis_De_Ciudad_Obreg_n___21_30_1">
     <title>Finalizado | Aguilas De Mexicali vs Yaquis De Ciudad Obregón</title>
   </programme>
-  <programme start="20251217060000" stop="20251217183000" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Casa_Pia_vs_Torreense___12_30_1">
-    <title>Próximamente | 12:30 | Casa Pia vs Torreense</title>
-  </programme>
-  <programme start="20251217183000" stop="20251217213000" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Casa_Pia_vs_Torreense___12_30_1">
-    <title>⌾ En vivo | 12:30 | Casa Pia vs Torreense</title>
-  </programme>
-  <programme start="20251217213000" stop="20251218055959" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Casa_Pia_vs_Torreense___12_30_1">
-    <title>Finalizado | Casa Pia vs Torreense</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Vit_ria_Guimar_es_vs_AVS___14_00_1">
-    <title>Próximamente | 14:00 | Vitória Guimarães vs AVS</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Vit_ria_Guimar_es_vs_AVS___14_00_1">
-    <title>⌾ En vivo | 14:00 | Vitória Guimarães vs AVS</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Vit_ria_Guimar_es_vs_AVS___14_00_1">
-    <title>Finalizado | Vitória Guimarães vs AVS</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217204500" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Farense_vs_Benfica___14_45_1">
-    <title>Próximamente | 14:45 | Farense vs Benfica</title>
-  </programme>
-  <programme start="20251217204500" stop="20251217234500" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Farense_vs_Benfica___14_45_1">
-    <title>⌾ En vivo | 14:45 | Farense vs Benfica</title>
-  </programme>
-  <programme start="20251217234500" stop="20251218055959" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Farense_vs_Benfica___14_45_1">
-    <title>Finalizado | Farense vs Benfica</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217174500" channel="Evento_Copa_Holanda__Copa_Holanda___Excelsior_Maassluis_vs_Ajax___11_45_1">
-    <title>Próximamente | 11:45 | Excelsior Maassluis vs Ajax</title>
-  </programme>
-  <programme start="20251217174500" stop="20251217204500" channel="Evento_Copa_Holanda__Copa_Holanda___Excelsior_Maassluis_vs_Ajax___11_45_1">
-    <title>⌾ En vivo | 11:45 | Excelsior Maassluis vs Ajax</title>
-  </programme>
-  <programme start="20251217204500" stop="20251218055959" channel="Evento_Copa_Holanda__Copa_Holanda___Excelsior_Maassluis_vs_Ajax___11_45_1">
-    <title>Finalizado | Excelsior Maassluis vs Ajax</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217190000" channel="Evento_Copa_Holanda__Copa_Holanda___Roda_JC_vs_Go_Ahead_Eagles___13_00_1">
-    <title>Próximamente | 13:00 | Roda JC vs Go Ahead Eagles</title>
-  </programme>
-  <programme start="20251217190000" stop="20251217220000" channel="Evento_Copa_Holanda__Copa_Holanda___Roda_JC_vs_Go_Ahead_Eagles___13_00_1">
-    <title>⌾ En vivo | 13:00 | Roda JC vs Go Ahead Eagles</title>
-  </programme>
-  <programme start="20251217220000" stop="20251218055959" channel="Evento_Copa_Holanda__Copa_Holanda___Roda_JC_vs_Go_Ahead_Eagles___13_00_1">
-    <title>Finalizado | Roda JC vs Go Ahead Eagles</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_Copa_Holanda__Copa_Holanda___Feyenoord_vs_Heerenveen___14_00_1">
-    <title>Próximamente | 14:00 | Feyenoord vs Heerenveen</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_Copa_Holanda__Copa_Holanda___Feyenoord_vs_Heerenveen___14_00_1">
-    <title>⌾ En vivo | 14:00 | Feyenoord vs Heerenveen</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_Copa_Holanda__Copa_Holanda___Feyenoord_vs_Heerenveen___14_00_1">
-    <title>Finalizado | Feyenoord vs Heerenveen</title>
-  </programme>
   <programme start="20251217060000" stop="20251217170000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Cultural_Leonesa_vs_Levante___11_00_1">
     <title>Próximamente | 11:00 | Cultural Leonesa vs Levante</title>
   </programme>
@@ -140825,51 +140735,6 @@
   <programme start="20251217200000" stop="20251218055959" channel="Evento_Copa_del_Rey__Copa_del_Rey___Cultural_Leonesa_vs_Levante___11_00_1">
     <title>Finalizado | Cultural Leonesa vs Levante</title>
   </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_1">
-    <title>Próximamente | 14:00 | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_1">
-    <title>⌾ En vivo | 14:00 | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_1">
-    <title>Finalizado | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_2">
-    <title>Próximamente | 14:00 | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_2">
-    <title>⌾ En vivo | 14:00 | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_2">
-    <title>Finalizado | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_3">
-    <title>Próximamente | 14:00 | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_3">
-    <title>⌾ En vivo | 14:00 | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_Copa_del_Rey__Copa_del_Rey___Talavera_CF_vs_Real_Madrid___14_00_3">
-    <title>Finalizado | Talavera CF vs Real Madrid</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_UEFA_Women_Champions__UEFA_Women_Champions___OL_Lyonnes_vs_Atl_tico_de_Madrid___14_00_1">
-    <title>Próximamente | 14:00 | OL Lyonnes vs Atlético de Madrid</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_UEFA_Women_Champions__UEFA_Women_Champions___OL_Lyonnes_vs_Atl_tico_de_Madrid___14_00_1">
-    <title>⌾ En vivo | 14:00 | OL Lyonnes vs Atlético de Madrid</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_UEFA_Women_Champions__UEFA_Women_Champions___OL_Lyonnes_vs_Atl_tico_de_Madrid___14_00_1">
-    <title>Finalizado | OL Lyonnes vs Atlético de Madrid</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217200000" channel="Evento_UEFA_Women_Champions__UEFA_Women_Champions___Roma_vs_St__P_lten___14_00_1">
-    <title>Próximamente | 14:00 | Roma vs St. Pölten</title>
-  </programme>
-  <programme start="20251217200000" stop="20251217230000" channel="Evento_UEFA_Women_Champions__UEFA_Women_Champions___Roma_vs_St__P_lten___14_00_1">
-    <title>⌾ En vivo | 14:00 | Roma vs St. Pölten</title>
-  </programme>
-  <programme start="20251217230000" stop="20251218055959" channel="Evento_UEFA_Women_Champions__UEFA_Women_Champions___Roma_vs_St__P_lten___14_00_1">
-    <title>Finalizado | Roma vs St. Pölten</title>
-  </programme>
   <programme start="20251217060000" stop="20251217210000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_1">
     <title>Próximamente | 15:00 | Corinthians vs Vasco da Gama</title>
   </programme>
@@ -140877,15 +140742,6 @@
     <title>⌾ En vivo | 15:00 | Corinthians vs Vasco da Gama</title>
   </programme>
   <programme start="20251218000000" stop="20251218055959" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_1">
-    <title>Finalizado | Corinthians vs Vasco da Gama</title>
-  </programme>
-  <programme start="20251217060000" stop="20251217210000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_2">
-    <title>Próximamente | 15:00 | Corinthians vs Vasco da Gama</title>
-  </programme>
-  <programme start="20251217210000" stop="20251218000000" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_2">
-    <title>⌾ En vivo | 15:00 | Corinthians vs Vasco da Gama</title>
-  </programme>
-  <programme start="20251218000000" stop="20251218055959" channel="Evento_Copa_de_Brasil__Copa_de_Brasil___Corinthians_vs_Vasco_da_Gama___15_00_2">
     <title>Finalizado | Corinthians vs Vasco da Gama</title>
   </programme>
   <programme start="20251217060000" stop="20251218003000" channel="Evento_Copa_Colombia__Copa_Colombia___Medell_n_vs_Atl_tico_Nacional___18_30_1">
