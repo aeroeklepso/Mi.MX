@@ -139838,15 +139838,6 @@
   <channel id="Evento_NBA__NBA___Portland_Trail_Blazers_vs_Sacramento_Kings___21_00_1">
     <display-name>NBA | Portland Trail Blazers vs Sacramento Kings | 21:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Hampton_vs___Jackson_State___16_00_1">
-    <display-name>NCAA Men Basketball | Hampton vs . Jackson State | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Texas_A_M_vs____1_Pittsburgh___17_30_1">
-    <display-name>NCAA Women Basketball | #3 Texas A&amp;M vs . #1 Pittsburgh | 17:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Wisconsin_vs____1_Kentucky___17_30_1">
-    <display-name>NCAA Women Basketball | #3 Wisconsin vs . #1 Kentucky | 17:30</display-name>
-  </channel>
   <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_South_Carolina_vs___South_Florida___18_00_1">
     <display-name>NCAA Women Basketball | #3 South Carolina vs . South Florida | 18:00</display-name>
   </channel>
@@ -139900,36 +139891,6 @@
   </channel>
   <channel id="Evento_BOX__BOX___Ramon_Cardenas_vs___Erik_Robles___19_00_1">
     <display-name>BOX | Ramon Cardenas vs . Erik Robles | 19:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Arabe__Copa_Arabe___Arabia_Saudita_vs_Emiratos__rabes_Unidos___05_00_1">
-    <display-name>Copa Arabe | Arabia Saudita vs Emiratos Árabes Unidos | 05:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Arabe__Copa_Arabe___Jordania_vs_Marruecos___10_00_1">
-    <display-name>Copa Arabe | Jordania vs Marruecos | 10:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Holanda__Copa_Holanda___Spakenburg_vs_Twente___11_45_1">
-    <display-name>Copa Holanda | Spakenburg vs Twente | 11:45</display-name>
-  </channel>
-  <channel id="Evento_Copa_de_Portugal__Copa_de_Portugal___Santa_Clara_vs_Sporting_CP___12_45_1">
-    <display-name>Copa de Portugal | Santa Clara vs Sporting CP | 12:45</display-name>
-  </channel>
-  <channel id="Evento_Copa_Holanda__Copa_Holanda___Volendam_vs_Genemuiden___13_00_1">
-    <display-name>Copa Holanda | Volendam vs Genemuiden | 13:00</display-name>
-  </channel>
-  <channel id="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_1">
-    <display-name>Supercopa de Italia | Napoli vs Milan | 13:00</display-name>
-  </channel>
-  <channel id="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_2">
-    <display-name>Supercopa de Italia | Napoli vs Milan | 13:00</display-name>
-  </channel>
-  <channel id="Evento_Conference_League__Conference_League___Zrinjski__BIH__vs_SK_Rapid_Wien__AT____14_00_1">
-    <display-name>Conference League | Zrinjski (BIH) vs SK Rapid Wien (AT) | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Holanda__Copa_Holanda___Willem_II_vs_Sparta_Rotterdam___14_00_1">
-    <display-name>Copa Holanda | Willem II vs Sparta Rotterdam | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_de_Portugal__Copa_de_Portugal___Porto_vs_Famalic_o___14_45_1">
-    <display-name>Copa de Portugal | Porto vs Famalicão | 14:45</display-name>
   </channel>
   <channel id="Evento_Copa_Ecuador__Copa_Ecuador___LDU_Quito_vs_Universidad_Cat_lica___18_00_1">
     <display-name>Copa Ecuador | LDU Quito vs Universidad Católica | 18:00</display-name>
@@ -140047,33 +140008,6 @@
   </programme>
   <programme start="20251219000000 -0600" stop="20251218235959 -0600" channel="Evento_NBA__NBA___Portland_Trail_Blazers_vs_Sacramento_Kings___21_00_1">
     <title>Finalizado | Portland Trail Blazers vs Sacramento Kings</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218160000 -0600" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Hampton_vs___Jackson_State___16_00_1">
-    <title>Próximamente | 16:00 | Hampton vs . Jackson State</title>
-  </programme>
-  <programme start="20251218160000 -0600" stop="20251218190000 -0600" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Hampton_vs___Jackson_State___16_00_1">
-    <title>⌾ En vivo | 16:00 | Hampton vs . Jackson State</title>
-  </programme>
-  <programme start="20251218190000 -0600" stop="20251218235959 -0600" channel="Evento_NCAA_Men_Basketball__NCAA_Men_Basketball___Hampton_vs___Jackson_State___16_00_1">
-    <title>Finalizado | Hampton vs . Jackson State</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218173000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Texas_A_M_vs____1_Pittsburgh___17_30_1">
-    <title>Próximamente | 17:30 | #3 Texas A&amp;M vs . #1 Pittsburgh</title>
-  </programme>
-  <programme start="20251218173000 -0600" stop="20251218203000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Texas_A_M_vs____1_Pittsburgh___17_30_1">
-    <title>⌾ En vivo | 17:30 | #3 Texas A&amp;M vs . #1 Pittsburgh</title>
-  </programme>
-  <programme start="20251218203000 -0600" stop="20251218235959 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Texas_A_M_vs____1_Pittsburgh___17_30_1">
-    <title>Finalizado | #3 Texas A&amp;M vs . #1 Pittsburgh</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218173000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Wisconsin_vs____1_Kentucky___17_30_1">
-    <title>Próximamente | 17:30 | #3 Wisconsin vs . #1 Kentucky</title>
-  </programme>
-  <programme start="20251218173000 -0600" stop="20251218203000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Wisconsin_vs____1_Kentucky___17_30_1">
-    <title>⌾ En vivo | 17:30 | #3 Wisconsin vs . #1 Kentucky</title>
-  </programme>
-  <programme start="20251218203000 -0600" stop="20251218235959 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_Wisconsin_vs____1_Kentucky___17_30_1">
-    <title>Finalizado | #3 Wisconsin vs . #1 Kentucky</title>
   </programme>
   <programme start="20251218000000 -0600" stop="20251218180000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball____3_South_Carolina_vs___South_Florida___18_00_1">
     <title>Próximamente | 18:00 | #3 South Carolina vs . South Florida</title>
@@ -140236,96 +140170,6 @@
   </programme>
   <programme start="20251218220000 -0600" stop="20251218235959 -0600" channel="Evento_BOX__BOX___Ramon_Cardenas_vs___Erik_Robles___19_00_1">
     <title>Finalizado | Ramon Cardenas vs . Erik Robles</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218050000 -0600" channel="Evento_Copa_Arabe__Copa_Arabe___Arabia_Saudita_vs_Emiratos__rabes_Unidos___05_00_1">
-    <title>Próximamente | 05:00 | Arabia Saudita vs Emiratos Árabes Unidos</title>
-  </programme>
-  <programme start="20251218050000 -0600" stop="20251218080000 -0600" channel="Evento_Copa_Arabe__Copa_Arabe___Arabia_Saudita_vs_Emiratos__rabes_Unidos___05_00_1">
-    <title>⌾ En vivo | 05:00 | Arabia Saudita vs Emiratos Árabes Unidos</title>
-  </programme>
-  <programme start="20251218080000 -0600" stop="20251218235959 -0600" channel="Evento_Copa_Arabe__Copa_Arabe___Arabia_Saudita_vs_Emiratos__rabes_Unidos___05_00_1">
-    <title>Finalizado | Arabia Saudita vs Emiratos Árabes Unidos</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218100000 -0600" channel="Evento_Copa_Arabe__Copa_Arabe___Jordania_vs_Marruecos___10_00_1">
-    <title>Próximamente | 10:00 | Jordania vs Marruecos</title>
-  </programme>
-  <programme start="20251218100000 -0600" stop="20251218130000 -0600" channel="Evento_Copa_Arabe__Copa_Arabe___Jordania_vs_Marruecos___10_00_1">
-    <title>⌾ En vivo | 10:00 | Jordania vs Marruecos</title>
-  </programme>
-  <programme start="20251218130000 -0600" stop="20251218235959 -0600" channel="Evento_Copa_Arabe__Copa_Arabe___Jordania_vs_Marruecos___10_00_1">
-    <title>Finalizado | Jordania vs Marruecos</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218114500 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Spakenburg_vs_Twente___11_45_1">
-    <title>Próximamente | 11:45 | Spakenburg vs Twente</title>
-  </programme>
-  <programme start="20251218114500 -0600" stop="20251218144500 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Spakenburg_vs_Twente___11_45_1">
-    <title>⌾ En vivo | 11:45 | Spakenburg vs Twente</title>
-  </programme>
-  <programme start="20251218144500 -0600" stop="20251218235959 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Spakenburg_vs_Twente___11_45_1">
-    <title>Finalizado | Spakenburg vs Twente</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218124500 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Santa_Clara_vs_Sporting_CP___12_45_1">
-    <title>Próximamente | 12:45 | Santa Clara vs Sporting CP</title>
-  </programme>
-  <programme start="20251218124500 -0600" stop="20251218154500 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Santa_Clara_vs_Sporting_CP___12_45_1">
-    <title>⌾ En vivo | 12:45 | Santa Clara vs Sporting CP</title>
-  </programme>
-  <programme start="20251218154500 -0600" stop="20251218235959 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Santa_Clara_vs_Sporting_CP___12_45_1">
-    <title>Finalizado | Santa Clara vs Sporting CP</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218130000 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Volendam_vs_Genemuiden___13_00_1">
-    <title>Próximamente | 13:00 | Volendam vs Genemuiden</title>
-  </programme>
-  <programme start="20251218130000 -0600" stop="20251218160000 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Volendam_vs_Genemuiden___13_00_1">
-    <title>⌾ En vivo | 13:00 | Volendam vs Genemuiden</title>
-  </programme>
-  <programme start="20251218160000 -0600" stop="20251218235959 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Volendam_vs_Genemuiden___13_00_1">
-    <title>Finalizado | Volendam vs Genemuiden</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218130000 -0600" channel="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_1">
-    <title>Próximamente | 13:00 | Napoli vs Milan</title>
-  </programme>
-  <programme start="20251218130000 -0600" stop="20251218160000 -0600" channel="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_1">
-    <title>⌾ En vivo | 13:00 | Napoli vs Milan</title>
-  </programme>
-  <programme start="20251218160000 -0600" stop="20251218235959 -0600" channel="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_1">
-    <title>Finalizado | Napoli vs Milan</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218130000 -0600" channel="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_2">
-    <title>Próximamente | 13:00 | Napoli vs Milan</title>
-  </programme>
-  <programme start="20251218130000 -0600" stop="20251218160000 -0600" channel="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_2">
-    <title>⌾ En vivo | 13:00 | Napoli vs Milan</title>
-  </programme>
-  <programme start="20251218160000 -0600" stop="20251218235959 -0600" channel="Evento_Supercopa_de_Italia__Supercopa_de_Italia___Napoli_vs_Milan___13_00_2">
-    <title>Finalizado | Napoli vs Milan</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218140000 -0600" channel="Evento_Conference_League__Conference_League___Zrinjski__BIH__vs_SK_Rapid_Wien__AT____14_00_1">
-    <title>Próximamente | 14:00 | Zrinjski (BIH) vs SK Rapid Wien (AT)</title>
-  </programme>
-  <programme start="20251218140000 -0600" stop="20251218170000 -0600" channel="Evento_Conference_League__Conference_League___Zrinjski__BIH__vs_SK_Rapid_Wien__AT____14_00_1">
-    <title>⌾ En vivo | 14:00 | Zrinjski (BIH) vs SK Rapid Wien (AT)</title>
-  </programme>
-  <programme start="20251218170000 -0600" stop="20251218235959 -0600" channel="Evento_Conference_League__Conference_League___Zrinjski__BIH__vs_SK_Rapid_Wien__AT____14_00_1">
-    <title>Finalizado | Zrinjski (BIH) vs SK Rapid Wien (AT)</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218140000 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Willem_II_vs_Sparta_Rotterdam___14_00_1">
-    <title>Próximamente | 14:00 | Willem II vs Sparta Rotterdam</title>
-  </programme>
-  <programme start="20251218140000 -0600" stop="20251218170000 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Willem_II_vs_Sparta_Rotterdam___14_00_1">
-    <title>⌾ En vivo | 14:00 | Willem II vs Sparta Rotterdam</title>
-  </programme>
-  <programme start="20251218170000 -0600" stop="20251218235959 -0600" channel="Evento_Copa_Holanda__Copa_Holanda___Willem_II_vs_Sparta_Rotterdam___14_00_1">
-    <title>Finalizado | Willem II vs Sparta Rotterdam</title>
-  </programme>
-  <programme start="20251218000000 -0600" stop="20251218144500 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Porto_vs_Famalic_o___14_45_1">
-    <title>Próximamente | 14:45 | Porto vs Famalicão</title>
-  </programme>
-  <programme start="20251218144500 -0600" stop="20251218174500 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Porto_vs_Famalic_o___14_45_1">
-    <title>⌾ En vivo | 14:45 | Porto vs Famalicão</title>
-  </programme>
-  <programme start="20251218174500 -0600" stop="20251218235959 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Porto_vs_Famalic_o___14_45_1">
-    <title>Finalizado | Porto vs Famalicão</title>
   </programme>
   <programme start="20251218000000 -0600" stop="20251218180000 -0600" channel="Evento_Copa_Ecuador__Copa_Ecuador___LDU_Quito_vs_Universidad_Cat_lica___18_00_1">
     <title>Próximamente | 18:00 | LDU Quito vs Universidad Católica</title>
