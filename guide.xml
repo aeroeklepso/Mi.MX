@@ -139940,6 +139940,15 @@
   <channel id="Evento_Liga_Pro__Liga_Pro___El_Nacional_vs_Delfin___15_00_1">
     <display-name>Liga Pro | El Nacional vs Delfin | 15:00</display-name>
   </channel>
+  <channel id="Evento_BOX__BOX___Jake_Paul_vs_Anthony_Joshua___19_00_1">
+    <display-name>BOX | Jake Paul vs Anthony Joshua | 19:00</display-name>
+  </channel>
+  <channel id="Evento_Major_Arena_League__Major_Arena_League___Milwaukee_Wave_vs_Baltimore_Blast___18_35_1">
+    <display-name>Major Arena League | Milwaukee Wave vs Baltimore Blast | 18:35</display-name>
+  </channel>
+  <channel id="Evento_Major_Arena_League__Major_Arena_League___Empire_Strykers_vs_St__Louis_Ambush___21_05_1">
+    <display-name>Major Arena League | Empire Strykers vs St. Louis Ambush | 21:05</display-name>
+  </channel>
   <programme start="20251219000000 -0600" stop="20251219180000 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Florida_Panthers___18_00_1">
     <title>Próximamente | 18:00 | Carolina Hurricanes vs Florida Panthers</title>
   </programme>
@@ -140353,6 +140362,33 @@
   </programme>
   <programme start="20251219180000 -0600" stop="20251219235959 -0600" channel="Evento_Liga_Pro__Liga_Pro___El_Nacional_vs_Delfin___15_00_1">
     <title>Finalizado | El Nacional vs Delfin</title>
+  </programme>
+  <programme start="20251219000000 -0600" stop="20251219190000 -0600" channel="Evento_BOX__BOX___Jake_Paul_vs_Anthony_Joshua___19_00_1">
+    <title>Próximamente | 19:00 | Jake Paul vs Anthony Joshua</title>
+  </programme>
+  <programme start="20251219190000 -0600" stop="20251219220000 -0600" channel="Evento_BOX__BOX___Jake_Paul_vs_Anthony_Joshua___19_00_1">
+    <title>⌾ En vivo | 19:00 | Jake Paul vs Anthony Joshua</title>
+  </programme>
+  <programme start="20251219220000 -0600" stop="20251219235959 -0600" channel="Evento_BOX__BOX___Jake_Paul_vs_Anthony_Joshua___19_00_1">
+    <title>Finalizado | Jake Paul vs Anthony Joshua</title>
+  </programme>
+  <programme start="20251219000000 -0600" stop="20251219183500 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Milwaukee_Wave_vs_Baltimore_Blast___18_35_1">
+    <title>Próximamente | 18:35 | Milwaukee Wave vs Baltimore Blast</title>
+  </programme>
+  <programme start="20251219183500 -0600" stop="20251219213500 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Milwaukee_Wave_vs_Baltimore_Blast___18_35_1">
+    <title>⌾ En vivo | 18:35 | Milwaukee Wave vs Baltimore Blast</title>
+  </programme>
+  <programme start="20251219213500 -0600" stop="20251219235959 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Milwaukee_Wave_vs_Baltimore_Blast___18_35_1">
+    <title>Finalizado | Milwaukee Wave vs Baltimore Blast</title>
+  </programme>
+  <programme start="20251219000000 -0600" stop="20251219210500 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Empire_Strykers_vs_St__Louis_Ambush___21_05_1">
+    <title>Próximamente | 21:05 | Empire Strykers vs St. Louis Ambush</title>
+  </programme>
+  <programme start="20251219210500 -0600" stop="20251220000500 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Empire_Strykers_vs_St__Louis_Ambush___21_05_1">
+    <title>⌾ En vivo | 21:05 | Empire Strykers vs St. Louis Ambush</title>
+  </programme>
+  <programme start="20251220000500 -0600" stop="20251219235959 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Empire_Strykers_vs_St__Louis_Ambush___21_05_1">
+    <title>Finalizado | Empire Strykers vs St. Louis Ambush</title>
   </programme>
 </tv>
 
