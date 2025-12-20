@@ -138050,12 +138050,6 @@
   <channel id="Evento_Major_Arena_League__Major_Arena_League___Empire_Strykers_vs_St__Louis_Ambush___21_05_1">
     <display-name>Major Arena League | Empire Strykers vs St. Louis Ambush | 21:05</display-name>
   </channel>
-  <channel id="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_1">
-    <display-name>LaLiga | Levante vs Real Sociedad | 09:15</display-name>
-  </channel>
-  <channel id="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_2">
-    <display-name>LaLiga | Levante vs Real Sociedad | 09:15</display-name>
-  </channel>
   <channel id="Evento_LaLiga__LaLiga___Osasuna_vs_Deportivo_Alav_s___11_30_1">
     <display-name>LaLiga | Osasuna vs Deportivo Alavés | 11:30</display-name>
   </channel>
@@ -138766,24 +138760,6 @@
   </programme>
   <programme start="20251221000500 -0600" stop="20251220235959 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___Empire_Strykers_vs_St__Louis_Ambush___21_05_1">
     <title>Finalizado | Empire Strykers vs St. Louis Ambush</title>
-  </programme>
-  <programme start="20251220000000 -0600" stop="20251220091500 -0600" channel="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_1">
-    <title>Próximamente | 09:15 | Levante vs Real Sociedad</title>
-  </programme>
-  <programme start="20251220091500 -0600" stop="20251220121500 -0600" channel="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_1">
-    <title>⌾ En vivo | 09:15 | Levante vs Real Sociedad</title>
-  </programme>
-  <programme start="20251220121500 -0600" stop="20251220235959 -0600" channel="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_1">
-    <title>Finalizado | Levante vs Real Sociedad</title>
-  </programme>
-  <programme start="20251220000000 -0600" stop="20251220091500 -0600" channel="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_2">
-    <title>Próximamente | 09:15 | Levante vs Real Sociedad</title>
-  </programme>
-  <programme start="20251220091500 -0600" stop="20251220121500 -0600" channel="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_2">
-    <title>⌾ En vivo | 09:15 | Levante vs Real Sociedad</title>
-  </programme>
-  <programme start="20251220121500 -0600" stop="20251220235959 -0600" channel="Evento_LaLiga__LaLiga___Levante_vs_Real_Sociedad___09_15_2">
-    <title>Finalizado | Levante vs Real Sociedad</title>
   </programme>
   <programme start="20251220000000 -0600" stop="20251220113000 -0600" channel="Evento_LaLiga__LaLiga___Osasuna_vs_Deportivo_Alav_s___11_30_1">
     <title>Próximamente | 11:30 | Osasuna vs Deportivo Alavés</title>
