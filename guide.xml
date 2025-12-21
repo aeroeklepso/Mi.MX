@@ -136946,23 +136946,11 @@
     <desc>Los ocho mejores artistas interpretan sus canciones frente a los coaches para obtener un lugar dentro de la gran final.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___New_York_Islanders_vs_Buffalo_Sabres___16_00_1">
-    <display-name>NHL | New York Islanders vs Buffalo Sabres | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___St__Louis_Blues_vs_Florida_Panthers___17_00_1">
-    <display-name>NHL | St. Louis Blues vs Florida Panthers | 17:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Carolina_Hurricanes_vs_Tampa_Bay_Lightning___18_00_1">
     <display-name>NHL | Carolina Hurricanes vs Tampa Bay Lightning | 18:00</display-name>
   </channel>
-  <channel id="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Montreal_Canadiens___18_00_1">
-    <display-name>NHL | Pittsburgh Penguins vs Montreal Canadiens | 18:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Nashville_Predators___18_00_1">
     <display-name>NHL | Toronto Maple Leafs vs Nashville Predators | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Vancouver_Canucks_vs_Boston_Bruins___18_00_1">
-    <display-name>NHL | Vancouver Canucks vs Boston Bruins | 18:00</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Anaheim_Ducks___21_00_1">
     <display-name>NHL | Columbus Blue Jackets vs Anaheim Ducks | 21:00</display-name>
@@ -137018,9 +137006,6 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Los_Angeles_Lakers___21_30_1">
     <display-name>NBA | Los Angeles Clippers vs Los Angeles Lakers | 21:30</display-name>
   </channel>
-  <channel id="Evento_NBA_G_League__NBA_G_League___Memphis_Hustle_vs_Windy_City_Bulls___17_00_1">
-    <display-name>NBA G League | Memphis Hustle vs Windy City Bulls | 17:00</display-name>
-  </channel>
   <channel id="Evento_NBA_G_League__NBA_G_League___Motor_City_Cruise_vs_Valley_Suns___19_30_1">
     <display-name>NBA G League | Motor City Cruise vs Valley Suns | 19:30</display-name>
   </channel>
@@ -137047,9 +137032,6 @@
   </channel>
   <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___New_Mexico_St_vs_e_vs__Saint_Mary_s___16_00_1">
     <display-name>NCAA Women Basketball | New Mexico St vs e vs. Saint Mary's | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Weber_St_vs_e_vs__Loyola_Marymount___17_30_1">
-    <display-name>NCAA Women Basketball | Weber St vs e vs. Loyola Marymount | 17:30</display-name>
   </channel>
   <channel id="Evento_BOX__BOX___Alan_Graves_vs_David_Kerkmann___13_00_1">
     <display-name>BOX | Alan Graves vs David Kerkmann | 13:00</display-name>
@@ -137090,9 +137072,6 @@
   <channel id="Evento_LaLiga__LaLiga___Real_Madrid_vs_Sevilla___14_00_3">
     <display-name>LaLiga | Real Madrid vs Sevilla | 14:00</display-name>
   </channel>
-  <channel id="Evento_USL_Super_League__USL_Super_League___Fort_Lauderdale_United_vs_Spokane_Zephyr___18_30_1">
-    <display-name>USL Super League | Fort Lauderdale United vs Spokane Zephyr | 18:30</display-name>
-  </channel>
   <channel id="Evento_Liga_Pro__Liga_Pro___Aucas_vs_Macar____15_30_1">
     <display-name>Liga Pro | Aucas vs Macará | 15:30</display-name>
   </channel>
@@ -137111,33 +137090,12 @@
   <channel id="Evento_Trofeo_de_Campeones__Trofeo_de_Campeones___Estudiantes_vs_Platense___19_00_1">
     <display-name>Trofeo de Campeones | Estudiantes vs Platense | 19:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football____12_James_Madison_vs__5_Oregon___18_40_1">
-    <display-name>NCAA Football | #12 James Madison vs #5 Oregon | 18:40</display-name>
-  </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football___Illinois_St_vs_e_vs__Villanova___18_30_1">
     <display-name>NCAA Football | Illinois St vs e vs. Villanova | 18:30</display-name>
   </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football___Kennesaw_St_vs_e_vs__Western_Michigan___22_30_1">
     <display-name>NCAA Football | Kennesaw St vs e vs. Western Michigan | 22:30</display-name>
   </channel>
-  <programme start="20251220000000 -0600" stop="20251220160000 -0600" channel="Evento_NHL__NHL___New_York_Islanders_vs_Buffalo_Sabres___16_00_1">
-    <title>Próximamente | 16:00 | New York Islanders vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20251220160000 -0600" stop="20251220190000 -0600" channel="Evento_NHL__NHL___New_York_Islanders_vs_Buffalo_Sabres___16_00_1">
-    <title>⌾ En vivo | 16:00 | New York Islanders vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20251220190000 -0600" stop="20251220235959 -0600" channel="Evento_NHL__NHL___New_York_Islanders_vs_Buffalo_Sabres___16_00_1">
-    <title>Finalizado | New York Islanders vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20251220000000 -0600" stop="20251220170000 -0600" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Florida_Panthers___17_00_1">
-    <title>Próximamente | 17:00 | St. Louis Blues vs Florida Panthers</title>
-  </programme>
-  <programme start="20251220170000 -0600" stop="20251220200000 -0600" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Florida_Panthers___17_00_1">
-    <title>⌾ En vivo | 17:00 | St. Louis Blues vs Florida Panthers</title>
-  </programme>
-  <programme start="20251220200000 -0600" stop="20251220235959 -0600" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Florida_Panthers___17_00_1">
-    <title>Finalizado | St. Louis Blues vs Florida Panthers</title>
-  </programme>
   <programme start="20251220000000 -0600" stop="20251220180000 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Tampa_Bay_Lightning___18_00_1">
     <title>Próximamente | 18:00 | Carolina Hurricanes vs Tampa Bay Lightning</title>
   </programme>
@@ -137147,15 +137105,6 @@
   <programme start="20251220210000 -0600" stop="20251220235959 -0600" channel="Evento_NHL__NHL___Carolina_Hurricanes_vs_Tampa_Bay_Lightning___18_00_1">
     <title>Finalizado | Carolina Hurricanes vs Tampa Bay Lightning</title>
   </programme>
-  <programme start="20251220000000 -0600" stop="20251220180000 -0600" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Montreal_Canadiens___18_00_1">
-    <title>Próximamente | 18:00 | Pittsburgh Penguins vs Montreal Canadiens</title>
-  </programme>
-  <programme start="20251220180000 -0600" stop="20251220210000 -0600" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Montreal_Canadiens___18_00_1">
-    <title>⌾ En vivo | 18:00 | Pittsburgh Penguins vs Montreal Canadiens</title>
-  </programme>
-  <programme start="20251220210000 -0600" stop="20251220235959 -0600" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Montreal_Canadiens___18_00_1">
-    <title>Finalizado | Pittsburgh Penguins vs Montreal Canadiens</title>
-  </programme>
   <programme start="20251220000000 -0600" stop="20251220180000 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Nashville_Predators___18_00_1">
     <title>Próximamente | 18:00 | Toronto Maple Leafs vs Nashville Predators</title>
   </programme>
@@ -137164,15 +137113,6 @@
   </programme>
   <programme start="20251220210000 -0600" stop="20251220235959 -0600" channel="Evento_NHL__NHL___Toronto_Maple_Leafs_vs_Nashville_Predators___18_00_1">
     <title>Finalizado | Toronto Maple Leafs vs Nashville Predators</title>
-  </programme>
-  <programme start="20251220000000 -0600" stop="20251220180000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Boston_Bruins___18_00_1">
-    <title>Próximamente | 18:00 | Vancouver Canucks vs Boston Bruins</title>
-  </programme>
-  <programme start="20251220180000 -0600" stop="20251220210000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Boston_Bruins___18_00_1">
-    <title>⌾ En vivo | 18:00 | Vancouver Canucks vs Boston Bruins</title>
-  </programme>
-  <programme start="20251220210000 -0600" stop="20251220235959 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Boston_Bruins___18_00_1">
-    <title>Finalizado | Vancouver Canucks vs Boston Bruins</title>
   </programme>
   <programme start="20251220000000 -0600" stop="20251220210000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Anaheim_Ducks___21_00_1">
     <title>Próximamente | 21:00 | Columbus Blue Jackets vs Anaheim Ducks</title>
@@ -137336,15 +137276,6 @@
   <programme start="20251221003000 -0600" stop="20251220235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Los_Angeles_Lakers___21_30_1">
     <title>Finalizado | Los Angeles Clippers vs Los Angeles Lakers</title>
   </programme>
-  <programme start="20251220000000 -0600" stop="20251220170000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Memphis_Hustle_vs_Windy_City_Bulls___17_00_1">
-    <title>Próximamente | 17:00 | Memphis Hustle vs Windy City Bulls</title>
-  </programme>
-  <programme start="20251220170000 -0600" stop="20251220200000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Memphis_Hustle_vs_Windy_City_Bulls___17_00_1">
-    <title>⌾ En vivo | 17:00 | Memphis Hustle vs Windy City Bulls</title>
-  </programme>
-  <programme start="20251220200000 -0600" stop="20251220235959 -0600" channel="Evento_NBA_G_League__NBA_G_League___Memphis_Hustle_vs_Windy_City_Bulls___17_00_1">
-    <title>Finalizado | Memphis Hustle vs Windy City Bulls</title>
-  </programme>
   <programme start="20251220000000 -0600" stop="20251220193000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Motor_City_Cruise_vs_Valley_Suns___19_30_1">
     <title>Próximamente | 19:30 | Motor City Cruise vs Valley Suns</title>
   </programme>
@@ -137425,15 +137356,6 @@
   </programme>
   <programme start="20251220190000 -0600" stop="20251220235959 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___New_Mexico_St_vs_e_vs__Saint_Mary_s___16_00_1">
     <title>Finalizado | New Mexico St vs e vs. Saint Mary's</title>
-  </programme>
-  <programme start="20251220000000 -0600" stop="20251220173000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Weber_St_vs_e_vs__Loyola_Marymount___17_30_1">
-    <title>Próximamente | 17:30 | Weber St vs e vs. Loyola Marymount</title>
-  </programme>
-  <programme start="20251220173000 -0600" stop="20251220203000 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Weber_St_vs_e_vs__Loyola_Marymount___17_30_1">
-    <title>⌾ En vivo | 17:30 | Weber St vs e vs. Loyola Marymount</title>
-  </programme>
-  <programme start="20251220203000 -0600" stop="20251220235959 -0600" channel="Evento_NCAA_Women_Basketball__NCAA_Women_Basketball___Weber_St_vs_e_vs__Loyola_Marymount___17_30_1">
-    <title>Finalizado | Weber St vs e vs. Loyola Marymount</title>
   </programme>
   <programme start="20251220000000 -0600" stop="20251220130000 -0600" channel="Evento_BOX__BOX___Alan_Graves_vs_David_Kerkmann___13_00_1">
     <title>Próximamente | 13:00 | Alan Graves vs David Kerkmann</title>
@@ -137552,15 +137474,6 @@
   <programme start="20251220170000 -0600" stop="20251220235959 -0600" channel="Evento_LaLiga__LaLiga___Real_Madrid_vs_Sevilla___14_00_3">
     <title>Finalizado | Real Madrid vs Sevilla</title>
   </programme>
-  <programme start="20251220000000 -0600" stop="20251220183000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Fort_Lauderdale_United_vs_Spokane_Zephyr___18_30_1">
-    <title>Próximamente | 18:30 | Fort Lauderdale United vs Spokane Zephyr</title>
-  </programme>
-  <programme start="20251220183000 -0600" stop="20251220213000 -0600" channel="Evento_USL_Super_League__USL_Super_League___Fort_Lauderdale_United_vs_Spokane_Zephyr___18_30_1">
-    <title>⌾ En vivo | 18:30 | Fort Lauderdale United vs Spokane Zephyr</title>
-  </programme>
-  <programme start="20251220213000 -0600" stop="20251220235959 -0600" channel="Evento_USL_Super_League__USL_Super_League___Fort_Lauderdale_United_vs_Spokane_Zephyr___18_30_1">
-    <title>Finalizado | Fort Lauderdale United vs Spokane Zephyr</title>
-  </programme>
   <programme start="20251220000000 -0600" stop="20251220153000 -0600" channel="Evento_Liga_Pro__Liga_Pro___Aucas_vs_Macar____15_30_1">
     <title>Próximamente | 15:30 | Aucas vs Macará</title>
   </programme>
@@ -137614,15 +137527,6 @@
   </programme>
   <programme start="20251220220000 -0600" stop="20251220235959 -0600" channel="Evento_Trofeo_de_Campeones__Trofeo_de_Campeones___Estudiantes_vs_Platense___19_00_1">
     <title>Finalizado | Estudiantes vs Platense</title>
-  </programme>
-  <programme start="20251220000000 -0600" stop="20251220184000 -0600" channel="Evento_NCAA_Football__NCAA_Football____12_James_Madison_vs__5_Oregon___18_40_1">
-    <title>Próximamente | 18:40 | #12 James Madison vs #5 Oregon</title>
-  </programme>
-  <programme start="20251220184000 -0600" stop="20251220214000 -0600" channel="Evento_NCAA_Football__NCAA_Football____12_James_Madison_vs__5_Oregon___18_40_1">
-    <title>⌾ En vivo | 18:40 | #12 James Madison vs #5 Oregon</title>
-  </programme>
-  <programme start="20251220214000 -0600" stop="20251220235959 -0600" channel="Evento_NCAA_Football__NCAA_Football____12_James_Madison_vs__5_Oregon___18_40_1">
-    <title>Finalizado | #12 James Madison vs #5 Oregon</title>
   </programme>
   <programme start="20251220000000 -0600" stop="20251220183000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Illinois_St_vs_e_vs__Villanova___18_30_1">
     <title>Próximamente | 18:30 | Illinois St vs e vs. Villanova</title>
