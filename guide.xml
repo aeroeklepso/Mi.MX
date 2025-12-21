@@ -136946,45 +136946,6 @@
     <desc>Los ocho mejores artistas interpretan sus canciones frente a los coaches para obtener un lugar dentro de la gran final.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Anaheim_Ducks___21_00_1">
-    <display-name>NHL | Columbus Blue Jackets vs Anaheim Ducks | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__San_Jose_Sharks___21_00_1">
-    <display-name>NHL | Se vs tle Kraken vs. San Jose Sharks | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Calgary_Flames___21_00_1">
-    <display-name>NHL | Vegas Golden Knights vs Calgary Flames | 21:00</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Tucson_vs_Charros_de_Jalisco___19_30_1">
-    <display-name>LMP | Tucson vs Charros de Jalisco | 19:30</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Algodoneros_De_Guasave___20_05_1">
-    <display-name>LMP | Tom vs eros De Culiacan vs. Algodoneros De Guasave | 20:05</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Jaguares_de_Nayarit___20_10_1">
-    <display-name>LMP | Yaquis De Ciudad Obregón vs Jaguares de Nayarit | 20:10</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Venados_De_Mazatlan___20_30_1">
-    <display-name>LMP | Naranjeros De Hermosillo vs Venados De Mazatlan | 20:30</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Aguilas_De_Mexicali___21_30_1">
-    <display-name>LMP | Cañeros de los Mochis vs Aguilas De Mexicali | 21:30</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Utah_Jazz_vs_Orlando_Magic___20_30_1">
-    <display-name>NBA | Utah Jazz vs Orlando Magic | 20:30</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Sacramento_Kings_vs_Portland_Trail_Blazers___21_00_1">
-    <display-name>NBA | Sacramento Kings vs Portland Trail Blazers | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Los_Angeles_Lakers___21_30_1">
-    <display-name>NBA | Los Angeles Clippers vs Los Angeles Lakers | 21:30</display-name>
-  </channel>
-  <channel id="Evento_BOX__BOX___Argi_Cortes_vs_Yahir_Frank___19_00_1">
-    <display-name>BOX | Argi Cortes vs Yahir Frank | 19:00</display-name>
-  </channel>
-  <channel id="Evento_BOX__BOX___Jos__Rosa_vs_Juan_Pablo_Ilharregui___19_00_1">
-    <display-name>BOX | José Rosa vs Juan Pablo Ilharregui | 19:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Washington_Capitals_vs_Detroit_Red_Wings___12_00_1">
     <display-name>NHL | Washington Capitals vs Detroit Red Wings | 12:00</display-name>
   </channel>
@@ -137246,123 +137207,15 @@
   <channel id="Evento_NCAA_Femenino__NCAA_Femenino____19_USC_vs_California___19_30_1">
     <display-name>NCAA Femenino | #19 USC vs California | 19:30</display-name>
   </channel>
-  <programme start="20251221000000 -0600" stop="20251221210000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Anaheim_Ducks___21_00_1">
-    <title>Próximamente | 21:00 | Columbus Blue Jackets vs Anaheim Ducks</title>
-  </programme>
-  <programme start="20251221210000 -0600" stop="20251222000000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Anaheim_Ducks___21_00_1">
-    <title>⌾ En vivo | 21:00 | Columbus Blue Jackets vs Anaheim Ducks</title>
-  </programme>
-  <programme start="20251222000000 -0600" stop="20251221235959 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Anaheim_Ducks___21_00_1">
-    <title>Finalizado | Columbus Blue Jackets vs Anaheim Ducks</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221210000 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__San_Jose_Sharks___21_00_1">
-    <title>Próximamente | 21:00 | Se vs tle Kraken vs. San Jose Sharks</title>
-  </programme>
-  <programme start="20251221210000 -0600" stop="20251222000000 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__San_Jose_Sharks___21_00_1">
-    <title>⌾ En vivo | 21:00 | Se vs tle Kraken vs. San Jose Sharks</title>
-  </programme>
-  <programme start="20251222000000 -0600" stop="20251221235959 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__San_Jose_Sharks___21_00_1">
-    <title>Finalizado | Se vs tle Kraken vs. San Jose Sharks</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221210000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Calgary_Flames___21_00_1">
-    <title>Próximamente | 21:00 | Vegas Golden Knights vs Calgary Flames</title>
-  </programme>
-  <programme start="20251221210000 -0600" stop="20251222000000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Calgary_Flames___21_00_1">
-    <title>⌾ En vivo | 21:00 | Vegas Golden Knights vs Calgary Flames</title>
-  </programme>
-  <programme start="20251222000000 -0600" stop="20251221235959 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_Calgary_Flames___21_00_1">
-    <title>Finalizado | Vegas Golden Knights vs Calgary Flames</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221193000 -0600" channel="Evento_LMP__LMP___Tucson_vs_Charros_de_Jalisco___19_30_1">
-    <title>Próximamente | 19:30 | Tucson vs Charros de Jalisco</title>
-  </programme>
-  <programme start="20251221193000 -0600" stop="20251221223000 -0600" channel="Evento_LMP__LMP___Tucson_vs_Charros_de_Jalisco___19_30_1">
-    <title>⌾ En vivo | 19:30 | Tucson vs Charros de Jalisco</title>
-  </programme>
-  <programme start="20251221223000 -0600" stop="20251221235959 -0600" channel="Evento_LMP__LMP___Tucson_vs_Charros_de_Jalisco___19_30_1">
-    <title>Finalizado | Tucson vs Charros de Jalisco</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221200500 -0600" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Algodoneros_De_Guasave___20_05_1">
-    <title>Próximamente | 20:05 | Tom vs eros De Culiacan vs. Algodoneros De Guasave</title>
-  </programme>
-  <programme start="20251221200500 -0600" stop="20251221230500 -0600" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Algodoneros_De_Guasave___20_05_1">
-    <title>⌾ En vivo | 20:05 | Tom vs eros De Culiacan vs. Algodoneros De Guasave</title>
-  </programme>
-  <programme start="20251221230500 -0600" stop="20251221235959 -0600" channel="Evento_LMP__LMP___Tom_vs_eros_De_Culiacan_vs__Algodoneros_De_Guasave___20_05_1">
-    <title>Finalizado | Tom vs eros De Culiacan vs. Algodoneros De Guasave</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221201000 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Jaguares_de_Nayarit___20_10_1">
-    <title>Próximamente | 20:10 | Yaquis De Ciudad Obregón vs Jaguares de Nayarit</title>
-  </programme>
-  <programme start="20251221201000 -0600" stop="20251221231000 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Jaguares_de_Nayarit___20_10_1">
-    <title>⌾ En vivo | 20:10 | Yaquis De Ciudad Obregón vs Jaguares de Nayarit</title>
-  </programme>
-  <programme start="20251221231000 -0600" stop="20251221235959 -0600" channel="Evento_LMP__LMP___Yaquis_De_Ciudad_Obreg_n_vs_Jaguares_de_Nayarit___20_10_1">
-    <title>Finalizado | Yaquis De Ciudad Obregón vs Jaguares de Nayarit</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221203000 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Venados_De_Mazatlan___20_30_1">
-    <title>Próximamente | 20:30 | Naranjeros De Hermosillo vs Venados De Mazatlan</title>
-  </programme>
-  <programme start="20251221203000 -0600" stop="20251221233000 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Venados_De_Mazatlan___20_30_1">
-    <title>⌾ En vivo | 20:30 | Naranjeros De Hermosillo vs Venados De Mazatlan</title>
-  </programme>
-  <programme start="20251221233000 -0600" stop="20251221235959 -0600" channel="Evento_LMP__LMP___Naranjeros_De_Hermosillo_vs_Venados_De_Mazatlan___20_30_1">
-    <title>Finalizado | Naranjeros De Hermosillo vs Venados De Mazatlan</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221213000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Aguilas_De_Mexicali___21_30_1">
-    <title>Próximamente | 21:30 | Cañeros de los Mochis vs Aguilas De Mexicali</title>
-  </programme>
-  <programme start="20251221213000 -0600" stop="20251222003000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Aguilas_De_Mexicali___21_30_1">
-    <title>⌾ En vivo | 21:30 | Cañeros de los Mochis vs Aguilas De Mexicali</title>
-  </programme>
-  <programme start="20251222003000 -0600" stop="20251221235959 -0600" channel="Evento_LMP__LMP___Ca_eros_de_los_Mochis_vs_Aguilas_De_Mexicali___21_30_1">
-    <title>Finalizado | Cañeros de los Mochis vs Aguilas De Mexicali</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221203000 -0600" channel="Evento_NBA__NBA___Utah_Jazz_vs_Orlando_Magic___20_30_1">
-    <title>Próximamente | 20:30 | Utah Jazz vs Orlando Magic</title>
-  </programme>
-  <programme start="20251221203000 -0600" stop="20251221233000 -0600" channel="Evento_NBA__NBA___Utah_Jazz_vs_Orlando_Magic___20_30_1">
-    <title>⌾ En vivo | 20:30 | Utah Jazz vs Orlando Magic</title>
-  </programme>
-  <programme start="20251221233000 -0600" stop="20251221235959 -0600" channel="Evento_NBA__NBA___Utah_Jazz_vs_Orlando_Magic___20_30_1">
-    <title>Finalizado | Utah Jazz vs Orlando Magic</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221210000 -0600" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Portland_Trail_Blazers___21_00_1">
-    <title>Próximamente | 21:00 | Sacramento Kings vs Portland Trail Blazers</title>
-  </programme>
-  <programme start="20251221210000 -0600" stop="20251222000000 -0600" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Portland_Trail_Blazers___21_00_1">
-    <title>⌾ En vivo | 21:00 | Sacramento Kings vs Portland Trail Blazers</title>
-  </programme>
-  <programme start="20251222000000 -0600" stop="20251221235959 -0600" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Portland_Trail_Blazers___21_00_1">
-    <title>Finalizado | Sacramento Kings vs Portland Trail Blazers</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221213000 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Los_Angeles_Lakers___21_30_1">
-    <title>Próximamente | 21:30 | Los Angeles Clippers vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20251221213000 -0600" stop="20251222003000 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Los_Angeles_Lakers___21_30_1">
-    <title>⌾ En vivo | 21:30 | Los Angeles Clippers vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20251222003000 -0600" stop="20251221235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Los_Angeles_Lakers___21_30_1">
-    <title>Finalizado | Los Angeles Clippers vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221190000 -0600" channel="Evento_BOX__BOX___Argi_Cortes_vs_Yahir_Frank___19_00_1">
-    <title>Próximamente | 19:00 | Argi Cortes vs Yahir Frank</title>
-  </programme>
-  <programme start="20251221190000 -0600" stop="20251221220000 -0600" channel="Evento_BOX__BOX___Argi_Cortes_vs_Yahir_Frank___19_00_1">
-    <title>⌾ En vivo | 19:00 | Argi Cortes vs Yahir Frank</title>
-  </programme>
-  <programme start="20251221220000 -0600" stop="20251221235959 -0600" channel="Evento_BOX__BOX___Argi_Cortes_vs_Yahir_Frank___19_00_1">
-    <title>Finalizado | Argi Cortes vs Yahir Frank</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221190000 -0600" channel="Evento_BOX__BOX___Jos__Rosa_vs_Juan_Pablo_Ilharregui___19_00_1">
-    <title>Próximamente | 19:00 | José Rosa vs Juan Pablo Ilharregui</title>
-  </programme>
-  <programme start="20251221190000 -0600" stop="20251221220000 -0600" channel="Evento_BOX__BOX___Jos__Rosa_vs_Juan_Pablo_Ilharregui___19_00_1">
-    <title>⌾ En vivo | 19:00 | José Rosa vs Juan Pablo Ilharregui</title>
-  </programme>
-  <programme start="20251221220000 -0600" stop="20251221235959 -0600" channel="Evento_BOX__BOX___Jos__Rosa_vs_Juan_Pablo_Ilharregui___19_00_1">
-    <title>Finalizado | José Rosa vs Juan Pablo Ilharregui</title>
-  </programme>
+  <channel id="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Miami_Dolphins__ENG____12_00_1">
+    <display-name>NFL | Cincinn vs i Bengals at Miami Dolphins [ENG] | 12:00</display-name>
+  </channel>
+  <channel id="Evento_NFL__NFL___New_England_P_vs_riots_at_Baltimore_Ravens__ENG____19_20_1">
+    <display-name>NFL | New England P vs riots at Baltimore Ravens [ENG] | 19:20</display-name>
+  </channel>
+  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <display-name>NFL | Se vs tle Seahawks at Washigton Commanders | 19:20</display-name>
+  </channel>
   <programme start="20251221000000 -0600" stop="20251221120000 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Detroit_Red_Wings___12_00_1">
     <title>Próximamente | 12:00 | Washington Capitals vs Detroit Red Wings</title>
   </programme>
@@ -138145,6 +137998,33 @@
   </programme>
   <programme start="20251221223000 -0600" stop="20251221235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino____19_USC_vs_California___19_30_1">
     <title>Finalizado | #19 USC vs California</title>
+  </programme>
+  <programme start="20251221000000 -0600" stop="20251221120000 -0600" channel="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Miami_Dolphins__ENG____12_00_1">
+    <title>Próximamente | 12:00 | Cincinn vs i Bengals at Miami Dolphins [ENG]</title>
+  </programme>
+  <programme start="20251221120000 -0600" stop="20251221150000 -0600" channel="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Miami_Dolphins__ENG____12_00_1">
+    <title>⌾ En vivo | 12:00 | Cincinn vs i Bengals at Miami Dolphins [ENG]</title>
+  </programme>
+  <programme start="20251221150000 -0600" stop="20251221235959 -0600" channel="Evento_NFL__NFL___Cincinn_vs_i_Bengals_at_Miami_Dolphins__ENG____12_00_1">
+    <title>Finalizado | Cincinn vs i Bengals at Miami Dolphins [ENG]</title>
+  </programme>
+  <programme start="20251221000000 -0600" stop="20251221192000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_at_Baltimore_Ravens__ENG____19_20_1">
+    <title>Próximamente | 19:20 | New England P vs riots at Baltimore Ravens [ENG]</title>
+  </programme>
+  <programme start="20251221192000 -0600" stop="20251221222000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_at_Baltimore_Ravens__ENG____19_20_1">
+    <title>⌾ En vivo | 19:20 | New England P vs riots at Baltimore Ravens [ENG]</title>
+  </programme>
+  <programme start="20251221222000 -0600" stop="20251221235959 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_at_Baltimore_Ravens__ENG____19_20_1">
+    <title>Finalizado | New England P vs riots at Baltimore Ravens [ENG]</title>
+  </programme>
+  <programme start="20251221000000 -0600" stop="20251221192000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>Próximamente | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251221192000 -0600" stop="20251221222000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>⌾ En vivo | 19:20 | Se vs tle Seahawks at Washigton Commanders</title>
+  </programme>
+  <programme start="20251221222000 -0600" stop="20251221235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
+    <title>Finalizado | Se vs tle Seahawks at Washigton Commanders</title>
   </programme>
 </tv>
 
