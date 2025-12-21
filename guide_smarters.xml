@@ -137123,9 +137123,6 @@
   <channel id="Evento_Copa_de_Francia__Copa_de_Francia___Olympique_Lyonnais_vs_FC_Saint_Cyr_Collonges___13_50_1">
     <display-name>Copa de Francia | Olympique Lyonnais vs FC Saint-Cyr Collonges | 13:50</display-name>
   </channel>
-  <channel id="Evento_Serie_A__Serie_A___Cagliari_vs_Pisa___05_30_1">
-    <display-name>Serie A | Cagliari vs Pisa | 05:30</display-name>
-  </channel>
   <channel id="Evento_Serie_A__Serie_A___Sassuolo_vs_Torino___08_00_1">
     <display-name>Serie A | Sassuolo vs Torino | 08:00</display-name>
   </channel>
@@ -137141,18 +137138,6 @@
   <channel id="Evento_Bundesliga__Bundesliga___Heidenheim_vs_Bayern_M_nchen___10_30_1">
     <display-name>Bundesliga | Heidenheim vs Bayern München | 10:30</display-name>
   </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___Eintracht_Braunschweig_vs_Schalke_04___06_30_1">
-    <display-name>Bundesliga 2 | Eintracht Braunschweig vs Schalke 04 | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Hannover_96___06_30_1">
-    <display-name>Bundesliga 2 | Nürnberg vs Hannover 96 | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga_2__Bundesliga_2___Preu_en_M_nster_vs_Elversberg___06_30_1">
-    <display-name>Bundesliga 2 | Preußen Münster vs Elversberg | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Eredivisie__Eredivisie___Utrecht_vs_PSV___05_15_1">
-    <display-name>Eredivisie | Utrecht vs PSV | 05:15</display-name>
-  </channel>
   <channel id="Evento_Eredivisie__Eredivisie___Feyenoord_vs_Twente___07_30_1">
     <display-name>Eredivisie | Feyenoord vs Twente | 07:30</display-name>
   </channel>
@@ -137164,9 +137149,6 @@
   </channel>
   <channel id="Evento_Eredivisie__Eredivisie___Volendam_vs_Sparta_Rotterdam___09_45_1">
     <display-name>Eredivisie | Volendam vs Sparta Rotterdam | 09:45</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___M_laga_vs_Almer_a___07_00_1">
-    <display-name>LaLiga SmartBank | Málaga vs Almería | 07:00</display-name>
   </channel>
   <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Mirand_s_vs_C_rdoba___09_15_1">
     <display-name>LaLiga SmartBank | Mirandés vs Córdoba | 09:15</display-name>
@@ -137182,9 +137164,6 @@
   </channel>
   <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_CD_Castell_n___14_00_1">
     <display-name>LaLiga SmartBank | Cádiz vs CD Castellón | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Amistoso__Amistoso___Per__vs_Bolivia___07_00_1">
-    <display-name>Amistoso | Perú vs Bolivia | 07:00</display-name>
   </channel>
   <channel id="Evento_Saudi_Pro__Saudi_Pro___Al_Najma_vs_Al_Nassr___11_30_1">
     <display-name>Saudi Pro | Al Najma vs Al Nassr | 11:30</display-name>
@@ -137798,15 +137777,6 @@
   <programme start="20251221225000" stop="20251222055959" channel="Evento_Copa_de_Francia__Copa_de_Francia___Olympique_Lyonnais_vs_FC_Saint_Cyr_Collonges___13_50_1">
     <title>Finalizado | Olympique Lyonnais vs FC Saint-Cyr Collonges</title>
   </programme>
-  <programme start="20251221060000" stop="20251221113000" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Pisa___05_30_1">
-    <title>Próximamente | 05:30 | Cagliari vs Pisa</title>
-  </programme>
-  <programme start="20251221113000" stop="20251221143000" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Pisa___05_30_1">
-    <title>⌾ En vivo | 05:30 | Cagliari vs Pisa</title>
-  </programme>
-  <programme start="20251221143000" stop="20251222055959" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Pisa___05_30_1">
-    <title>Finalizado | Cagliari vs Pisa</title>
-  </programme>
   <programme start="20251221060000" stop="20251221140000" channel="Evento_Serie_A__Serie_A___Sassuolo_vs_Torino___08_00_1">
     <title>Próximamente | 08:00 | Sassuolo vs Torino</title>
   </programme>
@@ -137852,42 +137822,6 @@
   <programme start="20251221193000" stop="20251222055959" channel="Evento_Bundesliga__Bundesliga___Heidenheim_vs_Bayern_M_nchen___10_30_1">
     <title>Finalizado | Heidenheim vs Bayern München</title>
   </programme>
-  <programme start="20251221060000" stop="20251221123000" channel="Evento_Bundesliga_2__Bundesliga_2___Eintracht_Braunschweig_vs_Schalke_04___06_30_1">
-    <title>Próximamente | 06:30 | Eintracht Braunschweig vs Schalke 04</title>
-  </programme>
-  <programme start="20251221123000" stop="20251221153000" channel="Evento_Bundesliga_2__Bundesliga_2___Eintracht_Braunschweig_vs_Schalke_04___06_30_1">
-    <title>⌾ En vivo | 06:30 | Eintracht Braunschweig vs Schalke 04</title>
-  </programme>
-  <programme start="20251221153000" stop="20251222055959" channel="Evento_Bundesliga_2__Bundesliga_2___Eintracht_Braunschweig_vs_Schalke_04___06_30_1">
-    <title>Finalizado | Eintracht Braunschweig vs Schalke 04</title>
-  </programme>
-  <programme start="20251221060000" stop="20251221123000" channel="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Hannover_96___06_30_1">
-    <title>Próximamente | 06:30 | Nürnberg vs Hannover 96</title>
-  </programme>
-  <programme start="20251221123000" stop="20251221153000" channel="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Hannover_96___06_30_1">
-    <title>⌾ En vivo | 06:30 | Nürnberg vs Hannover 96</title>
-  </programme>
-  <programme start="20251221153000" stop="20251222055959" channel="Evento_Bundesliga_2__Bundesliga_2___N_rnberg_vs_Hannover_96___06_30_1">
-    <title>Finalizado | Nürnberg vs Hannover 96</title>
-  </programme>
-  <programme start="20251221060000" stop="20251221123000" channel="Evento_Bundesliga_2__Bundesliga_2___Preu_en_M_nster_vs_Elversberg___06_30_1">
-    <title>Próximamente | 06:30 | Preußen Münster vs Elversberg</title>
-  </programme>
-  <programme start="20251221123000" stop="20251221153000" channel="Evento_Bundesliga_2__Bundesliga_2___Preu_en_M_nster_vs_Elversberg___06_30_1">
-    <title>⌾ En vivo | 06:30 | Preußen Münster vs Elversberg</title>
-  </programme>
-  <programme start="20251221153000" stop="20251222055959" channel="Evento_Bundesliga_2__Bundesliga_2___Preu_en_M_nster_vs_Elversberg___06_30_1">
-    <title>Finalizado | Preußen Münster vs Elversberg</title>
-  </programme>
-  <programme start="20251221060000" stop="20251221111500" channel="Evento_Eredivisie__Eredivisie___Utrecht_vs_PSV___05_15_1">
-    <title>Próximamente | 05:15 | Utrecht vs PSV</title>
-  </programme>
-  <programme start="20251221111500" stop="20251221141500" channel="Evento_Eredivisie__Eredivisie___Utrecht_vs_PSV___05_15_1">
-    <title>⌾ En vivo | 05:15 | Utrecht vs PSV</title>
-  </programme>
-  <programme start="20251221141500" stop="20251222055959" channel="Evento_Eredivisie__Eredivisie___Utrecht_vs_PSV___05_15_1">
-    <title>Finalizado | Utrecht vs PSV</title>
-  </programme>
   <programme start="20251221060000" stop="20251221133000" channel="Evento_Eredivisie__Eredivisie___Feyenoord_vs_Twente___07_30_1">
     <title>Próximamente | 07:30 | Feyenoord vs Twente</title>
   </programme>
@@ -137923,15 +137857,6 @@
   </programme>
   <programme start="20251221184500" stop="20251222055959" channel="Evento_Eredivisie__Eredivisie___Volendam_vs_Sparta_Rotterdam___09_45_1">
     <title>Finalizado | Volendam vs Sparta Rotterdam</title>
-  </programme>
-  <programme start="20251221060000" stop="20251221130000" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___M_laga_vs_Almer_a___07_00_1">
-    <title>Próximamente | 07:00 | Málaga vs Almería</title>
-  </programme>
-  <programme start="20251221130000" stop="20251221160000" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___M_laga_vs_Almer_a___07_00_1">
-    <title>⌾ En vivo | 07:00 | Málaga vs Almería</title>
-  </programme>
-  <programme start="20251221160000" stop="20251222055959" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___M_laga_vs_Almer_a___07_00_1">
-    <title>Finalizado | Málaga vs Almería</title>
   </programme>
   <programme start="20251221060000" stop="20251221151500" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___Mirand_s_vs_C_rdoba___09_15_1">
     <title>Próximamente | 09:15 | Mirandés vs Córdoba</title>
@@ -137977,15 +137902,6 @@
   </programme>
   <programme start="20251221230000" stop="20251222055959" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_CD_Castell_n___14_00_1">
     <title>Finalizado | Cádiz vs CD Castellón</title>
-  </programme>
-  <programme start="20251221060000" stop="20251221130000" channel="Evento_Amistoso__Amistoso___Per__vs_Bolivia___07_00_1">
-    <title>Próximamente | 07:00 | Perú vs Bolivia</title>
-  </programme>
-  <programme start="20251221130000" stop="20251221160000" channel="Evento_Amistoso__Amistoso___Per__vs_Bolivia___07_00_1">
-    <title>⌾ En vivo | 07:00 | Perú vs Bolivia</title>
-  </programme>
-  <programme start="20251221160000" stop="20251222055959" channel="Evento_Amistoso__Amistoso___Per__vs_Bolivia___07_00_1">
-    <title>Finalizado | Perú vs Bolivia</title>
   </programme>
   <programme start="20251221060000" stop="20251221173000" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Najma_vs_Al_Nassr___11_30_1">
     <title>Próximamente | 11:30 | Al Najma vs Al Nassr</title>
