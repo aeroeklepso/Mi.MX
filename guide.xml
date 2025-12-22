@@ -138038,9 +138038,6 @@
     <desc>Se dan a conocer los artistas más votados y salvados por la audiencia americana, mientras tanto los últimos lugares compiten en el Instant Save.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Washington_Capitals_vs_Detroit_Red_Wings___12_00_1">
-    <display-name>NHL | Washington Capitals vs Detroit Red Wings | 12:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Colorado_Avalanche_vs_Minnesota_Wild___17_00_1">
     <display-name>NHL | Colorado Avalanche vs Minnesota Wild | 17:00</display-name>
   </channel>
@@ -138098,12 +138095,6 @@
   <channel id="Evento_NBA__NBA___Sacramento_Kings_vs_Houston_Rockets___21_00_1">
     <display-name>NBA | Sacramento Kings vs Houston Rockets | 21:00</display-name>
   </channel>
-  <channel id="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Raptors_905__Semifinal____12_00_1">
-    <display-name>NBA G League | Grand Rapids Gold vs Raptors 905 (Semifinal) | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NBA_G_League__NBA_G_League___Stockton_Kings_vs_Salt_Lake_City_Stars__Semifinal____14_30_1">
-    <display-name>NBA G League | Stockton Kings vs Salt Lake City Stars (Semifinal) | 14:30</display-name>
-  </channel>
   <channel id="Evento_NBA_G_League__NBA_G_League___Wisconsin_Herd_vs_South_Bay_Lakers___17_00_1">
     <display-name>NBA G League | Wisconsin Herd vs South Bay Lakers | 17:00</display-name>
   </channel>
@@ -138130,12 +138121,6 @@
   </channel>
   <channel id="Evento_Copa_de_Francia__Copa_de_Francia___Olympique_Lyonnais_vs_FC_Saint_Cyr_Collonges___13_50_1">
     <display-name>Copa de Francia | Olympique Lyonnais vs FC Saint-Cyr Collonges | 13:50</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Genoa_vs_Atalanta___13_45_1">
-    <display-name>Serie A | Genoa vs Atalanta | 13:45</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_CD_Castell_n___14_00_1">
-    <display-name>LaLiga SmartBank | Cádiz vs CD Castellón | 14:00</display-name>
   </channel>
   <channel id="Evento_Saudi_Pro__Saudi_Pro___Al_Najma_vs_Al_Nassr___11_30_1">
     <display-name>Saudi Pro | Al Najma vs Al Nassr | 11:30</display-name>
@@ -138179,20 +138164,11 @@
   <channel id="Evento_Major_Arena_League__Major_Arena_League___St__Louis_Ambush_vs_Kansas_City_Comets___18_05_1">
     <display-name>Major Arena League | St. Louis Ambush vs Kansas City Comets | 18:05</display-name>
   </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Cincinn_vs_i_vs__Clemson___14_00_1">
-    <display-name>NCAA Masculino | Cincinn vs i vs. Clemson | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Oregon_St_vs_e_vs__Arizona_State___14_00_1">
-    <display-name>NCAA Masculino | Oregon St vs e vs. Arizona State | 14:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Morgan_St_vs_e_vs__San_Francisco___17_00_1">
     <display-name>NCAA Masculino | Morgan St vs e vs. San Francisco | 17:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Nicholls_vs_Pacific___18_00_1">
     <display-name>NCAA Masculino | Nicholls vs Pacific | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino____22_Washington_vs_Pacific___15_00_1">
-    <display-name>NCAA Femenino | #22 Washington vs Pacific | 15:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Southern_Utah_vs_Loyola_Marymount___16_30_1">
     <display-name>NCAA Femenino | Southern Utah vs Loyola Marymount | 16:30</display-name>
@@ -138212,15 +138188,6 @@
   <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Washigton_Commanders___19_20_1">
     <display-name>NFL | Se vs tle Seahawks at Washigton Commanders | 19:20</display-name>
   </channel>
-  <programme start="20251221000000 -0600" stop="20251221120000 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Detroit_Red_Wings___12_00_1">
-    <title>Próximamente | 12:00 | Washington Capitals vs Detroit Red Wings</title>
-  </programme>
-  <programme start="20251221120000 -0600" stop="20251221150000 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Detroit_Red_Wings___12_00_1">
-    <title>⌾ En vivo | 12:00 | Washington Capitals vs Detroit Red Wings</title>
-  </programme>
-  <programme start="20251221150000 -0600" stop="20251221235959 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Detroit_Red_Wings___12_00_1">
-    <title>Finalizado | Washington Capitals vs Detroit Red Wings</title>
-  </programme>
   <programme start="20251221000000 -0600" stop="20251221170000 -0600" channel="Evento_NHL__NHL___Colorado_Avalanche_vs_Minnesota_Wild___17_00_1">
     <title>Próximamente | 17:00 | Colorado Avalanche vs Minnesota Wild</title>
   </programme>
@@ -138392,24 +138359,6 @@
   <programme start="20251222000000 -0600" stop="20251221235959 -0600" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Houston_Rockets___21_00_1">
     <title>Finalizado | Sacramento Kings vs Houston Rockets</title>
   </programme>
-  <programme start="20251221000000 -0600" stop="20251221120000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Raptors_905__Semifinal____12_00_1">
-    <title>Próximamente | 12:00 | Grand Rapids Gold vs Raptors 905 (Semifinal)</title>
-  </programme>
-  <programme start="20251221120000 -0600" stop="20251221150000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Raptors_905__Semifinal____12_00_1">
-    <title>⌾ En vivo | 12:00 | Grand Rapids Gold vs Raptors 905 (Semifinal)</title>
-  </programme>
-  <programme start="20251221150000 -0600" stop="20251221235959 -0600" channel="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Raptors_905__Semifinal____12_00_1">
-    <title>Finalizado | Grand Rapids Gold vs Raptors 905 (Semifinal)</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221143000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Stockton_Kings_vs_Salt_Lake_City_Stars__Semifinal____14_30_1">
-    <title>Próximamente | 14:30 | Stockton Kings vs Salt Lake City Stars (Semifinal)</title>
-  </programme>
-  <programme start="20251221143000 -0600" stop="20251221173000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Stockton_Kings_vs_Salt_Lake_City_Stars__Semifinal____14_30_1">
-    <title>⌾ En vivo | 14:30 | Stockton Kings vs Salt Lake City Stars (Semifinal)</title>
-  </programme>
-  <programme start="20251221173000 -0600" stop="20251221235959 -0600" channel="Evento_NBA_G_League__NBA_G_League___Stockton_Kings_vs_Salt_Lake_City_Stars__Semifinal____14_30_1">
-    <title>Finalizado | Stockton Kings vs Salt Lake City Stars (Semifinal)</title>
-  </programme>
   <programme start="20251221000000 -0600" stop="20251221170000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Wisconsin_Herd_vs_South_Bay_Lakers___17_00_1">
     <title>Próximamente | 17:00 | Wisconsin Herd vs South Bay Lakers</title>
   </programme>
@@ -138490,24 +138439,6 @@
   </programme>
   <programme start="20251221165000 -0600" stop="20251221235959 -0600" channel="Evento_Copa_de_Francia__Copa_de_Francia___Olympique_Lyonnais_vs_FC_Saint_Cyr_Collonges___13_50_1">
     <title>Finalizado | Olympique Lyonnais vs FC Saint-Cyr Collonges</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221134500 -0600" channel="Evento_Serie_A__Serie_A___Genoa_vs_Atalanta___13_45_1">
-    <title>Próximamente | 13:45 | Genoa vs Atalanta</title>
-  </programme>
-  <programme start="20251221134500 -0600" stop="20251221164500 -0600" channel="Evento_Serie_A__Serie_A___Genoa_vs_Atalanta___13_45_1">
-    <title>⌾ En vivo | 13:45 | Genoa vs Atalanta</title>
-  </programme>
-  <programme start="20251221164500 -0600" stop="20251221235959 -0600" channel="Evento_Serie_A__Serie_A___Genoa_vs_Atalanta___13_45_1">
-    <title>Finalizado | Genoa vs Atalanta</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221140000 -0600" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_CD_Castell_n___14_00_1">
-    <title>Próximamente | 14:00 | Cádiz vs CD Castellón</title>
-  </programme>
-  <programme start="20251221140000 -0600" stop="20251221170000 -0600" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_CD_Castell_n___14_00_1">
-    <title>⌾ En vivo | 14:00 | Cádiz vs CD Castellón</title>
-  </programme>
-  <programme start="20251221170000 -0600" stop="20251221235959 -0600" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_CD_Castell_n___14_00_1">
-    <title>Finalizado | Cádiz vs CD Castellón</title>
   </programme>
   <programme start="20251221000000 -0600" stop="20251221113000 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Najma_vs_Al_Nassr___11_30_1">
     <title>Próximamente | 11:30 | Al Najma vs Al Nassr</title>
@@ -138635,24 +138566,6 @@
   <programme start="20251221210500 -0600" stop="20251221235959 -0600" channel="Evento_Major_Arena_League__Major_Arena_League___St__Louis_Ambush_vs_Kansas_City_Comets___18_05_1">
     <title>Finalizado | St. Louis Ambush vs Kansas City Comets</title>
   </programme>
-  <programme start="20251221000000 -0600" stop="20251221140000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Cincinn_vs_i_vs__Clemson___14_00_1">
-    <title>Próximamente | 14:00 | Cincinn vs i vs. Clemson</title>
-  </programme>
-  <programme start="20251221140000 -0600" stop="20251221170000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Cincinn_vs_i_vs__Clemson___14_00_1">
-    <title>⌾ En vivo | 14:00 | Cincinn vs i vs. Clemson</title>
-  </programme>
-  <programme start="20251221170000 -0600" stop="20251221235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Cincinn_vs_i_vs__Clemson___14_00_1">
-    <title>Finalizado | Cincinn vs i vs. Clemson</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221140000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Oregon_St_vs_e_vs__Arizona_State___14_00_1">
-    <title>Próximamente | 14:00 | Oregon St vs e vs. Arizona State</title>
-  </programme>
-  <programme start="20251221140000 -0600" stop="20251221170000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Oregon_St_vs_e_vs__Arizona_State___14_00_1">
-    <title>⌾ En vivo | 14:00 | Oregon St vs e vs. Arizona State</title>
-  </programme>
-  <programme start="20251221170000 -0600" stop="20251221235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Oregon_St_vs_e_vs__Arizona_State___14_00_1">
-    <title>Finalizado | Oregon St vs e vs. Arizona State</title>
-  </programme>
   <programme start="20251221000000 -0600" stop="20251221170000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Morgan_St_vs_e_vs__San_Francisco___17_00_1">
     <title>Próximamente | 17:00 | Morgan St vs e vs. San Francisco</title>
   </programme>
@@ -138670,15 +138583,6 @@
   </programme>
   <programme start="20251221210000 -0600" stop="20251221235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Nicholls_vs_Pacific___18_00_1">
     <title>Finalizado | Nicholls vs Pacific</title>
-  </programme>
-  <programme start="20251221000000 -0600" stop="20251221150000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino____22_Washington_vs_Pacific___15_00_1">
-    <title>Próximamente | 15:00 | #22 Washington vs Pacific</title>
-  </programme>
-  <programme start="20251221150000 -0600" stop="20251221180000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino____22_Washington_vs_Pacific___15_00_1">
-    <title>⌾ En vivo | 15:00 | #22 Washington vs Pacific</title>
-  </programme>
-  <programme start="20251221180000 -0600" stop="20251221235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino____22_Washington_vs_Pacific___15_00_1">
-    <title>Finalizado | #22 Washington vs Pacific</title>
   </programme>
   <programme start="20251221000000 -0600" stop="20251221163000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Southern_Utah_vs_Loyola_Marymount___16_30_1">
     <title>Próximamente | 16:30 | Southern Utah vs Loyola Marymount</title>
