@@ -139199,9 +139199,6 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Houston_Rockets___21_30_1">
     <display-name>NBA | Los Angeles Clippers vs Houston Rockets | 21:30</display-name>
   </channel>
-  <channel id="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Ca_eros_de_Los_Mochis___13_00_1">
-    <display-name>LMP | Naranjeros de Hermosillo vs Cañeros de Los Mochis | 13:00</display-name>
-  </channel>
   <channel id="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Ca_eros_de_Los_Mochis___18_00_1">
     <display-name>LMP | Naranjeros de Hermosillo vs Cañeros de Los Mochis | 18:00</display-name>
   </channel>
@@ -139217,50 +139214,17 @@
   <channel id="Evento_LMP__LMP____guilas_de_Mexicali_vs_Tucson___21_30_1">
     <display-name>LMP | Águilas de Mexicali vs Tucson | 21:30</display-name>
   </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___RD_del_Congo_vs_Ben_n___06_30_1">
-    <display-name>Copa Africana de Naciones | RD del Congo vs Benín | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Senegal_vs_Botsuana___09_00_1">
-    <display-name>Copa Africana de Naciones | Senegal vs Botsuana | 09:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_Tanzania___11_30_1">
-    <display-name>Copa Africana de Naciones | Nigeria vs Tanzania | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___T_nez_vs_Uganda___14_00_1">
-    <display-name>Copa Africana de Naciones | Túnez vs Uganda | 14:00</display-name>
-  </channel>
-  <channel id="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_1">
-    <display-name>AFC Champions League Elite | Al Ittihad (KSA) vs Nasaf (UZB) | 10:00</display-name>
-  </channel>
-  <channel id="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_2">
-    <display-name>AFC Champions League Elite | Al Ittihad (KSA) vs Nasaf (UZB) | 10:00</display-name>
-  </channel>
   <channel id="Evento_Carabao_Cup__Carabao_Cup___Arsenal_vs_Crystal_Palace___14_00_1">
     <display-name>Carabao Cup | Arsenal vs Crystal Palace | 14:00</display-name>
   </channel>
   <channel id="Evento_Carabao_Cup__Carabao_Cup___Arsenal_vs_Crystal_Palace___14_00_2">
     <display-name>Carabao Cup | Arsenal vs Crystal Palace | 14:00</display-name>
   </channel>
-  <channel id="Evento_Copa_Turca__Copa_Turca___Fenerbah_e_vs_Be_ikta____11_30_1">
-    <display-name>Copa Turca | Fenerbahçe vs Beşiktaş | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Caldas_vs_Sporting_Braga___12_45_1">
-    <display-name>Primeira Liga | Caldas vs Sporting Braga | 12:45</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_1">
-    <display-name>Primeira Liga | Vitória Guimarães vs Sporting CP | 14:45</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_2">
-    <display-name>Primeira Liga | Vitória Guimarães vs Sporting CP | 14:45</display-name>
-  </channel>
   <channel id="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Motagua___19_00_1">
     <display-name>Primera HN | Real España vs Motagua | 19:00</display-name>
   </channel>
   <channel id="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Motagua___19_00_2">
     <display-name>Primera HN | Real España vs Motagua | 19:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football___Toledo_vs_Louisville___13_00_1">
-    <display-name>NCAA Football | Toledo vs Louisville | 13:00</display-name>
   </channel>
   <channel id="Evento_NCAA_BAsketball__NCAA_BAsketball___Morgan_St_vs_e_vs__Loyola_Marymount___17_00_1">
     <display-name>NCAA BAsketball | Morgan St vs e vs. Loyola Marymount | 17:00</display-name>
@@ -139514,15 +139478,6 @@
   <programme start="20251224063000" stop="20251224055959" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Houston_Rockets___21_30_1">
     <title>Finalizado | Los Angeles Clippers vs Houston Rockets</title>
   </programme>
-  <programme start="20251223060000" stop="20251223190000" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Ca_eros_de_Los_Mochis___13_00_1">
-    <title>Próximamente | 13:00 | Naranjeros de Hermosillo vs Cañeros de Los Mochis</title>
-  </programme>
-  <programme start="20251223190000" stop="20251223220000" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Ca_eros_de_Los_Mochis___13_00_1">
-    <title>⌾ En vivo | 13:00 | Naranjeros de Hermosillo vs Cañeros de Los Mochis</title>
-  </programme>
-  <programme start="20251223220000" stop="20251224055959" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Ca_eros_de_Los_Mochis___13_00_1">
-    <title>Finalizado | Naranjeros de Hermosillo vs Cañeros de Los Mochis</title>
-  </programme>
   <programme start="20251223060000" stop="20251224000000" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Ca_eros_de_Los_Mochis___18_00_1">
     <title>Próximamente | 18:00 | Naranjeros de Hermosillo vs Cañeros de Los Mochis</title>
   </programme>
@@ -139568,60 +139523,6 @@
   <programme start="20251224063000" stop="20251224055959" channel="Evento_LMP__LMP____guilas_de_Mexicali_vs_Tucson___21_30_1">
     <title>Finalizado | Águilas de Mexicali vs Tucson</title>
   </programme>
-  <programme start="20251223060000" stop="20251223123000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___RD_del_Congo_vs_Ben_n___06_30_1">
-    <title>Próximamente | 06:30 | RD del Congo vs Benín</title>
-  </programme>
-  <programme start="20251223123000" stop="20251223153000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___RD_del_Congo_vs_Ben_n___06_30_1">
-    <title>⌾ En vivo | 06:30 | RD del Congo vs Benín</title>
-  </programme>
-  <programme start="20251223153000" stop="20251224055959" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___RD_del_Congo_vs_Ben_n___06_30_1">
-    <title>Finalizado | RD del Congo vs Benín</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223150000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Senegal_vs_Botsuana___09_00_1">
-    <title>Próximamente | 09:00 | Senegal vs Botsuana</title>
-  </programme>
-  <programme start="20251223150000" stop="20251223180000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Senegal_vs_Botsuana___09_00_1">
-    <title>⌾ En vivo | 09:00 | Senegal vs Botsuana</title>
-  </programme>
-  <programme start="20251223180000" stop="20251224055959" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Senegal_vs_Botsuana___09_00_1">
-    <title>Finalizado | Senegal vs Botsuana</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223173000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_Tanzania___11_30_1">
-    <title>Próximamente | 11:30 | Nigeria vs Tanzania</title>
-  </programme>
-  <programme start="20251223173000" stop="20251223203000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_Tanzania___11_30_1">
-    <title>⌾ En vivo | 11:30 | Nigeria vs Tanzania</title>
-  </programme>
-  <programme start="20251223203000" stop="20251224055959" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_Tanzania___11_30_1">
-    <title>Finalizado | Nigeria vs Tanzania</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223200000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___T_nez_vs_Uganda___14_00_1">
-    <title>Próximamente | 14:00 | Túnez vs Uganda</title>
-  </programme>
-  <programme start="20251223200000" stop="20251223230000" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___T_nez_vs_Uganda___14_00_1">
-    <title>⌾ En vivo | 14:00 | Túnez vs Uganda</title>
-  </programme>
-  <programme start="20251223230000" stop="20251224055959" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___T_nez_vs_Uganda___14_00_1">
-    <title>Finalizado | Túnez vs Uganda</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223160000" channel="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_1">
-    <title>Próximamente | 10:00 | Al Ittihad (KSA) vs Nasaf (UZB)</title>
-  </programme>
-  <programme start="20251223160000" stop="20251223190000" channel="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_1">
-    <title>⌾ En vivo | 10:00 | Al Ittihad (KSA) vs Nasaf (UZB)</title>
-  </programme>
-  <programme start="20251223190000" stop="20251224055959" channel="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_1">
-    <title>Finalizado | Al Ittihad (KSA) vs Nasaf (UZB)</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223160000" channel="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_2">
-    <title>Próximamente | 10:00 | Al Ittihad (KSA) vs Nasaf (UZB)</title>
-  </programme>
-  <programme start="20251223160000" stop="20251223190000" channel="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_2">
-    <title>⌾ En vivo | 10:00 | Al Ittihad (KSA) vs Nasaf (UZB)</title>
-  </programme>
-  <programme start="20251223190000" stop="20251224055959" channel="Evento_AFC_Champions_League_Elite__AFC_Champions_League_Elite___Al_Ittihad__KSA__vs_Nasaf__UZB____10_00_2">
-    <title>Finalizado | Al Ittihad (KSA) vs Nasaf (UZB)</title>
-  </programme>
   <programme start="20251223060000" stop="20251223200000" channel="Evento_Carabao_Cup__Carabao_Cup___Arsenal_vs_Crystal_Palace___14_00_1">
     <title>Próximamente | 14:00 | Arsenal vs Crystal Palace</title>
   </programme>
@@ -139640,42 +139541,6 @@
   <programme start="20251223230000" stop="20251224055959" channel="Evento_Carabao_Cup__Carabao_Cup___Arsenal_vs_Crystal_Palace___14_00_2">
     <title>Finalizado | Arsenal vs Crystal Palace</title>
   </programme>
-  <programme start="20251223060000" stop="20251223173000" channel="Evento_Copa_Turca__Copa_Turca___Fenerbah_e_vs_Be_ikta____11_30_1">
-    <title>Próximamente | 11:30 | Fenerbahçe vs Beşiktaş</title>
-  </programme>
-  <programme start="20251223173000" stop="20251223203000" channel="Evento_Copa_Turca__Copa_Turca___Fenerbah_e_vs_Be_ikta____11_30_1">
-    <title>⌾ En vivo | 11:30 | Fenerbahçe vs Beşiktaş</title>
-  </programme>
-  <programme start="20251223203000" stop="20251224055959" channel="Evento_Copa_Turca__Copa_Turca___Fenerbah_e_vs_Be_ikta____11_30_1">
-    <title>Finalizado | Fenerbahçe vs Beşiktaş</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223184500" channel="Evento_Primeira_Liga__Primeira_Liga___Caldas_vs_Sporting_Braga___12_45_1">
-    <title>Próximamente | 12:45 | Caldas vs Sporting Braga</title>
-  </programme>
-  <programme start="20251223184500" stop="20251223214500" channel="Evento_Primeira_Liga__Primeira_Liga___Caldas_vs_Sporting_Braga___12_45_1">
-    <title>⌾ En vivo | 12:45 | Caldas vs Sporting Braga</title>
-  </programme>
-  <programme start="20251223214500" stop="20251224055959" channel="Evento_Primeira_Liga__Primeira_Liga___Caldas_vs_Sporting_Braga___12_45_1">
-    <title>Finalizado | Caldas vs Sporting Braga</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223204500" channel="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_1">
-    <title>Próximamente | 14:45 | Vitória Guimarães vs Sporting CP</title>
-  </programme>
-  <programme start="20251223204500" stop="20251223234500" channel="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_1">
-    <title>⌾ En vivo | 14:45 | Vitória Guimarães vs Sporting CP</title>
-  </programme>
-  <programme start="20251223234500" stop="20251224055959" channel="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_1">
-    <title>Finalizado | Vitória Guimarães vs Sporting CP</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223204500" channel="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_2">
-    <title>Próximamente | 14:45 | Vitória Guimarães vs Sporting CP</title>
-  </programme>
-  <programme start="20251223204500" stop="20251223234500" channel="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_2">
-    <title>⌾ En vivo | 14:45 | Vitória Guimarães vs Sporting CP</title>
-  </programme>
-  <programme start="20251223234500" stop="20251224055959" channel="Evento_Primeira_Liga__Primeira_Liga___Vit_ria_Guimar_es_vs_Sporting_CP___14_45_2">
-    <title>Finalizado | Vitória Guimarães vs Sporting CP</title>
-  </programme>
   <programme start="20251223060000" stop="20251224010000" channel="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Motagua___19_00_1">
     <title>Próximamente | 19:00 | Real España vs Motagua</title>
   </programme>
@@ -139693,15 +139558,6 @@
   </programme>
   <programme start="20251224040000" stop="20251224055959" channel="Evento_Primera_HN__Primera_HN___Real_Espa_a_vs_Motagua___19_00_2">
     <title>Finalizado | Real España vs Motagua</title>
-  </programme>
-  <programme start="20251223060000" stop="20251223190000" channel="Evento_NCAA_Football__NCAA_Football___Toledo_vs_Louisville___13_00_1">
-    <title>Próximamente | 13:00 | Toledo vs Louisville</title>
-  </programme>
-  <programme start="20251223190000" stop="20251223220000" channel="Evento_NCAA_Football__NCAA_Football___Toledo_vs_Louisville___13_00_1">
-    <title>⌾ En vivo | 13:00 | Toledo vs Louisville</title>
-  </programme>
-  <programme start="20251223220000" stop="20251224055959" channel="Evento_NCAA_Football__NCAA_Football___Toledo_vs_Louisville___13_00_1">
-    <title>Finalizado | Toledo vs Louisville</title>
   </programme>
   <programme start="20251223060000" stop="20251223230000" channel="Evento_NCAA_BAsketball__NCAA_BAsketball___Morgan_St_vs_e_vs__Loyola_Marymount___17_00_1">
     <title>Próximamente | 17:00 | Morgan St vs e vs. Loyola Marymount</title>
