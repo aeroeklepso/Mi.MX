@@ -138482,35 +138482,17 @@
   <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Marruecos_vs_Mal____14_00_1">
     <display-name>Copa Africana de Naciones | Marruecos vs Malí | 14:00</display-name>
   </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Derby_County___06_30_1">
-    <display-name>EFL Championship | Birmingham City vs Derby County | 06:30</display-name>
-  </channel>
   <channel id="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Blackburn_Rovers___09_00_1">
     <display-name>EFL Championship | Middlesbrough vs Blackburn Rovers | 09:00</display-name>
   </channel>
   <channel id="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Blackburn_Rovers___09_00_2">
     <display-name>EFL Championship | Middlesbrough vs Blackburn Rovers | 09:00</display-name>
   </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___West_Bromwich_Albion_vs_Bristol_City___09_00_1">
-    <display-name>EFL Championship | West Bromwich Albion vs Bristol City | 09:00</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Oxford_United_vs_Southampton___09_00_1">
-    <display-name>EFL Championship | Oxford United vs Southampton | 09:00</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Swansea_City___09_00_1">
-    <display-name>EFL Championship | Coventry City vs Swansea City | 09:00</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Stoke_City_vs_Preston_North_End___09_00_1">
-    <display-name>EFL Championship | Stoke City vs Preston North End | 09:00</display-name>
-  </channel>
   <channel id="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Sheffield_United___11_30_1">
     <display-name>EFL Championship | Wrexham vs Sheffield United | 11:30</display-name>
   </channel>
   <channel id="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Sheffield_United___11_30_2">
     <display-name>EFL Championship | Wrexham vs Sheffield United | 11:30</display-name>
-  </channel>
-  <channel id="Evento_EFL_League_Two__EFL_League_Two___Chesterfield_vs_Notts_County___08_55_1">
-    <display-name>EFL League Two | Chesterfield vs Notts County | 08:55</display-name>
   </channel>
   <channel id="Evento_Saudi_Pro__Saudi_Pro___Al_Hilal_vs_Al_Khaleej___11_30_1">
     <display-name>Saudi Pro | Al Hilal vs Al Khaleej | 11:30</display-name>
@@ -138725,15 +138707,6 @@
   <programme start="20251226170000 -0600" stop="20251226235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Marruecos_vs_Mal____14_00_1">
     <title>Finalizado | Marruecos vs Malí</title>
   </programme>
-  <programme start="20251226000000 -0600" stop="20251226063000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Derby_County___06_30_1">
-    <title>Próximamente | 06:30 | Birmingham City vs Derby County</title>
-  </programme>
-  <programme start="20251226063000 -0600" stop="20251226093000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Derby_County___06_30_1">
-    <title>⌾ En vivo | 06:30 | Birmingham City vs Derby County</title>
-  </programme>
-  <programme start="20251226093000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Derby_County___06_30_1">
-    <title>Finalizado | Birmingham City vs Derby County</title>
-  </programme>
   <programme start="20251226000000 -0600" stop="20251226090000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Blackburn_Rovers___09_00_1">
     <title>Próximamente | 09:00 | Middlesbrough vs Blackburn Rovers</title>
   </programme>
@@ -138752,42 +138725,6 @@
   <programme start="20251226120000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Blackburn_Rovers___09_00_2">
     <title>Finalizado | Middlesbrough vs Blackburn Rovers</title>
   </programme>
-  <programme start="20251226000000 -0600" stop="20251226090000 -0600" channel="Evento_EFL_Championship__EFL_Championship___West_Bromwich_Albion_vs_Bristol_City___09_00_1">
-    <title>Próximamente | 09:00 | West Bromwich Albion vs Bristol City</title>
-  </programme>
-  <programme start="20251226090000 -0600" stop="20251226120000 -0600" channel="Evento_EFL_Championship__EFL_Championship___West_Bromwich_Albion_vs_Bristol_City___09_00_1">
-    <title>⌾ En vivo | 09:00 | West Bromwich Albion vs Bristol City</title>
-  </programme>
-  <programme start="20251226120000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___West_Bromwich_Albion_vs_Bristol_City___09_00_1">
-    <title>Finalizado | West Bromwich Albion vs Bristol City</title>
-  </programme>
-  <programme start="20251226000000 -0600" stop="20251226090000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Oxford_United_vs_Southampton___09_00_1">
-    <title>Próximamente | 09:00 | Oxford United vs Southampton</title>
-  </programme>
-  <programme start="20251226090000 -0600" stop="20251226120000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Oxford_United_vs_Southampton___09_00_1">
-    <title>⌾ En vivo | 09:00 | Oxford United vs Southampton</title>
-  </programme>
-  <programme start="20251226120000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Oxford_United_vs_Southampton___09_00_1">
-    <title>Finalizado | Oxford United vs Southampton</title>
-  </programme>
-  <programme start="20251226000000 -0600" stop="20251226090000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Swansea_City___09_00_1">
-    <title>Próximamente | 09:00 | Coventry City vs Swansea City</title>
-  </programme>
-  <programme start="20251226090000 -0600" stop="20251226120000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Swansea_City___09_00_1">
-    <title>⌾ En vivo | 09:00 | Coventry City vs Swansea City</title>
-  </programme>
-  <programme start="20251226120000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Swansea_City___09_00_1">
-    <title>Finalizado | Coventry City vs Swansea City</title>
-  </programme>
-  <programme start="20251226000000 -0600" stop="20251226090000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Stoke_City_vs_Preston_North_End___09_00_1">
-    <title>Próximamente | 09:00 | Stoke City vs Preston North End</title>
-  </programme>
-  <programme start="20251226090000 -0600" stop="20251226120000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Stoke_City_vs_Preston_North_End___09_00_1">
-    <title>⌾ En vivo | 09:00 | Stoke City vs Preston North End</title>
-  </programme>
-  <programme start="20251226120000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Stoke_City_vs_Preston_North_End___09_00_1">
-    <title>Finalizado | Stoke City vs Preston North End</title>
-  </programme>
   <programme start="20251226000000 -0600" stop="20251226113000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Sheffield_United___11_30_1">
     <title>Próximamente | 11:30 | Wrexham vs Sheffield United</title>
   </programme>
@@ -138805,15 +138742,6 @@
   </programme>
   <programme start="20251226143000 -0600" stop="20251226235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Sheffield_United___11_30_2">
     <title>Finalizado | Wrexham vs Sheffield United</title>
-  </programme>
-  <programme start="20251226000000 -0600" stop="20251226085500 -0600" channel="Evento_EFL_League_Two__EFL_League_Two___Chesterfield_vs_Notts_County___08_55_1">
-    <title>Próximamente | 08:55 | Chesterfield vs Notts County</title>
-  </programme>
-  <programme start="20251226085500 -0600" stop="20251226115500 -0600" channel="Evento_EFL_League_Two__EFL_League_Two___Chesterfield_vs_Notts_County___08_55_1">
-    <title>⌾ En vivo | 08:55 | Chesterfield vs Notts County</title>
-  </programme>
-  <programme start="20251226115500 -0600" stop="20251226235959 -0600" channel="Evento_EFL_League_Two__EFL_League_Two___Chesterfield_vs_Notts_County___08_55_1">
-    <title>Finalizado | Chesterfield vs Notts County</title>
   </programme>
   <programme start="20251226000000 -0600" stop="20251226113000 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Hilal_vs_Al_Khaleej___11_30_1">
     <title>Próximamente | 11:30 | Al Hilal vs Al Khaleej</title>
