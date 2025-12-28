@@ -137372,35 +137372,8 @@
   <channel id="Evento_LMP__LMP___Yaquis_de_Ciudad_Obreg_n_vs_Venados_de_Mazatl_n___19_10_1">
     <display-name>LMP | Yaquis de Ciudad Obregón vs Venados de Mazatlán | 19:10</display-name>
   </channel>
-  <channel id="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_1">
-    <display-name>Premier League | Chelsea vs Aston Villa | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_2">
-    <display-name>Premier League | Chelsea vs Aston Villa | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_1">
-    <display-name>Saudi Pro League | Al Ittihad vs Al Shabab | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_2">
-    <display-name>Saudi Pro League | Al Ittihad vs Al Shabab | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Udinese_vs_Lazio___11_00_1">
-    <display-name>Serie A | Udinese vs Lazio | 11:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Pisa_vs_Juventus___13_45_1">
-    <display-name>Serie A | Pisa vs Juventus | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Uganda_vs_Tanzania___11_30_1">
-    <display-name>Copa Africana de Naciones | Uganda vs Tanzania | 11:30</display-name>
-  </channel>
   <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_T_nez___14_00_1">
     <display-name>Copa Africana de Naciones | Nigeria vs Túnez | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Famalic_o_vs_Estrela___12_00_1">
-    <display-name>Primeira Liga | Famalicão vs Estrela | 12:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Estoril_vs_Alverca___14_30_1">
-    <display-name>Primeira Liga | Estoril vs Alverca | 14:30</display-name>
   </channel>
   <channel id="Evento_Liga_Guatemala__Liga_Guatemala___Municipal_vs_Antigua_GFC___18_00_1">
     <display-name>Liga Guatemala | Municipal vs Antigua GFC | 18:00</display-name>
@@ -137426,9 +137399,6 @@
   <channel id="Evento_National_Lacrosse_League__National_Lacrosse_League___Georgia_Swarm_vs_Colorado_Mammoth___20_00_1">
     <display-name>National Lacrosse League | Georgia Swarm vs Colorado Mammoth | 20:00</display-name>
   </channel>
-  <channel id="Evento_Premiership_Rugby__Premiership_Rugby___B_vs_h_vs__Northampton_Saints___11_15_1">
-    <display-name>Premiership Rugby | B vs h vs. Northampton Saints | 11:15</display-name>
-  </channel>
   <channel id="Evento_World_Junior_U20__World_Junior_U20___L_vs_via_U20_vs__Canada_U20___15_30_1">
     <display-name>World Junior U20 | L vs via U20 vs. Canada U20 | 15:30</display-name>
   </channel>
@@ -137437,9 +137407,6 @@
   </channel>
   <channel id="Evento_World_Junior_U20__World_Junior_U20___Denmark_U20_vs_Czech_Republic_U20___19_30_1">
     <display-name>World Junior U20 | Denmark U20 vs Czech Republic U20 | 19:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football___UConn_vs_Army___13_15_1">
-    <display-name>NCAA Football | UConn vs Army | 13:15</display-name>
   </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football____22_Georgia_Tech_vs__12_BYU___14_30_1">
     <display-name>NCAA Football | #22 Georgia Tech vs #12 BYU | 14:30</display-name>
@@ -137663,69 +137630,6 @@
   <programme start="20251227221000 -0600" stop="20251227235959 -0600" channel="Evento_LMP__LMP___Yaquis_de_Ciudad_Obreg_n_vs_Venados_de_Mazatl_n___19_10_1">
     <title>Finalizado | Yaquis de Ciudad Obregón vs Venados de Mazatlán</title>
   </programme>
-  <programme start="20251227000000 -0600" stop="20251227113000 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_1">
-    <title>Próximamente | 11:30 | Chelsea vs Aston Villa</title>
-  </programme>
-  <programme start="20251227113000 -0600" stop="20251227143000 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_1">
-    <title>⌾ En vivo | 11:30 | Chelsea vs Aston Villa</title>
-  </programme>
-  <programme start="20251227143000 -0600" stop="20251227235959 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_1">
-    <title>Finalizado | Chelsea vs Aston Villa</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227113000 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_2">
-    <title>Próximamente | 11:30 | Chelsea vs Aston Villa</title>
-  </programme>
-  <programme start="20251227113000 -0600" stop="20251227143000 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_2">
-    <title>⌾ En vivo | 11:30 | Chelsea vs Aston Villa</title>
-  </programme>
-  <programme start="20251227143000 -0600" stop="20251227235959 -0600" channel="Evento_Premier_League__Premier_League___Chelsea_vs_Aston_Villa___11_30_2">
-    <title>Finalizado | Chelsea vs Aston Villa</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227113000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_1">
-    <title>Próximamente | 11:30 | Al Ittihad vs Al Shabab</title>
-  </programme>
-  <programme start="20251227113000 -0600" stop="20251227143000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_1">
-    <title>⌾ En vivo | 11:30 | Al Ittihad vs Al Shabab</title>
-  </programme>
-  <programme start="20251227143000 -0600" stop="20251227235959 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_1">
-    <title>Finalizado | Al Ittihad vs Al Shabab</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227113000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_2">
-    <title>Próximamente | 11:30 | Al Ittihad vs Al Shabab</title>
-  </programme>
-  <programme start="20251227113000 -0600" stop="20251227143000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_2">
-    <title>⌾ En vivo | 11:30 | Al Ittihad vs Al Shabab</title>
-  </programme>
-  <programme start="20251227143000 -0600" stop="20251227235959 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Ittihad_vs_Al_Shabab___11_30_2">
-    <title>Finalizado | Al Ittihad vs Al Shabab</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227110000 -0600" channel="Evento_Serie_A__Serie_A___Udinese_vs_Lazio___11_00_1">
-    <title>Próximamente | 11:00 | Udinese vs Lazio</title>
-  </programme>
-  <programme start="20251227110000 -0600" stop="20251227140000 -0600" channel="Evento_Serie_A__Serie_A___Udinese_vs_Lazio___11_00_1">
-    <title>⌾ En vivo | 11:00 | Udinese vs Lazio</title>
-  </programme>
-  <programme start="20251227140000 -0600" stop="20251227235959 -0600" channel="Evento_Serie_A__Serie_A___Udinese_vs_Lazio___11_00_1">
-    <title>Finalizado | Udinese vs Lazio</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227134500 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Juventus___13_45_1">
-    <title>Próximamente | 13:45 | Pisa vs Juventus</title>
-  </programme>
-  <programme start="20251227134500 -0600" stop="20251227164500 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Juventus___13_45_1">
-    <title>⌾ En vivo | 13:45 | Pisa vs Juventus</title>
-  </programme>
-  <programme start="20251227164500 -0600" stop="20251227235959 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Juventus___13_45_1">
-    <title>Finalizado | Pisa vs Juventus</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227113000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Uganda_vs_Tanzania___11_30_1">
-    <title>Próximamente | 11:30 | Uganda vs Tanzania</title>
-  </programme>
-  <programme start="20251227113000 -0600" stop="20251227143000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Uganda_vs_Tanzania___11_30_1">
-    <title>⌾ En vivo | 11:30 | Uganda vs Tanzania</title>
-  </programme>
-  <programme start="20251227143000 -0600" stop="20251227235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Uganda_vs_Tanzania___11_30_1">
-    <title>Finalizado | Uganda vs Tanzania</title>
-  </programme>
   <programme start="20251227000000 -0600" stop="20251227140000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_T_nez___14_00_1">
     <title>Próximamente | 14:00 | Nigeria vs Túnez</title>
   </programme>
@@ -137734,24 +137638,6 @@
   </programme>
   <programme start="20251227170000 -0600" stop="20251227235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Nigeria_vs_T_nez___14_00_1">
     <title>Finalizado | Nigeria vs Túnez</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227120000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Famalic_o_vs_Estrela___12_00_1">
-    <title>Próximamente | 12:00 | Famalicão vs Estrela</title>
-  </programme>
-  <programme start="20251227120000 -0600" stop="20251227150000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Famalic_o_vs_Estrela___12_00_1">
-    <title>⌾ En vivo | 12:00 | Famalicão vs Estrela</title>
-  </programme>
-  <programme start="20251227150000 -0600" stop="20251227235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Famalic_o_vs_Estrela___12_00_1">
-    <title>Finalizado | Famalicão vs Estrela</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227143000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Estoril_vs_Alverca___14_30_1">
-    <title>Próximamente | 14:30 | Estoril vs Alverca</title>
-  </programme>
-  <programme start="20251227143000 -0600" stop="20251227173000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Estoril_vs_Alverca___14_30_1">
-    <title>⌾ En vivo | 14:30 | Estoril vs Alverca</title>
-  </programme>
-  <programme start="20251227173000 -0600" stop="20251227235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Estoril_vs_Alverca___14_30_1">
-    <title>Finalizado | Estoril vs Alverca</title>
   </programme>
   <programme start="20251227000000 -0600" stop="20251227180000 -0600" channel="Evento_Liga_Guatemala__Liga_Guatemala___Municipal_vs_Antigua_GFC___18_00_1">
     <title>Próximamente | 18:00 | Municipal vs Antigua GFC</title>
@@ -137825,15 +137711,6 @@
   <programme start="20251227230000 -0600" stop="20251227235959 -0600" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Georgia_Swarm_vs_Colorado_Mammoth___20_00_1">
     <title>Finalizado | Georgia Swarm vs Colorado Mammoth</title>
   </programme>
-  <programme start="20251227000000 -0600" stop="20251227111500 -0600" channel="Evento_Premiership_Rugby__Premiership_Rugby___B_vs_h_vs__Northampton_Saints___11_15_1">
-    <title>Próximamente | 11:15 | B vs h vs. Northampton Saints</title>
-  </programme>
-  <programme start="20251227111500 -0600" stop="20251227141500 -0600" channel="Evento_Premiership_Rugby__Premiership_Rugby___B_vs_h_vs__Northampton_Saints___11_15_1">
-    <title>⌾ En vivo | 11:15 | B vs h vs. Northampton Saints</title>
-  </programme>
-  <programme start="20251227141500 -0600" stop="20251227235959 -0600" channel="Evento_Premiership_Rugby__Premiership_Rugby___B_vs_h_vs__Northampton_Saints___11_15_1">
-    <title>Finalizado | B vs h vs. Northampton Saints</title>
-  </programme>
   <programme start="20251227000000 -0600" stop="20251227153000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___L_vs_via_U20_vs__Canada_U20___15_30_1">
     <title>Próximamente | 15:30 | L vs via U20 vs. Canada U20</title>
   </programme>
@@ -137860,15 +137737,6 @@
   </programme>
   <programme start="20251227223000 -0600" stop="20251227235959 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Denmark_U20_vs_Czech_Republic_U20___19_30_1">
     <title>Finalizado | Denmark U20 vs Czech Republic U20</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227131500 -0600" channel="Evento_NCAA_Football__NCAA_Football___UConn_vs_Army___13_15_1">
-    <title>Próximamente | 13:15 | UConn vs Army</title>
-  </programme>
-  <programme start="20251227131500 -0600" stop="20251227161500 -0600" channel="Evento_NCAA_Football__NCAA_Football___UConn_vs_Army___13_15_1">
-    <title>⌾ En vivo | 13:15 | UConn vs Army</title>
-  </programme>
-  <programme start="20251227161500 -0600" stop="20251227235959 -0600" channel="Evento_NCAA_Football__NCAA_Football___UConn_vs_Army___13_15_1">
-    <title>Finalizado | UConn vs Army</title>
   </programme>
   <programme start="20251227000000 -0600" stop="20251227143000 -0600" channel="Evento_NCAA_Football__NCAA_Football____22_Georgia_Tech_vs__12_BYU___14_30_1">
     <title>Próximamente | 14:30 | #22 Georgia Tech vs #12 BYU</title>
