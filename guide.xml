@@ -137468,6 +137468,12 @@
   <channel id="Evento_World_Junior_U20__World_Junior_U20___Finlandia_U20_vs_Letonia_U20___15_30_1">
     <display-name>World Junior U20 | Finlandia U20 vs Letonia U20 | 15:30</display-name>
   </channel>
+  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Carolina_Panthers__ENG____12_00_1">
+    <display-name>NFL | Se vs tle Seahawks at Carolina Panthers [ENG] | 12:00</display-name>
+  </channel>
+  <channel id="Evento_NFL__NFL___New_England_P_vs_riots_at_New_York_Jets__ENG____12_00_1">
+    <display-name>NFL | New England P vs riots at New York Jets [ENG] | 12:00</display-name>
+  </channel>
   <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_vs__New_York_Jets___12_00_1">
     <title>Próximamente | 12:00 | New England P vs riots vs. New York Jets</title>
   </programme>
@@ -137935,6 +137941,24 @@
   </programme>
   <programme start="20251228183000 -0600" stop="20251228235959 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Finlandia_U20_vs_Letonia_U20___15_30_1">
     <title>Finalizado | Finlandia U20 vs Letonia U20</title>
+  </programme>
+  <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Carolina_Panthers__ENG____12_00_1">
+    <title>Próximamente | 12:00 | Se vs tle Seahawks at Carolina Panthers [ENG]</title>
+  </programme>
+  <programme start="20251228120000 -0600" stop="20251228150000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Carolina_Panthers__ENG____12_00_1">
+    <title>⌾ En vivo | 12:00 | Se vs tle Seahawks at Carolina Panthers [ENG]</title>
+  </programme>
+  <programme start="20251228150000 -0600" stop="20251228235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_at_Carolina_Panthers__ENG____12_00_1">
+    <title>Finalizado | Se vs tle Seahawks at Carolina Panthers [ENG]</title>
+  </programme>
+  <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_at_New_York_Jets__ENG____12_00_1">
+    <title>Próximamente | 12:00 | New England P vs riots at New York Jets [ENG]</title>
+  </programme>
+  <programme start="20251228120000 -0600" stop="20251228150000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_at_New_York_Jets__ENG____12_00_1">
+    <title>⌾ En vivo | 12:00 | New England P vs riots at New York Jets [ENG]</title>
+  </programme>
+  <programme start="20251228150000 -0600" stop="20251228235959 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_at_New_York_Jets__ENG____12_00_1">
+    <title>Finalizado | New England P vs riots at New York Jets [ENG]</title>
   </programme>
 </tv>
 
