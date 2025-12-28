@@ -137387,9 +137387,6 @@
   <channel id="Evento_World_Junior_U20__World_Junior_U20___Denmark_U20_vs_Czech_Republic_U20___19_30_1">
     <display-name>World Junior U20 | Denmark U20 vs Czech Republic U20 | 19:30</display-name>
   </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <display-name>NCAA Football | #25 North Texas vs San Diego State | 16:45</display-name>
-  </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football____19_Virginia_vs_Missouri___18_30_1">
     <display-name>NCAA Football | #19 Virginia vs Missouri | 18:30</display-name>
   </channel>
@@ -137650,15 +137647,6 @@
   </programme>
   <programme start="20251227223000 -0600" stop="20251227235959 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Denmark_U20_vs_Czech_Republic_U20___19_30_1">
     <title>Finalizado | Denmark U20 vs Czech Republic U20</title>
-  </programme>
-  <programme start="20251227000000 -0600" stop="20251227164500 -0600" channel="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <title>Próximamente | 16:45 | #25 North Texas vs San Diego State</title>
-  </programme>
-  <programme start="20251227164500 -0600" stop="20251227194500 -0600" channel="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <title>⌾ En vivo | 16:45 | #25 North Texas vs San Diego State</title>
-  </programme>
-  <programme start="20251227194500 -0600" stop="20251227235959 -0600" channel="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <title>Finalizado | #25 North Texas vs San Diego State</title>
   </programme>
   <programme start="20251227000000 -0600" stop="20251227183000 -0600" channel="Evento_NCAA_Football__NCAA_Football____19_Virginia_vs_Missouri___18_30_1">
     <title>Próximamente | 18:30 | #19 Virginia vs Missouri</title>
