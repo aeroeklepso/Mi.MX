@@ -137312,23 +137312,11 @@
     <desc>Los coaches compiten por descubrir y entrenar al proximo fenomeno musical en la segunda noche de las Audiciones a Ciegas.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___16_00_1">
-    <display-name>NCAA Ice Hockey | Arizona St vs e vs. #8 Dartmouth | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___New_York_Rangers_vs_New_York_Islanders___17_00_1">
-    <display-name>NHL | New York Rangers vs New York Islanders | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Boston_Bruins_vs_Buffalo_Sabres___18_00_1">
-    <display-name>NHL | Boston Bruins vs Buffalo Sabres | 18:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Detroit_Red_Wings_vs_Carolina_Hurricanes___18_00_1">
     <display-name>NHL | Detroit Red Wings vs Carolina Hurricanes | 18:00</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___Minnesota_Wild_vs_Winnipeg_Jets___18_00_1">
     <display-name>NHL | Minnesota Wild vs Winnipeg Jets | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Toronto_Maple_Leafs___18_00_1">
-    <display-name>NHL | Ottawa Sen vs ors vs. Toronto Maple Leafs | 18:00</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Florida_Panthers___18_00_1">
     <display-name>NHL | Tampa Bay Lightning vs Florida Panthers | 18:00</display-name>
@@ -137387,15 +137375,6 @@
   <channel id="Evento_MASL__MASL___Kansas_City_Comets_vs_St__Louis_Ambush___18_05_1">
     <display-name>MASL | Kansas City Comets vs St. Louis Ambush | 18:05</display-name>
   </channel>
-  <channel id="Evento_National_Lacrosse_League__National_Lacrosse_League___Sask_vs_chewan_Rush_vs__Halifax_Thunderbirds___17_00_1">
-    <display-name>National Lacrosse League | Sask vs chewan Rush vs. Halifax Thunderbirds | 17:00</display-name>
-  </channel>
-  <channel id="Evento_National_Lacrosse_League__National_Lacrosse_League___Las_Vegas_Desert_Dogs_vs_Toronto_Rock___18_00_1">
-    <display-name>National Lacrosse League | Las Vegas Desert Dogs vs Toronto Rock | 18:00</display-name>
-  </channel>
-  <channel id="Evento_National_Lacrosse_League__National_Lacrosse_League___Philadelphia_Wings_vs_Ottawa_Black_Bears___18_00_1">
-    <display-name>National Lacrosse League | Philadelphia Wings vs Ottawa Black Bears | 18:00</display-name>
-  </channel>
   <channel id="Evento_National_Lacrosse_League__National_Lacrosse_League___Georgia_Swarm_vs_Colorado_Mammoth___20_00_1">
     <display-name>National Lacrosse League | Georgia Swarm vs Colorado Mammoth | 20:00</display-name>
   </channel>
@@ -137407,12 +137386,6 @@
   </channel>
   <channel id="Evento_World_Junior_U20__World_Junior_U20___Denmark_U20_vs_Czech_Republic_U20___19_30_1">
     <display-name>World Junior U20 | Denmark U20 vs Czech Republic U20 | 19:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football____22_Georgia_Tech_vs__12_BYU___14_30_1">
-    <display-name>NCAA Football | #22 Georgia Tech vs #12 BYU | 14:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <display-name>NCAA Football | #25 North Texas vs San Diego State | 16:45</display-name>
   </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football____19_Virginia_vs_Missouri___18_30_1">
     <display-name>NCAA Football | #19 Virginia vs Missouri | 18:30</display-name>
@@ -137450,33 +137423,6 @@
   <channel id="Evento_NBA_G_League__NBA_G_League___Capitanes_de_Ciudad_de_M_xico_vs_Austin_Spurs___19_00_1">
     <display-name>NBA G League | Capitanes de Ciudad de México vs Austin Spurs | 19:00</display-name>
   </channel>
-  <programme start="20251227060000" stop="20251227220000" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___16_00_1">
-    <title>Próximamente | 16:00 | Arizona St vs e vs. #8 Dartmouth</title>
-  </programme>
-  <programme start="20251227220000" stop="20251228010000" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___16_00_1">
-    <title>⌾ En vivo | 16:00 | Arizona St vs e vs. #8 Dartmouth</title>
-  </programme>
-  <programme start="20251228010000" stop="20251228055959" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___16_00_1">
-    <title>Finalizado | Arizona St vs e vs. #8 Dartmouth</title>
-  </programme>
-  <programme start="20251227060000" stop="20251227230000" channel="Evento_NHL__NHL___New_York_Rangers_vs_New_York_Islanders___17_00_1">
-    <title>Próximamente | 17:00 | New York Rangers vs New York Islanders</title>
-  </programme>
-  <programme start="20251227230000" stop="20251228020000" channel="Evento_NHL__NHL___New_York_Rangers_vs_New_York_Islanders___17_00_1">
-    <title>⌾ En vivo | 17:00 | New York Rangers vs New York Islanders</title>
-  </programme>
-  <programme start="20251228020000" stop="20251228055959" channel="Evento_NHL__NHL___New_York_Rangers_vs_New_York_Islanders___17_00_1">
-    <title>Finalizado | New York Rangers vs New York Islanders</title>
-  </programme>
-  <programme start="20251227060000" stop="20251228000000" channel="Evento_NHL__NHL___Boston_Bruins_vs_Buffalo_Sabres___18_00_1">
-    <title>Próximamente | 18:00 | Boston Bruins vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20251228000000" stop="20251228030000" channel="Evento_NHL__NHL___Boston_Bruins_vs_Buffalo_Sabres___18_00_1">
-    <title>⌾ En vivo | 18:00 | Boston Bruins vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20251228030000" stop="20251228055959" channel="Evento_NHL__NHL___Boston_Bruins_vs_Buffalo_Sabres___18_00_1">
-    <title>Finalizado | Boston Bruins vs Buffalo Sabres</title>
-  </programme>
   <programme start="20251227060000" stop="20251228000000" channel="Evento_NHL__NHL___Detroit_Red_Wings_vs_Carolina_Hurricanes___18_00_1">
     <title>Próximamente | 18:00 | Detroit Red Wings vs Carolina Hurricanes</title>
   </programme>
@@ -137494,15 +137440,6 @@
   </programme>
   <programme start="20251228030000" stop="20251228055959" channel="Evento_NHL__NHL___Minnesota_Wild_vs_Winnipeg_Jets___18_00_1">
     <title>Finalizado | Minnesota Wild vs Winnipeg Jets</title>
-  </programme>
-  <programme start="20251227060000" stop="20251228000000" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Toronto_Maple_Leafs___18_00_1">
-    <title>Próximamente | 18:00 | Ottawa Sen vs ors vs. Toronto Maple Leafs</title>
-  </programme>
-  <programme start="20251228000000" stop="20251228030000" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Toronto_Maple_Leafs___18_00_1">
-    <title>⌾ En vivo | 18:00 | Ottawa Sen vs ors vs. Toronto Maple Leafs</title>
-  </programme>
-  <programme start="20251228030000" stop="20251228055959" channel="Evento_NHL__NHL___Ottawa_Sen_vs_ors_vs__Toronto_Maple_Leafs___18_00_1">
-    <title>Finalizado | Ottawa Sen vs ors vs. Toronto Maple Leafs</title>
   </programme>
   <programme start="20251227060000" stop="20251228000000" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Florida_Panthers___18_00_1">
     <title>Próximamente | 18:00 | Tampa Bay Lightning vs Florida Panthers</title>
@@ -137675,33 +137612,6 @@
   <programme start="20251228030500" stop="20251228055959" channel="Evento_MASL__MASL___Kansas_City_Comets_vs_St__Louis_Ambush___18_05_1">
     <title>Finalizado | Kansas City Comets vs St. Louis Ambush</title>
   </programme>
-  <programme start="20251227060000" stop="20251227230000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Sask_vs_chewan_Rush_vs__Halifax_Thunderbirds___17_00_1">
-    <title>Próximamente | 17:00 | Sask vs chewan Rush vs. Halifax Thunderbirds</title>
-  </programme>
-  <programme start="20251227230000" stop="20251228020000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Sask_vs_chewan_Rush_vs__Halifax_Thunderbirds___17_00_1">
-    <title>⌾ En vivo | 17:00 | Sask vs chewan Rush vs. Halifax Thunderbirds</title>
-  </programme>
-  <programme start="20251228020000" stop="20251228055959" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Sask_vs_chewan_Rush_vs__Halifax_Thunderbirds___17_00_1">
-    <title>Finalizado | Sask vs chewan Rush vs. Halifax Thunderbirds</title>
-  </programme>
-  <programme start="20251227060000" stop="20251228000000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Las_Vegas_Desert_Dogs_vs_Toronto_Rock___18_00_1">
-    <title>Próximamente | 18:00 | Las Vegas Desert Dogs vs Toronto Rock</title>
-  </programme>
-  <programme start="20251228000000" stop="20251228030000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Las_Vegas_Desert_Dogs_vs_Toronto_Rock___18_00_1">
-    <title>⌾ En vivo | 18:00 | Las Vegas Desert Dogs vs Toronto Rock</title>
-  </programme>
-  <programme start="20251228030000" stop="20251228055959" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Las_Vegas_Desert_Dogs_vs_Toronto_Rock___18_00_1">
-    <title>Finalizado | Las Vegas Desert Dogs vs Toronto Rock</title>
-  </programme>
-  <programme start="20251227060000" stop="20251228000000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Philadelphia_Wings_vs_Ottawa_Black_Bears___18_00_1">
-    <title>Próximamente | 18:00 | Philadelphia Wings vs Ottawa Black Bears</title>
-  </programme>
-  <programme start="20251228000000" stop="20251228030000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Philadelphia_Wings_vs_Ottawa_Black_Bears___18_00_1">
-    <title>⌾ En vivo | 18:00 | Philadelphia Wings vs Ottawa Black Bears</title>
-  </programme>
-  <programme start="20251228030000" stop="20251228055959" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Philadelphia_Wings_vs_Ottawa_Black_Bears___18_00_1">
-    <title>Finalizado | Philadelphia Wings vs Ottawa Black Bears</title>
-  </programme>
   <programme start="20251227060000" stop="20251228020000" channel="Evento_National_Lacrosse_League__National_Lacrosse_League___Georgia_Swarm_vs_Colorado_Mammoth___20_00_1">
     <title>Próximamente | 20:00 | Georgia Swarm vs Colorado Mammoth</title>
   </programme>
@@ -137737,24 +137647,6 @@
   </programme>
   <programme start="20251228043000" stop="20251228055959" channel="Evento_World_Junior_U20__World_Junior_U20___Denmark_U20_vs_Czech_Republic_U20___19_30_1">
     <title>Finalizado | Denmark U20 vs Czech Republic U20</title>
-  </programme>
-  <programme start="20251227060000" stop="20251227203000" channel="Evento_NCAA_Football__NCAA_Football____22_Georgia_Tech_vs__12_BYU___14_30_1">
-    <title>Próximamente | 14:30 | #22 Georgia Tech vs #12 BYU</title>
-  </programme>
-  <programme start="20251227203000" stop="20251227233000" channel="Evento_NCAA_Football__NCAA_Football____22_Georgia_Tech_vs__12_BYU___14_30_1">
-    <title>⌾ En vivo | 14:30 | #22 Georgia Tech vs #12 BYU</title>
-  </programme>
-  <programme start="20251227233000" stop="20251228055959" channel="Evento_NCAA_Football__NCAA_Football____22_Georgia_Tech_vs__12_BYU___14_30_1">
-    <title>Finalizado | #22 Georgia Tech vs #12 BYU</title>
-  </programme>
-  <programme start="20251227060000" stop="20251227224500" channel="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <title>Próximamente | 16:45 | #25 North Texas vs San Diego State</title>
-  </programme>
-  <programme start="20251227224500" stop="20251228014500" channel="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <title>⌾ En vivo | 16:45 | #25 North Texas vs San Diego State</title>
-  </programme>
-  <programme start="20251228014500" stop="20251228055959" channel="Evento_NCAA_Football__NCAA_Football____25_North_Texas_vs_San_Diego_State___16_45_1">
-    <title>Finalizado | #25 North Texas vs San Diego State</title>
   </programme>
   <programme start="20251227060000" stop="20251228003000" channel="Evento_NCAA_Football__NCAA_Football____19_Virginia_vs_Missouri___18_30_1">
     <title>Próximamente | 18:30 | #19 Virginia vs Missouri</title>
