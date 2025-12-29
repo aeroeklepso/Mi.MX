@@ -137957,18 +137957,6 @@
   <channel id="Evento_Primeira_Liga__Primeira_Liga___Sporting_CP_vs_Rio_Ave___14_30_1">
     <display-name>Primeira Liga | Sporting CP vs Rio Ave | 14:30</display-name>
   </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
-    <display-name>NCAA Femenino | Loyola Marymount vs Gonzaga | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
-    <display-name>NCAA Femenino | Portland vs Saint Mary’s | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Pacific_vs_San_Diego___17_00_1">
-    <display-name>NCAA Masculino | Pacific vs San Diego | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Santa_Clara_vs_Oregon_State___17_00_1">
-    <display-name>NCAA Masculino | Santa Clara vs Oregon State | 17:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Saint_Mary_s_vs_Loyola_Marymount___18_00_1">
     <display-name>NCAA Masculino | Saint Mary’s vs Loyola Marymount | 18:00</display-name>
   </channel>
@@ -138139,42 +138127,6 @@
   </programme>
   <programme start="20251228233000" stop="20251229055959" channel="Evento_Primeira_Liga__Primeira_Liga___Sporting_CP_vs_Rio_Ave___14_30_1">
     <title>Finalizado | Sporting CP vs Rio Ave</title>
-  </programme>
-  <programme start="20251228060000" stop="20251228220000" channel="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
-    <title>Próximamente | 16:00 | Loyola Marymount vs Gonzaga</title>
-  </programme>
-  <programme start="20251228220000" stop="20251229010000" channel="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
-    <title>⌾ En vivo | 16:00 | Loyola Marymount vs Gonzaga</title>
-  </programme>
-  <programme start="20251229010000" stop="20251229055959" channel="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
-    <title>Finalizado | Loyola Marymount vs Gonzaga</title>
-  </programme>
-  <programme start="20251228060000" stop="20251228220000" channel="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
-    <title>Próximamente | 16:00 | Portland vs Saint Mary’s</title>
-  </programme>
-  <programme start="20251228220000" stop="20251229010000" channel="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
-    <title>⌾ En vivo | 16:00 | Portland vs Saint Mary’s</title>
-  </programme>
-  <programme start="20251229010000" stop="20251229055959" channel="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
-    <title>Finalizado | Portland vs Saint Mary’s</title>
-  </programme>
-  <programme start="20251228060000" stop="20251228230000" channel="Evento_NCAA_Masculino__NCAA_Masculino___Pacific_vs_San_Diego___17_00_1">
-    <title>Próximamente | 17:00 | Pacific vs San Diego</title>
-  </programme>
-  <programme start="20251228230000" stop="20251229020000" channel="Evento_NCAA_Masculino__NCAA_Masculino___Pacific_vs_San_Diego___17_00_1">
-    <title>⌾ En vivo | 17:00 | Pacific vs San Diego</title>
-  </programme>
-  <programme start="20251229020000" stop="20251229055959" channel="Evento_NCAA_Masculino__NCAA_Masculino___Pacific_vs_San_Diego___17_00_1">
-    <title>Finalizado | Pacific vs San Diego</title>
-  </programme>
-  <programme start="20251228060000" stop="20251228230000" channel="Evento_NCAA_Masculino__NCAA_Masculino___Santa_Clara_vs_Oregon_State___17_00_1">
-    <title>Próximamente | 17:00 | Santa Clara vs Oregon State</title>
-  </programme>
-  <programme start="20251228230000" stop="20251229020000" channel="Evento_NCAA_Masculino__NCAA_Masculino___Santa_Clara_vs_Oregon_State___17_00_1">
-    <title>⌾ En vivo | 17:00 | Santa Clara vs Oregon State</title>
-  </programme>
-  <programme start="20251229020000" stop="20251229055959" channel="Evento_NCAA_Masculino__NCAA_Masculino___Santa_Clara_vs_Oregon_State___17_00_1">
-    <title>Finalizado | Santa Clara vs Oregon State</title>
   </programme>
   <programme start="20251228060000" stop="20251229000000" channel="Evento_NCAA_Masculino__NCAA_Masculino___Saint_Mary_s_vs_Loyola_Marymount___18_00_1">
     <title>Próximamente | 18:00 | Saint Mary’s vs Loyola Marymount</title>
