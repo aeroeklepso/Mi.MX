@@ -137906,15 +137906,6 @@
     <desc>Los coaches compiten por descubrir y entrenar al proximo fenomeno musical en la tercera noche de las Audiciones a Ciegas.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NFL__NFL___New_England_P_vs_riots_vs__New_York_Jets___12_00_1">
-    <display-name>NFL | New England P vs riots vs. New York Jets | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_1">
-    <display-name>NFL | Se vs tle Seahawks vs. Carolina Panthers | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_2">
-    <display-name>NFL | Se vs tle Seahawks vs. Carolina Panthers | 12:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Montreal_Canadiens___16_00_1">
     <display-name>NHL | Tampa Bay Lightning vs Montreal Canadiens | 16:00</display-name>
   </channel>
@@ -137963,80 +137954,14 @@
   <channel id="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Tomateros_de_Culiac_n___18_00_1">
     <display-name>LMP | Jaguares de Nayarit vs Tomateros de Culiacán | 18:00</display-name>
   </channel>
-  <channel id="Evento_Premier_League__Premier_League___Sunderland_vs_Leeds_United___08_00_1">
-    <display-name>Premier League | Sunderland vs Leeds United | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Tottenham_Hotspur___10_30_1">
-    <display-name>Premier League | Crystal Palace vs Tottenham Hotspur | 10:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_1">
-    <display-name>Serie A | Milan vs Verona | 05:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Cremonese_vs_Napoli___08_00_1">
-    <display-name>Serie A | Cremonese vs Napoli | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Bologna_vs_Sassuolo___11_00_1">
-    <display-name>Serie A | Bologna vs Sassuolo | 11:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Atalanta_vs_Internazionale___13_45_1">
-    <display-name>Serie A | Atalanta vs Internazionale | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_2">
-    <display-name>Serie A | Milan vs Verona | 05:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Gab_n_vs_Mozambique___06_30_1">
-    <display-name>Copa Africana de Naciones | Gabón vs Mozambique | 06:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Guinea_Ecu_vs_orial_vs__Sud_n___09_00_1">
-    <display-name>Copa Africana de Naciones | Guinea Ecu vs orial vs. Sudán | 09:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Argelia_vs_Burkina_Faso___11_30_1">
-    <display-name>Copa Africana de Naciones | Argelia vs Burkina Faso | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Costa_de_Marfil_vs_Camer_n___14_00_1">
-    <display-name>Copa Africana de Naciones | Costa de Marfil vs Camerún | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Casa_Pia_vs_Vit_ria_Guimar_es___09_30_1">
-    <display-name>Primeira Liga | Casa Pia vs Vitória Guimarães | 09:30</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Arouca_vs_Gil_Vicente___09_30_1">
-    <display-name>Primeira Liga | Arouca vs Gil Vicente | 09:30</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Sporting_Braga_vs_Benfica___12_00_1">
-    <display-name>Primeira Liga | Sporting Braga vs Benfica | 12:00</display-name>
-  </channel>
   <channel id="Evento_Primeira_Liga__Primeira_Liga___Sporting_CP_vs_Rio_Ave___14_30_1">
     <display-name>Primeira Liga | Sporting CP vs Rio Ave | 14:30</display-name>
-  </channel>
-  <channel id="Evento_Liga_Nacional_Honduras__Liga_Nacional_Honduras___Mar_vs_h_n_vs__Olancho___15_00_1">
-    <display-name>Liga Nacional Honduras | Mar vs hón vs. Olancho | 15:00</display-name>
-  </channel>
-  <channel id="Evento_Premiership_Rugby__Premiership_Rugby___Exeter_Chiefs_vs_Leicester_Tigers___08_55_1">
-    <display-name>Premiership Rugby | Exeter Chiefs vs Leicester Tigers | 08:55</display-name>
-  </channel>
-  <channel id="Evento_MASL__MASL___Utica_City_FC_vs_Milwaukee_Wave___14_00_1">
-    <display-name>MASL | Utica City FC vs Milwaukee Wave | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Pepperdine_vs_Washington_State___14_00_1">
-    <display-name>NCAA Femenino | Pepperdine vs Washington State | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___San_Diego_vs_Santa_Clara___15_00_1">
-    <display-name>NCAA Femenino | San Diego vs Santa Clara | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Se_vs_tle_U_vs__Pacific___15_00_1">
-    <display-name>NCAA Femenino | Se vs tle U vs. Pacific | 15:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
     <display-name>NCAA Femenino | Loyola Marymount vs Gonzaga | 16:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Oregon_St_vs_e_vs__San_Francisco___16_00_1">
-    <display-name>NCAA Femenino | Oregon St vs e vs. San Francisco | 16:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
     <display-name>NCAA Femenino | Portland vs Saint Mary’s | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Washington_St_vs_e_vs__Portland___16_00_1">
-    <display-name>NCAA Masculino | Washington St vs e vs. Portland | 16:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Pacific_vs_San_Diego___17_00_1">
     <display-name>NCAA Masculino | Pacific vs San Diego | 17:00</display-name>
@@ -138053,12 +137978,6 @@
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino___San_Francisco_vs_Seattle_U___19_00_1">
     <display-name>NCAA Masculino | San Francisco vs Seattle U | 19:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___14_00_1">
-    <display-name>NCAA Ice Hockey | Arizona St vs e vs. #8 Dartmouth | 14:00</display-name>
-  </channel>
-  <channel id="Evento_World_Junior_U20__World_Junior_U20___Suecia_U20_vs_Suiza_U20___13_00_1">
-    <display-name>World Junior U20 | Suecia U20 vs Suiza U20 | 13:00</display-name>
-  </channel>
   <channel id="Evento_World_Junior_U20__World_Junior_U20___Finlandia_U20_vs_Letonia_U20___15_30_1">
     <display-name>World Junior U20 | Finlandia U20 vs Letonia U20 | 15:30</display-name>
   </channel>
@@ -138068,33 +137987,6 @@
   <channel id="Evento_NFL__NFL___New_England_P_vs_riots_at_New_York_Jets__ENG____12_00_1">
     <display-name>NFL | New England P vs riots at New York Jets [ENG] | 12:00</display-name>
   </channel>
-  <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_vs__New_York_Jets___12_00_1">
-    <title>Próximamente | 12:00 | New England P vs riots vs. New York Jets</title>
-  </programme>
-  <programme start="20251228120000 -0600" stop="20251228150000 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_vs__New_York_Jets___12_00_1">
-    <title>⌾ En vivo | 12:00 | New England P vs riots vs. New York Jets</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228235959 -0600" channel="Evento_NFL__NFL___New_England_P_vs_riots_vs__New_York_Jets___12_00_1">
-    <title>Finalizado | New England P vs riots vs. New York Jets</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_1">
-    <title>Próximamente | 12:00 | Se vs tle Seahawks vs. Carolina Panthers</title>
-  </programme>
-  <programme start="20251228120000 -0600" stop="20251228150000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_1">
-    <title>⌾ En vivo | 12:00 | Se vs tle Seahawks vs. Carolina Panthers</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_1">
-    <title>Finalizado | Se vs tle Seahawks vs. Carolina Panthers</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_2">
-    <title>Próximamente | 12:00 | Se vs tle Seahawks vs. Carolina Panthers</title>
-  </programme>
-  <programme start="20251228120000 -0600" stop="20251228150000 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_2">
-    <title>⌾ En vivo | 12:00 | Se vs tle Seahawks vs. Carolina Panthers</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228235959 -0600" channel="Evento_NFL__NFL___Se_vs_tle_Seahawks_vs__Carolina_Panthers___12_00_2">
-    <title>Finalizado | Se vs tle Seahawks vs. Carolina Panthers</title>
-  </programme>
   <programme start="20251228000000 -0600" stop="20251228160000 -0600" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_Montreal_Canadiens___16_00_1">
     <title>Próximamente | 16:00 | Tampa Bay Lightning vs Montreal Canadiens</title>
   </programme>
@@ -138239,132 +138131,6 @@
   <programme start="20251228210000 -0600" stop="20251228235959 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Tomateros_de_Culiac_n___18_00_1">
     <title>Finalizado | Jaguares de Nayarit vs Tomateros de Culiacán</title>
   </programme>
-  <programme start="20251228000000 -0600" stop="20251228080000 -0600" channel="Evento_Premier_League__Premier_League___Sunderland_vs_Leeds_United___08_00_1">
-    <title>Próximamente | 08:00 | Sunderland vs Leeds United</title>
-  </programme>
-  <programme start="20251228080000 -0600" stop="20251228110000 -0600" channel="Evento_Premier_League__Premier_League___Sunderland_vs_Leeds_United___08_00_1">
-    <title>⌾ En vivo | 08:00 | Sunderland vs Leeds United</title>
-  </programme>
-  <programme start="20251228110000 -0600" stop="20251228235959 -0600" channel="Evento_Premier_League__Premier_League___Sunderland_vs_Leeds_United___08_00_1">
-    <title>Finalizado | Sunderland vs Leeds United</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228103000 -0600" channel="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Tottenham_Hotspur___10_30_1">
-    <title>Próximamente | 10:30 | Crystal Palace vs Tottenham Hotspur</title>
-  </programme>
-  <programme start="20251228103000 -0600" stop="20251228133000 -0600" channel="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Tottenham_Hotspur___10_30_1">
-    <title>⌾ En vivo | 10:30 | Crystal Palace vs Tottenham Hotspur</title>
-  </programme>
-  <programme start="20251228133000 -0600" stop="20251228235959 -0600" channel="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Tottenham_Hotspur___10_30_1">
-    <title>Finalizado | Crystal Palace vs Tottenham Hotspur</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228053000 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_1">
-    <title>Próximamente | 05:30 | Milan vs Verona</title>
-  </programme>
-  <programme start="20251228053000 -0600" stop="20251228083000 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_1">
-    <title>⌾ En vivo | 05:30 | Milan vs Verona</title>
-  </programme>
-  <programme start="20251228083000 -0600" stop="20251228235959 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_1">
-    <title>Finalizado | Milan vs Verona</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228080000 -0600" channel="Evento_Serie_A__Serie_A___Cremonese_vs_Napoli___08_00_1">
-    <title>Próximamente | 08:00 | Cremonese vs Napoli</title>
-  </programme>
-  <programme start="20251228080000 -0600" stop="20251228110000 -0600" channel="Evento_Serie_A__Serie_A___Cremonese_vs_Napoli___08_00_1">
-    <title>⌾ En vivo | 08:00 | Cremonese vs Napoli</title>
-  </programme>
-  <programme start="20251228110000 -0600" stop="20251228235959 -0600" channel="Evento_Serie_A__Serie_A___Cremonese_vs_Napoli___08_00_1">
-    <title>Finalizado | Cremonese vs Napoli</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228110000 -0600" channel="Evento_Serie_A__Serie_A___Bologna_vs_Sassuolo___11_00_1">
-    <title>Próximamente | 11:00 | Bologna vs Sassuolo</title>
-  </programme>
-  <programme start="20251228110000 -0600" stop="20251228140000 -0600" channel="Evento_Serie_A__Serie_A___Bologna_vs_Sassuolo___11_00_1">
-    <title>⌾ En vivo | 11:00 | Bologna vs Sassuolo</title>
-  </programme>
-  <programme start="20251228140000 -0600" stop="20251228235959 -0600" channel="Evento_Serie_A__Serie_A___Bologna_vs_Sassuolo___11_00_1">
-    <title>Finalizado | Bologna vs Sassuolo</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228134500 -0600" channel="Evento_Serie_A__Serie_A___Atalanta_vs_Internazionale___13_45_1">
-    <title>Próximamente | 13:45 | Atalanta vs Internazionale</title>
-  </programme>
-  <programme start="20251228134500 -0600" stop="20251228164500 -0600" channel="Evento_Serie_A__Serie_A___Atalanta_vs_Internazionale___13_45_1">
-    <title>⌾ En vivo | 13:45 | Atalanta vs Internazionale</title>
-  </programme>
-  <programme start="20251228164500 -0600" stop="20251228235959 -0600" channel="Evento_Serie_A__Serie_A___Atalanta_vs_Internazionale___13_45_1">
-    <title>Finalizado | Atalanta vs Internazionale</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228053000 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_2">
-    <title>Próximamente | 05:30 | Milan vs Verona</title>
-  </programme>
-  <programme start="20251228053000 -0600" stop="20251228083000 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_2">
-    <title>⌾ En vivo | 05:30 | Milan vs Verona</title>
-  </programme>
-  <programme start="20251228083000 -0600" stop="20251228235959 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Verona___05_30_2">
-    <title>Finalizado | Milan vs Verona</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228063000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Gab_n_vs_Mozambique___06_30_1">
-    <title>Próximamente | 06:30 | Gabón vs Mozambique</title>
-  </programme>
-  <programme start="20251228063000 -0600" stop="20251228093000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Gab_n_vs_Mozambique___06_30_1">
-    <title>⌾ En vivo | 06:30 | Gabón vs Mozambique</title>
-  </programme>
-  <programme start="20251228093000 -0600" stop="20251228235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Gab_n_vs_Mozambique___06_30_1">
-    <title>Finalizado | Gabón vs Mozambique</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228090000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Guinea_Ecu_vs_orial_vs__Sud_n___09_00_1">
-    <title>Próximamente | 09:00 | Guinea Ecu vs orial vs. Sudán</title>
-  </programme>
-  <programme start="20251228090000 -0600" stop="20251228120000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Guinea_Ecu_vs_orial_vs__Sud_n___09_00_1">
-    <title>⌾ En vivo | 09:00 | Guinea Ecu vs orial vs. Sudán</title>
-  </programme>
-  <programme start="20251228120000 -0600" stop="20251228235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Guinea_Ecu_vs_orial_vs__Sud_n___09_00_1">
-    <title>Finalizado | Guinea Ecu vs orial vs. Sudán</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228113000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Argelia_vs_Burkina_Faso___11_30_1">
-    <title>Próximamente | 11:30 | Argelia vs Burkina Faso</title>
-  </programme>
-  <programme start="20251228113000 -0600" stop="20251228143000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Argelia_vs_Burkina_Faso___11_30_1">
-    <title>⌾ En vivo | 11:30 | Argelia vs Burkina Faso</title>
-  </programme>
-  <programme start="20251228143000 -0600" stop="20251228235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Argelia_vs_Burkina_Faso___11_30_1">
-    <title>Finalizado | Argelia vs Burkina Faso</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228140000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Costa_de_Marfil_vs_Camer_n___14_00_1">
-    <title>Próximamente | 14:00 | Costa de Marfil vs Camerún</title>
-  </programme>
-  <programme start="20251228140000 -0600" stop="20251228170000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Costa_de_Marfil_vs_Camer_n___14_00_1">
-    <title>⌾ En vivo | 14:00 | Costa de Marfil vs Camerún</title>
-  </programme>
-  <programme start="20251228170000 -0600" stop="20251228235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Costa_de_Marfil_vs_Camer_n___14_00_1">
-    <title>Finalizado | Costa de Marfil vs Camerún</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228093000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Casa_Pia_vs_Vit_ria_Guimar_es___09_30_1">
-    <title>Próximamente | 09:30 | Casa Pia vs Vitória Guimarães</title>
-  </programme>
-  <programme start="20251228093000 -0600" stop="20251228123000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Casa_Pia_vs_Vit_ria_Guimar_es___09_30_1">
-    <title>⌾ En vivo | 09:30 | Casa Pia vs Vitória Guimarães</title>
-  </programme>
-  <programme start="20251228123000 -0600" stop="20251228235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Casa_Pia_vs_Vit_ria_Guimar_es___09_30_1">
-    <title>Finalizado | Casa Pia vs Vitória Guimarães</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228093000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Arouca_vs_Gil_Vicente___09_30_1">
-    <title>Próximamente | 09:30 | Arouca vs Gil Vicente</title>
-  </programme>
-  <programme start="20251228093000 -0600" stop="20251228123000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Arouca_vs_Gil_Vicente___09_30_1">
-    <title>⌾ En vivo | 09:30 | Arouca vs Gil Vicente</title>
-  </programme>
-  <programme start="20251228123000 -0600" stop="20251228235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Arouca_vs_Gil_Vicente___09_30_1">
-    <title>Finalizado | Arouca vs Gil Vicente</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228120000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Sporting_Braga_vs_Benfica___12_00_1">
-    <title>Próximamente | 12:00 | Sporting Braga vs Benfica</title>
-  </programme>
-  <programme start="20251228120000 -0600" stop="20251228150000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Sporting_Braga_vs_Benfica___12_00_1">
-    <title>⌾ En vivo | 12:00 | Sporting Braga vs Benfica</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Sporting_Braga_vs_Benfica___12_00_1">
-    <title>Finalizado | Sporting Braga vs Benfica</title>
-  </programme>
   <programme start="20251228000000 -0600" stop="20251228143000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Sporting_CP_vs_Rio_Ave___14_30_1">
     <title>Próximamente | 14:30 | Sporting CP vs Rio Ave</title>
   </programme>
@@ -138373,60 +138139,6 @@
   </programme>
   <programme start="20251228173000 -0600" stop="20251228235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Sporting_CP_vs_Rio_Ave___14_30_1">
     <title>Finalizado | Sporting CP vs Rio Ave</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228150000 -0600" channel="Evento_Liga_Nacional_Honduras__Liga_Nacional_Honduras___Mar_vs_h_n_vs__Olancho___15_00_1">
-    <title>Próximamente | 15:00 | Mar vs hón vs. Olancho</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228180000 -0600" channel="Evento_Liga_Nacional_Honduras__Liga_Nacional_Honduras___Mar_vs_h_n_vs__Olancho___15_00_1">
-    <title>⌾ En vivo | 15:00 | Mar vs hón vs. Olancho</title>
-  </programme>
-  <programme start="20251228180000 -0600" stop="20251228235959 -0600" channel="Evento_Liga_Nacional_Honduras__Liga_Nacional_Honduras___Mar_vs_h_n_vs__Olancho___15_00_1">
-    <title>Finalizado | Mar vs hón vs. Olancho</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228085500 -0600" channel="Evento_Premiership_Rugby__Premiership_Rugby___Exeter_Chiefs_vs_Leicester_Tigers___08_55_1">
-    <title>Próximamente | 08:55 | Exeter Chiefs vs Leicester Tigers</title>
-  </programme>
-  <programme start="20251228085500 -0600" stop="20251228115500 -0600" channel="Evento_Premiership_Rugby__Premiership_Rugby___Exeter_Chiefs_vs_Leicester_Tigers___08_55_1">
-    <title>⌾ En vivo | 08:55 | Exeter Chiefs vs Leicester Tigers</title>
-  </programme>
-  <programme start="20251228115500 -0600" stop="20251228235959 -0600" channel="Evento_Premiership_Rugby__Premiership_Rugby___Exeter_Chiefs_vs_Leicester_Tigers___08_55_1">
-    <title>Finalizado | Exeter Chiefs vs Leicester Tigers</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228140000 -0600" channel="Evento_MASL__MASL___Utica_City_FC_vs_Milwaukee_Wave___14_00_1">
-    <title>Próximamente | 14:00 | Utica City FC vs Milwaukee Wave</title>
-  </programme>
-  <programme start="20251228140000 -0600" stop="20251228170000 -0600" channel="Evento_MASL__MASL___Utica_City_FC_vs_Milwaukee_Wave___14_00_1">
-    <title>⌾ En vivo | 14:00 | Utica City FC vs Milwaukee Wave</title>
-  </programme>
-  <programme start="20251228170000 -0600" stop="20251228235959 -0600" channel="Evento_MASL__MASL___Utica_City_FC_vs_Milwaukee_Wave___14_00_1">
-    <title>Finalizado | Utica City FC vs Milwaukee Wave</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228140000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Pepperdine_vs_Washington_State___14_00_1">
-    <title>Próximamente | 14:00 | Pepperdine vs Washington State</title>
-  </programme>
-  <programme start="20251228140000 -0600" stop="20251228170000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Pepperdine_vs_Washington_State___14_00_1">
-    <title>⌾ En vivo | 14:00 | Pepperdine vs Washington State</title>
-  </programme>
-  <programme start="20251228170000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Pepperdine_vs_Washington_State___14_00_1">
-    <title>Finalizado | Pepperdine vs Washington State</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228150000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___San_Diego_vs_Santa_Clara___15_00_1">
-    <title>Próximamente | 15:00 | San Diego vs Santa Clara</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228180000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___San_Diego_vs_Santa_Clara___15_00_1">
-    <title>⌾ En vivo | 15:00 | San Diego vs Santa Clara</title>
-  </programme>
-  <programme start="20251228180000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___San_Diego_vs_Santa_Clara___15_00_1">
-    <title>Finalizado | San Diego vs Santa Clara</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228150000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Se_vs_tle_U_vs__Pacific___15_00_1">
-    <title>Próximamente | 15:00 | Se vs tle U vs. Pacific</title>
-  </programme>
-  <programme start="20251228150000 -0600" stop="20251228180000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Se_vs_tle_U_vs__Pacific___15_00_1">
-    <title>⌾ En vivo | 15:00 | Se vs tle U vs. Pacific</title>
-  </programme>
-  <programme start="20251228180000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Se_vs_tle_U_vs__Pacific___15_00_1">
-    <title>Finalizado | Se vs tle U vs. Pacific</title>
   </programme>
   <programme start="20251228000000 -0600" stop="20251228160000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
     <title>Próximamente | 16:00 | Loyola Marymount vs Gonzaga</title>
@@ -138437,15 +138149,6 @@
   <programme start="20251228190000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Loyola_Marymount_vs_Gonzaga___16_00_1">
     <title>Finalizado | Loyola Marymount vs Gonzaga</title>
   </programme>
-  <programme start="20251228000000 -0600" stop="20251228160000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Oregon_St_vs_e_vs__San_Francisco___16_00_1">
-    <title>Próximamente | 16:00 | Oregon St vs e vs. San Francisco</title>
-  </programme>
-  <programme start="20251228160000 -0600" stop="20251228190000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Oregon_St_vs_e_vs__San_Francisco___16_00_1">
-    <title>⌾ En vivo | 16:00 | Oregon St vs e vs. San Francisco</title>
-  </programme>
-  <programme start="20251228190000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Oregon_St_vs_e_vs__San_Francisco___16_00_1">
-    <title>Finalizado | Oregon St vs e vs. San Francisco</title>
-  </programme>
   <programme start="20251228000000 -0600" stop="20251228160000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
     <title>Próximamente | 16:00 | Portland vs Saint Mary’s</title>
   </programme>
@@ -138454,15 +138157,6 @@
   </programme>
   <programme start="20251228190000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Portland_vs_Saint_Mary_s___16_00_1">
     <title>Finalizado | Portland vs Saint Mary’s</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228160000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Washington_St_vs_e_vs__Portland___16_00_1">
-    <title>Próximamente | 16:00 | Washington St vs e vs. Portland</title>
-  </programme>
-  <programme start="20251228160000 -0600" stop="20251228190000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Washington_St_vs_e_vs__Portland___16_00_1">
-    <title>⌾ En vivo | 16:00 | Washington St vs e vs. Portland</title>
-  </programme>
-  <programme start="20251228190000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Washington_St_vs_e_vs__Portland___16_00_1">
-    <title>Finalizado | Washington St vs e vs. Portland</title>
   </programme>
   <programme start="20251228000000 -0600" stop="20251228170000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Pacific_vs_San_Diego___17_00_1">
     <title>Próximamente | 17:00 | Pacific vs San Diego</title>
@@ -138508,24 +138202,6 @@
   </programme>
   <programme start="20251228220000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___San_Francisco_vs_Seattle_U___19_00_1">
     <title>Finalizado | San Francisco vs Seattle U</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228140000 -0600" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___14_00_1">
-    <title>Próximamente | 14:00 | Arizona St vs e vs. #8 Dartmouth</title>
-  </programme>
-  <programme start="20251228140000 -0600" stop="20251228170000 -0600" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___14_00_1">
-    <title>⌾ En vivo | 14:00 | Arizona St vs e vs. #8 Dartmouth</title>
-  </programme>
-  <programme start="20251228170000 -0600" stop="20251228235959 -0600" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey___Arizona_St_vs_e_vs___8_Dartmouth___14_00_1">
-    <title>Finalizado | Arizona St vs e vs. #8 Dartmouth</title>
-  </programme>
-  <programme start="20251228000000 -0600" stop="20251228130000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Suecia_U20_vs_Suiza_U20___13_00_1">
-    <title>Próximamente | 13:00 | Suecia U20 vs Suiza U20</title>
-  </programme>
-  <programme start="20251228130000 -0600" stop="20251228160000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Suecia_U20_vs_Suiza_U20___13_00_1">
-    <title>⌾ En vivo | 13:00 | Suecia U20 vs Suiza U20</title>
-  </programme>
-  <programme start="20251228160000 -0600" stop="20251228235959 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Suecia_U20_vs_Suiza_U20___13_00_1">
-    <title>Finalizado | Suecia U20 vs Suiza U20</title>
   </programme>
   <programme start="20251228000000 -0600" stop="20251228153000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Finlandia_U20_vs_Letonia_U20___15_30_1">
     <title>Próximamente | 15:30 | Finlandia U20 vs Letonia U20</title>
