@@ -131642,62 +131642,11 @@
   <channel id="Evento_LMP__LMP____guilas_de_Mexicali_vs_Charros___21_30_1">
     <display-name>LMP | Águilas de Mexicali vs Charros | 21:30</display-name>
   </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Angola_vs_Egypt___10_00_1">
-    <display-name>Copa Africana de Naciones | Angola vs Egypt | 10:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zimbabwe_vs_South_Africa___10_00_1">
-    <display-name>Copa Africana de Naciones | Zimbabwe vs South Africa | 10:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Comoros_vs_Mali___13_00_1">
-    <display-name>Copa Africana de Naciones | Comoros vs Mali | 13:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zambia_vs_Morocco___13_00_1">
-    <display-name>Copa Africana de Naciones | Zambia vs Morocco | 13:00</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_1">
-    <display-name>EFL Championship | Coventry City vs Ipswich Town | 12:00</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_2">
-    <display-name>EFL Championship | Coventry City vs Ipswich Town | 12:00</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Leicester_City_vs_Derby_County___13_45_1">
-    <display-name>EFL Championship | Leicester City vs Derby County | 13:45</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Hull_City___13_45_1">
-    <display-name>EFL Championship | Middlesbrough vs Hull City | 13:45</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Millwall_vs_Bristol_City___13_45_1">
-    <display-name>EFL Championship | Millwall vs Bristol City | 13:45</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Preston_North_End___13_45_1">
-    <display-name>EFL Championship | Wrexham vs Preston North End | 13:45</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_1">
-    <display-name>EFL Championship | Birmingham City vs Southampton | 14:15</display-name>
-  </channel>
-  <channel id="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_2">
-    <display-name>EFL Championship | Birmingham City vs Southampton | 14:15</display-name>
-  </channel>
   <channel id="Evento_Amistoso__Amistoso___Tlaxcala_vs_Pachuca___13_45_1">
     <display-name>Amistoso | Tlaxcala vs Pachuca | 13:45</display-name>
   </channel>
   <channel id="Evento_Serie_A__Serie_A___Roma_vs_Genoa___13_45_1">
     <display-name>Serie A | Roma vs Genoa | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Roma_vs_Genoa___13_45_2">
-    <display-name>Serie A | Roma vs Genoa | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Porto_vs_AVS___14_15_1">
-    <display-name>Primeira Liga | Porto vs AVS | 14:15</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Mount_St__Mary_s_vs_Merrimack___13_00_1">
-    <display-name>NCAA Femenino | Mount St. Mary's vs Merrimack | 13:00</display-name>
-  </channel>
-  <channel id="Evento_World_Junior_U20__World_Junior_U20___Sweden_U20_vs_Germany_U20___12_00_1">
-    <display-name>World Junior U20 | Sweden U20 vs Germany U20 | 12:00</display-name>
-  </channel>
-  <channel id="Evento_World_Junior_U20__World_Junior_U20___Czech_Republic_U20_vs_Finland_U20___14_30_1">
-    <display-name>World Junior U20 | Czech Republic U20 vs Finland U20 | 14:30</display-name>
   </channel>
   <channel id="Evento_World_Junior_U20__World_Junior_U20___USA_U20_vs_Slovakia_U20___17_00_1">
     <display-name>World Junior U20 | USA U20 vs Slovakia U20 | 17:00</display-name>
@@ -131957,114 +131906,6 @@
   <programme start="20251230003000 -0600" stop="20251229235959 -0600" channel="Evento_LMP__LMP____guilas_de_Mexicali_vs_Charros___21_30_1">
     <title>Finalizado | Águilas de Mexicali vs Charros</title>
   </programme>
-  <programme start="20251229000000 -0600" stop="20251229100000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Angola_vs_Egypt___10_00_1">
-    <title>Próximamente | 10:00 | Angola vs Egypt</title>
-  </programme>
-  <programme start="20251229100000 -0600" stop="20251229130000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Angola_vs_Egypt___10_00_1">
-    <title>⌾ En vivo | 10:00 | Angola vs Egypt</title>
-  </programme>
-  <programme start="20251229130000 -0600" stop="20251229235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Angola_vs_Egypt___10_00_1">
-    <title>Finalizado | Angola vs Egypt</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229100000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zimbabwe_vs_South_Africa___10_00_1">
-    <title>Próximamente | 10:00 | Zimbabwe vs South Africa</title>
-  </programme>
-  <programme start="20251229100000 -0600" stop="20251229130000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zimbabwe_vs_South_Africa___10_00_1">
-    <title>⌾ En vivo | 10:00 | Zimbabwe vs South Africa</title>
-  </programme>
-  <programme start="20251229130000 -0600" stop="20251229235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zimbabwe_vs_South_Africa___10_00_1">
-    <title>Finalizado | Zimbabwe vs South Africa</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229130000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Comoros_vs_Mali___13_00_1">
-    <title>Próximamente | 13:00 | Comoros vs Mali</title>
-  </programme>
-  <programme start="20251229130000 -0600" stop="20251229160000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Comoros_vs_Mali___13_00_1">
-    <title>⌾ En vivo | 13:00 | Comoros vs Mali</title>
-  </programme>
-  <programme start="20251229160000 -0600" stop="20251229235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Comoros_vs_Mali___13_00_1">
-    <title>Finalizado | Comoros vs Mali</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229130000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zambia_vs_Morocco___13_00_1">
-    <title>Próximamente | 13:00 | Zambia vs Morocco</title>
-  </programme>
-  <programme start="20251229130000 -0600" stop="20251229160000 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zambia_vs_Morocco___13_00_1">
-    <title>⌾ En vivo | 13:00 | Zambia vs Morocco</title>
-  </programme>
-  <programme start="20251229160000 -0600" stop="20251229235959 -0600" channel="Evento_Copa_Africana_de_Naciones__Copa_Africana_de_Naciones___Zambia_vs_Morocco___13_00_1">
-    <title>Finalizado | Zambia vs Morocco</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229120000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_1">
-    <title>Próximamente | 12:00 | Coventry City vs Ipswich Town</title>
-  </programme>
-  <programme start="20251229120000 -0600" stop="20251229150000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_1">
-    <title>⌾ En vivo | 12:00 | Coventry City vs Ipswich Town</title>
-  </programme>
-  <programme start="20251229150000 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_1">
-    <title>Finalizado | Coventry City vs Ipswich Town</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229120000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_2">
-    <title>Próximamente | 12:00 | Coventry City vs Ipswich Town</title>
-  </programme>
-  <programme start="20251229120000 -0600" stop="20251229150000 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_2">
-    <title>⌾ En vivo | 12:00 | Coventry City vs Ipswich Town</title>
-  </programme>
-  <programme start="20251229150000 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Coventry_City_vs_Ipswich_Town___12_00_2">
-    <title>Finalizado | Coventry City vs Ipswich Town</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229134500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Leicester_City_vs_Derby_County___13_45_1">
-    <title>Próximamente | 13:45 | Leicester City vs Derby County</title>
-  </programme>
-  <programme start="20251229134500 -0600" stop="20251229164500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Leicester_City_vs_Derby_County___13_45_1">
-    <title>⌾ En vivo | 13:45 | Leicester City vs Derby County</title>
-  </programme>
-  <programme start="20251229164500 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Leicester_City_vs_Derby_County___13_45_1">
-    <title>Finalizado | Leicester City vs Derby County</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229134500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Hull_City___13_45_1">
-    <title>Próximamente | 13:45 | Middlesbrough vs Hull City</title>
-  </programme>
-  <programme start="20251229134500 -0600" stop="20251229164500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Hull_City___13_45_1">
-    <title>⌾ En vivo | 13:45 | Middlesbrough vs Hull City</title>
-  </programme>
-  <programme start="20251229164500 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Middlesbrough_vs_Hull_City___13_45_1">
-    <title>Finalizado | Middlesbrough vs Hull City</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229134500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Millwall_vs_Bristol_City___13_45_1">
-    <title>Próximamente | 13:45 | Millwall vs Bristol City</title>
-  </programme>
-  <programme start="20251229134500 -0600" stop="20251229164500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Millwall_vs_Bristol_City___13_45_1">
-    <title>⌾ En vivo | 13:45 | Millwall vs Bristol City</title>
-  </programme>
-  <programme start="20251229164500 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Millwall_vs_Bristol_City___13_45_1">
-    <title>Finalizado | Millwall vs Bristol City</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229134500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Preston_North_End___13_45_1">
-    <title>Próximamente | 13:45 | Wrexham vs Preston North End</title>
-  </programme>
-  <programme start="20251229134500 -0600" stop="20251229164500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Preston_North_End___13_45_1">
-    <title>⌾ En vivo | 13:45 | Wrexham vs Preston North End</title>
-  </programme>
-  <programme start="20251229164500 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Wrexham_vs_Preston_North_End___13_45_1">
-    <title>Finalizado | Wrexham vs Preston North End</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229141500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_1">
-    <title>Próximamente | 14:15 | Birmingham City vs Southampton</title>
-  </programme>
-  <programme start="20251229141500 -0600" stop="20251229171500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_1">
-    <title>⌾ En vivo | 14:15 | Birmingham City vs Southampton</title>
-  </programme>
-  <programme start="20251229171500 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_1">
-    <title>Finalizado | Birmingham City vs Southampton</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229141500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_2">
-    <title>Próximamente | 14:15 | Birmingham City vs Southampton</title>
-  </programme>
-  <programme start="20251229141500 -0600" stop="20251229171500 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_2">
-    <title>⌾ En vivo | 14:15 | Birmingham City vs Southampton</title>
-  </programme>
-  <programme start="20251229171500 -0600" stop="20251229235959 -0600" channel="Evento_EFL_Championship__EFL_Championship___Birmingham_City_vs_Southampton___14_15_2">
-    <title>Finalizado | Birmingham City vs Southampton</title>
-  </programme>
   <programme start="20251229000000 -0600" stop="20251229134500 -0600" channel="Evento_Amistoso__Amistoso___Tlaxcala_vs_Pachuca___13_45_1">
     <title>Próximamente | 13:45 | Tlaxcala vs Pachuca</title>
   </programme>
@@ -132082,51 +131923,6 @@
   </programme>
   <programme start="20251229164500 -0600" stop="20251229235959 -0600" channel="Evento_Serie_A__Serie_A___Roma_vs_Genoa___13_45_1">
     <title>Finalizado | Roma vs Genoa</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229134500 -0600" channel="Evento_Serie_A__Serie_A___Roma_vs_Genoa___13_45_2">
-    <title>Próximamente | 13:45 | Roma vs Genoa</title>
-  </programme>
-  <programme start="20251229134500 -0600" stop="20251229164500 -0600" channel="Evento_Serie_A__Serie_A___Roma_vs_Genoa___13_45_2">
-    <title>⌾ En vivo | 13:45 | Roma vs Genoa</title>
-  </programme>
-  <programme start="20251229164500 -0600" stop="20251229235959 -0600" channel="Evento_Serie_A__Serie_A___Roma_vs_Genoa___13_45_2">
-    <title>Finalizado | Roma vs Genoa</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229141500 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Porto_vs_AVS___14_15_1">
-    <title>Próximamente | 14:15 | Porto vs AVS</title>
-  </programme>
-  <programme start="20251229141500 -0600" stop="20251229171500 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Porto_vs_AVS___14_15_1">
-    <title>⌾ En vivo | 14:15 | Porto vs AVS</title>
-  </programme>
-  <programme start="20251229171500 -0600" stop="20251229235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Porto_vs_AVS___14_15_1">
-    <title>Finalizado | Porto vs AVS</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229130000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Mount_St__Mary_s_vs_Merrimack___13_00_1">
-    <title>Próximamente | 13:00 | Mount St. Mary's vs Merrimack</title>
-  </programme>
-  <programme start="20251229130000 -0600" stop="20251229160000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Mount_St__Mary_s_vs_Merrimack___13_00_1">
-    <title>⌾ En vivo | 13:00 | Mount St. Mary's vs Merrimack</title>
-  </programme>
-  <programme start="20251229160000 -0600" stop="20251229235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Mount_St__Mary_s_vs_Merrimack___13_00_1">
-    <title>Finalizado | Mount St. Mary's vs Merrimack</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229120000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Sweden_U20_vs_Germany_U20___12_00_1">
-    <title>Próximamente | 12:00 | Sweden U20 vs Germany U20</title>
-  </programme>
-  <programme start="20251229120000 -0600" stop="20251229150000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Sweden_U20_vs_Germany_U20___12_00_1">
-    <title>⌾ En vivo | 12:00 | Sweden U20 vs Germany U20</title>
-  </programme>
-  <programme start="20251229150000 -0600" stop="20251229235959 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Sweden_U20_vs_Germany_U20___12_00_1">
-    <title>Finalizado | Sweden U20 vs Germany U20</title>
-  </programme>
-  <programme start="20251229000000 -0600" stop="20251229143000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Czech_Republic_U20_vs_Finland_U20___14_30_1">
-    <title>Próximamente | 14:30 | Czech Republic U20 vs Finland U20</title>
-  </programme>
-  <programme start="20251229143000 -0600" stop="20251229173000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Czech_Republic_U20_vs_Finland_U20___14_30_1">
-    <title>⌾ En vivo | 14:30 | Czech Republic U20 vs Finland U20</title>
-  </programme>
-  <programme start="20251229173000 -0600" stop="20251229235959 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___Czech_Republic_U20_vs_Finland_U20___14_30_1">
-    <title>Finalizado | Czech Republic U20 vs Finland U20</title>
   </programme>
   <programme start="20251229000000 -0600" stop="20251229170000 -0600" channel="Evento_World_Junior_U20__World_Junior_U20___USA_U20_vs_Slovakia_U20___17_00_1">
     <title>Próximamente | 17:00 | USA U20 vs Slovakia U20</title>
