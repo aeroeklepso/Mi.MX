@@ -131741,6 +131741,66 @@
   <channel id="Evento_NHL__NHL___Nashville_Pred_vs_ors_vs__Seattle_Kraken___21_00_1">
     <display-name>NHL | Nashville Pred vs ors vs. Seattle Kraken | 21:00</display-name>
   </channel>
+  <channel id="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Charros___18_00_1">
+    <display-name>LMP | Naranjeros de Hermosillo vs Charros | 18:00</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Yaquis_de_Ciudad_Obreg_n_vs__guilas_de_Mexicali___18_10_1">
+    <display-name>LMP | Yaquis de Ciudad Obregón vs Águilas de Mexicali | 18:10</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Tom_vs_eros_de_Culiac_n_vs__Ca_eros_de_Los_Mochis___20_05_1">
+    <display-name>LMP | Tom vs eros de Culiacán vs. Cañeros de Los Mochis | 20:05</display-name>
+  </channel>
+  <channel id="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Algodoneros_de_Guasave___20_30_1">
+    <display-name>LMP | Jaguares de Nayarit vs Algodoneros de Guasave | 20:30</display-name>
+  </channel>
+  <channel id="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_1">
+    <display-name>Premier League | Liverpool vs Leeds United | 11:30</display-name>
+  </channel>
+  <channel id="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_2">
+    <display-name>Premier League | Liverpool vs Leeds United | 11:30</display-name>
+  </channel>
+  <channel id="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Fulham___11_30_1">
+    <display-name>Premier League | Crystal Palace vs Fulham | 11:30</display-name>
+  </channel>
+  <channel id="Evento_Premier_League__Premier_League___Brentford_vs_Tottenham_Hotspur___14_00_1">
+    <display-name>Premier League | Brentford vs Tottenham Hotspur | 14:00</display-name>
+  </channel>
+  <channel id="Evento_Premier_League__Premier_League___Sunderland_vs_Manchester_City___14_00_1">
+    <display-name>Premier League | Sunderland vs Manchester City | 14:00</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Blackburn_Rovers_vs_Wrexham___06_30_1">
+    <display-name>EFL Championship | Blackburn Rovers vs Wrexham | 06:30</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Southampton_vs_Millwall___09_00_1">
+    <display-name>EFL Championship | Southampton vs Millwall | 09:00</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Sheffield_United_vs_Leicester_City___11_30_1">
+    <display-name>EFL Championship | Sheffield United vs Leicester City | 11:30</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Hull_City_vs_Stoke_City___09_00_1">
+    <display-name>EFL Championship | Hull City vs Stoke City | 09:00</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___W_vs_ford_vs__Birmingham_City___09_00_1">
+    <display-name>EFL Championship | W vs ford vs. Birmingham City | 09:00</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Derby_County_vs_Middlesbrough___09_00_1">
+    <display-name>EFL Championship | Derby County vs Middlesbrough | 09:00</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Charlton_vs_hletic_vs__Coventry_City___09_00_1">
+    <display-name>EFL Championship | Charlton vs hletic vs. Coventry City | 09:00</display-name>
+  </channel>
+  <channel id="Evento_EFL_Championship__EFL_Championship___Queens_Park_Rangers_vs_Norwich_City___09_00_1">
+    <display-name>EFL Championship | Queens Park Rangers vs Norwich City | 09:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
+    <display-name>NCAA Football | Oregon vs Texas Tech (Cuartos de Final) | 11:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
+    <display-name>NCAA Football | Alabama vs Indiana (Cuartos de Final) | 15:00</display-name>
+  </channel>
+  <channel id="Evento_NCAA_Football__NCAA_Football___Ole_Miss_vs_Georgia__Cuartos_de_Final____19_00_1">
+    <display-name>NCAA Football | Ole Miss vs Georgia (Cuartos de Final) | 19:00</display-name>
+  </channel>
   <programme start="20260101060000" stop="20260101230000" channel="Evento_NBA__NBA___Brooklyn_Nets_vs_Houston_Rockets___17_00_1">
     <title>Próximamente | 17:00 | Brooklyn Nets vs Houston Rockets</title>
   </programme>
@@ -132019,6 +132079,186 @@
   </programme>
   <programme start="20260102060000" stop="20260102055959" channel="Evento_NHL__NHL___Nashville_Pred_vs_ors_vs__Seattle_Kraken___21_00_1">
     <title>Finalizado | Nashville Pred vs ors vs. Seattle Kraken</title>
+  </programme>
+  <programme start="20260101060000" stop="20260102000000" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Charros___18_00_1">
+    <title>Próximamente | 18:00 | Naranjeros de Hermosillo vs Charros</title>
+  </programme>
+  <programme start="20260102000000" stop="20260102030000" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Charros___18_00_1">
+    <title>⌾ En vivo | 18:00 | Naranjeros de Hermosillo vs Charros</title>
+  </programme>
+  <programme start="20260102030000" stop="20260102055959" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Charros___18_00_1">
+    <title>Finalizado | Naranjeros de Hermosillo vs Charros</title>
+  </programme>
+  <programme start="20260101060000" stop="20260102001000" channel="Evento_LMP__LMP___Yaquis_de_Ciudad_Obreg_n_vs__guilas_de_Mexicali___18_10_1">
+    <title>Próximamente | 18:10 | Yaquis de Ciudad Obregón vs Águilas de Mexicali</title>
+  </programme>
+  <programme start="20260102001000" stop="20260102031000" channel="Evento_LMP__LMP___Yaquis_de_Ciudad_Obreg_n_vs__guilas_de_Mexicali___18_10_1">
+    <title>⌾ En vivo | 18:10 | Yaquis de Ciudad Obregón vs Águilas de Mexicali</title>
+  </programme>
+  <programme start="20260102031000" stop="20260102055959" channel="Evento_LMP__LMP___Yaquis_de_Ciudad_Obreg_n_vs__guilas_de_Mexicali___18_10_1">
+    <title>Finalizado | Yaquis de Ciudad Obregón vs Águilas de Mexicali</title>
+  </programme>
+  <programme start="20260101060000" stop="20260102020500" channel="Evento_LMP__LMP___Tom_vs_eros_de_Culiac_n_vs__Ca_eros_de_Los_Mochis___20_05_1">
+    <title>Próximamente | 20:05 | Tom vs eros de Culiacán vs. Cañeros de Los Mochis</title>
+  </programme>
+  <programme start="20260102020500" stop="20260102050500" channel="Evento_LMP__LMP___Tom_vs_eros_de_Culiac_n_vs__Ca_eros_de_Los_Mochis___20_05_1">
+    <title>⌾ En vivo | 20:05 | Tom vs eros de Culiacán vs. Cañeros de Los Mochis</title>
+  </programme>
+  <programme start="20260102050500" stop="20260102055959" channel="Evento_LMP__LMP___Tom_vs_eros_de_Culiac_n_vs__Ca_eros_de_Los_Mochis___20_05_1">
+    <title>Finalizado | Tom vs eros de Culiacán vs. Cañeros de Los Mochis</title>
+  </programme>
+  <programme start="20260101060000" stop="20260102023000" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Algodoneros_de_Guasave___20_30_1">
+    <title>Próximamente | 20:30 | Jaguares de Nayarit vs Algodoneros de Guasave</title>
+  </programme>
+  <programme start="20260102023000" stop="20260102053000" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Algodoneros_de_Guasave___20_30_1">
+    <title>⌾ En vivo | 20:30 | Jaguares de Nayarit vs Algodoneros de Guasave</title>
+  </programme>
+  <programme start="20260102053000" stop="20260102055959" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Algodoneros_de_Guasave___20_30_1">
+    <title>Finalizado | Jaguares de Nayarit vs Algodoneros de Guasave</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101173000" channel="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_1">
+    <title>Próximamente | 11:30 | Liverpool vs Leeds United</title>
+  </programme>
+  <programme start="20260101173000" stop="20260101203000" channel="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_1">
+    <title>⌾ En vivo | 11:30 | Liverpool vs Leeds United</title>
+  </programme>
+  <programme start="20260101203000" stop="20260102055959" channel="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_1">
+    <title>Finalizado | Liverpool vs Leeds United</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101173000" channel="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_2">
+    <title>Próximamente | 11:30 | Liverpool vs Leeds United</title>
+  </programme>
+  <programme start="20260101173000" stop="20260101203000" channel="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_2">
+    <title>⌾ En vivo | 11:30 | Liverpool vs Leeds United</title>
+  </programme>
+  <programme start="20260101203000" stop="20260102055959" channel="Evento_Premier_League__Premier_League___Liverpool_vs_Leeds_United___11_30_2">
+    <title>Finalizado | Liverpool vs Leeds United</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101173000" channel="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Fulham___11_30_1">
+    <title>Próximamente | 11:30 | Crystal Palace vs Fulham</title>
+  </programme>
+  <programme start="20260101173000" stop="20260101203000" channel="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Fulham___11_30_1">
+    <title>⌾ En vivo | 11:30 | Crystal Palace vs Fulham</title>
+  </programme>
+  <programme start="20260101203000" stop="20260102055959" channel="Evento_Premier_League__Premier_League___Crystal_Palace_vs_Fulham___11_30_1">
+    <title>Finalizado | Crystal Palace vs Fulham</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101200000" channel="Evento_Premier_League__Premier_League___Brentford_vs_Tottenham_Hotspur___14_00_1">
+    <title>Próximamente | 14:00 | Brentford vs Tottenham Hotspur</title>
+  </programme>
+  <programme start="20260101200000" stop="20260101230000" channel="Evento_Premier_League__Premier_League___Brentford_vs_Tottenham_Hotspur___14_00_1">
+    <title>⌾ En vivo | 14:00 | Brentford vs Tottenham Hotspur</title>
+  </programme>
+  <programme start="20260101230000" stop="20260102055959" channel="Evento_Premier_League__Premier_League___Brentford_vs_Tottenham_Hotspur___14_00_1">
+    <title>Finalizado | Brentford vs Tottenham Hotspur</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101200000" channel="Evento_Premier_League__Premier_League___Sunderland_vs_Manchester_City___14_00_1">
+    <title>Próximamente | 14:00 | Sunderland vs Manchester City</title>
+  </programme>
+  <programme start="20260101200000" stop="20260101230000" channel="Evento_Premier_League__Premier_League___Sunderland_vs_Manchester_City___14_00_1">
+    <title>⌾ En vivo | 14:00 | Sunderland vs Manchester City</title>
+  </programme>
+  <programme start="20260101230000" stop="20260102055959" channel="Evento_Premier_League__Premier_League___Sunderland_vs_Manchester_City___14_00_1">
+    <title>Finalizado | Sunderland vs Manchester City</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101123000" channel="Evento_EFL_Championship__EFL_Championship___Blackburn_Rovers_vs_Wrexham___06_30_1">
+    <title>Próximamente | 06:30 | Blackburn Rovers vs Wrexham</title>
+  </programme>
+  <programme start="20260101123000" stop="20260101153000" channel="Evento_EFL_Championship__EFL_Championship___Blackburn_Rovers_vs_Wrexham___06_30_1">
+    <title>⌾ En vivo | 06:30 | Blackburn Rovers vs Wrexham</title>
+  </programme>
+  <programme start="20260101153000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Blackburn_Rovers_vs_Wrexham___06_30_1">
+    <title>Finalizado | Blackburn Rovers vs Wrexham</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101150000" channel="Evento_EFL_Championship__EFL_Championship___Southampton_vs_Millwall___09_00_1">
+    <title>Próximamente | 09:00 | Southampton vs Millwall</title>
+  </programme>
+  <programme start="20260101150000" stop="20260101180000" channel="Evento_EFL_Championship__EFL_Championship___Southampton_vs_Millwall___09_00_1">
+    <title>⌾ En vivo | 09:00 | Southampton vs Millwall</title>
+  </programme>
+  <programme start="20260101180000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Southampton_vs_Millwall___09_00_1">
+    <title>Finalizado | Southampton vs Millwall</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101173000" channel="Evento_EFL_Championship__EFL_Championship___Sheffield_United_vs_Leicester_City___11_30_1">
+    <title>Próximamente | 11:30 | Sheffield United vs Leicester City</title>
+  </programme>
+  <programme start="20260101173000" stop="20260101203000" channel="Evento_EFL_Championship__EFL_Championship___Sheffield_United_vs_Leicester_City___11_30_1">
+    <title>⌾ En vivo | 11:30 | Sheffield United vs Leicester City</title>
+  </programme>
+  <programme start="20260101203000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Sheffield_United_vs_Leicester_City___11_30_1">
+    <title>Finalizado | Sheffield United vs Leicester City</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101150000" channel="Evento_EFL_Championship__EFL_Championship___Hull_City_vs_Stoke_City___09_00_1">
+    <title>Próximamente | 09:00 | Hull City vs Stoke City</title>
+  </programme>
+  <programme start="20260101150000" stop="20260101180000" channel="Evento_EFL_Championship__EFL_Championship___Hull_City_vs_Stoke_City___09_00_1">
+    <title>⌾ En vivo | 09:00 | Hull City vs Stoke City</title>
+  </programme>
+  <programme start="20260101180000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Hull_City_vs_Stoke_City___09_00_1">
+    <title>Finalizado | Hull City vs Stoke City</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101150000" channel="Evento_EFL_Championship__EFL_Championship___W_vs_ford_vs__Birmingham_City___09_00_1">
+    <title>Próximamente | 09:00 | W vs ford vs. Birmingham City</title>
+  </programme>
+  <programme start="20260101150000" stop="20260101180000" channel="Evento_EFL_Championship__EFL_Championship___W_vs_ford_vs__Birmingham_City___09_00_1">
+    <title>⌾ En vivo | 09:00 | W vs ford vs. Birmingham City</title>
+  </programme>
+  <programme start="20260101180000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___W_vs_ford_vs__Birmingham_City___09_00_1">
+    <title>Finalizado | W vs ford vs. Birmingham City</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101150000" channel="Evento_EFL_Championship__EFL_Championship___Derby_County_vs_Middlesbrough___09_00_1">
+    <title>Próximamente | 09:00 | Derby County vs Middlesbrough</title>
+  </programme>
+  <programme start="20260101150000" stop="20260101180000" channel="Evento_EFL_Championship__EFL_Championship___Derby_County_vs_Middlesbrough___09_00_1">
+    <title>⌾ En vivo | 09:00 | Derby County vs Middlesbrough</title>
+  </programme>
+  <programme start="20260101180000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Derby_County_vs_Middlesbrough___09_00_1">
+    <title>Finalizado | Derby County vs Middlesbrough</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101150000" channel="Evento_EFL_Championship__EFL_Championship___Charlton_vs_hletic_vs__Coventry_City___09_00_1">
+    <title>Próximamente | 09:00 | Charlton vs hletic vs. Coventry City</title>
+  </programme>
+  <programme start="20260101150000" stop="20260101180000" channel="Evento_EFL_Championship__EFL_Championship___Charlton_vs_hletic_vs__Coventry_City___09_00_1">
+    <title>⌾ En vivo | 09:00 | Charlton vs hletic vs. Coventry City</title>
+  </programme>
+  <programme start="20260101180000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Charlton_vs_hletic_vs__Coventry_City___09_00_1">
+    <title>Finalizado | Charlton vs hletic vs. Coventry City</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101150000" channel="Evento_EFL_Championship__EFL_Championship___Queens_Park_Rangers_vs_Norwich_City___09_00_1">
+    <title>Próximamente | 09:00 | Queens Park Rangers vs Norwich City</title>
+  </programme>
+  <programme start="20260101150000" stop="20260101180000" channel="Evento_EFL_Championship__EFL_Championship___Queens_Park_Rangers_vs_Norwich_City___09_00_1">
+    <title>⌾ En vivo | 09:00 | Queens Park Rangers vs Norwich City</title>
+  </programme>
+  <programme start="20260101180000" stop="20260102055959" channel="Evento_EFL_Championship__EFL_Championship___Queens_Park_Rangers_vs_Norwich_City___09_00_1">
+    <title>Finalizado | Queens Park Rangers vs Norwich City</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101170000" channel="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
+    <title>Próximamente | 11:00 | Oregon vs Texas Tech (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260101170000" stop="20260101200000" channel="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
+    <title>⌾ En vivo | 11:00 | Oregon vs Texas Tech (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260101200000" stop="20260102055959" channel="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
+    <title>Finalizado | Oregon vs Texas Tech (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260101060000" stop="20260101210000" channel="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
+    <title>Próximamente | 15:00 | Alabama vs Indiana (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260101210000" stop="20260102000000" channel="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
+    <title>⌾ En vivo | 15:00 | Alabama vs Indiana (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260102000000" stop="20260102055959" channel="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
+    <title>Finalizado | Alabama vs Indiana (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260101060000" stop="20260102010000" channel="Evento_NCAA_Football__NCAA_Football___Ole_Miss_vs_Georgia__Cuartos_de_Final____19_00_1">
+    <title>Próximamente | 19:00 | Ole Miss vs Georgia (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260102010000" stop="20260102040000" channel="Evento_NCAA_Football__NCAA_Football___Ole_Miss_vs_Georgia__Cuartos_de_Final____19_00_1">
+    <title>⌾ En vivo | 19:00 | Ole Miss vs Georgia (Cuartos de Final)</title>
+  </programme>
+  <programme start="20260102040000" stop="20260102055959" channel="Evento_NCAA_Football__NCAA_Football___Ole_Miss_vs_Georgia__Cuartos_de_Final____19_00_1">
+    <title>Finalizado | Ole Miss vs Georgia (Cuartos de Final)</title>
   </programme>
 </tv>
 
