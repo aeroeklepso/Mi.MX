@@ -137459,9 +137459,6 @@
   <channel id="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Vancouver_Canucks___21_30_1">
     <display-name>NHL | Se vs tle Kraken vs. Vancouver Canucks | 21:30</display-name>
   </channel>
-  <channel id="Evento_NHL__NHL___Vegas_Golden_Knights_vs_St__Louis_Blues___14_00_1">
-    <display-name>NHL | Vegas Golden Knights vs St. Louis Blues | 14:00</display-name>
-  </channel>
   <channel id="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Charros___20_30_1">
     <display-name>LMP | Naranjeros de Hermosillo vs Charros | 20:30</display-name>
   </channel>
@@ -137474,59 +137471,11 @@
   <channel id="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Algodoneros_de_Guasave___20_30_1">
     <display-name>LMP | Jaguares de Nayarit vs Algodoneros de Guasave | 20:30</display-name>
   </channel>
-  <channel id="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_1">
-    <display-name>Serie A | Cagliari vs Milan | 13:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_2">
-    <display-name>Serie A | Cagliari vs Milan | 13:30</display-name>
-  </channel>
-  <channel id="Evento_Ligue_1__Ligue_1___Toulouse_vs_Lens___13_30_1">
-    <display-name>Ligue 1 | Toulouse vs Lens | 13:30</display-name>
-  </channel>
-  <channel id="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_1">
-    <display-name>LaLiga | Rayo Vallecano vs Getafe | 14:00</display-name>
-  </channel>
-  <channel id="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_2">
-    <display-name>LaLiga | Rayo Vallecano vs Getafe | 14:00</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Eibar_vs_Mirand_s___13_30_1">
-    <display-name>LaLiga Hypermotion | Eibar vs Mirandés | 13:30</display-name>
-  </channel>
-  <channel id="Evento_Liga_Portugal__Liga_Portugal___Gil_Vicente_vs_Sporting_CP___12_45_1">
-    <display-name>Liga Portugal | Gil Vicente vs Sporting CP | 12:45</display-name>
-  </channel>
-  <channel id="Evento_Liga_Portugal__Liga_Portugal___Vit_ria_Guimar_es_vs_Nacional___14_45_1">
-    <display-name>Liga Portugal | Vitória Guimarães vs Nacional | 14:45</display-name>
-  </channel>
-  <channel id="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_1">
-    <display-name>Saudi Pro | Al-Ahli vs Al Nassr | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_2">
-    <display-name>Saudi Pro | Al-Ahli vs Al Nassr | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Premiership__Premiership___Bristol_Bears_vs_Sale_Sharks___13_30_1">
-    <display-name>Premiership | Bristol Bears vs Sale Sharks | 13:30</display-name>
-  </channel>
-  <channel id="Evento_WJC_U20__WJC_U20___Denmark_U20_vs_Germany_U20___11_30_1">
-    <display-name>WJC U20 | Denmark U20 vs Germany U20 | 11:30</display-name>
-  </channel>
-  <channel id="Evento_WJC_U20__WJC_U20___L_vs_via_U20_vs__Sweden_U20___13_00_1">
-    <display-name>WJC U20 | L vs via U20 vs. Sweden U20 | 13:00</display-name>
-  </channel>
-  <channel id="Evento_WJC_U20__WJC_U20___Switzerland_U20_vs_Czech_Republic_U20___15_30_1">
-    <display-name>WJC U20 | Switzerland U20 vs Czech Republic U20 | 15:30</display-name>
-  </channel>
   <channel id="Evento_WJC_U20__WJC_U20___Finland_U20_vs_USA_U20___17_00_1">
     <display-name>WJC U20 | Finland U20 vs USA U20 | 17:00</display-name>
   </channel>
   <channel id="Evento_WJC_U20__WJC_U20___Slovakia_U20_vs_Canada_U20___19_30_1">
     <display-name>WJC U20 | Slovakia U20 vs Canada U20 | 19:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Kennesaw_St_vs_e_vs__Liberty___18_00_1">
-    <display-name>NCAA Masculino | Kennesaw St vs e vs. Liberty | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Mount_St__Mary_s_vs_Merrimack___14_00_1">
-    <display-name>NCAA Masculino | Mount St. Mary's vs Merrimack | 14:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Notre_Dame_vs_California___22_00_1">
     <display-name>NCAA Masculino | Notre Dame vs California | 22:00</display-name>
@@ -137552,20 +137501,8 @@
   <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Washington_St_vs_e_vs__Portland___20_00_1">
     <display-name>NCAA Femenino | Washington St vs e vs. Portland | 20:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football___Rice_vs_Texas_State___12_00_1">
-    <display-name>NCAA Football | Rice vs Texas State | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football___Navy_vs_Cincinnati___15_30_1">
-    <display-name>NCAA Football | Navy vs Cincinnati | 15:30</display-name>
-  </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football___Wake_Forest_vs_Mississippi_State___19_00_1">
     <display-name>NCAA Football | Wake Forest vs Mississippi State | 19:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
-    <display-name>NCAA Football | Oregon vs Texas Tech (Cuartos de Final) | 11:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
-    <display-name>NCAA Football | Alabama vs Indiana (Cuartos de Final) | 15:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Football__NCAA_Football___Ole_Miss_vs_Georgia__Cuartos_de_Final____19_00_1">
     <display-name>NCAA Football | Ole Miss vs Georgia (Cuartos de Final) | 19:00</display-name>
@@ -137642,15 +137579,6 @@
   <programme start="20260103003000 -0600" stop="20260102235959 -0600" channel="Evento_NHL__NHL___Se_vs_tle_Kraken_vs__Vancouver_Canucks___21_30_1">
     <title>Finalizado | Se vs tle Kraken vs. Vancouver Canucks</title>
   </programme>
-  <programme start="20260102000000 -0600" stop="20260102140000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_St__Louis_Blues___14_00_1">
-    <title>Próximamente | 14:00 | Vegas Golden Knights vs St. Louis Blues</title>
-  </programme>
-  <programme start="20260102140000 -0600" stop="20260102170000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_St__Louis_Blues___14_00_1">
-    <title>⌾ En vivo | 14:00 | Vegas Golden Knights vs St. Louis Blues</title>
-  </programme>
-  <programme start="20260102170000 -0600" stop="20260102235959 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_St__Louis_Blues___14_00_1">
-    <title>Finalizado | Vegas Golden Knights vs St. Louis Blues</title>
-  </programme>
   <programme start="20260102000000 -0600" stop="20260102203000 -0600" channel="Evento_LMP__LMP___Naranjeros_de_Hermosillo_vs_Charros___20_30_1">
     <title>Próximamente | 20:30 | Naranjeros de Hermosillo vs Charros</title>
   </programme>
@@ -137687,132 +137615,6 @@
   <programme start="20260102233000 -0600" stop="20260102235959 -0600" channel="Evento_LMP__LMP___Jaguares_de_Nayarit_vs_Algodoneros_de_Guasave___20_30_1">
     <title>Finalizado | Jaguares de Nayarit vs Algodoneros de Guasave</title>
   </programme>
-  <programme start="20260102000000 -0600" stop="20260102133000 -0600" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_1">
-    <title>Próximamente | 13:30 | Cagliari vs Milan</title>
-  </programme>
-  <programme start="20260102133000 -0600" stop="20260102163000 -0600" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_1">
-    <title>⌾ En vivo | 13:30 | Cagliari vs Milan</title>
-  </programme>
-  <programme start="20260102163000 -0600" stop="20260102235959 -0600" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_1">
-    <title>Finalizado | Cagliari vs Milan</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102133000 -0600" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_2">
-    <title>Próximamente | 13:30 | Cagliari vs Milan</title>
-  </programme>
-  <programme start="20260102133000 -0600" stop="20260102163000 -0600" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_2">
-    <title>⌾ En vivo | 13:30 | Cagliari vs Milan</title>
-  </programme>
-  <programme start="20260102163000 -0600" stop="20260102235959 -0600" channel="Evento_Serie_A__Serie_A___Cagliari_vs_Milan___13_30_2">
-    <title>Finalizado | Cagliari vs Milan</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102133000 -0600" channel="Evento_Ligue_1__Ligue_1___Toulouse_vs_Lens___13_30_1">
-    <title>Próximamente | 13:30 | Toulouse vs Lens</title>
-  </programme>
-  <programme start="20260102133000 -0600" stop="20260102163000 -0600" channel="Evento_Ligue_1__Ligue_1___Toulouse_vs_Lens___13_30_1">
-    <title>⌾ En vivo | 13:30 | Toulouse vs Lens</title>
-  </programme>
-  <programme start="20260102163000 -0600" stop="20260102235959 -0600" channel="Evento_Ligue_1__Ligue_1___Toulouse_vs_Lens___13_30_1">
-    <title>Finalizado | Toulouse vs Lens</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102140000 -0600" channel="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_1">
-    <title>Próximamente | 14:00 | Rayo Vallecano vs Getafe</title>
-  </programme>
-  <programme start="20260102140000 -0600" stop="20260102170000 -0600" channel="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_1">
-    <title>⌾ En vivo | 14:00 | Rayo Vallecano vs Getafe</title>
-  </programme>
-  <programme start="20260102170000 -0600" stop="20260102235959 -0600" channel="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_1">
-    <title>Finalizado | Rayo Vallecano vs Getafe</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102140000 -0600" channel="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_2">
-    <title>Próximamente | 14:00 | Rayo Vallecano vs Getafe</title>
-  </programme>
-  <programme start="20260102140000 -0600" stop="20260102170000 -0600" channel="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_2">
-    <title>⌾ En vivo | 14:00 | Rayo Vallecano vs Getafe</title>
-  </programme>
-  <programme start="20260102170000 -0600" stop="20260102235959 -0600" channel="Evento_LaLiga__LaLiga___Rayo_Vallecano_vs_Getafe___14_00_2">
-    <title>Finalizado | Rayo Vallecano vs Getafe</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102133000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Eibar_vs_Mirand_s___13_30_1">
-    <title>Próximamente | 13:30 | Eibar vs Mirandés</title>
-  </programme>
-  <programme start="20260102133000 -0600" stop="20260102163000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Eibar_vs_Mirand_s___13_30_1">
-    <title>⌾ En vivo | 13:30 | Eibar vs Mirandés</title>
-  </programme>
-  <programme start="20260102163000 -0600" stop="20260102235959 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Eibar_vs_Mirand_s___13_30_1">
-    <title>Finalizado | Eibar vs Mirandés</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102124500 -0600" channel="Evento_Liga_Portugal__Liga_Portugal___Gil_Vicente_vs_Sporting_CP___12_45_1">
-    <title>Próximamente | 12:45 | Gil Vicente vs Sporting CP</title>
-  </programme>
-  <programme start="20260102124500 -0600" stop="20260102154500 -0600" channel="Evento_Liga_Portugal__Liga_Portugal___Gil_Vicente_vs_Sporting_CP___12_45_1">
-    <title>⌾ En vivo | 12:45 | Gil Vicente vs Sporting CP</title>
-  </programme>
-  <programme start="20260102154500 -0600" stop="20260102235959 -0600" channel="Evento_Liga_Portugal__Liga_Portugal___Gil_Vicente_vs_Sporting_CP___12_45_1">
-    <title>Finalizado | Gil Vicente vs Sporting CP</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102144500 -0600" channel="Evento_Liga_Portugal__Liga_Portugal___Vit_ria_Guimar_es_vs_Nacional___14_45_1">
-    <title>Próximamente | 14:45 | Vitória Guimarães vs Nacional</title>
-  </programme>
-  <programme start="20260102144500 -0600" stop="20260102174500 -0600" channel="Evento_Liga_Portugal__Liga_Portugal___Vit_ria_Guimar_es_vs_Nacional___14_45_1">
-    <title>⌾ En vivo | 14:45 | Vitória Guimarães vs Nacional</title>
-  </programme>
-  <programme start="20260102174500 -0600" stop="20260102235959 -0600" channel="Evento_Liga_Portugal__Liga_Portugal___Vit_ria_Guimar_es_vs_Nacional___14_45_1">
-    <title>Finalizado | Vitória Guimarães vs Nacional</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102113000 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_1">
-    <title>Próximamente | 11:30 | Al-Ahli vs Al Nassr</title>
-  </programme>
-  <programme start="20260102113000 -0600" stop="20260102143000 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_1">
-    <title>⌾ En vivo | 11:30 | Al-Ahli vs Al Nassr</title>
-  </programme>
-  <programme start="20260102143000 -0600" stop="20260102235959 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_1">
-    <title>Finalizado | Al-Ahli vs Al Nassr</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102113000 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_2">
-    <title>Próximamente | 11:30 | Al-Ahli vs Al Nassr</title>
-  </programme>
-  <programme start="20260102113000 -0600" stop="20260102143000 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_2">
-    <title>⌾ En vivo | 11:30 | Al-Ahli vs Al Nassr</title>
-  </programme>
-  <programme start="20260102143000 -0600" stop="20260102235959 -0600" channel="Evento_Saudi_Pro__Saudi_Pro___Al_Ahli_vs_Al_Nassr___11_30_2">
-    <title>Finalizado | Al-Ahli vs Al Nassr</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102133000 -0600" channel="Evento_Premiership__Premiership___Bristol_Bears_vs_Sale_Sharks___13_30_1">
-    <title>Próximamente | 13:30 | Bristol Bears vs Sale Sharks</title>
-  </programme>
-  <programme start="20260102133000 -0600" stop="20260102163000 -0600" channel="Evento_Premiership__Premiership___Bristol_Bears_vs_Sale_Sharks___13_30_1">
-    <title>⌾ En vivo | 13:30 | Bristol Bears vs Sale Sharks</title>
-  </programme>
-  <programme start="20260102163000 -0600" stop="20260102235959 -0600" channel="Evento_Premiership__Premiership___Bristol_Bears_vs_Sale_Sharks___13_30_1">
-    <title>Finalizado | Bristol Bears vs Sale Sharks</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102113000 -0600" channel="Evento_WJC_U20__WJC_U20___Denmark_U20_vs_Germany_U20___11_30_1">
-    <title>Próximamente | 11:30 | Denmark U20 vs Germany U20</title>
-  </programme>
-  <programme start="20260102113000 -0600" stop="20260102143000 -0600" channel="Evento_WJC_U20__WJC_U20___Denmark_U20_vs_Germany_U20___11_30_1">
-    <title>⌾ En vivo | 11:30 | Denmark U20 vs Germany U20</title>
-  </programme>
-  <programme start="20260102143000 -0600" stop="20260102235959 -0600" channel="Evento_WJC_U20__WJC_U20___Denmark_U20_vs_Germany_U20___11_30_1">
-    <title>Finalizado | Denmark U20 vs Germany U20</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102130000 -0600" channel="Evento_WJC_U20__WJC_U20___L_vs_via_U20_vs__Sweden_U20___13_00_1">
-    <title>Próximamente | 13:00 | L vs via U20 vs. Sweden U20</title>
-  </programme>
-  <programme start="20260102130000 -0600" stop="20260102160000 -0600" channel="Evento_WJC_U20__WJC_U20___L_vs_via_U20_vs__Sweden_U20___13_00_1">
-    <title>⌾ En vivo | 13:00 | L vs via U20 vs. Sweden U20</title>
-  </programme>
-  <programme start="20260102160000 -0600" stop="20260102235959 -0600" channel="Evento_WJC_U20__WJC_U20___L_vs_via_U20_vs__Sweden_U20___13_00_1">
-    <title>Finalizado | L vs via U20 vs. Sweden U20</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102153000 -0600" channel="Evento_WJC_U20__WJC_U20___Switzerland_U20_vs_Czech_Republic_U20___15_30_1">
-    <title>Próximamente | 15:30 | Switzerland U20 vs Czech Republic U20</title>
-  </programme>
-  <programme start="20260102153000 -0600" stop="20260102183000 -0600" channel="Evento_WJC_U20__WJC_U20___Switzerland_U20_vs_Czech_Republic_U20___15_30_1">
-    <title>⌾ En vivo | 15:30 | Switzerland U20 vs Czech Republic U20</title>
-  </programme>
-  <programme start="20260102183000 -0600" stop="20260102235959 -0600" channel="Evento_WJC_U20__WJC_U20___Switzerland_U20_vs_Czech_Republic_U20___15_30_1">
-    <title>Finalizado | Switzerland U20 vs Czech Republic U20</title>
-  </programme>
   <programme start="20260102000000 -0600" stop="20260102170000 -0600" channel="Evento_WJC_U20__WJC_U20___Finland_U20_vs_USA_U20___17_00_1">
     <title>Próximamente | 17:00 | Finland U20 vs USA U20</title>
   </programme>
@@ -137830,24 +137632,6 @@
   </programme>
   <programme start="20260102223000 -0600" stop="20260102235959 -0600" channel="Evento_WJC_U20__WJC_U20___Slovakia_U20_vs_Canada_U20___19_30_1">
     <title>Finalizado | Slovakia U20 vs Canada U20</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102180000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Kennesaw_St_vs_e_vs__Liberty___18_00_1">
-    <title>Próximamente | 18:00 | Kennesaw St vs e vs. Liberty</title>
-  </programme>
-  <programme start="20260102180000 -0600" stop="20260102210000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Kennesaw_St_vs_e_vs__Liberty___18_00_1">
-    <title>⌾ En vivo | 18:00 | Kennesaw St vs e vs. Liberty</title>
-  </programme>
-  <programme start="20260102210000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Kennesaw_St_vs_e_vs__Liberty___18_00_1">
-    <title>Finalizado | Kennesaw St vs e vs. Liberty</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102140000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Mount_St__Mary_s_vs_Merrimack___14_00_1">
-    <title>Próximamente | 14:00 | Mount St. Mary's vs Merrimack</title>
-  </programme>
-  <programme start="20260102140000 -0600" stop="20260102170000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Mount_St__Mary_s_vs_Merrimack___14_00_1">
-    <title>⌾ En vivo | 14:00 | Mount St. Mary's vs Merrimack</title>
-  </programme>
-  <programme start="20260102170000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Mount_St__Mary_s_vs_Merrimack___14_00_1">
-    <title>Finalizado | Mount St. Mary's vs Merrimack</title>
   </programme>
   <programme start="20260102000000 -0600" stop="20260102220000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Notre_Dame_vs_California___22_00_1">
     <title>Próximamente | 22:00 | Notre Dame vs California</title>
@@ -137921,24 +137705,6 @@
   <programme start="20260102230000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Washington_St_vs_e_vs__Portland___20_00_1">
     <title>Finalizado | Washington St vs e vs. Portland</title>
   </programme>
-  <programme start="20260102000000 -0600" stop="20260102120000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Rice_vs_Texas_State___12_00_1">
-    <title>Próximamente | 12:00 | Rice vs Texas State</title>
-  </programme>
-  <programme start="20260102120000 -0600" stop="20260102150000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Rice_vs_Texas_State___12_00_1">
-    <title>⌾ En vivo | 12:00 | Rice vs Texas State</title>
-  </programme>
-  <programme start="20260102150000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Football__NCAA_Football___Rice_vs_Texas_State___12_00_1">
-    <title>Finalizado | Rice vs Texas State</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102153000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Navy_vs_Cincinnati___15_30_1">
-    <title>Próximamente | 15:30 | Navy vs Cincinnati</title>
-  </programme>
-  <programme start="20260102153000 -0600" stop="20260102183000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Navy_vs_Cincinnati___15_30_1">
-    <title>⌾ En vivo | 15:30 | Navy vs Cincinnati</title>
-  </programme>
-  <programme start="20260102183000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Football__NCAA_Football___Navy_vs_Cincinnati___15_30_1">
-    <title>Finalizado | Navy vs Cincinnati</title>
-  </programme>
   <programme start="20260102000000 -0600" stop="20260102190000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Wake_Forest_vs_Mississippi_State___19_00_1">
     <title>Próximamente | 19:00 | Wake Forest vs Mississippi State</title>
   </programme>
@@ -137947,24 +137713,6 @@
   </programme>
   <programme start="20260102220000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Football__NCAA_Football___Wake_Forest_vs_Mississippi_State___19_00_1">
     <title>Finalizado | Wake Forest vs Mississippi State</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102110000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
-    <title>Próximamente | 11:00 | Oregon vs Texas Tech (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260102110000 -0600" stop="20260102140000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
-    <title>⌾ En vivo | 11:00 | Oregon vs Texas Tech (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260102140000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Football__NCAA_Football___Oregon_vs_Texas_Tech__Cuartos_de_Final____11_00_1">
-    <title>Finalizado | Oregon vs Texas Tech (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260102000000 -0600" stop="20260102150000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
-    <title>Próximamente | 15:00 | Alabama vs Indiana (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260102150000 -0600" stop="20260102180000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
-    <title>⌾ En vivo | 15:00 | Alabama vs Indiana (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260102180000 -0600" stop="20260102235959 -0600" channel="Evento_NCAA_Football__NCAA_Football___Alabama_vs_Indiana__Cuartos_de_Final____15_00_1">
-    <title>Finalizado | Alabama vs Indiana (Cuartos de Final)</title>
   </programme>
   <programme start="20260102000000 -0600" stop="20260102190000 -0600" channel="Evento_NCAA_Football__NCAA_Football___Ole_Miss_vs_Georgia__Cuartos_de_Final____19_00_1">
     <title>Próximamente | 19:00 | Ole Miss vs Georgia (Cuartos de Final)</title>
