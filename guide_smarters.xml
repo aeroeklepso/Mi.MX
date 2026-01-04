@@ -135284,20 +135284,8 @@
     <desc>Las Batallas comienzan cuando los coaches preparan a sus artistas para un duelo de duetos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Buffalo_Sabres_vs_Columbus_Blue_Jackets___14_00_1">
-    <display-name>NHL | Buffalo Sabres vs Columbus Blue Jackets | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Utah_Mammoth_vs_New_Jersey_Devils___14_00_1">
-    <display-name>NHL | Utah Mammoth vs New Jersey Devils | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Philadelphia_Flyers_vs_Edmonton_Oilers___14_30_1">
-    <display-name>NHL | Philadelphia Flyers vs Edmonton Oilers | 14:30</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
     <display-name>NHL | Montreal Canadiens vs St. Louis Blues | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_San_Jose_Sharks___15_00_1">
-    <display-name>NHL | Tampa Bay Lightning vs San Jose Sharks | 15:00</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___Chicago_Blackhawks_vs_Washington_Capitals___18_00_1">
     <display-name>NHL | Chicago Blackhawks vs Washington Capitals | 18:00</display-name>
@@ -135359,23 +135347,11 @@
   <channel id="Evento_NBA_G_League__NBA_G_League___Wisconsin_Herd_vs_Stockton_Kings___19_00_1">
     <display-name>NBA G League | Wisconsin Herd vs Stockton Kings | 19:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Basketball__NCAA_Basketball____19_Tennessee_vs__18_Arkansas___14_00_1">
-    <display-name>NCAA Basketball | #19 Tennessee vs #18 Arkansas | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___LSU_vs_Texas_A_M___15_00_1">
-    <display-name>NCAA Basketball | LSU vs Texas A&amp;M | 15:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Colorado_vs_Arizona_State___16_00_1">
-    <display-name>NCAA Basketball | Colorado vs Arizona State | 16:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Wichita_St_vs_e_vs__Charlotte___17_00_1">
     <display-name>NCAA Basketball | Wichita St vs e vs. Charlotte | 17:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Hawai_i_vs_UC_San_Diego___21_00_1">
     <display-name>NCAA Basketball | Hawai'i vs UC San Diego | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Arizona_St_vs_e_vs__BYU___15_00_1">
-    <display-name>NCAA W Basketball | Arizona St vs e vs. BYU | 15:00</display-name>
   </channel>
   <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Arizona_vs__21_Texas_Tech___18_00_1">
     <display-name>NCAA W Basketball | Arizona vs #21 Texas Tech | 18:00</display-name>
@@ -135449,36 +135425,6 @@
   <channel id="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations___Italia_vs_Francia___10_55_1">
     <display-name>Kings World Cup Nations | Italia vs Francia | 10:55</display-name>
   </channel>
-  <channel id="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Kings_World_Cup_Nations___Ronda__1___EN_HD_____10_55_1">
-    <display-name>Kings World Cup Nations | | Kings World Cup N vs ions | Kings World Cup Nations | Ronda #1 | EN-HD | | 10:55</display-name>
-  </channel>
-  <programme start="20260103060000" stop="20260103200000" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Columbus_Blue_Jackets___14_00_1">
-    <title>Próximamente | 14:00 | Buffalo Sabres vs Columbus Blue Jackets</title>
-  </programme>
-  <programme start="20260103200000" stop="20260103230000" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Columbus_Blue_Jackets___14_00_1">
-    <title>⌾ En vivo | 14:00 | Buffalo Sabres vs Columbus Blue Jackets</title>
-  </programme>
-  <programme start="20260103230000" stop="20260104055959" channel="Evento_NHL__NHL___Buffalo_Sabres_vs_Columbus_Blue_Jackets___14_00_1">
-    <title>Finalizado | Buffalo Sabres vs Columbus Blue Jackets</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103200000" channel="Evento_NHL__NHL___Utah_Mammoth_vs_New_Jersey_Devils___14_00_1">
-    <title>Próximamente | 14:00 | Utah Mammoth vs New Jersey Devils</title>
-  </programme>
-  <programme start="20260103200000" stop="20260103230000" channel="Evento_NHL__NHL___Utah_Mammoth_vs_New_Jersey_Devils___14_00_1">
-    <title>⌾ En vivo | 14:00 | Utah Mammoth vs New Jersey Devils</title>
-  </programme>
-  <programme start="20260103230000" stop="20260104055959" channel="Evento_NHL__NHL___Utah_Mammoth_vs_New_Jersey_Devils___14_00_1">
-    <title>Finalizado | Utah Mammoth vs New Jersey Devils</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103203000" channel="Evento_NHL__NHL___Philadelphia_Flyers_vs_Edmonton_Oilers___14_30_1">
-    <title>Próximamente | 14:30 | Philadelphia Flyers vs Edmonton Oilers</title>
-  </programme>
-  <programme start="20260103203000" stop="20260103233000" channel="Evento_NHL__NHL___Philadelphia_Flyers_vs_Edmonton_Oilers___14_30_1">
-    <title>⌾ En vivo | 14:30 | Philadelphia Flyers vs Edmonton Oilers</title>
-  </programme>
-  <programme start="20260103233000" stop="20260104055959" channel="Evento_NHL__NHL___Philadelphia_Flyers_vs_Edmonton_Oilers___14_30_1">
-    <title>Finalizado | Philadelphia Flyers vs Edmonton Oilers</title>
-  </programme>
   <programme start="20260103060000" stop="20260103210000" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
     <title>Próximamente | 15:00 | Montreal Canadiens vs St. Louis Blues</title>
   </programme>
@@ -135487,15 +135433,6 @@
   </programme>
   <programme start="20260104000000" stop="20260104055959" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
     <title>Finalizado | Montreal Canadiens vs St. Louis Blues</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103210000" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_San_Jose_Sharks___15_00_1">
-    <title>Próximamente | 15:00 | Tampa Bay Lightning vs San Jose Sharks</title>
-  </programme>
-  <programme start="20260103210000" stop="20260104000000" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_San_Jose_Sharks___15_00_1">
-    <title>⌾ En vivo | 15:00 | Tampa Bay Lightning vs San Jose Sharks</title>
-  </programme>
-  <programme start="20260104000000" stop="20260104055959" channel="Evento_NHL__NHL___Tampa_Bay_Lightning_vs_San_Jose_Sharks___15_00_1">
-    <title>Finalizado | Tampa Bay Lightning vs San Jose Sharks</title>
   </programme>
   <programme start="20260103060000" stop="20260104000000" channel="Evento_NHL__NHL___Chicago_Blackhawks_vs_Washington_Capitals___18_00_1">
     <title>Próximamente | 18:00 | Chicago Blackhawks vs Washington Capitals</title>
@@ -135677,33 +135614,6 @@
   <programme start="20260104040000" stop="20260104055959" channel="Evento_NBA_G_League__NBA_G_League___Wisconsin_Herd_vs_Stockton_Kings___19_00_1">
     <title>Finalizado | Wisconsin Herd vs Stockton Kings</title>
   </programme>
-  <programme start="20260103060000" stop="20260103200000" channel="Evento_NCAA_Basketball__NCAA_Basketball____19_Tennessee_vs__18_Arkansas___14_00_1">
-    <title>Próximamente | 14:00 | #19 Tennessee vs #18 Arkansas</title>
-  </programme>
-  <programme start="20260103200000" stop="20260103230000" channel="Evento_NCAA_Basketball__NCAA_Basketball____19_Tennessee_vs__18_Arkansas___14_00_1">
-    <title>⌾ En vivo | 14:00 | #19 Tennessee vs #18 Arkansas</title>
-  </programme>
-  <programme start="20260103230000" stop="20260104055959" channel="Evento_NCAA_Basketball__NCAA_Basketball____19_Tennessee_vs__18_Arkansas___14_00_1">
-    <title>Finalizado | #19 Tennessee vs #18 Arkansas</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103210000" channel="Evento_NCAA_Basketball__NCAA_Basketball___LSU_vs_Texas_A_M___15_00_1">
-    <title>Próximamente | 15:00 | LSU vs Texas A&amp;M</title>
-  </programme>
-  <programme start="20260103210000" stop="20260104000000" channel="Evento_NCAA_Basketball__NCAA_Basketball___LSU_vs_Texas_A_M___15_00_1">
-    <title>⌾ En vivo | 15:00 | LSU vs Texas A&amp;M</title>
-  </programme>
-  <programme start="20260104000000" stop="20260104055959" channel="Evento_NCAA_Basketball__NCAA_Basketball___LSU_vs_Texas_A_M___15_00_1">
-    <title>Finalizado | LSU vs Texas A&amp;M</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103220000" channel="Evento_NCAA_Basketball__NCAA_Basketball___Colorado_vs_Arizona_State___16_00_1">
-    <title>Próximamente | 16:00 | Colorado vs Arizona State</title>
-  </programme>
-  <programme start="20260103220000" stop="20260104010000" channel="Evento_NCAA_Basketball__NCAA_Basketball___Colorado_vs_Arizona_State___16_00_1">
-    <title>⌾ En vivo | 16:00 | Colorado vs Arizona State</title>
-  </programme>
-  <programme start="20260104010000" stop="20260104055959" channel="Evento_NCAA_Basketball__NCAA_Basketball___Colorado_vs_Arizona_State___16_00_1">
-    <title>Finalizado | Colorado vs Arizona State</title>
-  </programme>
   <programme start="20260103060000" stop="20260103230000" channel="Evento_NCAA_Basketball__NCAA_Basketball___Wichita_St_vs_e_vs__Charlotte___17_00_1">
     <title>Próximamente | 17:00 | Wichita St vs e vs. Charlotte</title>
   </programme>
@@ -135721,15 +135631,6 @@
   </programme>
   <programme start="20260104060000" stop="20260104055959" channel="Evento_NCAA_Basketball__NCAA_Basketball___Hawai_i_vs_UC_San_Diego___21_00_1">
     <title>Finalizado | Hawai'i vs UC San Diego</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103210000" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Arizona_St_vs_e_vs__BYU___15_00_1">
-    <title>Próximamente | 15:00 | Arizona St vs e vs. BYU</title>
-  </programme>
-  <programme start="20260103210000" stop="20260104000000" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Arizona_St_vs_e_vs__BYU___15_00_1">
-    <title>⌾ En vivo | 15:00 | Arizona St vs e vs. BYU</title>
-  </programme>
-  <programme start="20260104000000" stop="20260104055959" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Arizona_St_vs_e_vs__BYU___15_00_1">
-    <title>Finalizado | Arizona St vs e vs. BYU</title>
   </programme>
   <programme start="20260103060000" stop="20260104000000" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Arizona_vs__21_Texas_Tech___18_00_1">
     <title>Próximamente | 18:00 | Arizona vs #21 Texas Tech</title>
@@ -135946,15 +135847,6 @@
   </programme>
   <programme start="20260103195500" stop="20260104055959" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations___Italia_vs_Francia___10_55_1">
     <title>Finalizado | Italia vs Francia</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103165500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Kings_World_Cup_Nations___Ronda__1___EN_HD_____10_55_1">
-    <title>Próximamente | 10:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260103165500" stop="20260103195500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Kings_World_Cup_Nations___Ronda__1___EN_HD_____10_55_1">
-    <title>⌾ En vivo | 10:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260103195500" stop="20260104055959" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Kings_World_Cup_Nations___Ronda__1___EN_HD_____10_55_1">
-    <title>Finalizado | Kings World Cup N vs ions</title>
   </programme>
 </tv>
 
