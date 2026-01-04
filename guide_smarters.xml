@@ -135284,9 +135284,6 @@
     <desc>Las Batallas comienzan cuando los coaches preparan a sus artistas para un duelo de duetos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
-    <display-name>NHL | Montreal Canadiens vs St. Louis Blues | 15:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Chicago_Blackhawks_vs_Washington_Capitals___18_00_1">
     <display-name>NHL | Chicago Blackhawks vs Washington Capitals | 18:00</display-name>
   </channel>
@@ -135307,12 +135304,6 @@
   </channel>
   <channel id="Evento_NHL__NHL___Boston_Bruins_vs_Vancouver_Canucks___21_00_1">
     <display-name>NHL | Boston Bruins vs Vancouver Canucks | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Holy_Cross_vs_Maine___17_00_1">
-    <display-name>NCAA Women’s Hockey | Holy Cross vs Maine | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Miami_He_vs_vs__Minnesota_Timberwolves___16_00_1">
-    <display-name>NBA | Miami He vs vs. Minnesota Timberwolves | 16:00</display-name>
   </channel>
   <channel id="Evento_NBA__NBA___Toronto_Raptors_vs_Atlanta_Hawks___18_30_1">
     <display-name>NBA | Toronto Raptors vs Atlanta Hawks | 18:30</display-name>
@@ -135347,9 +135338,6 @@
   <channel id="Evento_NBA_G_League__NBA_G_League___Wisconsin_Herd_vs_Stockton_Kings___19_00_1">
     <display-name>NBA G League | Wisconsin Herd vs Stockton Kings | 19:00</display-name>
   </channel>
-  <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Wichita_St_vs_e_vs__Charlotte___17_00_1">
-    <display-name>NCAA Basketball | Wichita St vs e vs. Charlotte | 17:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Basketball__NCAA_Basketball___Hawai_i_vs_UC_San_Diego___21_00_1">
     <display-name>NCAA Basketball | Hawai'i vs UC San Diego | 21:00</display-name>
   </channel>
@@ -135377,27 +135365,6 @@
   <channel id="Evento_EPL__EPL___Wolverhampton_Wanderers_vs_West_Ham_United___09_00_1">
     <display-name>EPL | Wolverhampton Wanderers vs West Ham United | 09:00</display-name>
   </channel>
-  <channel id="Evento_Serie_A__Serie_A___Atalanta_vs_Roma___13_45_1">
-    <display-name>Serie A | Atalanta vs Roma | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana__Copa_Africana___Mali_vs_Tunisia___13_00_1">
-    <display-name>Copa Africana | Mali vs Tunisia | 13:00</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Valladolid_vs_Racing_Santander___11_30_1">
-    <display-name>LaLiga Hypermotion | Real Valladolid vs Racing Santander | 11:30</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___C_rdoba_vs_Burgos___14_00_1">
-    <display-name>LaLiga Hypermotion | Córdoba vs Burgos | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Benfica_vs_Estoril___12_00_1">
-    <display-name>Primeira Liga | Benfica vs Estoril | 12:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Estrela_vs_Sporting_Braga___12_00_1">
-    <display-name>Primeira Liga | Estrela vs Sporting Braga | 12:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___A_vs_vs__Moreirense___14_30_1">
-    <display-name>Primeira Liga | A vs vs. Moreirense | 14:30</display-name>
-  </channel>
   <channel id="Evento_Amistoso_Clubes__Amistoso_Clubes___Leones_Negros_UdeG_vs_Monterrey___18_00_1">
     <display-name>Amistoso Clubes | Leones Negros UdeG vs Monterrey | 18:00</display-name>
   </channel>
@@ -135422,18 +135389,6 @@
   <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Pat_Rafter_Arena___ES_HD___20_00_1">
     <display-name>WTA | | WTA | Brisbane Intern vs ional | Pat Rafter Arena | ES-HD | 20:00</display-name>
   </channel>
-  <channel id="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations___Italia_vs_Francia___10_55_1">
-    <display-name>Kings World Cup Nations | Italia vs Francia | 10:55</display-name>
-  </channel>
-  <programme start="20260103060000" stop="20260103210000" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
-    <title>Próximamente | 15:00 | Montreal Canadiens vs St. Louis Blues</title>
-  </programme>
-  <programme start="20260103210000" stop="20260104000000" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
-    <title>⌾ En vivo | 15:00 | Montreal Canadiens vs St. Louis Blues</title>
-  </programme>
-  <programme start="20260104000000" stop="20260104055959" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_St__Louis_Blues___15_00_1">
-    <title>Finalizado | Montreal Canadiens vs St. Louis Blues</title>
-  </programme>
   <programme start="20260103060000" stop="20260104000000" channel="Evento_NHL__NHL___Chicago_Blackhawks_vs_Washington_Capitals___18_00_1">
     <title>Próximamente | 18:00 | Chicago Blackhawks vs Washington Capitals</title>
   </programme>
@@ -135496,24 +135451,6 @@
   </programme>
   <programme start="20260104060000" stop="20260104055959" channel="Evento_NHL__NHL___Boston_Bruins_vs_Vancouver_Canucks___21_00_1">
     <title>Finalizado | Boston Bruins vs Vancouver Canucks</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103230000" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Holy_Cross_vs_Maine___17_00_1">
-    <title>Próximamente | 17:00 | Holy Cross vs Maine</title>
-  </programme>
-  <programme start="20260103230000" stop="20260104020000" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Holy_Cross_vs_Maine___17_00_1">
-    <title>⌾ En vivo | 17:00 | Holy Cross vs Maine</title>
-  </programme>
-  <programme start="20260104020000" stop="20260104055959" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Holy_Cross_vs_Maine___17_00_1">
-    <title>Finalizado | Holy Cross vs Maine</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103220000" channel="Evento_NBA__NBA___Miami_He_vs_vs__Minnesota_Timberwolves___16_00_1">
-    <title>Próximamente | 16:00 | Miami He vs vs. Minnesota Timberwolves</title>
-  </programme>
-  <programme start="20260103220000" stop="20260104010000" channel="Evento_NBA__NBA___Miami_He_vs_vs__Minnesota_Timberwolves___16_00_1">
-    <title>⌾ En vivo | 16:00 | Miami He vs vs. Minnesota Timberwolves</title>
-  </programme>
-  <programme start="20260104010000" stop="20260104055959" channel="Evento_NBA__NBA___Miami_He_vs_vs__Minnesota_Timberwolves___16_00_1">
-    <title>Finalizado | Miami He vs vs. Minnesota Timberwolves</title>
   </programme>
   <programme start="20260103060000" stop="20260104003000" channel="Evento_NBA__NBA___Toronto_Raptors_vs_Atlanta_Hawks___18_30_1">
     <title>Próximamente | 18:30 | Toronto Raptors vs Atlanta Hawks</title>
@@ -135614,15 +135551,6 @@
   <programme start="20260104040000" stop="20260104055959" channel="Evento_NBA_G_League__NBA_G_League___Wisconsin_Herd_vs_Stockton_Kings___19_00_1">
     <title>Finalizado | Wisconsin Herd vs Stockton Kings</title>
   </programme>
-  <programme start="20260103060000" stop="20260103230000" channel="Evento_NCAA_Basketball__NCAA_Basketball___Wichita_St_vs_e_vs__Charlotte___17_00_1">
-    <title>Próximamente | 17:00 | Wichita St vs e vs. Charlotte</title>
-  </programme>
-  <programme start="20260103230000" stop="20260104020000" channel="Evento_NCAA_Basketball__NCAA_Basketball___Wichita_St_vs_e_vs__Charlotte___17_00_1">
-    <title>⌾ En vivo | 17:00 | Wichita St vs e vs. Charlotte</title>
-  </programme>
-  <programme start="20260104020000" stop="20260104055959" channel="Evento_NCAA_Basketball__NCAA_Basketball___Wichita_St_vs_e_vs__Charlotte___17_00_1">
-    <title>Finalizado | Wichita St vs e vs. Charlotte</title>
-  </programme>
   <programme start="20260103060000" stop="20260104030000" channel="Evento_NCAA_Basketball__NCAA_Basketball___Hawai_i_vs_UC_San_Diego___21_00_1">
     <title>Próximamente | 21:00 | Hawai'i vs UC San Diego</title>
   </programme>
@@ -135704,69 +135632,6 @@
   <programme start="20260103180000" stop="20260104055959" channel="Evento_EPL__EPL___Wolverhampton_Wanderers_vs_West_Ham_United___09_00_1">
     <title>Finalizado | Wolverhampton Wanderers vs West Ham United</title>
   </programme>
-  <programme start="20260103060000" stop="20260103194500" channel="Evento_Serie_A__Serie_A___Atalanta_vs_Roma___13_45_1">
-    <title>Próximamente | 13:45 | Atalanta vs Roma</title>
-  </programme>
-  <programme start="20260103194500" stop="20260103224500" channel="Evento_Serie_A__Serie_A___Atalanta_vs_Roma___13_45_1">
-    <title>⌾ En vivo | 13:45 | Atalanta vs Roma</title>
-  </programme>
-  <programme start="20260103224500" stop="20260104055959" channel="Evento_Serie_A__Serie_A___Atalanta_vs_Roma___13_45_1">
-    <title>Finalizado | Atalanta vs Roma</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103190000" channel="Evento_Copa_Africana__Copa_Africana___Mali_vs_Tunisia___13_00_1">
-    <title>Próximamente | 13:00 | Mali vs Tunisia</title>
-  </programme>
-  <programme start="20260103190000" stop="20260103220000" channel="Evento_Copa_Africana__Copa_Africana___Mali_vs_Tunisia___13_00_1">
-    <title>⌾ En vivo | 13:00 | Mali vs Tunisia</title>
-  </programme>
-  <programme start="20260103220000" stop="20260104055959" channel="Evento_Copa_Africana__Copa_Africana___Mali_vs_Tunisia___13_00_1">
-    <title>Finalizado | Mali vs Tunisia</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103173000" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Valladolid_vs_Racing_Santander___11_30_1">
-    <title>Próximamente | 11:30 | Real Valladolid vs Racing Santander</title>
-  </programme>
-  <programme start="20260103173000" stop="20260103203000" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Valladolid_vs_Racing_Santander___11_30_1">
-    <title>⌾ En vivo | 11:30 | Real Valladolid vs Racing Santander</title>
-  </programme>
-  <programme start="20260103203000" stop="20260104055959" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Valladolid_vs_Racing_Santander___11_30_1">
-    <title>Finalizado | Real Valladolid vs Racing Santander</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103200000" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___C_rdoba_vs_Burgos___14_00_1">
-    <title>Próximamente | 14:00 | Córdoba vs Burgos</title>
-  </programme>
-  <programme start="20260103200000" stop="20260103230000" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___C_rdoba_vs_Burgos___14_00_1">
-    <title>⌾ En vivo | 14:00 | Córdoba vs Burgos</title>
-  </programme>
-  <programme start="20260103230000" stop="20260104055959" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___C_rdoba_vs_Burgos___14_00_1">
-    <title>Finalizado | Córdoba vs Burgos</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103180000" channel="Evento_Primeira_Liga__Primeira_Liga___Benfica_vs_Estoril___12_00_1">
-    <title>Próximamente | 12:00 | Benfica vs Estoril</title>
-  </programme>
-  <programme start="20260103180000" stop="20260103210000" channel="Evento_Primeira_Liga__Primeira_Liga___Benfica_vs_Estoril___12_00_1">
-    <title>⌾ En vivo | 12:00 | Benfica vs Estoril</title>
-  </programme>
-  <programme start="20260103210000" stop="20260104055959" channel="Evento_Primeira_Liga__Primeira_Liga___Benfica_vs_Estoril___12_00_1">
-    <title>Finalizado | Benfica vs Estoril</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103180000" channel="Evento_Primeira_Liga__Primeira_Liga___Estrela_vs_Sporting_Braga___12_00_1">
-    <title>Próximamente | 12:00 | Estrela vs Sporting Braga</title>
-  </programme>
-  <programme start="20260103180000" stop="20260103210000" channel="Evento_Primeira_Liga__Primeira_Liga___Estrela_vs_Sporting_Braga___12_00_1">
-    <title>⌾ En vivo | 12:00 | Estrela vs Sporting Braga</title>
-  </programme>
-  <programme start="20260103210000" stop="20260104055959" channel="Evento_Primeira_Liga__Primeira_Liga___Estrela_vs_Sporting_Braga___12_00_1">
-    <title>Finalizado | Estrela vs Sporting Braga</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103203000" channel="Evento_Primeira_Liga__Primeira_Liga___A_vs_vs__Moreirense___14_30_1">
-    <title>Próximamente | 14:30 | A vs vs. Moreirense</title>
-  </programme>
-  <programme start="20260103203000" stop="20260103233000" channel="Evento_Primeira_Liga__Primeira_Liga___A_vs_vs__Moreirense___14_30_1">
-    <title>⌾ En vivo | 14:30 | A vs vs. Moreirense</title>
-  </programme>
-  <programme start="20260103233000" stop="20260104055959" channel="Evento_Primeira_Liga__Primeira_Liga___A_vs_vs__Moreirense___14_30_1">
-    <title>Finalizado | A vs vs. Moreirense</title>
-  </programme>
   <programme start="20260103060000" stop="20260104000000" channel="Evento_Amistoso_Clubes__Amistoso_Clubes___Leones_Negros_UdeG_vs_Monterrey___18_00_1">
     <title>Próximamente | 18:00 | Leones Negros UdeG vs Monterrey</title>
   </programme>
@@ -135838,15 +135703,6 @@
   </programme>
   <programme start="20260104050000" stop="20260104055959" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Pat_Rafter_Arena___ES_HD___20_00_1">
     <title>Finalizado | Brisbane Intern vs ional</title>
-  </programme>
-  <programme start="20260103060000" stop="20260103165500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations___Italia_vs_Francia___10_55_1">
-    <title>Próximamente | 10:55 | Italia vs Francia</title>
-  </programme>
-  <programme start="20260103165500" stop="20260103195500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations___Italia_vs_Francia___10_55_1">
-    <title>⌾ En vivo | 10:55 | Italia vs Francia</title>
-  </programme>
-  <programme start="20260103195500" stop="20260104055959" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations___Italia_vs_Francia___10_55_1">
-    <title>Finalizado | Italia vs Francia</title>
   </programme>
 </tv>
 
