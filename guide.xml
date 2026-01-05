@@ -133952,12 +133952,6 @@
     <desc>Las Batallas continúan, mientras los coaches preparan a sus artistas para un duelo de duetos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Montreal_Canadiens_vs_Dallas_Stars___13_00_1">
-    <display-name>NHL | Montreal Canadiens vs Dallas Stars | 13:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Columbus_Blue_Jackets___14_00_1">
-    <display-name>NHL | Pittsburgh Penguins vs Columbus Blue Jackets | 14:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Colorado_Avalanche_vs_Florida_Panthers___16_00_1">
     <display-name>NHL | Colorado Avalanche vs Florida Panthers | 16:00</display-name>
   </channel>
@@ -133979,9 +133973,6 @@
   <channel id="Evento_LMP__LMP___Ca_eros_de_Los_Mochis_vs_Tomateros_de_Culiac_n___20_00_1">
     <display-name>LMP | Cañeros de Los Mochis vs Tomateros de Culiacán | 20:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Detroit_Pistons_vs_Cleveland_Cavaliers___13_00_1">
-    <display-name>NBA | Detroit Pistons vs Cleveland Cavaliers | 13:00</display-name>
-  </channel>
   <channel id="Evento_NBA__NBA___Indiana_Pacers_vs_Orlando_Magic___14_00_1">
     <display-name>NBA | Indiana Pacers vs Orlando Magic | 14:00</display-name>
   </channel>
@@ -134002,27 +133993,6 @@
   </channel>
   <channel id="Evento_NBA__NBA___Memphis_Grizzlies_vs_Los_Angeles_Lakers___20_30_1">
     <display-name>NBA | Memphis Grizzlies vs Los Angeles Lakers | 20:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Florida_vs_lantic_vs__Tulane___12_00_1">
-    <display-name>NCAA M Basketball | Florida vs lantic vs. Tulane | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Stanford_vs__16_North_Carolina___12_00_1">
-    <display-name>NCAA W Basketball | Stanford vs #16 North Carolina | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_M_Basketball__NCAA_M_Basketball___UAB_vs_South_Florida___12_00_1">
-    <display-name>NCAA M Basketball | UAB vs South Florida | 12:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Mount_St__Mary_s_vs_Quinnipiac___13_00_1">
-    <display-name>NCAA M Basketball | Mount St. Mary's vs Quinnipiac | 13:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball____15_Ole_Miss_vs__2_Texas___14_00_1">
-    <display-name>NCAA W Basketball | #15 Ole Miss vs #2 Texas | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball____22_Baylor_vs__10_Iowa_State___14_00_1">
-    <display-name>NCAA W Basketball | #22 Baylor vs #10 Iowa State | 14:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Washington_St_vs_e_vs__Seattle_U___15_00_1">
-    <display-name>NCAA W Basketball | Washington St vs e vs. Seattle U | 15:00</display-name>
   </channel>
   <channel id="Evento_NCAA_W_Basketball__NCAA_W_Basketball____5_LSU_vs__12_Vanderbilt___16_00_1">
     <display-name>NCAA W Basketball | #5 LSU vs #12 Vanderbilt | 16:00</display-name>
@@ -134069,9 +134039,6 @@
   <channel id="Evento_EPL__EPL___Manchester_City_vs_Chelsea___11_30_1">
     <display-name>EPL | Manchester City vs Chelsea | 11:30</display-name>
   </channel>
-  <channel id="Evento_EPL__EPL___Manchester_City_vs_Chelsea___11_30_2">
-    <display-name>EPL | Manchester City vs Chelsea | 11:30</display-name>
-  </channel>
   <channel id="Evento_Serie_A__Serie_A___Internazionale_vs_Bologna___13_45_1">
     <display-name>Serie A | Internazionale vs Bologna | 13:45</display-name>
   </channel>
@@ -134081,17 +134048,8 @@
   <channel id="Evento_Ligue_1__Ligue_1___PSG_vs_Paris___13_45_2">
     <display-name>Ligue 1 | PSG vs Paris | 13:45</display-name>
   </channel>
-  <channel id="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Zaragoza_vs_Las_Palmas___11_30_1">
-    <display-name>LaLiga Hypermotion | Real Zaragoza vs Las Palmas | 11:30</display-name>
-  </channel>
-  <channel id="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Albacete_vs_Legan_s___11_30_1">
-    <display-name>LaLiga Hypermotion | Albacete vs Leganés | 11:30</display-name>
-  </channel>
   <channel id="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Deportivo_La_Coru_a_vs_C_diz___14_00_1">
     <display-name>LaLiga Hypermotion | Deportivo La Coruña vs Cádiz | 14:00</display-name>
-  </channel>
-  <channel id="Evento_Primeira_Liga__Primeira_Liga___Santa_Clara_vs_Porto___12_00_1">
-    <display-name>Primeira Liga | Santa Clara vs Porto | 12:00</display-name>
   </channel>
   <channel id="Evento_Primeira_Liga__Primeira_Liga___Alverca_vs_Famalic_o___14_30_1">
     <display-name>Primeira Liga | Alverca vs Famalicão | 14:30</display-name>
@@ -134101,12 +134059,6 @@
   </channel>
   <channel id="Evento_Primera_HN__Primera_HN___Mar_vs_h_n_vs__Olimpia___16_30_1">
     <display-name>Primera HN | Mar vs hón vs. Olimpia | 16:30</display-name>
-  </channel>
-  <channel id="Evento_LMXF__LMXF___Guadalajara_vs_Atl_tico_San_Luis___11_00_1">
-    <display-name>LMXF | Guadalajara vs Atlético San Luis | 11:00</display-name>
-  </channel>
-  <channel id="Evento_LMXF__LMXF___Pumas_UNAM_vs_Quer_taro___12_00_1">
-    <display-name>LMXF | Pumas UNAM vs Querétaro | 12:00</display-name>
   </channel>
   <channel id="Evento_LMXF__LMXF___Necaxa_vs_Tigres_UANL___16_00_1">
     <display-name>LMXF | Necaxa vs Tigres UANL | 16:00</display-name>
@@ -134132,24 +134084,6 @@
   <channel id="Evento_NFL__NFL___Detroit_Lioins_vs_Chicago_Bears__ENG____15_25_1">
     <display-name>NFL | Detroit Lioins vs Chicago Bears [ENG] | 15:25</display-name>
   </channel>
-  <programme start="20260104000000 -0600" stop="20260104130000 -0600" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Dallas_Stars___13_00_1">
-    <title>Próximamente | 13:00 | Montreal Canadiens vs Dallas Stars</title>
-  </programme>
-  <programme start="20260104130000 -0600" stop="20260104160000 -0600" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Dallas_Stars___13_00_1">
-    <title>⌾ En vivo | 13:00 | Montreal Canadiens vs Dallas Stars</title>
-  </programme>
-  <programme start="20260104160000 -0600" stop="20260104235959 -0600" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Dallas_Stars___13_00_1">
-    <title>Finalizado | Montreal Canadiens vs Dallas Stars</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104140000 -0600" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Columbus_Blue_Jackets___14_00_1">
-    <title>Próximamente | 14:00 | Pittsburgh Penguins vs Columbus Blue Jackets</title>
-  </programme>
-  <programme start="20260104140000 -0600" stop="20260104170000 -0600" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Columbus_Blue_Jackets___14_00_1">
-    <title>⌾ En vivo | 14:00 | Pittsburgh Penguins vs Columbus Blue Jackets</title>
-  </programme>
-  <programme start="20260104170000 -0600" stop="20260104235959 -0600" channel="Evento_NHL__NHL___Pittsburgh_Penguins_vs_Columbus_Blue_Jackets___14_00_1">
-    <title>Finalizado | Pittsburgh Penguins vs Columbus Blue Jackets</title>
-  </programme>
   <programme start="20260104000000 -0600" stop="20260104160000 -0600" channel="Evento_NHL__NHL___Colorado_Avalanche_vs_Florida_Panthers___16_00_1">
     <title>Próximamente | 16:00 | Colorado Avalanche vs Florida Panthers</title>
   </programme>
@@ -134213,15 +134147,6 @@
   <programme start="20260104230000 -0600" stop="20260104235959 -0600" channel="Evento_LMP__LMP___Ca_eros_de_Los_Mochis_vs_Tomateros_de_Culiac_n___20_00_1">
     <title>Finalizado | Cañeros de Los Mochis vs Tomateros de Culiacán</title>
   </programme>
-  <programme start="20260104000000 -0600" stop="20260104130000 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Cleveland_Cavaliers___13_00_1">
-    <title>Próximamente | 13:00 | Detroit Pistons vs Cleveland Cavaliers</title>
-  </programme>
-  <programme start="20260104130000 -0600" stop="20260104160000 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Cleveland_Cavaliers___13_00_1">
-    <title>⌾ En vivo | 13:00 | Detroit Pistons vs Cleveland Cavaliers</title>
-  </programme>
-  <programme start="20260104160000 -0600" stop="20260104235959 -0600" channel="Evento_NBA__NBA___Detroit_Pistons_vs_Cleveland_Cavaliers___13_00_1">
-    <title>Finalizado | Detroit Pistons vs Cleveland Cavaliers</title>
-  </programme>
   <programme start="20260104000000 -0600" stop="20260104140000 -0600" channel="Evento_NBA__NBA___Indiana_Pacers_vs_Orlando_Magic___14_00_1">
     <title>Próximamente | 14:00 | Indiana Pacers vs Orlando Magic</title>
   </programme>
@@ -134284,69 +134209,6 @@
   </programme>
   <programme start="20260104233000 -0600" stop="20260104235959 -0600" channel="Evento_NBA__NBA___Memphis_Grizzlies_vs_Los_Angeles_Lakers___20_30_1">
     <title>Finalizado | Memphis Grizzlies vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104120000 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Florida_vs_lantic_vs__Tulane___12_00_1">
-    <title>Próximamente | 12:00 | Florida vs lantic vs. Tulane</title>
-  </programme>
-  <programme start="20260104120000 -0600" stop="20260104150000 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Florida_vs_lantic_vs__Tulane___12_00_1">
-    <title>⌾ En vivo | 12:00 | Florida vs lantic vs. Tulane</title>
-  </programme>
-  <programme start="20260104150000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Florida_vs_lantic_vs__Tulane___12_00_1">
-    <title>Finalizado | Florida vs lantic vs. Tulane</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104120000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Stanford_vs__16_North_Carolina___12_00_1">
-    <title>Próximamente | 12:00 | Stanford vs #16 North Carolina</title>
-  </programme>
-  <programme start="20260104120000 -0600" stop="20260104150000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Stanford_vs__16_North_Carolina___12_00_1">
-    <title>⌾ En vivo | 12:00 | Stanford vs #16 North Carolina</title>
-  </programme>
-  <programme start="20260104150000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Stanford_vs__16_North_Carolina___12_00_1">
-    <title>Finalizado | Stanford vs #16 North Carolina</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104120000 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___UAB_vs_South_Florida___12_00_1">
-    <title>Próximamente | 12:00 | UAB vs South Florida</title>
-  </programme>
-  <programme start="20260104120000 -0600" stop="20260104150000 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___UAB_vs_South_Florida___12_00_1">
-    <title>⌾ En vivo | 12:00 | UAB vs South Florida</title>
-  </programme>
-  <programme start="20260104150000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___UAB_vs_South_Florida___12_00_1">
-    <title>Finalizado | UAB vs South Florida</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104130000 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Mount_St__Mary_s_vs_Quinnipiac___13_00_1">
-    <title>Próximamente | 13:00 | Mount St. Mary's vs Quinnipiac</title>
-  </programme>
-  <programme start="20260104130000 -0600" stop="20260104160000 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Mount_St__Mary_s_vs_Quinnipiac___13_00_1">
-    <title>⌾ En vivo | 13:00 | Mount St. Mary's vs Quinnipiac</title>
-  </programme>
-  <programme start="20260104160000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_M_Basketball__NCAA_M_Basketball___Mount_St__Mary_s_vs_Quinnipiac___13_00_1">
-    <title>Finalizado | Mount St. Mary's vs Quinnipiac</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104140000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____15_Ole_Miss_vs__2_Texas___14_00_1">
-    <title>Próximamente | 14:00 | #15 Ole Miss vs #2 Texas</title>
-  </programme>
-  <programme start="20260104140000 -0600" stop="20260104170000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____15_Ole_Miss_vs__2_Texas___14_00_1">
-    <title>⌾ En vivo | 14:00 | #15 Ole Miss vs #2 Texas</title>
-  </programme>
-  <programme start="20260104170000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____15_Ole_Miss_vs__2_Texas___14_00_1">
-    <title>Finalizado | #15 Ole Miss vs #2 Texas</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104140000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____22_Baylor_vs__10_Iowa_State___14_00_1">
-    <title>Próximamente | 14:00 | #22 Baylor vs #10 Iowa State</title>
-  </programme>
-  <programme start="20260104140000 -0600" stop="20260104170000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____22_Baylor_vs__10_Iowa_State___14_00_1">
-    <title>⌾ En vivo | 14:00 | #22 Baylor vs #10 Iowa State</title>
-  </programme>
-  <programme start="20260104170000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____22_Baylor_vs__10_Iowa_State___14_00_1">
-    <title>Finalizado | #22 Baylor vs #10 Iowa State</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104150000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Washington_St_vs_e_vs__Seattle_U___15_00_1">
-    <title>Próximamente | 15:00 | Washington St vs e vs. Seattle U</title>
-  </programme>
-  <programme start="20260104150000 -0600" stop="20260104180000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Washington_St_vs_e_vs__Seattle_U___15_00_1">
-    <title>⌾ En vivo | 15:00 | Washington St vs e vs. Seattle U</title>
-  </programme>
-  <programme start="20260104180000 -0600" stop="20260104235959 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball___Washington_St_vs_e_vs__Seattle_U___15_00_1">
-    <title>Finalizado | Washington St vs e vs. Seattle U</title>
   </programme>
   <programme start="20260104000000 -0600" stop="20260104160000 -0600" channel="Evento_NCAA_W_Basketball__NCAA_W_Basketball____5_LSU_vs__12_Vanderbilt___16_00_1">
     <title>Próximamente | 16:00 | #5 LSU vs #12 Vanderbilt</title>
@@ -134483,15 +134345,6 @@
   <programme start="20260104143000 -0600" stop="20260104235959 -0600" channel="Evento_EPL__EPL___Manchester_City_vs_Chelsea___11_30_1">
     <title>Finalizado | Manchester City vs Chelsea</title>
   </programme>
-  <programme start="20260104000000 -0600" stop="20260104113000 -0600" channel="Evento_EPL__EPL___Manchester_City_vs_Chelsea___11_30_2">
-    <title>Próximamente | 11:30 | Manchester City vs Chelsea</title>
-  </programme>
-  <programme start="20260104113000 -0600" stop="20260104143000 -0600" channel="Evento_EPL__EPL___Manchester_City_vs_Chelsea___11_30_2">
-    <title>⌾ En vivo | 11:30 | Manchester City vs Chelsea</title>
-  </programme>
-  <programme start="20260104143000 -0600" stop="20260104235959 -0600" channel="Evento_EPL__EPL___Manchester_City_vs_Chelsea___11_30_2">
-    <title>Finalizado | Manchester City vs Chelsea</title>
-  </programme>
   <programme start="20260104000000 -0600" stop="20260104134500 -0600" channel="Evento_Serie_A__Serie_A___Internazionale_vs_Bologna___13_45_1">
     <title>Próximamente | 13:45 | Internazionale vs Bologna</title>
   </programme>
@@ -134519,24 +134372,6 @@
   <programme start="20260104164500 -0600" stop="20260104235959 -0600" channel="Evento_Ligue_1__Ligue_1___PSG_vs_Paris___13_45_2">
     <title>Finalizado | PSG vs Paris</title>
   </programme>
-  <programme start="20260104000000 -0600" stop="20260104113000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Zaragoza_vs_Las_Palmas___11_30_1">
-    <title>Próximamente | 11:30 | Real Zaragoza vs Las Palmas</title>
-  </programme>
-  <programme start="20260104113000 -0600" stop="20260104143000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Zaragoza_vs_Las_Palmas___11_30_1">
-    <title>⌾ En vivo | 11:30 | Real Zaragoza vs Las Palmas</title>
-  </programme>
-  <programme start="20260104143000 -0600" stop="20260104235959 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Real_Zaragoza_vs_Las_Palmas___11_30_1">
-    <title>Finalizado | Real Zaragoza vs Las Palmas</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104113000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Albacete_vs_Legan_s___11_30_1">
-    <title>Próximamente | 11:30 | Albacete vs Leganés</title>
-  </programme>
-  <programme start="20260104113000 -0600" stop="20260104143000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Albacete_vs_Legan_s___11_30_1">
-    <title>⌾ En vivo | 11:30 | Albacete vs Leganés</title>
-  </programme>
-  <programme start="20260104143000 -0600" stop="20260104235959 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Albacete_vs_Legan_s___11_30_1">
-    <title>Finalizado | Albacete vs Leganés</title>
-  </programme>
   <programme start="20260104000000 -0600" stop="20260104140000 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Deportivo_La_Coru_a_vs_C_diz___14_00_1">
     <title>Próximamente | 14:00 | Deportivo La Coruña vs Cádiz</title>
   </programme>
@@ -134545,15 +134380,6 @@
   </programme>
   <programme start="20260104170000 -0600" stop="20260104235959 -0600" channel="Evento_LaLiga_Hypermotion__LaLiga_Hypermotion___Deportivo_La_Coru_a_vs_C_diz___14_00_1">
     <title>Finalizado | Deportivo La Coruña vs Cádiz</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104120000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Santa_Clara_vs_Porto___12_00_1">
-    <title>Próximamente | 12:00 | Santa Clara vs Porto</title>
-  </programme>
-  <programme start="20260104120000 -0600" stop="20260104150000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Santa_Clara_vs_Porto___12_00_1">
-    <title>⌾ En vivo | 12:00 | Santa Clara vs Porto</title>
-  </programme>
-  <programme start="20260104150000 -0600" stop="20260104235959 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Santa_Clara_vs_Porto___12_00_1">
-    <title>Finalizado | Santa Clara vs Porto</title>
   </programme>
   <programme start="20260104000000 -0600" stop="20260104143000 -0600" channel="Evento_Primeira_Liga__Primeira_Liga___Alverca_vs_Famalic_o___14_30_1">
     <title>Próximamente | 14:30 | Alverca vs Famalicão</title>
@@ -134581,24 +134407,6 @@
   </programme>
   <programme start="20260104193000 -0600" stop="20260104235959 -0600" channel="Evento_Primera_HN__Primera_HN___Mar_vs_h_n_vs__Olimpia___16_30_1">
     <title>Finalizado | Mar vs hón vs. Olimpia</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104110000 -0600" channel="Evento_LMXF__LMXF___Guadalajara_vs_Atl_tico_San_Luis___11_00_1">
-    <title>Próximamente | 11:00 | Guadalajara vs Atlético San Luis</title>
-  </programme>
-  <programme start="20260104110000 -0600" stop="20260104140000 -0600" channel="Evento_LMXF__LMXF___Guadalajara_vs_Atl_tico_San_Luis___11_00_1">
-    <title>⌾ En vivo | 11:00 | Guadalajara vs Atlético San Luis</title>
-  </programme>
-  <programme start="20260104140000 -0600" stop="20260104235959 -0600" channel="Evento_LMXF__LMXF___Guadalajara_vs_Atl_tico_San_Luis___11_00_1">
-    <title>Finalizado | Guadalajara vs Atlético San Luis</title>
-  </programme>
-  <programme start="20260104000000 -0600" stop="20260104120000 -0600" channel="Evento_LMXF__LMXF___Pumas_UNAM_vs_Quer_taro___12_00_1">
-    <title>Próximamente | 12:00 | Pumas UNAM vs Querétaro</title>
-  </programme>
-  <programme start="20260104120000 -0600" stop="20260104150000 -0600" channel="Evento_LMXF__LMXF___Pumas_UNAM_vs_Quer_taro___12_00_1">
-    <title>⌾ En vivo | 12:00 | Pumas UNAM vs Querétaro</title>
-  </programme>
-  <programme start="20260104150000 -0600" stop="20260104235959 -0600" channel="Evento_LMXF__LMXF___Pumas_UNAM_vs_Quer_taro___12_00_1">
-    <title>Finalizado | Pumas UNAM vs Querétaro</title>
   </programme>
   <programme start="20260104000000 -0600" stop="20260104160000 -0600" channel="Evento_LMXF__LMXF___Necaxa_vs_Tigres_UANL___16_00_1">
     <title>Próximamente | 16:00 | Necaxa vs Tigres UANL</title>
