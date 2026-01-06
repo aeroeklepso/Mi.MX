@@ -139901,9 +139901,6 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
     <display-name>NBA | Los Angeles Clippers vs Golden State Warriors | 21:00</display-name>
   </channel>
-  <channel id="Evento_Copa_Africana__Copa_Africana___Egipto_vs_Ben_n___10_00_1">
-    <display-name>Copa Africana | Egipto vs Benín | 10:00</display-name>
-  </channel>
   <channel id="Evento_Championship__Championship___Leicester_City_vs_West_Bromwich_Albion___14_00_1">
     <display-name>Championship | Leicester City vs West Bromwich Albion | 14:00</display-name>
   </channel>
@@ -139924,9 +139921,6 @@
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_1____EN_HD_____20_00_1">
     <display-name>WTA | | WTA | WTA Brisbane Intern vs ional presented by ANZ / Show Court 1	 | EN-HD | | 20:00</display-name>
-  </channel>
-  <channel id="Evento_KWC__KWC___Polonia_vs_Italia___14_55_1">
-    <display-name>KWC | Polonia vs Italia | 14:55</display-name>
   </channel>
   <programme start="20260105000000 -0600" stop="20260105180000 -0600" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_Washington_Capitals___18_00_1">
     <title>Próximamente | 18:00 | Anaheim Ducks vs Washington Capitals</title>
@@ -140081,15 +140075,6 @@
   <programme start="20260106000000 -0600" stop="20260105235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
     <title>Finalizado | Los Angeles Clippers vs Golden State Warriors</title>
   </programme>
-  <programme start="20260105000000 -0600" stop="20260105100000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Egipto_vs_Ben_n___10_00_1">
-    <title>Próximamente | 10:00 | Egipto vs Benín</title>
-  </programme>
-  <programme start="20260105100000 -0600" stop="20260105130000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Egipto_vs_Ben_n___10_00_1">
-    <title>⌾ En vivo | 10:00 | Egipto vs Benín</title>
-  </programme>
-  <programme start="20260105130000 -0600" stop="20260105235959 -0600" channel="Evento_Copa_Africana__Copa_Africana___Egipto_vs_Ben_n___10_00_1">
-    <title>Finalizado | Egipto vs Benín</title>
-  </programme>
   <programme start="20260105000000 -0600" stop="20260105140000 -0600" channel="Evento_Championship__Championship___Leicester_City_vs_West_Bromwich_Albion___14_00_1">
     <title>Próximamente | 14:00 | Leicester City vs West Bromwich Albion</title>
   </programme>
@@ -140152,15 +140137,6 @@
   </programme>
   <programme start="20260105230000 -0600" stop="20260105235959 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_1____EN_HD_____20_00_1">
     <title>Finalizado | WTA Brisbane Intern vs ional presented by ANZ / Show Court 1</title>
-  </programme>
-  <programme start="20260105000000 -0600" stop="20260105145500 -0600" channel="Evento_KWC__KWC___Polonia_vs_Italia___14_55_1">
-    <title>Próximamente | 14:55 | Polonia vs Italia</title>
-  </programme>
-  <programme start="20260105145500 -0600" stop="20260105175500 -0600" channel="Evento_KWC__KWC___Polonia_vs_Italia___14_55_1">
-    <title>⌾ En vivo | 14:55 | Polonia vs Italia</title>
-  </programme>
-  <programme start="20260105175500 -0600" stop="20260105235959 -0600" channel="Evento_KWC__KWC___Polonia_vs_Italia___14_55_1">
-    <title>Finalizado | Polonia vs Italia</title>
   </programme>
 </tv>
 
