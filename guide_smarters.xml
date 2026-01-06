@@ -139901,9 +139901,6 @@
   <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
     <display-name>NBA | Los Angeles Clippers vs Golden State Warriors | 21:00</display-name>
   </channel>
-  <channel id="Evento_Championship__Championship___Leicester_City_vs_West_Bromwich_Albion___14_00_1">
-    <display-name>Championship | Leicester City vs West Bromwich Albion | 14:00</display-name>
-  </channel>
   <channel id="Evento_LMXF__LMXF___Le_n_vs_Cruz_Azul___18_00_1">
     <display-name>LMXF | León vs Cruz Azul | 18:00</display-name>
   </channel>
@@ -140074,15 +140071,6 @@
   </programme>
   <programme start="20260106060000" stop="20260106055959" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
     <title>Finalizado | Los Angeles Clippers vs Golden State Warriors</title>
-  </programme>
-  <programme start="20260105060000" stop="20260105200000" channel="Evento_Championship__Championship___Leicester_City_vs_West_Bromwich_Albion___14_00_1">
-    <title>Próximamente | 14:00 | Leicester City vs West Bromwich Albion</title>
-  </programme>
-  <programme start="20260105200000" stop="20260105230000" channel="Evento_Championship__Championship___Leicester_City_vs_West_Bromwich_Albion___14_00_1">
-    <title>⌾ En vivo | 14:00 | Leicester City vs West Bromwich Albion</title>
-  </programme>
-  <programme start="20260105230000" stop="20260106055959" channel="Evento_Championship__Championship___Leicester_City_vs_West_Bromwich_Albion___14_00_1">
-    <title>Finalizado | Leicester City vs West Bromwich Albion</title>
   </programme>
   <programme start="20260105060000" stop="20260106000000" channel="Evento_LMXF__LMXF___Le_n_vs_Cruz_Azul___18_00_1">
     <title>Próximamente | 18:00 | León vs Cruz Azul</title>
