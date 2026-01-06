@@ -139850,36 +139850,6 @@
     <desc>Las Batallas continúan, mientras los coaches preparan a sus artistas para un duelo de duetos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Minnesota_Wild_vs_Los_Angeles_Kings___21_30_1">
-    <display-name>NHL | Minnesota Wild vs Los Angeles Kings | 21:30</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Charros_de_Jalisco_vs_Naranjeros_de_Hermosillo___19_30_1">
-    <display-name>LMP | Charros de Jalisco vs Naranjeros de Hermosillo | 19:30</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Algodoneros_de_Guasave_vs_Jaguares_de_Nayarit___20_30_1">
-    <display-name>LMP | Algodoneros de Guasave vs Jaguares de Nayarit | 20:30</display-name>
-  </channel>
-  <channel id="Evento_LMP__LMP___Ca_eros_de_Los_Mochis_vs_Tomateros_de_Culiac_n___20_30_1">
-    <display-name>LMP | Cañeros de Los Mochis vs Tomateros de Culiacán | 20:30</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Philadelphia_76ers_vs_Denver_Nuggets___19_30_1">
-    <display-name>NBA | Philadelphia 76ers vs Denver Nuggets | 19:30</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Portland_Trail_Blazers_vs_Utah_Jazz___21_00_1">
-    <display-name>NBA | Portland Trail Blazers vs Utah Jazz | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
-    <display-name>NBA | Los Angeles Clippers vs Golden State Warriors | 21:00</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ__Segunda_Ronda_____EN_HD_____19_00_1">
-    <display-name>WTA | | WTA | WTA Brisbane Intern vs ional presented by ANZ (Segunda Ronda)	 | EN-HD | | 19:00</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_2____EN_HD_____19_00_1">
-    <display-name>WTA | | WTA | WTA Brisbane Intern vs ional presented by ANZ / Show Court 2	 | EN-HD | | 19:00</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_1____EN_HD_____20_00_1">
-    <display-name>WTA | | WTA | WTA Brisbane Intern vs ional presented by ANZ / Show Court 1	 | EN-HD | | 20:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Anaheim_Ducks_vs_Philadelphia_Flyers___18_00_1">
     <display-name>NHL | Anaheim Ducks vs Philadelphia Flyers | 18:00</display-name>
   </channel>
@@ -140036,96 +140006,6 @@
   <channel id="Evento_Kings_Cup__Kings_Cup_____Kings_Cup___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
     <display-name>Kings Cup | | Kings Cup | Kings World Cup N vs ions – Ronda #2 | EN-HD | | 14:55</display-name>
   </channel>
-  <programme start="20260106000000 -0600" stop="20260106213000 -0600" channel="Evento_NHL__NHL___Minnesota_Wild_vs_Los_Angeles_Kings___21_30_1">
-    <title>Próximamente | 21:30 | Minnesota Wild vs Los Angeles Kings</title>
-  </programme>
-  <programme start="20260106213000 -0600" stop="20260107003000 -0600" channel="Evento_NHL__NHL___Minnesota_Wild_vs_Los_Angeles_Kings___21_30_1">
-    <title>⌾ En vivo | 21:30 | Minnesota Wild vs Los Angeles Kings</title>
-  </programme>
-  <programme start="20260107003000 -0600" stop="20260106235959 -0600" channel="Evento_NHL__NHL___Minnesota_Wild_vs_Los_Angeles_Kings___21_30_1">
-    <title>Finalizado | Minnesota Wild vs Los Angeles Kings</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106193000 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Naranjeros_de_Hermosillo___19_30_1">
-    <title>Próximamente | 19:30 | Charros de Jalisco vs Naranjeros de Hermosillo</title>
-  </programme>
-  <programme start="20260106193000 -0600" stop="20260106223000 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Naranjeros_de_Hermosillo___19_30_1">
-    <title>⌾ En vivo | 19:30 | Charros de Jalisco vs Naranjeros de Hermosillo</title>
-  </programme>
-  <programme start="20260106223000 -0600" stop="20260106235959 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Naranjeros_de_Hermosillo___19_30_1">
-    <title>Finalizado | Charros de Jalisco vs Naranjeros de Hermosillo</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106203000 -0600" channel="Evento_LMP__LMP___Algodoneros_de_Guasave_vs_Jaguares_de_Nayarit___20_30_1">
-    <title>Próximamente | 20:30 | Algodoneros de Guasave vs Jaguares de Nayarit</title>
-  </programme>
-  <programme start="20260106203000 -0600" stop="20260106233000 -0600" channel="Evento_LMP__LMP___Algodoneros_de_Guasave_vs_Jaguares_de_Nayarit___20_30_1">
-    <title>⌾ En vivo | 20:30 | Algodoneros de Guasave vs Jaguares de Nayarit</title>
-  </programme>
-  <programme start="20260106233000 -0600" stop="20260106235959 -0600" channel="Evento_LMP__LMP___Algodoneros_de_Guasave_vs_Jaguares_de_Nayarit___20_30_1">
-    <title>Finalizado | Algodoneros de Guasave vs Jaguares de Nayarit</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106203000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_Los_Mochis_vs_Tomateros_de_Culiac_n___20_30_1">
-    <title>Próximamente | 20:30 | Cañeros de Los Mochis vs Tomateros de Culiacán</title>
-  </programme>
-  <programme start="20260106203000 -0600" stop="20260106233000 -0600" channel="Evento_LMP__LMP___Ca_eros_de_Los_Mochis_vs_Tomateros_de_Culiac_n___20_30_1">
-    <title>⌾ En vivo | 20:30 | Cañeros de Los Mochis vs Tomateros de Culiacán</title>
-  </programme>
-  <programme start="20260106233000 -0600" stop="20260106235959 -0600" channel="Evento_LMP__LMP___Ca_eros_de_Los_Mochis_vs_Tomateros_de_Culiac_n___20_30_1">
-    <title>Finalizado | Cañeros de Los Mochis vs Tomateros de Culiacán</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106193000 -0600" channel="Evento_NBA__NBA___Philadelphia_76ers_vs_Denver_Nuggets___19_30_1">
-    <title>Próximamente | 19:30 | Philadelphia 76ers vs Denver Nuggets</title>
-  </programme>
-  <programme start="20260106193000 -0600" stop="20260106223000 -0600" channel="Evento_NBA__NBA___Philadelphia_76ers_vs_Denver_Nuggets___19_30_1">
-    <title>⌾ En vivo | 19:30 | Philadelphia 76ers vs Denver Nuggets</title>
-  </programme>
-  <programme start="20260106223000 -0600" stop="20260106235959 -0600" channel="Evento_NBA__NBA___Philadelphia_76ers_vs_Denver_Nuggets___19_30_1">
-    <title>Finalizado | Philadelphia 76ers vs Denver Nuggets</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106210000 -0600" channel="Evento_NBA__NBA___Portland_Trail_Blazers_vs_Utah_Jazz___21_00_1">
-    <title>Próximamente | 21:00 | Portland Trail Blazers vs Utah Jazz</title>
-  </programme>
-  <programme start="20260106210000 -0600" stop="20260107000000 -0600" channel="Evento_NBA__NBA___Portland_Trail_Blazers_vs_Utah_Jazz___21_00_1">
-    <title>⌾ En vivo | 21:00 | Portland Trail Blazers vs Utah Jazz</title>
-  </programme>
-  <programme start="20260107000000 -0600" stop="20260106235959 -0600" channel="Evento_NBA__NBA___Portland_Trail_Blazers_vs_Utah_Jazz___21_00_1">
-    <title>Finalizado | Portland Trail Blazers vs Utah Jazz</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106210000 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
-    <title>Próximamente | 21:00 | Los Angeles Clippers vs Golden State Warriors</title>
-  </programme>
-  <programme start="20260106210000 -0600" stop="20260107000000 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
-    <title>⌾ En vivo | 21:00 | Los Angeles Clippers vs Golden State Warriors</title>
-  </programme>
-  <programme start="20260107000000 -0600" stop="20260106235959 -0600" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Golden_State_Warriors___21_00_1">
-    <title>Finalizado | Los Angeles Clippers vs Golden State Warriors</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106190000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ__Segunda_Ronda_____EN_HD_____19_00_1">
-    <title>Próximamente | 19:00 | WTA Brisbane Intern vs ional presented by ANZ (Segunda Ronda)</title>
-  </programme>
-  <programme start="20260106190000 -0600" stop="20260106220000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ__Segunda_Ronda_____EN_HD_____19_00_1">
-    <title>⌾ En vivo | 19:00 | WTA Brisbane Intern vs ional presented by ANZ (Segunda Ronda)</title>
-  </programme>
-  <programme start="20260106220000 -0600" stop="20260106235959 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ__Segunda_Ronda_____EN_HD_____19_00_1">
-    <title>Finalizado | WTA Brisbane Intern vs ional presented by ANZ (Segunda Ronda)</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106190000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_2____EN_HD_____19_00_1">
-    <title>Próximamente | 19:00 | WTA Brisbane Intern vs ional presented by ANZ / Show Court 2</title>
-  </programme>
-  <programme start="20260106190000 -0600" stop="20260106220000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_2____EN_HD_____19_00_1">
-    <title>⌾ En vivo | 19:00 | WTA Brisbane Intern vs ional presented by ANZ / Show Court 2</title>
-  </programme>
-  <programme start="20260106220000 -0600" stop="20260106235959 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_2____EN_HD_____19_00_1">
-    <title>Finalizado | WTA Brisbane Intern vs ional presented by ANZ / Show Court 2</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106200000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_1____EN_HD_____20_00_1">
-    <title>Próximamente | 20:00 | WTA Brisbane Intern vs ional presented by ANZ / Show Court 1</title>
-  </programme>
-  <programme start="20260106200000 -0600" stop="20260106230000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_1____EN_HD_____20_00_1">
-    <title>⌾ En vivo | 20:00 | WTA Brisbane Intern vs ional presented by ANZ / Show Court 1</title>
-  </programme>
-  <programme start="20260106230000 -0600" stop="20260106235959 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ___Show_Court_1____EN_HD_____20_00_1">
-    <title>Finalizado | WTA Brisbane Intern vs ional presented by ANZ / Show Court 1</title>
-  </programme>
   <programme start="20260106000000 -0600" stop="20260106180000 -0600" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_Philadelphia_Flyers___18_00_1">
     <title>Próximamente | 18:00 | Anaheim Ducks vs Philadelphia Flyers</title>
   </programme>
