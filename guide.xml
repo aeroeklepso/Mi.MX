@@ -137879,21 +137879,6 @@
   <channel id="Evento_Premier_League__Premier_League___West_Ham_United_vs_Nottingham_Forest___14_00_2">
     <display-name>Premier League | West Ham United vs Nottingham Forest | 14:00</display-name>
   </channel>
-  <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Granada_vs_Rayo_Vallecano___12_00_1">
-    <display-name>Copa del Rey | Granada vs Rayo Vallecano | 12:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_1">
-    <display-name>Serie A | Pisa vs Como | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_2">
-    <display-name>Serie A | Pisa vs Como | 08:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_1">
-    <display-name>Serie A | Lecce vs Roma | 11:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_2">
-    <display-name>Serie A | Lecce vs Roma | 11:00</display-name>
-  </channel>
   <channel id="Evento_Serie_A__Serie_A___Sassuolo_vs_Juventus___13_45_1">
     <display-name>Serie A | Sassuolo vs Juventus | 13:45</display-name>
   </channel>
@@ -137906,26 +137891,11 @@
   <channel id="Evento_Copa_Portugal__Copa_Portugal___Sporting_CP_vs_Vit_ria_Guimar_es___14_00_2">
     <display-name>Copa Portugal | Sporting CP vs Vitória Guimarães | 14:00</display-name>
   </channel>
-  <channel id="Evento_Copa_Africana__Copa_Africana___Argelia_vs_RD_del_Congo___10_00_1">
-    <display-name>Copa Africana | Argelia vs RD del Congo | 10:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana__Copa_Africana___Costa_de_Marfil_vs_Burkina_Faso___13_00_1">
-    <display-name>Copa Africana | Costa de Marfil vs Burkina Faso | 13:00</display-name>
-  </channel>
   <channel id="Evento_LMXF__LMXF___Atlas_vs_Pachuca___19_00_1">
     <display-name>LMXF | Atlas vs Pachuca | 19:00</display-name>
   </channel>
   <channel id="Evento_LMXF__LMXF___Maz_vs_l_n_vs__Ju_rez___21_06_1">
     <display-name>LMXF | Maz vs lán vs. Juárez | 21:06</display-name>
-  </channel>
-  <channel id="Evento_Scottish_Premiership__Scottish_Premiership___Rangers_vs_Aberdeen___10_00_1">
-    <display-name>Scottish Premiership | Rangers vs Aberdeen | 10:00</display-name>
-  </channel>
-  <channel id="Evento_ATP__ATP___Grigor_Dimitrov_vs_Pablo_Carre_o_Busta___02_30_1">
-    <display-name>ATP | Grigor Dimitrov vs Pablo Carreño-Busta | 02:30</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Show_Court_1___EN_HD_____00_00_1">
-    <display-name>WTA | | WTA | Brisbane Intern vs ional – Show Court 1 | EN-HD | | 00:00</display-name>
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Segunda_Ronda___EN_HD_____19_00_1">
     <display-name>WTA | | WTA | Brisbane Intern vs ional – Segunda Ronda | EN-HD | | 19:00</display-name>
@@ -137956,9 +137926,6 @@
   </channel>
   <channel id="Evento_Kings_Cup__Kings_Cup___Francia_vs_Argelia___14_55_1">
     <display-name>Kings Cup | Francia vs Argelia | 14:55</display-name>
-  </channel>
-  <channel id="Evento_Kings_Cup__Kings_Cup_____Kings_Cup___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <display-name>Kings Cup | | Kings Cup | Kings World Cup N vs ions – Ronda #2 | EN-HD | | 14:55</display-name>
   </channel>
   <programme start="20260106000000 -0600" stop="20260106180000 -0600" channel="Evento_NHL__NHL___Anaheim_Ducks_vs_Philadelphia_Flyers___18_00_1">
     <title>Próximamente | 18:00 | Anaheim Ducks vs Philadelphia Flyers</title>
@@ -138185,51 +138152,6 @@
   <programme start="20260106170000 -0600" stop="20260106235959 -0600" channel="Evento_Premier_League__Premier_League___West_Ham_United_vs_Nottingham_Forest___14_00_2">
     <title>Finalizado | West Ham United vs Nottingham Forest</title>
   </programme>
-  <programme start="20260106000000 -0600" stop="20260106120000 -0600" channel="Evento_Copa_del_Rey__Copa_del_Rey___Granada_vs_Rayo_Vallecano___12_00_1">
-    <title>Próximamente | 12:00 | Granada vs Rayo Vallecano</title>
-  </programme>
-  <programme start="20260106120000 -0600" stop="20260106150000 -0600" channel="Evento_Copa_del_Rey__Copa_del_Rey___Granada_vs_Rayo_Vallecano___12_00_1">
-    <title>⌾ En vivo | 12:00 | Granada vs Rayo Vallecano</title>
-  </programme>
-  <programme start="20260106150000 -0600" stop="20260106235959 -0600" channel="Evento_Copa_del_Rey__Copa_del_Rey___Granada_vs_Rayo_Vallecano___12_00_1">
-    <title>Finalizado | Granada vs Rayo Vallecano</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106080000 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_1">
-    <title>Próximamente | 08:00 | Pisa vs Como</title>
-  </programme>
-  <programme start="20260106080000 -0600" stop="20260106110000 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_1">
-    <title>⌾ En vivo | 08:00 | Pisa vs Como</title>
-  </programme>
-  <programme start="20260106110000 -0600" stop="20260106235959 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_1">
-    <title>Finalizado | Pisa vs Como</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106080000 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_2">
-    <title>Próximamente | 08:00 | Pisa vs Como</title>
-  </programme>
-  <programme start="20260106080000 -0600" stop="20260106110000 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_2">
-    <title>⌾ En vivo | 08:00 | Pisa vs Como</title>
-  </programme>
-  <programme start="20260106110000 -0600" stop="20260106235959 -0600" channel="Evento_Serie_A__Serie_A___Pisa_vs_Como___08_00_2">
-    <title>Finalizado | Pisa vs Como</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106110000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_1">
-    <title>Próximamente | 11:00 | Lecce vs Roma</title>
-  </programme>
-  <programme start="20260106110000 -0600" stop="20260106140000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_1">
-    <title>⌾ En vivo | 11:00 | Lecce vs Roma</title>
-  </programme>
-  <programme start="20260106140000 -0600" stop="20260106235959 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_1">
-    <title>Finalizado | Lecce vs Roma</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106110000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_2">
-    <title>Próximamente | 11:00 | Lecce vs Roma</title>
-  </programme>
-  <programme start="20260106110000 -0600" stop="20260106140000 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_2">
-    <title>⌾ En vivo | 11:00 | Lecce vs Roma</title>
-  </programme>
-  <programme start="20260106140000 -0600" stop="20260106235959 -0600" channel="Evento_Serie_A__Serie_A___Lecce_vs_Roma___11_00_2">
-    <title>Finalizado | Lecce vs Roma</title>
-  </programme>
   <programme start="20260106000000 -0600" stop="20260106134500 -0600" channel="Evento_Serie_A__Serie_A___Sassuolo_vs_Juventus___13_45_1">
     <title>Próximamente | 13:45 | Sassuolo vs Juventus</title>
   </programme>
@@ -138266,24 +138188,6 @@
   <programme start="20260106170000 -0600" stop="20260106235959 -0600" channel="Evento_Copa_Portugal__Copa_Portugal___Sporting_CP_vs_Vit_ria_Guimar_es___14_00_2">
     <title>Finalizado | Sporting CP vs Vitória Guimarães</title>
   </programme>
-  <programme start="20260106000000 -0600" stop="20260106100000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Argelia_vs_RD_del_Congo___10_00_1">
-    <title>Próximamente | 10:00 | Argelia vs RD del Congo</title>
-  </programme>
-  <programme start="20260106100000 -0600" stop="20260106130000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Argelia_vs_RD_del_Congo___10_00_1">
-    <title>⌾ En vivo | 10:00 | Argelia vs RD del Congo</title>
-  </programme>
-  <programme start="20260106130000 -0600" stop="20260106235959 -0600" channel="Evento_Copa_Africana__Copa_Africana___Argelia_vs_RD_del_Congo___10_00_1">
-    <title>Finalizado | Argelia vs RD del Congo</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106130000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Costa_de_Marfil_vs_Burkina_Faso___13_00_1">
-    <title>Próximamente | 13:00 | Costa de Marfil vs Burkina Faso</title>
-  </programme>
-  <programme start="20260106130000 -0600" stop="20260106160000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Costa_de_Marfil_vs_Burkina_Faso___13_00_1">
-    <title>⌾ En vivo | 13:00 | Costa de Marfil vs Burkina Faso</title>
-  </programme>
-  <programme start="20260106160000 -0600" stop="20260106235959 -0600" channel="Evento_Copa_Africana__Copa_Africana___Costa_de_Marfil_vs_Burkina_Faso___13_00_1">
-    <title>Finalizado | Costa de Marfil vs Burkina Faso</title>
-  </programme>
   <programme start="20260106000000 -0600" stop="20260106190000 -0600" channel="Evento_LMXF__LMXF___Atlas_vs_Pachuca___19_00_1">
     <title>Próximamente | 19:00 | Atlas vs Pachuca</title>
   </programme>
@@ -138301,33 +138205,6 @@
   </programme>
   <programme start="20260107000600 -0600" stop="20260106235959 -0600" channel="Evento_LMXF__LMXF___Maz_vs_l_n_vs__Ju_rez___21_06_1">
     <title>Finalizado | Maz vs lán vs. Juárez</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106100000 -0600" channel="Evento_Scottish_Premiership__Scottish_Premiership___Rangers_vs_Aberdeen___10_00_1">
-    <title>Próximamente | 10:00 | Rangers vs Aberdeen</title>
-  </programme>
-  <programme start="20260106100000 -0600" stop="20260106130000 -0600" channel="Evento_Scottish_Premiership__Scottish_Premiership___Rangers_vs_Aberdeen___10_00_1">
-    <title>⌾ En vivo | 10:00 | Rangers vs Aberdeen</title>
-  </programme>
-  <programme start="20260106130000 -0600" stop="20260106235959 -0600" channel="Evento_Scottish_Premiership__Scottish_Premiership___Rangers_vs_Aberdeen___10_00_1">
-    <title>Finalizado | Rangers vs Aberdeen</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106023000 -0600" channel="Evento_ATP__ATP___Grigor_Dimitrov_vs_Pablo_Carre_o_Busta___02_30_1">
-    <title>Próximamente | 02:30 | Grigor Dimitrov vs Pablo Carreño-Busta</title>
-  </programme>
-  <programme start="20260106023000 -0600" stop="20260106053000 -0600" channel="Evento_ATP__ATP___Grigor_Dimitrov_vs_Pablo_Carre_o_Busta___02_30_1">
-    <title>⌾ En vivo | 02:30 | Grigor Dimitrov vs Pablo Carreño-Busta</title>
-  </programme>
-  <programme start="20260106053000 -0600" stop="20260106235959 -0600" channel="Evento_ATP__ATP___Grigor_Dimitrov_vs_Pablo_Carre_o_Busta___02_30_1">
-    <title>Finalizado | Grigor Dimitrov vs Pablo Carreño-Busta</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106000000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Show_Court_1___EN_HD_____00_00_1">
-    <title>Próximamente | 00:00 | Brisbane Intern vs ional – Show Court 1</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106030000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Show_Court_1___EN_HD_____00_00_1">
-    <title>⌾ En vivo | 00:00 | Brisbane Intern vs ional – Show Court 1</title>
-  </programme>
-  <programme start="20260106030000 -0600" stop="20260106235959 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Show_Court_1___EN_HD_____00_00_1">
-    <title>Finalizado | Brisbane Intern vs ional – Show Court 1</title>
   </programme>
   <programme start="20260106000000 -0600" stop="20260106190000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Segunda_Ronda___EN_HD_____19_00_1">
     <title>Próximamente | 19:00 | Brisbane Intern vs ional – Segunda Ronda</title>
@@ -138418,15 +138295,6 @@
   </programme>
   <programme start="20260106175500 -0600" stop="20260106235959 -0600" channel="Evento_Kings_Cup__Kings_Cup___Francia_vs_Argelia___14_55_1">
     <title>Finalizado | Francia vs Argelia</title>
-  </programme>
-  <programme start="20260106000000 -0600" stop="20260106145500 -0600" channel="Evento_Kings_Cup__Kings_Cup_____Kings_Cup___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>Próximamente | 14:55 | Kings World Cup N vs ions – Ronda #2</title>
-  </programme>
-  <programme start="20260106145500 -0600" stop="20260106175500 -0600" channel="Evento_Kings_Cup__Kings_Cup_____Kings_Cup___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>⌾ En vivo | 14:55 | Kings World Cup N vs ions – Ronda #2</title>
-  </programme>
-  <programme start="20260106175500 -0600" stop="20260106235959 -0600" channel="Evento_Kings_Cup__Kings_Cup_____Kings_Cup___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>Finalizado | Kings World Cup N vs ions – Ronda #2</title>
   </programme>
 </tv>
 
