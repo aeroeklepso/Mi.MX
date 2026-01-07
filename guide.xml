@@ -137936,12 +137936,6 @@
   <channel id="Evento_Primera_HN__Primera_HN___Olimpia_vs_Marath_n___13_45_1">
     <display-name>Primera HN | Olimpia vs Marathón | 13:45</display-name>
   </channel>
-  <channel id="Evento_ATP__ATP___Kamil_Majchrzak__POL__vs_Reilly_Opelka__USA____02_00_1">
-    <display-name>ATP | Kamil Majchrzak (POL) vs Reilly Opelka (USA) | 02:00</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA___Kimberly_Birrell__AUS__vs_Amanda_Anisimova__USA____02_30_1">
-    <display-name>WTA | Kimberly Birrell (AUS) vs Amanda Anisimova (USA) | 02:30</display-name>
-  </channel>
   <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Octavos_de_Final___ES_HD_____19_00_1">
     <display-name>WTA | | WTA | Brisbane Intern vs ional – Octavos de Final | ES-HD | | 19:00</display-name>
   </channel>
@@ -138364,24 +138358,6 @@
   </programme>
   <programme start="20260107164500 -0600" stop="20260107235959 -0600" channel="Evento_Primera_HN__Primera_HN___Olimpia_vs_Marath_n___13_45_1">
     <title>Finalizado | Olimpia vs Marathón</title>
-  </programme>
-  <programme start="20260107000000 -0600" stop="20260107020000 -0600" channel="Evento_ATP__ATP___Kamil_Majchrzak__POL__vs_Reilly_Opelka__USA____02_00_1">
-    <title>Próximamente | 02:00 | Kamil Majchrzak (POL) vs Reilly Opelka (USA)</title>
-  </programme>
-  <programme start="20260107020000 -0600" stop="20260107050000 -0600" channel="Evento_ATP__ATP___Kamil_Majchrzak__POL__vs_Reilly_Opelka__USA____02_00_1">
-    <title>⌾ En vivo | 02:00 | Kamil Majchrzak (POL) vs Reilly Opelka (USA)</title>
-  </programme>
-  <programme start="20260107050000 -0600" stop="20260107235959 -0600" channel="Evento_ATP__ATP___Kamil_Majchrzak__POL__vs_Reilly_Opelka__USA____02_00_1">
-    <title>Finalizado | Kamil Majchrzak (POL) vs Reilly Opelka (USA)</title>
-  </programme>
-  <programme start="20260107000000 -0600" stop="20260107023000 -0600" channel="Evento_WTA__WTA___Kimberly_Birrell__AUS__vs_Amanda_Anisimova__USA____02_30_1">
-    <title>Próximamente | 02:30 | Kimberly Birrell (AUS) vs Amanda Anisimova (USA)</title>
-  </programme>
-  <programme start="20260107023000 -0600" stop="20260107053000 -0600" channel="Evento_WTA__WTA___Kimberly_Birrell__AUS__vs_Amanda_Anisimova__USA____02_30_1">
-    <title>⌾ En vivo | 02:30 | Kimberly Birrell (AUS) vs Amanda Anisimova (USA)</title>
-  </programme>
-  <programme start="20260107053000 -0600" stop="20260107235959 -0600" channel="Evento_WTA__WTA___Kimberly_Birrell__AUS__vs_Amanda_Anisimova__USA____02_30_1">
-    <title>Finalizado | Kimberly Birrell (AUS) vs Amanda Anisimova (USA)</title>
   </programme>
   <programme start="20260107000000 -0600" stop="20260107190000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Octavos_de_Final___ES_HD_____19_00_1">
     <title>Próximamente | 19:00 | Brisbane Intern vs ional – Octavos de Final</title>
