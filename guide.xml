@@ -142190,9 +142190,6 @@
   <channel id="Evento_NBA_G_League__NBA_G_League___Rio_Grande_Valley_Vipers_vs_Stockton_Kings___21_00_1">
     <display-name>NBA G League | Rio Grande Valley Vipers vs Stockton Kings | 21:00</display-name>
   </channel>
-  <channel id="Evento_Copa_de_Portugal__Copa_de_Portugal___Benfica_vs_Sporting_Braga___14_00_1">
-    <display-name>Copa de Portugal | Benfica vs Sporting Braga | 14:00</display-name>
-  </channel>
   <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Octavos_de_Final___ES_HD_____19_00_1">
     <display-name>WTA | | WTA | Brisbane Intern vs ional – Octavos de Final | ES-HD | | 19:00</display-name>
   </channel>
@@ -142213,12 +142210,6 @@
   </channel>
   <channel id="Evento_NCAA__NCAA___SMU_vs_Clemson___20_00_1">
     <display-name>NCAA | SMU vs Clemson | 20:00</display-name>
-  </channel>
-  <channel id="Evento_KINGS__KINGS___Chile_vs_Marruecos___14_55_1">
-    <display-name>KINGS | Chile vs Marruecos | 14:55</display-name>
-  </channel>
-  <channel id="Evento_KINGS__KINGS_____KINGS___Kings_World_Cup_N_vs_ions___Ronda_2___ES_HD_____14_55_1">
-    <display-name>KINGS | | KINGS | Kings World Cup N vs ions – Ronda 2 | ES-HD | | 14:55</display-name>
   </channel>
   <programme start="20260107000000 -0600" stop="20260107180000 -0600" channel="Evento_NHL__NHL___Dallas_Stars_vs_Washington_Capitals___18_00_1">
     <title>Próximamente | 18:00 | Dallas Stars vs Washington Capitals</title>
@@ -142418,15 +142409,6 @@
   <programme start="20260108000000 -0600" stop="20260107235959 -0600" channel="Evento_NBA_G_League__NBA_G_League___Rio_Grande_Valley_Vipers_vs_Stockton_Kings___21_00_1">
     <title>Finalizado | Rio Grande Valley Vipers vs Stockton Kings</title>
   </programme>
-  <programme start="20260107000000 -0600" stop="20260107140000 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Benfica_vs_Sporting_Braga___14_00_1">
-    <title>Próximamente | 14:00 | Benfica vs Sporting Braga</title>
-  </programme>
-  <programme start="20260107140000 -0600" stop="20260107170000 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Benfica_vs_Sporting_Braga___14_00_1">
-    <title>⌾ En vivo | 14:00 | Benfica vs Sporting Braga</title>
-  </programme>
-  <programme start="20260107170000 -0600" stop="20260107235959 -0600" channel="Evento_Copa_de_Portugal__Copa_de_Portugal___Benfica_vs_Sporting_Braga___14_00_1">
-    <title>Finalizado | Benfica vs Sporting Braga</title>
-  </programme>
   <programme start="20260107000000 -0600" stop="20260107190000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Octavos_de_Final___ES_HD_____19_00_1">
     <title>Próximamente | 19:00 | Brisbane Intern vs ional – Octavos de Final</title>
   </programme>
@@ -142489,24 +142471,6 @@
   </programme>
   <programme start="20260107230000 -0600" stop="20260107235959 -0600" channel="Evento_NCAA__NCAA___SMU_vs_Clemson___20_00_1">
     <title>Finalizado | SMU vs Clemson</title>
-  </programme>
-  <programme start="20260107000000 -0600" stop="20260107145500 -0600" channel="Evento_KINGS__KINGS___Chile_vs_Marruecos___14_55_1">
-    <title>Próximamente | 14:55 | Chile vs Marruecos</title>
-  </programme>
-  <programme start="20260107145500 -0600" stop="20260107175500 -0600" channel="Evento_KINGS__KINGS___Chile_vs_Marruecos___14_55_1">
-    <title>⌾ En vivo | 14:55 | Chile vs Marruecos</title>
-  </programme>
-  <programme start="20260107175500 -0600" stop="20260107235959 -0600" channel="Evento_KINGS__KINGS___Chile_vs_Marruecos___14_55_1">
-    <title>Finalizado | Chile vs Marruecos</title>
-  </programme>
-  <programme start="20260107000000 -0600" stop="20260107145500 -0600" channel="Evento_KINGS__KINGS_____KINGS___Kings_World_Cup_N_vs_ions___Ronda_2___ES_HD_____14_55_1">
-    <title>Próximamente | 14:55 | Kings World Cup N vs ions – Ronda 2</title>
-  </programme>
-  <programme start="20260107145500 -0600" stop="20260107175500 -0600" channel="Evento_KINGS__KINGS_____KINGS___Kings_World_Cup_N_vs_ions___Ronda_2___ES_HD_____14_55_1">
-    <title>⌾ En vivo | 14:55 | Kings World Cup N vs ions – Ronda 2</title>
-  </programme>
-  <programme start="20260107175500 -0600" stop="20260107235959 -0600" channel="Evento_KINGS__KINGS_____KINGS___Kings_World_Cup_N_vs_ions___Ronda_2___ES_HD_____14_55_1">
-    <title>Finalizado | Kings World Cup N vs ions – Ronda 2</title>
   </programme>
 </tv>
 
