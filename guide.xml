@@ -140834,9 +140834,6 @@
   <channel id="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
     <display-name>RUGBY 7s | | RUGBY 7s | Seven de Mar del Pl vs a 2026 | Fase de grupos | EN-HD | | 14:30</display-name>
   </channel>
-  <channel id="Evento_ATP__ATP___Sebastian_Korda__USA__vs_Alex_Michelsen__USA____01_00_1">
-    <display-name>ATP | Sebastian Korda (USA) vs Alex Michelsen (USA) | 01:00</display-name>
-  </channel>
   <channel id="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Kamil_Majchrzak__POL____04_00_1">
     <display-name>ATP | Daniil Medvedev (RUS) vs Kamil Majchrzak (POL) | 04:00</display-name>
   </channel>
@@ -141193,15 +141190,6 @@
   </programme>
   <programme start="20260109173000 -0600" stop="20260109235959 -0600" channel="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
     <title>Finalizado | Seven de Mar del Pl vs a 2026</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109010000 -0600" channel="Evento_ATP__ATP___Sebastian_Korda__USA__vs_Alex_Michelsen__USA____01_00_1">
-    <title>Próximamente | 01:00 | Sebastian Korda (USA) vs Alex Michelsen (USA)</title>
-  </programme>
-  <programme start="20260109010000 -0600" stop="20260109040000 -0600" channel="Evento_ATP__ATP___Sebastian_Korda__USA__vs_Alex_Michelsen__USA____01_00_1">
-    <title>⌾ En vivo | 01:00 | Sebastian Korda (USA) vs Alex Michelsen (USA)</title>
-  </programme>
-  <programme start="20260109040000 -0600" stop="20260109235959 -0600" channel="Evento_ATP__ATP___Sebastian_Korda__USA__vs_Alex_Michelsen__USA____01_00_1">
-    <title>Finalizado | Sebastian Korda (USA) vs Alex Michelsen (USA)</title>
   </programme>
   <programme start="20260109000000 -0600" stop="20260109040000 -0600" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Kamil_Majchrzak__POL____04_00_1">
     <title>Próximamente | 04:00 | Daniil Medvedev (RUS) vs Kamil Majchrzak (POL)</title>
