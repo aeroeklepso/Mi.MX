@@ -140828,12 +140828,6 @@
   <channel id="Evento_Serie_A__Serie_A___Milan_vs_Genoa___13_30_2">
     <display-name>Serie A | Milan vs Genoa | 13:30</display-name>
   </channel>
-  <channel id="Evento_KINGS_WC__KINGS_WC___India_vs_M_xico___14_55_1">
-    <display-name>KINGS WC | India vs México | 14:55</display-name>
-  </channel>
-  <channel id="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <display-name>KINGS WC | | KINGS WC | Kings World Cup N vs ions | Ronda #2 | EN-HD | | 14:55</display-name>
-  </channel>
   <channel id="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ__Cuartos_de_Final____EN_HD_____19_00_1">
     <display-name>WTA | | WTA | WTA Brisbane Intern vs ional presented by ANZ (Cuartos de Final) | EN-HD | | 19:00</display-name>
   </channel>
@@ -141139,24 +141133,6 @@
   </programme>
   <programme start="20260108163000 -0600" stop="20260108235959 -0600" channel="Evento_Serie_A__Serie_A___Milan_vs_Genoa___13_30_2">
     <title>Finalizado | Milan vs Genoa</title>
-  </programme>
-  <programme start="20260108000000 -0600" stop="20260108145500 -0600" channel="Evento_KINGS_WC__KINGS_WC___India_vs_M_xico___14_55_1">
-    <title>Próximamente | 14:55 | India vs México</title>
-  </programme>
-  <programme start="20260108145500 -0600" stop="20260108175500 -0600" channel="Evento_KINGS_WC__KINGS_WC___India_vs_M_xico___14_55_1">
-    <title>⌾ En vivo | 14:55 | India vs México</title>
-  </programme>
-  <programme start="20260108175500 -0600" stop="20260108235959 -0600" channel="Evento_KINGS_WC__KINGS_WC___India_vs_M_xico___14_55_1">
-    <title>Finalizado | India vs México</title>
-  </programme>
-  <programme start="20260108000000 -0600" stop="20260108145500 -0600" channel="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>Próximamente | 14:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260108145500 -0600" stop="20260108175500 -0600" channel="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>⌾ En vivo | 14:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260108175500 -0600" stop="20260108235959 -0600" channel="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>Finalizado | Kings World Cup N vs ions</title>
   </programme>
   <programme start="20260108000000 -0600" stop="20260108190000 -0600" channel="Evento_WTA__WTA_____WTA___WTA_Brisbane_Intern_vs_ional_presented_by_ANZ__Cuartos_de_Final____EN_HD_____19_00_1">
     <title>Próximamente | 19:00 | WTA Brisbane Intern vs ional presented by ANZ (Cuartos de Final)</title>
