@@ -138341,20 +138341,8 @@
   <channel id="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
     <display-name>LigaMX | Atlético San Luis vs Pumas UNAM | 19:00</display-name>
   </channel>
-  <channel id="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
-    <display-name>RUGBY 7s | | RUGBY 7s | Seven de Mar del Pl vs a 2026 | Fase de grupos | EN-HD | | 14:30</display-name>
-  </channel>
   <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional_presented_by_ANZ__Semifinal____EN_HD_____19_00_1">
     <display-name>WTA | | WTA | Brisbane Intern vs ional presented by ANZ (Semifinal) | EN-HD | | 19:00</display-name>
-  </channel>
-  <channel id="Evento_KINGS_WC__KINGS_WC___Arabia_Saudita_vs_Indonesia___14_55_1">
-    <display-name>KINGS WC | Arabia Saudita vs Indonesia | 14:55</display-name>
-  </channel>
-  <channel id="Evento_National_Lacrosse__National_Lacrosse___Halifax_Thunderbirds_vs_Ottawa_Black_Bears___18_00_1">
-    <display-name>National Lacrosse | Halifax Thunderbirds vs Ottawa Black Bears | 18:00</display-name>
-  </channel>
-  <channel id="Evento_National_Lacrosse__National_Lacrosse___Rochester_Knighthawks_vs_Philadelphia_Wings___18_00_1">
-    <display-name>National Lacrosse | Rochester Knighthawks vs Philadelphia Wings | 18:00</display-name>
   </channel>
   <channel id="Evento_National_Lacrosse__National_Lacrosse___Vancouver_Warriors_vs_Calgary_Roughnecks___20_30_1">
     <display-name>National Lacrosse | Vancouver Warriors vs Calgary Roughnecks | 20:30</display-name>
@@ -138371,9 +138359,6 @@
   <channel id="Evento_NCAA_Football__NCAA_Football____5_Oregon_vs__1_Indiana__Semifinal__2____18_30_1">
     <display-name>NCAA Football | #5 Oregon vs #1 Indiana (Semifinal #2) | 18:30</display-name>
   </channel>
-  <channel id="Evento_NCAA_Gimnasia__NCAA_Gimnasia___Alabama_vs_Clemson___18_00_1">
-    <display-name>NCAA Gimnasia | Alabama vs Clemson | 18:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Gimnasia__NCAA_Gimnasia___NC_St_vs_e_vs__Auburn___19_00_1">
     <display-name>NCAA Gimnasia | NC St vs e vs. Auburn | 19:00</display-name>
   </channel>
@@ -138383,29 +138368,8 @@
   <channel id="Evento_NCAA_Gimnasia__NCAA_Gimnasia___Oregon_St_vs_e_vs__BYU___20_00_1">
     <display-name>NCAA Gimnasia | Oregon St vs e vs. BYU | 20:00</display-name>
   </channel>
-  <channel id="Evento_NCAA__NCAA___Virginia_Tech_vs_Pittsburgh___18_00_1">
-    <display-name>NCAA | Virginia Tech vs Pittsburgh | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA__NCAA___Virginia_vs_NC_State___18_00_1">
-    <display-name>NCAA | Virginia vs NC State | 18:00</display-name>
-  </channel>
   <channel id="Evento_NCAA__NCAA___West_Virginia_vs_Arizona_State___19_30_1">
     <display-name>NCAA | West Virginia vs Arizona State | 19:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___St__Lawrence_vs_Yale___18_00_1">
-    <display-name>NCAA Men's Ice Hockey | St. Lawrence vs Yale | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___Union_vs__8_Quinnipiac___18_00_1">
-    <display-name>NCAA Men's Ice Hockey | Union vs #8 Quinnipiac | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____5_UConn_vs_Maine___17_00_1">
-    <display-name>NCAA Women's Hockey | #5 UConn vs Maine | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____7_Quinnipiac_vs_Rensselaer___17_00_1">
-    <display-name>NCAA Women's Hockey | #7 Quinnipiac vs Rensselaer | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Boston_College_vs_Holy_Cross___17_00_1">
-    <display-name>NCAA Women's Hockey | Boston College vs Holy Cross | 17:00</display-name>
   </channel>
   <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_NBA__NBA___Toronto_Raptors_vs_Boston_Celtics___18_00_1">
     <title>Próximamente | 18:00 | Toronto Raptors vs Boston Celtics</title>
@@ -138578,15 +138542,6 @@
   <programme start="20260109220000 -0600" stop="20260109235959 -0600" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
     <title>Finalizado | Atlético San Luis vs Pumas UNAM</title>
   </programme>
-  <programme start="20260109000000 -0600" stop="20260109143000 -0600" channel="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
-    <title>Próximamente | 14:30 | Seven de Mar del Pl vs a 2026</title>
-  </programme>
-  <programme start="20260109143000 -0600" stop="20260109173000 -0600" channel="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
-    <title>⌾ En vivo | 14:30 | Seven de Mar del Pl vs a 2026</title>
-  </programme>
-  <programme start="20260109173000 -0600" stop="20260109235959 -0600" channel="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
-    <title>Finalizado | Seven de Mar del Pl vs a 2026</title>
-  </programme>
   <programme start="20260109000000 -0600" stop="20260109190000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional_presented_by_ANZ__Semifinal____EN_HD_____19_00_1">
     <title>Próximamente | 19:00 | Brisbane Intern vs ional presented by ANZ (Semifinal)</title>
   </programme>
@@ -138595,33 +138550,6 @@
   </programme>
   <programme start="20260109220000 -0600" stop="20260109235959 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional_presented_by_ANZ__Semifinal____EN_HD_____19_00_1">
     <title>Finalizado | Brisbane Intern vs ional presented by ANZ (Semifinal)</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109145500 -0600" channel="Evento_KINGS_WC__KINGS_WC___Arabia_Saudita_vs_Indonesia___14_55_1">
-    <title>Próximamente | 14:55 | Arabia Saudita vs Indonesia</title>
-  </programme>
-  <programme start="20260109145500 -0600" stop="20260109175500 -0600" channel="Evento_KINGS_WC__KINGS_WC___Arabia_Saudita_vs_Indonesia___14_55_1">
-    <title>⌾ En vivo | 14:55 | Arabia Saudita vs Indonesia</title>
-  </programme>
-  <programme start="20260109175500 -0600" stop="20260109235959 -0600" channel="Evento_KINGS_WC__KINGS_WC___Arabia_Saudita_vs_Indonesia___14_55_1">
-    <title>Finalizado | Arabia Saudita vs Indonesia</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Halifax_Thunderbirds_vs_Ottawa_Black_Bears___18_00_1">
-    <title>Próximamente | 18:00 | Halifax Thunderbirds vs Ottawa Black Bears</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Halifax_Thunderbirds_vs_Ottawa_Black_Bears___18_00_1">
-    <title>⌾ En vivo | 18:00 | Halifax Thunderbirds vs Ottawa Black Bears</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Halifax_Thunderbirds_vs_Ottawa_Black_Bears___18_00_1">
-    <title>Finalizado | Halifax Thunderbirds vs Ottawa Black Bears</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Rochester_Knighthawks_vs_Philadelphia_Wings___18_00_1">
-    <title>Próximamente | 18:00 | Rochester Knighthawks vs Philadelphia Wings</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Rochester_Knighthawks_vs_Philadelphia_Wings___18_00_1">
-    <title>⌾ En vivo | 18:00 | Rochester Knighthawks vs Philadelphia Wings</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Rochester_Knighthawks_vs_Philadelphia_Wings___18_00_1">
-    <title>Finalizado | Rochester Knighthawks vs Philadelphia Wings</title>
   </programme>
   <programme start="20260109000000 -0600" stop="20260109203000 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Vancouver_Warriors_vs_Calgary_Roughnecks___20_30_1">
     <title>Próximamente | 20:30 | Vancouver Warriors vs Calgary Roughnecks</title>
@@ -138668,15 +138596,6 @@
   <programme start="20260109213000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Football__NCAA_Football____5_Oregon_vs__1_Indiana__Semifinal__2____18_30_1">
     <title>Finalizado | #5 Oregon vs #1 Indiana (Semifinal #2)</title>
   </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_NCAA_Gimnasia__NCAA_Gimnasia___Alabama_vs_Clemson___18_00_1">
-    <title>Próximamente | 18:00 | Alabama vs Clemson</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_NCAA_Gimnasia__NCAA_Gimnasia___Alabama_vs_Clemson___18_00_1">
-    <title>⌾ En vivo | 18:00 | Alabama vs Clemson</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Gimnasia__NCAA_Gimnasia___Alabama_vs_Clemson___18_00_1">
-    <title>Finalizado | Alabama vs Clemson</title>
-  </programme>
   <programme start="20260109000000 -0600" stop="20260109190000 -0600" channel="Evento_NCAA_Gimnasia__NCAA_Gimnasia___NC_St_vs_e_vs__Auburn___19_00_1">
     <title>Próximamente | 19:00 | NC St vs e vs. Auburn</title>
   </programme>
@@ -138704,24 +138623,6 @@
   <programme start="20260109230000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Gimnasia__NCAA_Gimnasia___Oregon_St_vs_e_vs__BYU___20_00_1">
     <title>Finalizado | Oregon St vs e vs. BYU</title>
   </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_NCAA__NCAA___Virginia_Tech_vs_Pittsburgh___18_00_1">
-    <title>Próximamente | 18:00 | Virginia Tech vs Pittsburgh</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_NCAA__NCAA___Virginia_Tech_vs_Pittsburgh___18_00_1">
-    <title>⌾ En vivo | 18:00 | Virginia Tech vs Pittsburgh</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA__NCAA___Virginia_Tech_vs_Pittsburgh___18_00_1">
-    <title>Finalizado | Virginia Tech vs Pittsburgh</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_NCAA__NCAA___Virginia_vs_NC_State___18_00_1">
-    <title>Próximamente | 18:00 | Virginia vs NC State</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_NCAA__NCAA___Virginia_vs_NC_State___18_00_1">
-    <title>⌾ En vivo | 18:00 | Virginia vs NC State</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA__NCAA___Virginia_vs_NC_State___18_00_1">
-    <title>Finalizado | Virginia vs NC State</title>
-  </programme>
   <programme start="20260109000000 -0600" stop="20260109193000 -0600" channel="Evento_NCAA__NCAA___West_Virginia_vs_Arizona_State___19_30_1">
     <title>Próximamente | 19:30 | West Virginia vs Arizona State</title>
   </programme>
@@ -138730,51 +138631,6 @@
   </programme>
   <programme start="20260109223000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA__NCAA___West_Virginia_vs_Arizona_State___19_30_1">
     <title>Finalizado | West Virginia vs Arizona State</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___St__Lawrence_vs_Yale___18_00_1">
-    <title>Próximamente | 18:00 | St. Lawrence vs Yale</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___St__Lawrence_vs_Yale___18_00_1">
-    <title>⌾ En vivo | 18:00 | St. Lawrence vs Yale</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___St__Lawrence_vs_Yale___18_00_1">
-    <title>Finalizado | St. Lawrence vs Yale</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___Union_vs__8_Quinnipiac___18_00_1">
-    <title>Próximamente | 18:00 | Union vs #8 Quinnipiac</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109210000 -0600" channel="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___Union_vs__8_Quinnipiac___18_00_1">
-    <title>⌾ En vivo | 18:00 | Union vs #8 Quinnipiac</title>
-  </programme>
-  <programme start="20260109210000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Men_s_Ice_Hockey__NCAA_Men_s_Ice_Hockey___Union_vs__8_Quinnipiac___18_00_1">
-    <title>Finalizado | Union vs #8 Quinnipiac</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109170000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____5_UConn_vs_Maine___17_00_1">
-    <title>Próximamente | 17:00 | #5 UConn vs Maine</title>
-  </programme>
-  <programme start="20260109170000 -0600" stop="20260109200000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____5_UConn_vs_Maine___17_00_1">
-    <title>⌾ En vivo | 17:00 | #5 UConn vs Maine</title>
-  </programme>
-  <programme start="20260109200000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____5_UConn_vs_Maine___17_00_1">
-    <title>Finalizado | #5 UConn vs Maine</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109170000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____7_Quinnipiac_vs_Rensselaer___17_00_1">
-    <title>Próximamente | 17:00 | #7 Quinnipiac vs Rensselaer</title>
-  </programme>
-  <programme start="20260109170000 -0600" stop="20260109200000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____7_Quinnipiac_vs_Rensselaer___17_00_1">
-    <title>⌾ En vivo | 17:00 | #7 Quinnipiac vs Rensselaer</title>
-  </programme>
-  <programme start="20260109200000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____7_Quinnipiac_vs_Rensselaer___17_00_1">
-    <title>Finalizado | #7 Quinnipiac vs Rensselaer</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109170000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Boston_College_vs_Holy_Cross___17_00_1">
-    <title>Próximamente | 17:00 | Boston College vs Holy Cross</title>
-  </programme>
-  <programme start="20260109170000 -0600" stop="20260109200000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Boston_College_vs_Holy_Cross___17_00_1">
-    <title>⌾ En vivo | 17:00 | Boston College vs Holy Cross</title>
-  </programme>
-  <programme start="20260109200000 -0600" stop="20260109235959 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Boston_College_vs_Holy_Cross___17_00_1">
-    <title>Finalizado | Boston College vs Holy Cross</title>
   </programme>
 </tv>
 
