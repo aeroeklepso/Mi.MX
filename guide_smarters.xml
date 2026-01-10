@@ -138284,47 +138284,23 @@
     <desc>Revive las mejores actuaciones de las Audiciones a Ciegas y Las Batallas de esta temporada.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Brooklyn_Nets___18_30_1">
-    <display-name>NBA | Los Angeles Clippers vs Brooklyn Nets | 18:30</display-name>
+  <channel id="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Cleveland_Cavaliers___12_00_1">
+    <display-name>NBA | Minnesota Timberwolves vs Cleveland Cavaliers | 12:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Memphis_Grizzlies___19_00_1">
-    <display-name>NBA | Oklahoma City Thunder vs Memphis Grizzlies | 19:00</display-name>
+  <channel id="Evento_NBA__NBA___Miami_He_vs_vs__Indiana_Pacers___18_00_1">
+    <display-name>NBA | Miami He vs vs. Indiana Pacers | 18:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Atlanta_Hawks_vs_Denver_Nuggets___20_00_1">
-    <display-name>NBA | Atlanta Hawks vs Denver Nuggets | 20:00</display-name>
+  <channel id="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Detroit_Pistons___18_30_1">
+    <display-name>NBA | Los Angeles Clippers vs Detroit Pistons | 18:30</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___New_York_Knicks_vs_Phoenix_Suns___20_00_1">
-    <display-name>NBA | New York Knicks vs Phoenix Suns | 20:00</display-name>
+  <channel id="Evento_NBA__NBA___San_Antonio_Spurs_vs_Boston_Celtics___19_00_1">
+    <display-name>NBA | San Antonio Spurs vs Boston Celtics | 19:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Sacramento_Kings_vs_Golden_State_Warriors___21_00_1">
-    <display-name>NBA | Sacramento Kings vs Golden State Warriors | 21:00</display-name>
+  <channel id="Evento_NBA__NBA___Dallas_Mavericks_vs_Chicago_Bulls___19_00_1">
+    <display-name>NBA | Dallas Mavericks vs Chicago Bulls | 19:00</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Houston_Rockets_vs_Portland_Trail_Blazers___21_00_1">
-    <display-name>NBA | Houston Rockets vs Portland Trail Blazers | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Milwaukee_Bucks_vs_Los_Angeles_Lakers___21_30_1">
-    <display-name>NBA | Milwaukee Bucks vs Los Angeles Lakers | 21:30</display-name>
-  </channel>
-  <channel id="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
-    <display-name>Bundesliga | Eintracht Frankfurt vs Borussia Dortmund | 13:30</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX___Maz_vs_l_n_vs__Ju_rez___19_00_1">
-    <display-name>LigaMX | Maz vs lán vs. Juárez | 19:00</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX___Tijuana_vs_Am_rica___21_00_1">
-    <display-name>LigaMX | Tijuana vs América | 21:00</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
-    <display-name>LigaMX | Atlético San Luis vs Pumas UNAM | 19:00</display-name>
-  </channel>
-  <channel id="Evento_National_Lacrosse__National_Lacrosse___Toronto_Rock_vs_San_Diego_Seals___21_30_1">
-    <display-name>National Lacrosse | Toronto Rock vs San Diego Seals | 21:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA__NCAA___Notre_Dame_vs_Sierra_Canyon___22_30_1">
-    <display-name>NCAA | Notre Dame vs Sierra Canyon | 22:30</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Football__NCAA_Football____5_Oregon_vs__1_Indiana__Semifinal__2____18_30_1">
-    <display-name>NCAA Football | #5 Oregon vs #1 Indiana (Semifinal #2) | 18:30</display-name>
+  <channel id="Evento_NBA__NBA___Charlotte_Hornets_vs_Utah_Jazz___20_30_1">
+    <display-name>NBA | Charlotte Hornets vs Utah Jazz | 20:30</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___New_York_Rangers_vs_Boston_Bruins___12_00_1">
     <display-name>NHL | New York Rangers vs Boston Bruins | 12:00</display-name>
@@ -138590,15 +138566,6 @@
   <channel id="Evento_NLL__NLL___Colorado_Mammoth_vs_Georgia_Swarm___18_30_1">
     <display-name>NLL | Colorado Mammoth vs Georgia Swarm | 18:30</display-name>
   </channel>
-  <channel id="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Alex_Michelsen__USA___Semifinal____02_30_1">
-    <display-name>ATP | Daniil Medvedev (RUS) vs Alex Michelsen (USA) (Semifinal) | 02:30</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA___Jessica_Pegula_vs_Marta_Kostyuk__Semifinal____23_00_1">
-    <display-name>WTA | Jessica Pegula vs Marta Kostyuk (Semifinal) | 23:00</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Pat_Rafter_Arena__Dobles_Final____ES_HD_____04_00_1">
-    <display-name>WTA | | WTA | Brisbane Intern vs ional / Pat Rafter Arena (Dobles Final) | ES-HD | | 04:00</display-name>
-  </channel>
   <channel id="Evento_Clemson__Clemson_____NCAA_vs_letismo___Clemson___ES_HD_____10_45_1">
     <display-name>Clemson | | NCAA vs letismo | Clemson | ES-HD | | 10:45</display-name>
   </channel>
@@ -138668,131 +138635,59 @@
   <channel id="Evento_NCAA_Women__NCAA_Women___Portland_vs_Gonzaga___16_00_1">
     <display-name>NCAA Women | Portland vs Gonzaga | 16:00</display-name>
   </channel>
-  <programme start="20260110060000" stop="20260111003000" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Brooklyn_Nets___18_30_1">
-    <title>Próximamente | 18:30 | Los Angeles Clippers vs Brooklyn Nets</title>
+  <programme start="20260110060000" stop="20260110180000" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Cleveland_Cavaliers___12_00_1">
+    <title>Próximamente | 12:00 | Minnesota Timberwolves vs Cleveland Cavaliers</title>
   </programme>
-  <programme start="20260111003000" stop="20260111033000" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Brooklyn_Nets___18_30_1">
-    <title>⌾ En vivo | 18:30 | Los Angeles Clippers vs Brooklyn Nets</title>
+  <programme start="20260110180000" stop="20260110210000" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Cleveland_Cavaliers___12_00_1">
+    <title>⌾ En vivo | 12:00 | Minnesota Timberwolves vs Cleveland Cavaliers</title>
   </programme>
-  <programme start="20260111033000" stop="20260111055959" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Brooklyn_Nets___18_30_1">
-    <title>Finalizado | Los Angeles Clippers vs Brooklyn Nets</title>
+  <programme start="20260110210000" stop="20260111055959" channel="Evento_NBA__NBA___Minnesota_Timberwolves_vs_Cleveland_Cavaliers___12_00_1">
+    <title>Finalizado | Minnesota Timberwolves vs Cleveland Cavaliers</title>
   </programme>
-  <programme start="20260110060000" stop="20260111010000" channel="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Memphis_Grizzlies___19_00_1">
-    <title>Próximamente | 19:00 | Oklahoma City Thunder vs Memphis Grizzlies</title>
+  <programme start="20260110060000" stop="20260111000000" channel="Evento_NBA__NBA___Miami_He_vs_vs__Indiana_Pacers___18_00_1">
+    <title>Próximamente | 18:00 | Miami He vs vs. Indiana Pacers</title>
   </programme>
-  <programme start="20260111010000" stop="20260111040000" channel="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Memphis_Grizzlies___19_00_1">
-    <title>⌾ En vivo | 19:00 | Oklahoma City Thunder vs Memphis Grizzlies</title>
+  <programme start="20260111000000" stop="20260111030000" channel="Evento_NBA__NBA___Miami_He_vs_vs__Indiana_Pacers___18_00_1">
+    <title>⌾ En vivo | 18:00 | Miami He vs vs. Indiana Pacers</title>
   </programme>
-  <programme start="20260111040000" stop="20260111055959" channel="Evento_NBA__NBA___Oklahoma_City_Thunder_vs_Memphis_Grizzlies___19_00_1">
-    <title>Finalizado | Oklahoma City Thunder vs Memphis Grizzlies</title>
+  <programme start="20260111030000" stop="20260111055959" channel="Evento_NBA__NBA___Miami_He_vs_vs__Indiana_Pacers___18_00_1">
+    <title>Finalizado | Miami He vs vs. Indiana Pacers</title>
   </programme>
-  <programme start="20260110060000" stop="20260111020000" channel="Evento_NBA__NBA___Atlanta_Hawks_vs_Denver_Nuggets___20_00_1">
-    <title>Próximamente | 20:00 | Atlanta Hawks vs Denver Nuggets</title>
+  <programme start="20260110060000" stop="20260111003000" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Detroit_Pistons___18_30_1">
+    <title>Próximamente | 18:30 | Los Angeles Clippers vs Detroit Pistons</title>
   </programme>
-  <programme start="20260111020000" stop="20260111050000" channel="Evento_NBA__NBA___Atlanta_Hawks_vs_Denver_Nuggets___20_00_1">
-    <title>⌾ En vivo | 20:00 | Atlanta Hawks vs Denver Nuggets</title>
+  <programme start="20260111003000" stop="20260111033000" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Detroit_Pistons___18_30_1">
+    <title>⌾ En vivo | 18:30 | Los Angeles Clippers vs Detroit Pistons</title>
   </programme>
-  <programme start="20260111050000" stop="20260111055959" channel="Evento_NBA__NBA___Atlanta_Hawks_vs_Denver_Nuggets___20_00_1">
-    <title>Finalizado | Atlanta Hawks vs Denver Nuggets</title>
+  <programme start="20260111033000" stop="20260111055959" channel="Evento_NBA__NBA___Los_Angeles_Clippers_vs_Detroit_Pistons___18_30_1">
+    <title>Finalizado | Los Angeles Clippers vs Detroit Pistons</title>
   </programme>
-  <programme start="20260110060000" stop="20260111020000" channel="Evento_NBA__NBA___New_York_Knicks_vs_Phoenix_Suns___20_00_1">
-    <title>Próximamente | 20:00 | New York Knicks vs Phoenix Suns</title>
+  <programme start="20260110060000" stop="20260111010000" channel="Evento_NBA__NBA___San_Antonio_Spurs_vs_Boston_Celtics___19_00_1">
+    <title>Próximamente | 19:00 | San Antonio Spurs vs Boston Celtics</title>
   </programme>
-  <programme start="20260111020000" stop="20260111050000" channel="Evento_NBA__NBA___New_York_Knicks_vs_Phoenix_Suns___20_00_1">
-    <title>⌾ En vivo | 20:00 | New York Knicks vs Phoenix Suns</title>
+  <programme start="20260111010000" stop="20260111040000" channel="Evento_NBA__NBA___San_Antonio_Spurs_vs_Boston_Celtics___19_00_1">
+    <title>⌾ En vivo | 19:00 | San Antonio Spurs vs Boston Celtics</title>
   </programme>
-  <programme start="20260111050000" stop="20260111055959" channel="Evento_NBA__NBA___New_York_Knicks_vs_Phoenix_Suns___20_00_1">
-    <title>Finalizado | New York Knicks vs Phoenix Suns</title>
+  <programme start="20260111040000" stop="20260111055959" channel="Evento_NBA__NBA___San_Antonio_Spurs_vs_Boston_Celtics___19_00_1">
+    <title>Finalizado | San Antonio Spurs vs Boston Celtics</title>
   </programme>
-  <programme start="20260110060000" stop="20260111030000" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Golden_State_Warriors___21_00_1">
-    <title>Próximamente | 21:00 | Sacramento Kings vs Golden State Warriors</title>
+  <programme start="20260110060000" stop="20260111010000" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Chicago_Bulls___19_00_1">
+    <title>Próximamente | 19:00 | Dallas Mavericks vs Chicago Bulls</title>
   </programme>
-  <programme start="20260111030000" stop="20260111060000" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Golden_State_Warriors___21_00_1">
-    <title>⌾ En vivo | 21:00 | Sacramento Kings vs Golden State Warriors</title>
+  <programme start="20260111010000" stop="20260111040000" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Chicago_Bulls___19_00_1">
+    <title>⌾ En vivo | 19:00 | Dallas Mavericks vs Chicago Bulls</title>
   </programme>
-  <programme start="20260111060000" stop="20260111055959" channel="Evento_NBA__NBA___Sacramento_Kings_vs_Golden_State_Warriors___21_00_1">
-    <title>Finalizado | Sacramento Kings vs Golden State Warriors</title>
+  <programme start="20260111040000" stop="20260111055959" channel="Evento_NBA__NBA___Dallas_Mavericks_vs_Chicago_Bulls___19_00_1">
+    <title>Finalizado | Dallas Mavericks vs Chicago Bulls</title>
   </programme>
-  <programme start="20260110060000" stop="20260111030000" channel="Evento_NBA__NBA___Houston_Rockets_vs_Portland_Trail_Blazers___21_00_1">
-    <title>Próximamente | 21:00 | Houston Rockets vs Portland Trail Blazers</title>
+  <programme start="20260110060000" stop="20260111023000" channel="Evento_NBA__NBA___Charlotte_Hornets_vs_Utah_Jazz___20_30_1">
+    <title>Próximamente | 20:30 | Charlotte Hornets vs Utah Jazz</title>
   </programme>
-  <programme start="20260111030000" stop="20260111060000" channel="Evento_NBA__NBA___Houston_Rockets_vs_Portland_Trail_Blazers___21_00_1">
-    <title>⌾ En vivo | 21:00 | Houston Rockets vs Portland Trail Blazers</title>
+  <programme start="20260111023000" stop="20260111053000" channel="Evento_NBA__NBA___Charlotte_Hornets_vs_Utah_Jazz___20_30_1">
+    <title>⌾ En vivo | 20:30 | Charlotte Hornets vs Utah Jazz</title>
   </programme>
-  <programme start="20260111060000" stop="20260111055959" channel="Evento_NBA__NBA___Houston_Rockets_vs_Portland_Trail_Blazers___21_00_1">
-    <title>Finalizado | Houston Rockets vs Portland Trail Blazers</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111033000" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Los_Angeles_Lakers___21_30_1">
-    <title>Próximamente | 21:30 | Milwaukee Bucks vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20260111033000" stop="20260111063000" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Los_Angeles_Lakers___21_30_1">
-    <title>⌾ En vivo | 21:30 | Milwaukee Bucks vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20260111063000" stop="20260111055959" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Los_Angeles_Lakers___21_30_1">
-    <title>Finalizado | Milwaukee Bucks vs Los Angeles Lakers</title>
-  </programme>
-  <programme start="20260110060000" stop="20260110193000" channel="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
-    <title>Próximamente | 13:30 | Eintracht Frankfurt vs Borussia Dortmund</title>
-  </programme>
-  <programme start="20260110193000" stop="20260110223000" channel="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
-    <title>⌾ En vivo | 13:30 | Eintracht Frankfurt vs Borussia Dortmund</title>
-  </programme>
-  <programme start="20260110223000" stop="20260111055959" channel="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
-    <title>Finalizado | Eintracht Frankfurt vs Borussia Dortmund</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111010000" channel="Evento_LigaMX__LigaMX___Maz_vs_l_n_vs__Ju_rez___19_00_1">
-    <title>Próximamente | 19:00 | Maz vs lán vs. Juárez</title>
-  </programme>
-  <programme start="20260111010000" stop="20260111040000" channel="Evento_LigaMX__LigaMX___Maz_vs_l_n_vs__Ju_rez___19_00_1">
-    <title>⌾ En vivo | 19:00 | Maz vs lán vs. Juárez</title>
-  </programme>
-  <programme start="20260111040000" stop="20260111055959" channel="Evento_LigaMX__LigaMX___Maz_vs_l_n_vs__Ju_rez___19_00_1">
-    <title>Finalizado | Maz vs lán vs. Juárez</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111030000" channel="Evento_LigaMX__LigaMX___Tijuana_vs_Am_rica___21_00_1">
-    <title>Próximamente | 21:00 | Tijuana vs América</title>
-  </programme>
-  <programme start="20260111030000" stop="20260111060000" channel="Evento_LigaMX__LigaMX___Tijuana_vs_Am_rica___21_00_1">
-    <title>⌾ En vivo | 21:00 | Tijuana vs América</title>
-  </programme>
-  <programme start="20260111060000" stop="20260111055959" channel="Evento_LigaMX__LigaMX___Tijuana_vs_Am_rica___21_00_1">
-    <title>Finalizado | Tijuana vs América</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111010000" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
-    <title>Próximamente | 19:00 | Atlético San Luis vs Pumas UNAM</title>
-  </programme>
-  <programme start="20260111010000" stop="20260111040000" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
-    <title>⌾ En vivo | 19:00 | Atlético San Luis vs Pumas UNAM</title>
-  </programme>
-  <programme start="20260111040000" stop="20260111055959" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
-    <title>Finalizado | Atlético San Luis vs Pumas UNAM</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111033000" channel="Evento_National_Lacrosse__National_Lacrosse___Toronto_Rock_vs_San_Diego_Seals___21_30_1">
-    <title>Próximamente | 21:30 | Toronto Rock vs San Diego Seals</title>
-  </programme>
-  <programme start="20260111033000" stop="20260111063000" channel="Evento_National_Lacrosse__National_Lacrosse___Toronto_Rock_vs_San_Diego_Seals___21_30_1">
-    <title>⌾ En vivo | 21:30 | Toronto Rock vs San Diego Seals</title>
-  </programme>
-  <programme start="20260111063000" stop="20260111055959" channel="Evento_National_Lacrosse__National_Lacrosse___Toronto_Rock_vs_San_Diego_Seals___21_30_1">
-    <title>Finalizado | Toronto Rock vs San Diego Seals</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111043000" channel="Evento_NCAA__NCAA___Notre_Dame_vs_Sierra_Canyon___22_30_1">
-    <title>Próximamente | 22:30 | Notre Dame vs Sierra Canyon</title>
-  </programme>
-  <programme start="20260111043000" stop="20260111073000" channel="Evento_NCAA__NCAA___Notre_Dame_vs_Sierra_Canyon___22_30_1">
-    <title>⌾ En vivo | 22:30 | Notre Dame vs Sierra Canyon</title>
-  </programme>
-  <programme start="20260111073000" stop="20260111055959" channel="Evento_NCAA__NCAA___Notre_Dame_vs_Sierra_Canyon___22_30_1">
-    <title>Finalizado | Notre Dame vs Sierra Canyon</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111003000" channel="Evento_NCAA_Football__NCAA_Football____5_Oregon_vs__1_Indiana__Semifinal__2____18_30_1">
-    <title>Próximamente | 18:30 | #5 Oregon vs #1 Indiana (Semifinal #2)</title>
-  </programme>
-  <programme start="20260111003000" stop="20260111033000" channel="Evento_NCAA_Football__NCAA_Football____5_Oregon_vs__1_Indiana__Semifinal__2____18_30_1">
-    <title>⌾ En vivo | 18:30 | #5 Oregon vs #1 Indiana (Semifinal #2)</title>
-  </programme>
-  <programme start="20260111033000" stop="20260111055959" channel="Evento_NCAA_Football__NCAA_Football____5_Oregon_vs__1_Indiana__Semifinal__2____18_30_1">
-    <title>Finalizado | #5 Oregon vs #1 Indiana (Semifinal #2)</title>
+  <programme start="20260111053000" stop="20260111055959" channel="Evento_NBA__NBA___Charlotte_Hornets_vs_Utah_Jazz___20_30_1">
+    <title>Finalizado | Charlotte Hornets vs Utah Jazz</title>
   </programme>
   <programme start="20260110060000" stop="20260110180000" channel="Evento_NHL__NHL___New_York_Rangers_vs_Boston_Bruins___12_00_1">
     <title>Próximamente | 12:00 | New York Rangers vs Boston Bruins</title>
@@ -139585,33 +139480,6 @@
   </programme>
   <programme start="20260111033000" stop="20260111055959" channel="Evento_NLL__NLL___Colorado_Mammoth_vs_Georgia_Swarm___18_30_1">
     <title>Finalizado | Colorado Mammoth vs Georgia Swarm</title>
-  </programme>
-  <programme start="20260110060000" stop="20260110083000" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Alex_Michelsen__USA___Semifinal____02_30_1">
-    <title>Próximamente | 02:30 | Daniil Medvedev (RUS) vs Alex Michelsen (USA) (Semifinal)</title>
-  </programme>
-  <programme start="20260110083000" stop="20260110113000" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Alex_Michelsen__USA___Semifinal____02_30_1">
-    <title>⌾ En vivo | 02:30 | Daniil Medvedev (RUS) vs Alex Michelsen (USA) (Semifinal)</title>
-  </programme>
-  <programme start="20260110113000" stop="20260111055959" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Alex_Michelsen__USA___Semifinal____02_30_1">
-    <title>Finalizado | Daniil Medvedev (RUS) vs Alex Michelsen (USA) (Semifinal)</title>
-  </programme>
-  <programme start="20260110060000" stop="20260111050000" channel="Evento_WTA__WTA___Jessica_Pegula_vs_Marta_Kostyuk__Semifinal____23_00_1">
-    <title>Próximamente | 23:00 | Jessica Pegula vs Marta Kostyuk (Semifinal)</title>
-  </programme>
-  <programme start="20260111050000" stop="20260111080000" channel="Evento_WTA__WTA___Jessica_Pegula_vs_Marta_Kostyuk__Semifinal____23_00_1">
-    <title>⌾ En vivo | 23:00 | Jessica Pegula vs Marta Kostyuk (Semifinal)</title>
-  </programme>
-  <programme start="20260111080000" stop="20260111055959" channel="Evento_WTA__WTA___Jessica_Pegula_vs_Marta_Kostyuk__Semifinal____23_00_1">
-    <title>Finalizado | Jessica Pegula vs Marta Kostyuk (Semifinal)</title>
-  </programme>
-  <programme start="20260110060000" stop="20260110100000" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Pat_Rafter_Arena__Dobles_Final____ES_HD_____04_00_1">
-    <title>Próximamente | 04:00 | Brisbane Intern vs ional / Pat Rafter Arena (Dobles Final)</title>
-  </programme>
-  <programme start="20260110100000" stop="20260110130000" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Pat_Rafter_Arena__Dobles_Final____ES_HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | Brisbane Intern vs ional / Pat Rafter Arena (Dobles Final)</title>
-  </programme>
-  <programme start="20260110130000" stop="20260111055959" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional___Pat_Rafter_Arena__Dobles_Final____ES_HD_____04_00_1">
-    <title>Finalizado | Brisbane Intern vs ional / Pat Rafter Arena (Dobles Final)</title>
   </programme>
   <programme start="20260110060000" stop="20260110164500" channel="Evento_Clemson__Clemson_____NCAA_vs_letismo___Clemson___ES_HD_____10_45_1">
     <title>Próximamente | 10:45 | NCAA vs letismo</title>
