@@ -138326,38 +138326,8 @@
   <channel id="Evento_NHL__NHL___St__Louis_Blues_vs_Utah_Mammoth___20_00_1">
     <display-name>NHL | St. Louis Blues vs Utah Mammoth | 20:00</display-name>
   </channel>
-  <channel id="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_1">
-    <display-name>LaLiga | Getafe vs Real Sociedad | 14:00</display-name>
-  </channel>
-  <channel id="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_2">
-    <display-name>LaLiga | Getafe vs Real Sociedad | 14:00</display-name>
-  </channel>
-  <channel id="Evento_FA_Cup__FA_Cup___Milton_Keynes_Dons_vs_Oxford_United___13_30_1">
-    <display-name>FA Cup | Milton Keynes Dons vs Oxford United | 13:30</display-name>
-  </channel>
-  <channel id="Evento_FA_Cup__FA_Cup___Port_Vale_vs_Fleetwood_Town___13_30_1">
-    <display-name>FA Cup | Port Vale vs Fleetwood Town | 13:30</display-name>
-  </channel>
-  <channel id="Evento_FA_Cup__FA_Cup___Preston_North_End_vs_Wigan_Athletic___13_30_1">
-    <display-name>FA Cup | Preston North End vs Wigan Athletic | 13:30</display-name>
-  </channel>
-  <channel id="Evento_FA_Cup__FA_Cup___Wrexham_vs_Nottingham_Forest___13_30_1">
-    <display-name>FA Cup | Wrexham vs Nottingham Forest | 13:30</display-name>
-  </channel>
   <channel id="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
     <display-name>Bundesliga | Eintracht Frankfurt vs Borussia Dortmund | 13:30</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana__Copa_Africana___Mal__vs_Senegal___10_00_1">
-    <display-name>Copa Africana | Malí vs Senegal | 10:00</display-name>
-  </channel>
-  <channel id="Evento_Copa_Africana__Copa_Africana___Camer_n_vs_Marruecos___13_00_1">
-    <display-name>Copa Africana | Camerún vs Marruecos | 13:00</display-name>
-  </channel>
-  <channel id="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_1">
-    <display-name>Saudi Pro League | Al Khlood vs Al Ittihad | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_2">
-    <display-name>Saudi Pro League | Al Khlood vs Al Ittihad | 11:30</display-name>
   </channel>
   <channel id="Evento_LigaMX__LigaMX___Maz_vs_l_n_vs__Ju_rez___19_00_1">
     <display-name>LigaMX | Maz vs lán vs. Juárez | 19:00</display-name>
@@ -138368,29 +138338,17 @@
   <channel id="Evento_LigaMX__LigaMX___Tijuana_vs_Am_rica___21_00_1">
     <display-name>LigaMX | Tijuana vs América | 21:00</display-name>
   </channel>
-  <channel id="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Sporting_Gij_n___13_30_1">
-    <display-name>LaLiga SmartBank | Cádiz vs Sporting Gijón | 13:30</display-name>
-  </channel>
   <channel id="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
     <display-name>LigaMX | Atlético San Luis vs Pumas UNAM | 19:00</display-name>
   </channel>
-  <channel id="Evento_Amistoso__Amistoso___Santa_Fe_vs_Deportivo_T_chira___15_00_1">
-    <display-name>Amistoso | Santa Fe vs Deportivo Táchira | 15:00</display-name>
-  </channel>
   <channel id="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
     <display-name>RUGBY 7s | | RUGBY 7s | Seven de Mar del Pl vs a 2026 | Fase de grupos | EN-HD | | 14:30</display-name>
-  </channel>
-  <channel id="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Kamil_Majchrzak__POL____04_00_1">
-    <display-name>ATP | Daniil Medvedev (RUS) vs Kamil Majchrzak (POL) | 04:00</display-name>
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional_presented_by_ANZ__Semifinal____EN_HD_____19_00_1">
     <display-name>WTA | | WTA | Brisbane Intern vs ional presented by ANZ (Semifinal) | EN-HD | | 19:00</display-name>
   </channel>
   <channel id="Evento_KINGS_WC__KINGS_WC___Arabia_Saudita_vs_Indonesia___14_55_1">
     <display-name>KINGS WC | Arabia Saudita vs Indonesia | 14:55</display-name>
-  </channel>
-  <channel id="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <display-name>KINGS WC | | KINGS WC | Kings World Cup N vs ions | Ronda #2 | EN-HD | | 14:55</display-name>
   </channel>
   <channel id="Evento_National_Lacrosse__National_Lacrosse___Halifax_Thunderbirds_vs_Ottawa_Black_Bears___18_00_1">
     <display-name>National Lacrosse | Halifax Thunderbirds vs Ottawa Black Bears | 18:00</display-name>
@@ -138575,60 +138533,6 @@
   <programme start="20260109230000 -0600" stop="20260109235959 -0600" channel="Evento_NHL__NHL___St__Louis_Blues_vs_Utah_Mammoth___20_00_1">
     <title>Finalizado | St. Louis Blues vs Utah Mammoth</title>
   </programme>
-  <programme start="20260109000000 -0600" stop="20260109140000 -0600" channel="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_1">
-    <title>Próximamente | 14:00 | Getafe vs Real Sociedad</title>
-  </programme>
-  <programme start="20260109140000 -0600" stop="20260109170000 -0600" channel="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_1">
-    <title>⌾ En vivo | 14:00 | Getafe vs Real Sociedad</title>
-  </programme>
-  <programme start="20260109170000 -0600" stop="20260109235959 -0600" channel="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_1">
-    <title>Finalizado | Getafe vs Real Sociedad</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109140000 -0600" channel="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_2">
-    <title>Próximamente | 14:00 | Getafe vs Real Sociedad</title>
-  </programme>
-  <programme start="20260109140000 -0600" stop="20260109170000 -0600" channel="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_2">
-    <title>⌾ En vivo | 14:00 | Getafe vs Real Sociedad</title>
-  </programme>
-  <programme start="20260109170000 -0600" stop="20260109235959 -0600" channel="Evento_LaLiga__LaLiga___Getafe_vs_Real_Sociedad___14_00_2">
-    <title>Finalizado | Getafe vs Real Sociedad</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109133000 -0600" channel="Evento_FA_Cup__FA_Cup___Milton_Keynes_Dons_vs_Oxford_United___13_30_1">
-    <title>Próximamente | 13:30 | Milton Keynes Dons vs Oxford United</title>
-  </programme>
-  <programme start="20260109133000 -0600" stop="20260109163000 -0600" channel="Evento_FA_Cup__FA_Cup___Milton_Keynes_Dons_vs_Oxford_United___13_30_1">
-    <title>⌾ En vivo | 13:30 | Milton Keynes Dons vs Oxford United</title>
-  </programme>
-  <programme start="20260109163000 -0600" stop="20260109235959 -0600" channel="Evento_FA_Cup__FA_Cup___Milton_Keynes_Dons_vs_Oxford_United___13_30_1">
-    <title>Finalizado | Milton Keynes Dons vs Oxford United</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109133000 -0600" channel="Evento_FA_Cup__FA_Cup___Port_Vale_vs_Fleetwood_Town___13_30_1">
-    <title>Próximamente | 13:30 | Port Vale vs Fleetwood Town</title>
-  </programme>
-  <programme start="20260109133000 -0600" stop="20260109163000 -0600" channel="Evento_FA_Cup__FA_Cup___Port_Vale_vs_Fleetwood_Town___13_30_1">
-    <title>⌾ En vivo | 13:30 | Port Vale vs Fleetwood Town</title>
-  </programme>
-  <programme start="20260109163000 -0600" stop="20260109235959 -0600" channel="Evento_FA_Cup__FA_Cup___Port_Vale_vs_Fleetwood_Town___13_30_1">
-    <title>Finalizado | Port Vale vs Fleetwood Town</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109133000 -0600" channel="Evento_FA_Cup__FA_Cup___Preston_North_End_vs_Wigan_Athletic___13_30_1">
-    <title>Próximamente | 13:30 | Preston North End vs Wigan Athletic</title>
-  </programme>
-  <programme start="20260109133000 -0600" stop="20260109163000 -0600" channel="Evento_FA_Cup__FA_Cup___Preston_North_End_vs_Wigan_Athletic___13_30_1">
-    <title>⌾ En vivo | 13:30 | Preston North End vs Wigan Athletic</title>
-  </programme>
-  <programme start="20260109163000 -0600" stop="20260109235959 -0600" channel="Evento_FA_Cup__FA_Cup___Preston_North_End_vs_Wigan_Athletic___13_30_1">
-    <title>Finalizado | Preston North End vs Wigan Athletic</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109133000 -0600" channel="Evento_FA_Cup__FA_Cup___Wrexham_vs_Nottingham_Forest___13_30_1">
-    <title>Próximamente | 13:30 | Wrexham vs Nottingham Forest</title>
-  </programme>
-  <programme start="20260109133000 -0600" stop="20260109163000 -0600" channel="Evento_FA_Cup__FA_Cup___Wrexham_vs_Nottingham_Forest___13_30_1">
-    <title>⌾ En vivo | 13:30 | Wrexham vs Nottingham Forest</title>
-  </programme>
-  <programme start="20260109163000 -0600" stop="20260109235959 -0600" channel="Evento_FA_Cup__FA_Cup___Wrexham_vs_Nottingham_Forest___13_30_1">
-    <title>Finalizado | Wrexham vs Nottingham Forest</title>
-  </programme>
   <programme start="20260109000000 -0600" stop="20260109133000 -0600" channel="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
     <title>Próximamente | 13:30 | Eintracht Frankfurt vs Borussia Dortmund</title>
   </programme>
@@ -138637,42 +138541,6 @@
   </programme>
   <programme start="20260109163000 -0600" stop="20260109235959 -0600" channel="Evento_Bundesliga__Bundesliga___Eintracht_Frankfurt_vs_Borussia_Dortmund___13_30_1">
     <title>Finalizado | Eintracht Frankfurt vs Borussia Dortmund</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109100000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Mal__vs_Senegal___10_00_1">
-    <title>Próximamente | 10:00 | Malí vs Senegal</title>
-  </programme>
-  <programme start="20260109100000 -0600" stop="20260109130000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Mal__vs_Senegal___10_00_1">
-    <title>⌾ En vivo | 10:00 | Malí vs Senegal</title>
-  </programme>
-  <programme start="20260109130000 -0600" stop="20260109235959 -0600" channel="Evento_Copa_Africana__Copa_Africana___Mal__vs_Senegal___10_00_1">
-    <title>Finalizado | Malí vs Senegal</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109130000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Camer_n_vs_Marruecos___13_00_1">
-    <title>Próximamente | 13:00 | Camerún vs Marruecos</title>
-  </programme>
-  <programme start="20260109130000 -0600" stop="20260109160000 -0600" channel="Evento_Copa_Africana__Copa_Africana___Camer_n_vs_Marruecos___13_00_1">
-    <title>⌾ En vivo | 13:00 | Camerún vs Marruecos</title>
-  </programme>
-  <programme start="20260109160000 -0600" stop="20260109235959 -0600" channel="Evento_Copa_Africana__Copa_Africana___Camer_n_vs_Marruecos___13_00_1">
-    <title>Finalizado | Camerún vs Marruecos</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109113000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_1">
-    <title>Próximamente | 11:30 | Al Khlood vs Al Ittihad</title>
-  </programme>
-  <programme start="20260109113000 -0600" stop="20260109143000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_1">
-    <title>⌾ En vivo | 11:30 | Al Khlood vs Al Ittihad</title>
-  </programme>
-  <programme start="20260109143000 -0600" stop="20260109235959 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_1">
-    <title>Finalizado | Al Khlood vs Al Ittihad</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109113000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_2">
-    <title>Próximamente | 11:30 | Al Khlood vs Al Ittihad</title>
-  </programme>
-  <programme start="20260109113000 -0600" stop="20260109143000 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_2">
-    <title>⌾ En vivo | 11:30 | Al Khlood vs Al Ittihad</title>
-  </programme>
-  <programme start="20260109143000 -0600" stop="20260109235959 -0600" channel="Evento_Saudi_Pro_League__Saudi_Pro_League___Al_Khlood_vs_Al_Ittihad___11_30_2">
-    <title>Finalizado | Al Khlood vs Al Ittihad</title>
   </programme>
   <programme start="20260109000000 -0600" stop="20260109190000 -0600" channel="Evento_LigaMX__LigaMX___Maz_vs_l_n_vs__Ju_rez___19_00_1">
     <title>Próximamente | 19:00 | Maz vs lán vs. Juárez</title>
@@ -138701,15 +138569,6 @@
   <programme start="20260110000000 -0600" stop="20260109235959 -0600" channel="Evento_LigaMX__LigaMX___Tijuana_vs_Am_rica___21_00_1">
     <title>Finalizado | Tijuana vs América</title>
   </programme>
-  <programme start="20260109000000 -0600" stop="20260109133000 -0600" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Sporting_Gij_n___13_30_1">
-    <title>Próximamente | 13:30 | Cádiz vs Sporting Gijón</title>
-  </programme>
-  <programme start="20260109133000 -0600" stop="20260109163000 -0600" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Sporting_Gij_n___13_30_1">
-    <title>⌾ En vivo | 13:30 | Cádiz vs Sporting Gijón</title>
-  </programme>
-  <programme start="20260109163000 -0600" stop="20260109235959 -0600" channel="Evento_LaLiga_SmartBank__LaLiga_SmartBank___C_diz_vs_Sporting_Gij_n___13_30_1">
-    <title>Finalizado | Cádiz vs Sporting Gijón</title>
-  </programme>
   <programme start="20260109000000 -0600" stop="20260109190000 -0600" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
     <title>Próximamente | 19:00 | Atlético San Luis vs Pumas UNAM</title>
   </programme>
@@ -138719,15 +138578,6 @@
   <programme start="20260109220000 -0600" stop="20260109235959 -0600" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Pumas_UNAM___19_00_1">
     <title>Finalizado | Atlético San Luis vs Pumas UNAM</title>
   </programme>
-  <programme start="20260109000000 -0600" stop="20260109150000 -0600" channel="Evento_Amistoso__Amistoso___Santa_Fe_vs_Deportivo_T_chira___15_00_1">
-    <title>Próximamente | 15:00 | Santa Fe vs Deportivo Táchira</title>
-  </programme>
-  <programme start="20260109150000 -0600" stop="20260109180000 -0600" channel="Evento_Amistoso__Amistoso___Santa_Fe_vs_Deportivo_T_chira___15_00_1">
-    <title>⌾ En vivo | 15:00 | Santa Fe vs Deportivo Táchira</title>
-  </programme>
-  <programme start="20260109180000 -0600" stop="20260109235959 -0600" channel="Evento_Amistoso__Amistoso___Santa_Fe_vs_Deportivo_T_chira___15_00_1">
-    <title>Finalizado | Santa Fe vs Deportivo Táchira</title>
-  </programme>
   <programme start="20260109000000 -0600" stop="20260109143000 -0600" channel="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
     <title>Próximamente | 14:30 | Seven de Mar del Pl vs a 2026</title>
   </programme>
@@ -138736,15 +138586,6 @@
   </programme>
   <programme start="20260109173000 -0600" stop="20260109235959 -0600" channel="Evento_RUGBY_7s__RUGBY_7s_____RUGBY_7s___Seven_de_Mar_del_Pl_vs_a_2026___Fase_de_grupos___EN_HD_____14_30_1">
     <title>Finalizado | Seven de Mar del Pl vs a 2026</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109040000 -0600" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Kamil_Majchrzak__POL____04_00_1">
-    <title>Próximamente | 04:00 | Daniil Medvedev (RUS) vs Kamil Majchrzak (POL)</title>
-  </programme>
-  <programme start="20260109040000 -0600" stop="20260109070000 -0600" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Kamil_Majchrzak__POL____04_00_1">
-    <title>⌾ En vivo | 04:00 | Daniil Medvedev (RUS) vs Kamil Majchrzak (POL)</title>
-  </programme>
-  <programme start="20260109070000 -0600" stop="20260109235959 -0600" channel="Evento_ATP__ATP___Daniil_Medvedev__RUS__vs_Kamil_Majchrzak__POL____04_00_1">
-    <title>Finalizado | Daniil Medvedev (RUS) vs Kamil Majchrzak (POL)</title>
   </programme>
   <programme start="20260109000000 -0600" stop="20260109190000 -0600" channel="Evento_WTA__WTA_____WTA___Brisbane_Intern_vs_ional_presented_by_ANZ__Semifinal____EN_HD_____19_00_1">
     <title>Próximamente | 19:00 | Brisbane Intern vs ional presented by ANZ (Semifinal)</title>
@@ -138763,15 +138604,6 @@
   </programme>
   <programme start="20260109175500 -0600" stop="20260109235959 -0600" channel="Evento_KINGS_WC__KINGS_WC___Arabia_Saudita_vs_Indonesia___14_55_1">
     <title>Finalizado | Arabia Saudita vs Indonesia</title>
-  </programme>
-  <programme start="20260109000000 -0600" stop="20260109145500 -0600" channel="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>Próximamente | 14:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260109145500 -0600" stop="20260109175500 -0600" channel="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>⌾ En vivo | 14:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260109175500 -0600" stop="20260109235959 -0600" channel="Evento_KINGS_WC__KINGS_WC_____KINGS_WC___Kings_World_Cup_N_vs_ions___Ronda__2___EN_HD_____14_55_1">
-    <title>Finalizado | Kings World Cup N vs ions</title>
   </programme>
   <programme start="20260109000000 -0600" stop="20260109180000 -0600" channel="Evento_National_Lacrosse__National_Lacrosse___Halifax_Thunderbirds_vs_Ottawa_Black_Bears___18_00_1">
     <title>Próximamente | 18:00 | Halifax Thunderbirds vs Ottawa Black Bears</title>
