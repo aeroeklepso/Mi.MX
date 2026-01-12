@@ -136886,12 +136886,6 @@
     <desc>Los Knockouts continúan con la ayuda de un mega mentor.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Utah_Mammoth___18_00_1">
-    <display-name>NHL | Columbus Blue Jackets vs Utah Mammoth | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___Washington_Capitals_vs_Nashville_Predators___18_00_1">
-    <display-name>NHL | Washington Capitals vs Nashville Predators | 18:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Vegas_Golden_Knights_vs_San_Jose_Sharks___19_00_1">
     <display-name>NHL | Vegas Golden Knights vs San Jose Sharks | 19:00</display-name>
   </channel>
@@ -136900,21 +136894,6 @@
   </channel>
   <channel id="Evento_LMP__LMP___Algodoneros_de_Guasave_vs_Tomateros_de_Culiacan___18_05_1">
     <display-name>LMP | Algodoneros de Guasave vs Tomateros de Culiacan | 18:05</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Philadelphia_76ers_vs_Toronto_Raptors___17_00_1">
-    <display-name>NBA | Philadelphia 76ers vs Toronto Raptors | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Miami_He_vs_vs__Oklahoma_City_Thunder___18_00_1">
-    <display-name>NBA | Miami He vs vs. Oklahoma City Thunder | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___San_Antonio_Spurs_vs_Minnesota_Timberwolves___18_00_1">
-    <display-name>NBA | San Antonio Spurs vs Minnesota Timberwolves | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Milwaukee_Bucks_vs_Denver_Nuggets___19_00_1">
-    <display-name>NBA | Milwaukee Bucks vs Denver Nuggets | 19:00</display-name>
-  </channel>
-  <channel id="Evento_NBA__NBA___Washington_Wizards_vs_Phoenix_Suns___19_00_1">
-    <display-name>NBA | Washington Wizards vs Phoenix Suns | 19:00</display-name>
   </channel>
   <channel id="Evento_NBA__NBA___Atlanta_Hawks_vs_Golden_State_Warriors___19_30_1">
     <display-name>NBA | Atlanta Hawks vs Golden State Warriors | 19:30</display-name>
@@ -136925,23 +136904,8 @@
   <channel id="Evento_OP1__OP1___Barcelona_vs_Real_Madrid___13_00_1">
     <display-name>OP1 | Barcelona vs Real Madrid | 13:00</display-name>
   </channel>
-  <channel id="Evento_OP2__OP2___Barcelona_vs_Real_Madrid___13_00_1">
-    <display-name>OP2 | Barcelona vs Real Madrid | 13:00</display-name>
-  </channel>
   <channel id="Evento_OP3__OP3___Barcelona_vs_Real_Madrid___13_00_1">
     <display-name>OP3 | Barcelona vs Real Madrid | 13:00</display-name>
-  </channel>
-  <channel id="Evento_OP4__OP4___Barcelona_vs_Real_Madrid___13_00_1">
-    <display-name>OP4 | Barcelona vs Real Madrid | 13:00</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Tigres_UANL___19_00_1">
-    <display-name>LigaMX | Atlético San Luis vs Tigres UANL | 19:00</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX___Monterrey_vs_Necaxa___18_00_1">
-    <display-name>LigaMX | Monterrey vs Necaxa | 18:00</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX___Pachuca_vs_Quer_taro___19_00_1">
-    <display-name>LigaMX | Pachuca vs Querétaro | 19:00</display-name>
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Court_8___EN_HD_____18_00_1">
     <display-name>WTA | | WTA | Hobart Intern vs ional / Court 8 | EN-HD | | 18:00</display-name>
@@ -136958,24 +136922,6 @@
   <channel id="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Centre_Court___EN_HD_____19_00_1">
     <display-name>WTA | | WTA | Hobart Intern vs ional / Centre Court | EN-HD | | 19:00</display-name>
   </channel>
-  <programme start="20260111000000 -0600" stop="20260111180000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Utah_Mammoth___18_00_1">
-    <title>Próximamente | 18:00 | Columbus Blue Jackets vs Utah Mammoth</title>
-  </programme>
-  <programme start="20260111180000 -0600" stop="20260111210000 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Utah_Mammoth___18_00_1">
-    <title>⌾ En vivo | 18:00 | Columbus Blue Jackets vs Utah Mammoth</title>
-  </programme>
-  <programme start="20260111210000 -0600" stop="20260111235959 -0600" channel="Evento_NHL__NHL___Columbus_Blue_Jackets_vs_Utah_Mammoth___18_00_1">
-    <title>Finalizado | Columbus Blue Jackets vs Utah Mammoth</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111180000 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Nashville_Predators___18_00_1">
-    <title>Próximamente | 18:00 | Washington Capitals vs Nashville Predators</title>
-  </programme>
-  <programme start="20260111180000 -0600" stop="20260111210000 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Nashville_Predators___18_00_1">
-    <title>⌾ En vivo | 18:00 | Washington Capitals vs Nashville Predators</title>
-  </programme>
-  <programme start="20260111210000 -0600" stop="20260111235959 -0600" channel="Evento_NHL__NHL___Washington_Capitals_vs_Nashville_Predators___18_00_1">
-    <title>Finalizado | Washington Capitals vs Nashville Predators</title>
-  </programme>
   <programme start="20260111000000 -0600" stop="20260111190000 -0600" channel="Evento_NHL__NHL___Vegas_Golden_Knights_vs_San_Jose_Sharks___19_00_1">
     <title>Próximamente | 19:00 | Vegas Golden Knights vs San Jose Sharks</title>
   </programme>
@@ -137002,51 +136948,6 @@
   </programme>
   <programme start="20260111210500 -0600" stop="20260111235959 -0600" channel="Evento_LMP__LMP___Algodoneros_de_Guasave_vs_Tomateros_de_Culiacan___18_05_1">
     <title>Finalizado | Algodoneros de Guasave vs Tomateros de Culiacan</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111170000 -0600" channel="Evento_NBA__NBA___Philadelphia_76ers_vs_Toronto_Raptors___17_00_1">
-    <title>Próximamente | 17:00 | Philadelphia 76ers vs Toronto Raptors</title>
-  </programme>
-  <programme start="20260111170000 -0600" stop="20260111200000 -0600" channel="Evento_NBA__NBA___Philadelphia_76ers_vs_Toronto_Raptors___17_00_1">
-    <title>⌾ En vivo | 17:00 | Philadelphia 76ers vs Toronto Raptors</title>
-  </programme>
-  <programme start="20260111200000 -0600" stop="20260111235959 -0600" channel="Evento_NBA__NBA___Philadelphia_76ers_vs_Toronto_Raptors___17_00_1">
-    <title>Finalizado | Philadelphia 76ers vs Toronto Raptors</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111180000 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Oklahoma_City_Thunder___18_00_1">
-    <title>Próximamente | 18:00 | Miami He vs vs. Oklahoma City Thunder</title>
-  </programme>
-  <programme start="20260111180000 -0600" stop="20260111210000 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Oklahoma_City_Thunder___18_00_1">
-    <title>⌾ En vivo | 18:00 | Miami He vs vs. Oklahoma City Thunder</title>
-  </programme>
-  <programme start="20260111210000 -0600" stop="20260111235959 -0600" channel="Evento_NBA__NBA___Miami_He_vs_vs__Oklahoma_City_Thunder___18_00_1">
-    <title>Finalizado | Miami He vs vs. Oklahoma City Thunder</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111180000 -0600" channel="Evento_NBA__NBA___San_Antonio_Spurs_vs_Minnesota_Timberwolves___18_00_1">
-    <title>Próximamente | 18:00 | San Antonio Spurs vs Minnesota Timberwolves</title>
-  </programme>
-  <programme start="20260111180000 -0600" stop="20260111210000 -0600" channel="Evento_NBA__NBA___San_Antonio_Spurs_vs_Minnesota_Timberwolves___18_00_1">
-    <title>⌾ En vivo | 18:00 | San Antonio Spurs vs Minnesota Timberwolves</title>
-  </programme>
-  <programme start="20260111210000 -0600" stop="20260111235959 -0600" channel="Evento_NBA__NBA___San_Antonio_Spurs_vs_Minnesota_Timberwolves___18_00_1">
-    <title>Finalizado | San Antonio Spurs vs Minnesota Timberwolves</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111190000 -0600" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Denver_Nuggets___19_00_1">
-    <title>Próximamente | 19:00 | Milwaukee Bucks vs Denver Nuggets</title>
-  </programme>
-  <programme start="20260111190000 -0600" stop="20260111220000 -0600" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Denver_Nuggets___19_00_1">
-    <title>⌾ En vivo | 19:00 | Milwaukee Bucks vs Denver Nuggets</title>
-  </programme>
-  <programme start="20260111220000 -0600" stop="20260111235959 -0600" channel="Evento_NBA__NBA___Milwaukee_Bucks_vs_Denver_Nuggets___19_00_1">
-    <title>Finalizado | Milwaukee Bucks vs Denver Nuggets</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111190000 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Phoenix_Suns___19_00_1">
-    <title>Próximamente | 19:00 | Washington Wizards vs Phoenix Suns</title>
-  </programme>
-  <programme start="20260111190000 -0600" stop="20260111220000 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Phoenix_Suns___19_00_1">
-    <title>⌾ En vivo | 19:00 | Washington Wizards vs Phoenix Suns</title>
-  </programme>
-  <programme start="20260111220000 -0600" stop="20260111235959 -0600" channel="Evento_NBA__NBA___Washington_Wizards_vs_Phoenix_Suns___19_00_1">
-    <title>Finalizado | Washington Wizards vs Phoenix Suns</title>
   </programme>
   <programme start="20260111000000 -0600" stop="20260111193000 -0600" channel="Evento_NBA__NBA___Atlanta_Hawks_vs_Golden_State_Warriors___19_30_1">
     <title>Próximamente | 19:30 | Atlanta Hawks vs Golden State Warriors</title>
@@ -137075,15 +136976,6 @@
   <programme start="20260111160000 -0600" stop="20260111235959 -0600" channel="Evento_OP1__OP1___Barcelona_vs_Real_Madrid___13_00_1">
     <title>Finalizado | Barcelona vs Real Madrid</title>
   </programme>
-  <programme start="20260111000000 -0600" stop="20260111130000 -0600" channel="Evento_OP2__OP2___Barcelona_vs_Real_Madrid___13_00_1">
-    <title>Próximamente | 13:00 | Barcelona vs Real Madrid</title>
-  </programme>
-  <programme start="20260111130000 -0600" stop="20260111160000 -0600" channel="Evento_OP2__OP2___Barcelona_vs_Real_Madrid___13_00_1">
-    <title>⌾ En vivo | 13:00 | Barcelona vs Real Madrid</title>
-  </programme>
-  <programme start="20260111160000 -0600" stop="20260111235959 -0600" channel="Evento_OP2__OP2___Barcelona_vs_Real_Madrid___13_00_1">
-    <title>Finalizado | Barcelona vs Real Madrid</title>
-  </programme>
   <programme start="20260111000000 -0600" stop="20260111130000 -0600" channel="Evento_OP3__OP3___Barcelona_vs_Real_Madrid___13_00_1">
     <title>Próximamente | 13:00 | Barcelona vs Real Madrid</title>
   </programme>
@@ -137092,42 +136984,6 @@
   </programme>
   <programme start="20260111160000 -0600" stop="20260111235959 -0600" channel="Evento_OP3__OP3___Barcelona_vs_Real_Madrid___13_00_1">
     <title>Finalizado | Barcelona vs Real Madrid</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111130000 -0600" channel="Evento_OP4__OP4___Barcelona_vs_Real_Madrid___13_00_1">
-    <title>Próximamente | 13:00 | Barcelona vs Real Madrid</title>
-  </programme>
-  <programme start="20260111130000 -0600" stop="20260111160000 -0600" channel="Evento_OP4__OP4___Barcelona_vs_Real_Madrid___13_00_1">
-    <title>⌾ En vivo | 13:00 | Barcelona vs Real Madrid</title>
-  </programme>
-  <programme start="20260111160000 -0600" stop="20260111235959 -0600" channel="Evento_OP4__OP4___Barcelona_vs_Real_Madrid___13_00_1">
-    <title>Finalizado | Barcelona vs Real Madrid</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111190000 -0600" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Tigres_UANL___19_00_1">
-    <title>Próximamente | 19:00 | Atlético San Luis vs Tigres UANL</title>
-  </programme>
-  <programme start="20260111190000 -0600" stop="20260111220000 -0600" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Tigres_UANL___19_00_1">
-    <title>⌾ En vivo | 19:00 | Atlético San Luis vs Tigres UANL</title>
-  </programme>
-  <programme start="20260111220000 -0600" stop="20260111235959 -0600" channel="Evento_LigaMX__LigaMX___Atl_tico_San_Luis_vs_Tigres_UANL___19_00_1">
-    <title>Finalizado | Atlético San Luis vs Tigres UANL</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111180000 -0600" channel="Evento_LigaMX__LigaMX___Monterrey_vs_Necaxa___18_00_1">
-    <title>Próximamente | 18:00 | Monterrey vs Necaxa</title>
-  </programme>
-  <programme start="20260111180000 -0600" stop="20260111210000 -0600" channel="Evento_LigaMX__LigaMX___Monterrey_vs_Necaxa___18_00_1">
-    <title>⌾ En vivo | 18:00 | Monterrey vs Necaxa</title>
-  </programme>
-  <programme start="20260111210000 -0600" stop="20260111235959 -0600" channel="Evento_LigaMX__LigaMX___Monterrey_vs_Necaxa___18_00_1">
-    <title>Finalizado | Monterrey vs Necaxa</title>
-  </programme>
-  <programme start="20260111000000 -0600" stop="20260111190000 -0600" channel="Evento_LigaMX__LigaMX___Pachuca_vs_Quer_taro___19_00_1">
-    <title>Próximamente | 19:00 | Pachuca vs Querétaro</title>
-  </programme>
-  <programme start="20260111190000 -0600" stop="20260111220000 -0600" channel="Evento_LigaMX__LigaMX___Pachuca_vs_Quer_taro___19_00_1">
-    <title>⌾ En vivo | 19:00 | Pachuca vs Querétaro</title>
-  </programme>
-  <programme start="20260111220000 -0600" stop="20260111235959 -0600" channel="Evento_LigaMX__LigaMX___Pachuca_vs_Quer_taro___19_00_1">
-    <title>Finalizado | Pachuca vs Querétaro</title>
   </programme>
   <programme start="20260111000000 -0600" stop="20260111180000 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Court_8___EN_HD_____18_00_1">
     <title>Próximamente | 18:00 | Hobart Intern vs ional / Court 8</title>
