@@ -139301,9 +139301,6 @@
   <channel id="Evento_Serie_A__Serie_A___Inter_vs_Lecce___13_25_1">
     <display-name>Serie A | Inter vs Lecce | 13:25</display-name>
   </channel>
-  <channel id="Evento_Bundesliga__Bundesliga___Wolfsburg_vs_St__Pauli___11_20_1">
-    <display-name>Bundesliga | Wolfsburg vs St. Pauli | 11:20</display-name>
-  </channel>
   <channel id="Evento_Bundesliga__Bundesliga___Koln_vs_Bayern_Munich___13_10_1">
     <display-name>Bundesliga | Koln vs Bayern Munich | 13:10</display-name>
   </channel>
@@ -139711,15 +139708,6 @@
   </programme>
   <programme start="20260114222500" stop="20260115055959" channel="Evento_Serie_A__Serie_A___Inter_vs_Lecce___13_25_1">
     <title>Finalizado | Inter vs Lecce</title>
-  </programme>
-  <programme start="20260114060000" stop="20260114172000" channel="Evento_Bundesliga__Bundesliga___Wolfsburg_vs_St__Pauli___11_20_1">
-    <title>Próximamente | 11:20 | Wolfsburg vs St. Pauli</title>
-  </programme>
-  <programme start="20260114172000" stop="20260114202000" channel="Evento_Bundesliga__Bundesliga___Wolfsburg_vs_St__Pauli___11_20_1">
-    <title>⌾ En vivo | 11:20 | Wolfsburg vs St. Pauli</title>
-  </programme>
-  <programme start="20260114202000" stop="20260115055959" channel="Evento_Bundesliga__Bundesliga___Wolfsburg_vs_St__Pauli___11_20_1">
-    <title>Finalizado | Wolfsburg vs St. Pauli</title>
   </programme>
   <programme start="20260114060000" stop="20260114191000" channel="Evento_Bundesliga__Bundesliga___Koln_vs_Bayern_Munich___13_10_1">
     <title>Próximamente | 13:10 | Koln vs Bayern Munich</title>
