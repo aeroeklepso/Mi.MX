@@ -139295,9 +139295,6 @@
   <channel id="Evento_Bundesliga__Bundesliga___Stuttgart_vs_Eintracht_Frankfurt___11_30_1">
     <display-name>Bundesliga | Stuttgart vs Eintracht Frankfurt | 11:30</display-name>
   </channel>
-  <channel id="Evento_Bundesliga__Bundesliga___Mainz_05_vs_Heidenheim___13_30_1">
-    <display-name>Bundesliga | Mainz 05 vs Heidenheim | 13:30</display-name>
-  </channel>
   <channel id="Evento_Bundesliga__Bundesliga___Hamburger_SV_vs_Bayer_Leverkusen___13_30_1">
     <display-name>Bundesliga | Hamburger SV vs Bayer Leverkusen | 13:30</display-name>
   </channel>
@@ -139343,14 +139340,8 @@
   <channel id="Evento_LigaMX__LigaMX___Ju_rez_vs_Guadalajara___21_10_1">
     <display-name>LigaMX | Juárez vs Guadalajara | 21:10</display-name>
   </channel>
-  <channel id="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___ES_HD_____14_55_1">
-    <display-name>Kings World Cup Nations | | Kings World Cup N vs ions | ES-HD | | 14:55</display-name>
-  </channel>
   <channel id="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Cuartos_de_Final___ES_HD_____14_55_1">
     <display-name>Kings World Cup Nations | | Kings World Cup N vs ions | Cuartos de Final | ES-HD | | 14:55</display-name>
-  </channel>
-  <channel id="Evento_ATP__ATP___Stefanos_Tsitsipas_vs_Aleksandar_Vukic___02_00_1">
-    <display-name>ATP | Stefanos Tsitsipas vs Aleksandar Vukic | 02:00</display-name>
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Court_8___EN_HD_____18_00_1">
     <display-name>WTA | | WTA | Hobart Intern vs ional / Court 8 | EN-HD | | 18:00</display-name>
@@ -139372,12 +139363,6 @@
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional___Show_Court_1___EN_HD_____22_30_1">
     <display-name>WTA | | WTA | Adelaide Intern vs ional / Show Court 1 | EN-HD | | 22:30</display-name>
-  </channel>
-  <channel id="Evento_Australian_Open__Australian_Open___Rybakina_vs_Paolini__Exhibici_n____00_00_1">
-    <display-name>Australian Open | Rybakina vs Paolini (Exhibición) | 00:00</display-name>
-  </channel>
-  <channel id="Evento_Australian_Open__Australian_Open___Zverev_vs_Musetti__Exhibici_n____02_00_1">
-    <display-name>Australian Open | Zverev vs Musetti (Exhibición) | 02:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Masculino__NCAA_Masculino____16_Virginia_vs__20_Louisville___18_00_1">
     <display-name>NCAA Masculino | #16 Virginia vs #20 Louisville | 18:00</display-name>
@@ -139655,15 +139640,6 @@
   <programme start="20260113203000" stop="20260114055959" channel="Evento_Bundesliga__Bundesliga___Stuttgart_vs_Eintracht_Frankfurt___11_30_1">
     <title>Finalizado | Stuttgart vs Eintracht Frankfurt</title>
   </programme>
-  <programme start="20260113060000" stop="20260113193000" channel="Evento_Bundesliga__Bundesliga___Mainz_05_vs_Heidenheim___13_30_1">
-    <title>Próximamente | 13:30 | Mainz 05 vs Heidenheim</title>
-  </programme>
-  <programme start="20260113193000" stop="20260113223000" channel="Evento_Bundesliga__Bundesliga___Mainz_05_vs_Heidenheim___13_30_1">
-    <title>⌾ En vivo | 13:30 | Mainz 05 vs Heidenheim</title>
-  </programme>
-  <programme start="20260113223000" stop="20260114055959" channel="Evento_Bundesliga__Bundesliga___Mainz_05_vs_Heidenheim___13_30_1">
-    <title>Finalizado | Mainz 05 vs Heidenheim</title>
-  </programme>
   <programme start="20260113060000" stop="20260113193000" channel="Evento_Bundesliga__Bundesliga___Hamburger_SV_vs_Bayer_Leverkusen___13_30_1">
     <title>Próximamente | 13:30 | Hamburger SV vs Bayer Leverkusen</title>
   </programme>
@@ -139799,15 +139775,6 @@
   <programme start="20260114061000" stop="20260114055959" channel="Evento_LigaMX__LigaMX___Ju_rez_vs_Guadalajara___21_10_1">
     <title>Finalizado | Juárez vs Guadalajara</title>
   </programme>
-  <programme start="20260113060000" stop="20260113205500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___ES_HD_____14_55_1">
-    <title>Próximamente | 14:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260113205500" stop="20260113235500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___ES_HD_____14_55_1">
-    <title>⌾ En vivo | 14:55 | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260113235500" stop="20260114055959" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___ES_HD_____14_55_1">
-    <title>Finalizado | Kings World Cup N vs ions</title>
-  </programme>
   <programme start="20260113060000" stop="20260113205500" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Cuartos_de_Final___ES_HD_____14_55_1">
     <title>Próximamente | 14:55 | Kings World Cup N vs ions</title>
   </programme>
@@ -139816,15 +139783,6 @@
   </programme>
   <programme start="20260113235500" stop="20260114055959" channel="Evento_Kings_World_Cup_Nations__Kings_World_Cup_Nations_____Kings_World_Cup_N_vs_ions___Cuartos_de_Final___ES_HD_____14_55_1">
     <title>Finalizado | Kings World Cup N vs ions</title>
-  </programme>
-  <programme start="20260113060000" stop="20260113080000" channel="Evento_ATP__ATP___Stefanos_Tsitsipas_vs_Aleksandar_Vukic___02_00_1">
-    <title>Próximamente | 02:00 | Stefanos Tsitsipas vs Aleksandar Vukic</title>
-  </programme>
-  <programme start="20260113080000" stop="20260113110000" channel="Evento_ATP__ATP___Stefanos_Tsitsipas_vs_Aleksandar_Vukic___02_00_1">
-    <title>⌾ En vivo | 02:00 | Stefanos Tsitsipas vs Aleksandar Vukic</title>
-  </programme>
-  <programme start="20260113110000" stop="20260114055959" channel="Evento_ATP__ATP___Stefanos_Tsitsipas_vs_Aleksandar_Vukic___02_00_1">
-    <title>Finalizado | Stefanos Tsitsipas vs Aleksandar Vukic</title>
   </programme>
   <programme start="20260113060000" stop="20260114000000" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Court_8___EN_HD_____18_00_1">
     <title>Próximamente | 18:00 | Hobart Intern vs ional / Court 8</title>
@@ -139888,24 +139846,6 @@
   </programme>
   <programme start="20260114073000" stop="20260114055959" channel="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional___Show_Court_1___EN_HD_____22_30_1">
     <title>Finalizado | Adelaide Intern vs ional / Show Court 1</title>
-  </programme>
-  <programme start="20260113060000" stop="20260113060000" channel="Evento_Australian_Open__Australian_Open___Rybakina_vs_Paolini__Exhibici_n____00_00_1">
-    <title>Próximamente | 00:00 | Rybakina vs Paolini (Exhibición)</title>
-  </programme>
-  <programme start="20260113060000" stop="20260113090000" channel="Evento_Australian_Open__Australian_Open___Rybakina_vs_Paolini__Exhibici_n____00_00_1">
-    <title>⌾ En vivo | 00:00 | Rybakina vs Paolini (Exhibición)</title>
-  </programme>
-  <programme start="20260113090000" stop="20260114055959" channel="Evento_Australian_Open__Australian_Open___Rybakina_vs_Paolini__Exhibici_n____00_00_1">
-    <title>Finalizado | Rybakina vs Paolini (Exhibición)</title>
-  </programme>
-  <programme start="20260113060000" stop="20260113080000" channel="Evento_Australian_Open__Australian_Open___Zverev_vs_Musetti__Exhibici_n____02_00_1">
-    <title>Próximamente | 02:00 | Zverev vs Musetti (Exhibición)</title>
-  </programme>
-  <programme start="20260113080000" stop="20260113110000" channel="Evento_Australian_Open__Australian_Open___Zverev_vs_Musetti__Exhibici_n____02_00_1">
-    <title>⌾ En vivo | 02:00 | Zverev vs Musetti (Exhibición)</title>
-  </programme>
-  <programme start="20260113110000" stop="20260114055959" channel="Evento_Australian_Open__Australian_Open___Zverev_vs_Musetti__Exhibici_n____02_00_1">
-    <title>Finalizado | Zverev vs Musetti (Exhibición)</title>
   </programme>
   <programme start="20260113060000" stop="20260114000000" channel="Evento_NCAA_Masculino__NCAA_Masculino____16_Virginia_vs__20_Louisville___18_00_1">
     <title>Próximamente | 18:00 | #16 Virginia vs #20 Louisville</title>
