@@ -140306,9 +140306,6 @@
   <channel id="Evento_NHL__NHL___Golden_Knights_vs_Maple_Leafs___20_30_1">
     <display-name>NHL | Golden Knights vs Maple Leafs | 20:30</display-name>
   </channel>
-  <channel id="Evento_NBA__NBA___Magic_vs_Grizzlies__NBA_Berlin_Game____13_00_1">
-    <display-name>NBA | Magic vs Grizzlies (NBA Berlin Game) | 13:00</display-name>
-  </channel>
   <channel id="Evento_NBA__NBA___Pistons_vs_Suns___18_00_1">
     <display-name>NBA | Pistons vs Suns | 18:00</display-name>
   </channel>
@@ -140360,23 +140357,11 @@
   <channel id="Evento_Copa_del_Rey__Copa_del_Rey___Burgos_vs_Valencia___14_00_1">
     <display-name>Copa del Rey | Burgos vs Valencia | 14:00</display-name>
   </channel>
-  <channel id="Evento_Copa_KNVB__Copa_KNVB___Heerenveen_vs_RKC_Waalwijk___11_45_1">
-    <display-name>Copa KNVB | Heerenveen vs RKC Waalwijk | 11:45</display-name>
-  </channel>
   <channel id="Evento_Copa_KNVB__Copa_KNVB___Sparta_Rotterdam_vs_Volendam___14_00_1">
     <display-name>Copa KNVB | Sparta Rotterdam vs Volendam | 14:00</display-name>
   </channel>
   <channel id="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
     <display-name>Bundesliga | Augsburg vs Union Berlin | 13:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Verona_vs_Bologna___11_30_1">
-    <display-name>Serie A | Verona vs Bologna | 11:30</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_1">
-    <display-name>Serie A | Como vs Milan | 13:45</display-name>
-  </channel>
-  <channel id="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_2">
-    <display-name>Serie A | Como vs Milan | 13:45</display-name>
   </channel>
   <channel id="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_1">
     <display-name>Serie Río de la Plata | Progreso vs Atlético Tucumán | 15:00</display-name>
@@ -140422,24 +140407,6 @@
   </channel>
   <channel id="Evento_Kings_World_Cup__Kings_World_Cup___M_xico_vs_Brasil___15_55_1">
     <display-name>Kings World Cup | México vs Brasil | 15:55</display-name>
-  </channel>
-  <channel id="Evento_Australian_Open__Australian_Open___Djokovic_vs_Tiafoe__Exhibici_n____00_00_1">
-    <display-name>Australian Open | Djokovic vs Tiafoe (Exhibición) | 00:00</display-name>
-  </channel>
-  <channel id="Evento_Australian_Open__Australian_Open___Alcaraz_vs_De_Minaur__Exhibici_n____02_00_1">
-    <display-name>Australian Open | Alcaraz vs De Minaur (Exhibición) | 02:00</display-name>
-  </channel>
-  <channel id="Evento_ATP__ATP___Mpetshi_Perricard_vs_Mensik__Cuartos_de_Final____23_00_1">
-    <display-name>ATP | Mpetshi Perricard vs Mensik (Cuartos de Final) | 23:00</display-name>
-  </channel>
-  <channel id="Evento_ATP__ATP___Humbert_vs_Shevchenko__Cuartos_de_Final____00_30_1">
-    <display-name>ATP | Humbert vs Shevchenko (Cuartos de Final) | 00:30</display-name>
-  </channel>
-  <channel id="Evento_ATP__ATP___Davidovich_Fokina_vs_Vacherot__Cuartos_de_Final____03_30_1">
-    <display-name>ATP | Davidovich Fokina vs Vacherot (Cuartos de Final) | 03:30</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Centre_Court___Dobles_Semifinal____EN_HD_____02_30_1">
-    <display-name>WTA | | WTA | Hobart Intern vs ional / Centre Court  (Dobles Semifinal) | EN-HD | | 02:30</display-name>
   </channel>
   <channel id="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional__Semifinal____EN_HD_____18_30_1">
     <display-name>WTA | | WTA | Adelaide Intern vs ional (Semifinal) | EN-HD | | 18:30</display-name>
@@ -140584,15 +140551,6 @@
   </programme>
   <programme start="20260115233000 -0600" stop="20260115235959 -0600" channel="Evento_NHL__NHL___Golden_Knights_vs_Maple_Leafs___20_30_1">
     <title>Finalizado | Golden Knights vs Maple Leafs</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115130000 -0600" channel="Evento_NBA__NBA___Magic_vs_Grizzlies__NBA_Berlin_Game____13_00_1">
-    <title>Próximamente | 13:00 | Magic vs Grizzlies (NBA Berlin Game)</title>
-  </programme>
-  <programme start="20260115130000 -0600" stop="20260115160000 -0600" channel="Evento_NBA__NBA___Magic_vs_Grizzlies__NBA_Berlin_Game____13_00_1">
-    <title>⌾ En vivo | 13:00 | Magic vs Grizzlies (NBA Berlin Game)</title>
-  </programme>
-  <programme start="20260115160000 -0600" stop="20260115235959 -0600" channel="Evento_NBA__NBA___Magic_vs_Grizzlies__NBA_Berlin_Game____13_00_1">
-    <title>Finalizado | Magic vs Grizzlies (NBA Berlin Game)</title>
   </programme>
   <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NBA__NBA___Pistons_vs_Suns___18_00_1">
     <title>Próximamente | 18:00 | Pistons vs Suns</title>
@@ -140747,15 +140705,6 @@
   <programme start="20260115170000 -0600" stop="20260115235959 -0600" channel="Evento_Copa_del_Rey__Copa_del_Rey___Burgos_vs_Valencia___14_00_1">
     <title>Finalizado | Burgos vs Valencia</title>
   </programme>
-  <programme start="20260115000000 -0600" stop="20260115114500 -0600" channel="Evento_Copa_KNVB__Copa_KNVB___Heerenveen_vs_RKC_Waalwijk___11_45_1">
-    <title>Próximamente | 11:45 | Heerenveen vs RKC Waalwijk</title>
-  </programme>
-  <programme start="20260115114500 -0600" stop="20260115144500 -0600" channel="Evento_Copa_KNVB__Copa_KNVB___Heerenveen_vs_RKC_Waalwijk___11_45_1">
-    <title>⌾ En vivo | 11:45 | Heerenveen vs RKC Waalwijk</title>
-  </programme>
-  <programme start="20260115144500 -0600" stop="20260115235959 -0600" channel="Evento_Copa_KNVB__Copa_KNVB___Heerenveen_vs_RKC_Waalwijk___11_45_1">
-    <title>Finalizado | Heerenveen vs RKC Waalwijk</title>
-  </programme>
   <programme start="20260115000000 -0600" stop="20260115140000 -0600" channel="Evento_Copa_KNVB__Copa_KNVB___Sparta_Rotterdam_vs_Volendam___14_00_1">
     <title>Próximamente | 14:00 | Sparta Rotterdam vs Volendam</title>
   </programme>
@@ -140773,33 +140722,6 @@
   </programme>
   <programme start="20260115163000 -0600" stop="20260115235959 -0600" channel="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
     <title>Finalizado | Augsburg vs Union Berlin</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115113000 -0600" channel="Evento_Serie_A__Serie_A___Verona_vs_Bologna___11_30_1">
-    <title>Próximamente | 11:30 | Verona vs Bologna</title>
-  </programme>
-  <programme start="20260115113000 -0600" stop="20260115143000 -0600" channel="Evento_Serie_A__Serie_A___Verona_vs_Bologna___11_30_1">
-    <title>⌾ En vivo | 11:30 | Verona vs Bologna</title>
-  </programme>
-  <programme start="20260115143000 -0600" stop="20260115235959 -0600" channel="Evento_Serie_A__Serie_A___Verona_vs_Bologna___11_30_1">
-    <title>Finalizado | Verona vs Bologna</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115134500 -0600" channel="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_1">
-    <title>Próximamente | 13:45 | Como vs Milan</title>
-  </programme>
-  <programme start="20260115134500 -0600" stop="20260115164500 -0600" channel="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_1">
-    <title>⌾ En vivo | 13:45 | Como vs Milan</title>
-  </programme>
-  <programme start="20260115164500 -0600" stop="20260115235959 -0600" channel="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_1">
-    <title>Finalizado | Como vs Milan</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115134500 -0600" channel="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_2">
-    <title>Próximamente | 13:45 | Como vs Milan</title>
-  </programme>
-  <programme start="20260115134500 -0600" stop="20260115164500 -0600" channel="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_2">
-    <title>⌾ En vivo | 13:45 | Como vs Milan</title>
-  </programme>
-  <programme start="20260115164500 -0600" stop="20260115235959 -0600" channel="Evento_Serie_A__Serie_A___Como_vs_Milan___13_45_2">
-    <title>Finalizado | Como vs Milan</title>
   </programme>
   <programme start="20260115000000 -0600" stop="20260115150000 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_1">
     <title>Próximamente | 15:00 | Progreso vs Atlético Tucumán</title>
@@ -140935,60 +140857,6 @@
   </programme>
   <programme start="20260115185500 -0600" stop="20260115235959 -0600" channel="Evento_Kings_World_Cup__Kings_World_Cup___M_xico_vs_Brasil___15_55_1">
     <title>Finalizado | México vs Brasil</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115000000 -0600" channel="Evento_Australian_Open__Australian_Open___Djokovic_vs_Tiafoe__Exhibici_n____00_00_1">
-    <title>Próximamente | 00:00 | Djokovic vs Tiafoe (Exhibición)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115030000 -0600" channel="Evento_Australian_Open__Australian_Open___Djokovic_vs_Tiafoe__Exhibici_n____00_00_1">
-    <title>⌾ En vivo | 00:00 | Djokovic vs Tiafoe (Exhibición)</title>
-  </programme>
-  <programme start="20260115030000 -0600" stop="20260115235959 -0600" channel="Evento_Australian_Open__Australian_Open___Djokovic_vs_Tiafoe__Exhibici_n____00_00_1">
-    <title>Finalizado | Djokovic vs Tiafoe (Exhibición)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115020000 -0600" channel="Evento_Australian_Open__Australian_Open___Alcaraz_vs_De_Minaur__Exhibici_n____02_00_1">
-    <title>Próximamente | 02:00 | Alcaraz vs De Minaur (Exhibición)</title>
-  </programme>
-  <programme start="20260115020000 -0600" stop="20260115050000 -0600" channel="Evento_Australian_Open__Australian_Open___Alcaraz_vs_De_Minaur__Exhibici_n____02_00_1">
-    <title>⌾ En vivo | 02:00 | Alcaraz vs De Minaur (Exhibición)</title>
-  </programme>
-  <programme start="20260115050000 -0600" stop="20260115235959 -0600" channel="Evento_Australian_Open__Australian_Open___Alcaraz_vs_De_Minaur__Exhibici_n____02_00_1">
-    <title>Finalizado | Alcaraz vs De Minaur (Exhibición)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115230000 -0600" channel="Evento_ATP__ATP___Mpetshi_Perricard_vs_Mensik__Cuartos_de_Final____23_00_1">
-    <title>Próximamente | 23:00 | Mpetshi Perricard vs Mensik (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115230000 -0600" stop="20260116020000 -0600" channel="Evento_ATP__ATP___Mpetshi_Perricard_vs_Mensik__Cuartos_de_Final____23_00_1">
-    <title>⌾ En vivo | 23:00 | Mpetshi Perricard vs Mensik (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260116020000 -0600" stop="20260115235959 -0600" channel="Evento_ATP__ATP___Mpetshi_Perricard_vs_Mensik__Cuartos_de_Final____23_00_1">
-    <title>Finalizado | Mpetshi Perricard vs Mensik (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115003000 -0600" channel="Evento_ATP__ATP___Humbert_vs_Shevchenko__Cuartos_de_Final____00_30_1">
-    <title>Próximamente | 00:30 | Humbert vs Shevchenko (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115003000 -0600" stop="20260115033000 -0600" channel="Evento_ATP__ATP___Humbert_vs_Shevchenko__Cuartos_de_Final____00_30_1">
-    <title>⌾ En vivo | 00:30 | Humbert vs Shevchenko (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115033000 -0600" stop="20260115235959 -0600" channel="Evento_ATP__ATP___Humbert_vs_Shevchenko__Cuartos_de_Final____00_30_1">
-    <title>Finalizado | Humbert vs Shevchenko (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115033000 -0600" channel="Evento_ATP__ATP___Davidovich_Fokina_vs_Vacherot__Cuartos_de_Final____03_30_1">
-    <title>Próximamente | 03:30 | Davidovich Fokina vs Vacherot (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115033000 -0600" stop="20260115063000 -0600" channel="Evento_ATP__ATP___Davidovich_Fokina_vs_Vacherot__Cuartos_de_Final____03_30_1">
-    <title>⌾ En vivo | 03:30 | Davidovich Fokina vs Vacherot (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115063000 -0600" stop="20260115235959 -0600" channel="Evento_ATP__ATP___Davidovich_Fokina_vs_Vacherot__Cuartos_de_Final____03_30_1">
-    <title>Finalizado | Davidovich Fokina vs Vacherot (Cuartos de Final)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115023000 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Centre_Court___Dobles_Semifinal____EN_HD_____02_30_1">
-    <title>Próximamente | 02:30 | Hobart Intern vs ional / Centre Court  (Dobles Semifinal)</title>
-  </programme>
-  <programme start="20260115023000 -0600" stop="20260115053000 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Centre_Court___Dobles_Semifinal____EN_HD_____02_30_1">
-    <title>⌾ En vivo | 02:30 | Hobart Intern vs ional / Centre Court  (Dobles Semifinal)</title>
-  </programme>
-  <programme start="20260115053000 -0600" stop="20260115235959 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Centre_Court___Dobles_Semifinal____EN_HD_____02_30_1">
-    <title>Finalizado | Hobart Intern vs ional / Centre Court  (Dobles Semifinal)</title>
   </programme>
   <programme start="20260115000000 -0600" stop="20260115183000 -0600" channel="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional__Semifinal____EN_HD_____18_30_1">
     <title>Próximamente | 18:30 | Adelaide Intern vs ional (Semifinal)</title>
