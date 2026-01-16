@@ -140327,6 +140327,9 @@
   <channel id="Evento_BOX__BOX___Jordan_Panthen_vs_Ra_l_Curiel___19_00_1">
     <display-name>BOX | Jordan Panthen vs Raúl Curiel | 19:00</display-name>
   </channel>
+  <channel id="Evento_LALIGA__LALIGA___Espanyol_vs_Girona___14_00_1">
+    <display-name>LALIGA | Espanyol vs Girona | 14:00</display-name>
+  </channel>
   <channel id="Evento_Bundesliga__Bundesliga___Werder_Bremen_vs_Eintracht_Frankfurt___13_20_1">
     <display-name>Bundesliga | Werder Bremen vs Eintracht Frankfurt | 13:20</display-name>
   </channel>
@@ -140644,6 +140647,15 @@
   </programme>
   <programme start="20260117040000" stop="20260117055959" channel="Evento_BOX__BOX___Jordan_Panthen_vs_Ra_l_Curiel___19_00_1">
     <title>Finalizado | Jordan Panthen vs Raúl Curiel</title>
+  </programme>
+  <programme start="20260116060000" stop="20260116200000" channel="Evento_LALIGA__LALIGA___Espanyol_vs_Girona___14_00_1">
+    <title>Próximamente | 14:00 | Espanyol vs Girona</title>
+  </programme>
+  <programme start="20260116200000" stop="20260116230000" channel="Evento_LALIGA__LALIGA___Espanyol_vs_Girona___14_00_1">
+    <title>⌾ En vivo | 14:00 | Espanyol vs Girona</title>
+  </programme>
+  <programme start="20260116230000" stop="20260117055959" channel="Evento_LALIGA__LALIGA___Espanyol_vs_Girona___14_00_1">
+    <title>Finalizado | Espanyol vs Girona</title>
   </programme>
   <programme start="20260116060000" stop="20260116192000" channel="Evento_Bundesliga__Bundesliga___Werder_Bremen_vs_Eintracht_Frankfurt___13_20_1">
     <title>Próximamente | 13:20 | Werder Bremen vs Eintracht Frankfurt</title>
