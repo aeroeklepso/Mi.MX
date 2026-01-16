@@ -140276,14 +140276,8 @@
   <channel id="Evento_LMP__LMP___Charros_de_Jalisco_vs_Aguilas_De_Mexicali___21_30_1">
     <display-name>LMP | Charros de Jalisco vs Aguilas De Mexicali | 21:30</display-name>
   </channel>
-  <channel id="Evento_NHL__NHL___Montreal_Canadiens_vs_Buffalo_Sabres___18_00_1">
-    <display-name>NHL | Montreal Canadiens vs Buffalo Sabres | 18:00</display-name>
-  </channel>
   <channel id="Evento_NHL__NHL___Philadelphia_Flyers_vs_Pittsburgh_Penguins___18_00_1">
     <display-name>NHL | Philadelphia Flyers vs Pittsburgh Penguins | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NHL__NHL___San_Jose_Sharks_vs_Washington_Capitals___18_00_1">
-    <display-name>NHL | San Jose Sharks vs Washington Capitals | 18:00</display-name>
   </channel>
   <channel id="Evento_NHL__NHL___Vancouver_Canucks_vs_Columbus_Blue_Jackets___18_00_1">
     <display-name>NHL | Vancouver Canucks vs Columbus Blue Jackets | 18:00</display-name>
@@ -140330,12 +140324,6 @@
   <channel id="Evento_NBA__NBA___Lakers_vs_Hornets___21_30_1">
     <display-name>NBA | Lakers vs Hornets | 21:30</display-name>
   </channel>
-  <channel id="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Noblesville_Boom___18_00_1">
-    <display-name>NBA G League | Grand Rapids Gold vs Noblesville Boom | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NBA_G_League__NBA_G_League___Greensboro_Swarm_vs_Westchester_Knicks___18_00_1">
-    <display-name>NBA G League | Greensboro Swarm vs Westchester Knicks | 18:00</display-name>
-  </channel>
   <channel id="Evento_NBA_G_League__NBA_G_League___Austin_Spurs_vs_Salt_Lake_City_Stars___19_00_1">
     <display-name>NBA G League | Austin Spurs vs Salt Lake City Stars | 19:00</display-name>
   </channel>
@@ -140360,9 +140348,6 @@
   <channel id="Evento_Copa_KNVB__Copa_KNVB___Sparta_Rotterdam_vs_Volendam___14_00_1">
     <display-name>Copa KNVB | Sparta Rotterdam vs Volendam | 14:00</display-name>
   </channel>
-  <channel id="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
-    <display-name>Bundesliga | Augsburg vs Union Berlin | 13:30</display-name>
-  </channel>
   <channel id="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Olimpia_vs_Colo_Colo___17_45_1">
     <display-name>Serie Río de la Plata | Olimpia vs Colo-Colo | 17:45</display-name>
   </channel>
@@ -140383,9 +140368,6 @@
   </channel>
   <channel id="Evento_Campeonato_Carioca__Campeonato_Carioca___Portuguesa_RJ_vs_Botafogo___16_00_1">
     <display-name>Campeonato Carioca | Portuguesa RJ vs Botafogo | 16:00</display-name>
-  </channel>
-  <channel id="Evento_Campeonato_Gaucho__Campeonato_Gaucho___Monsoon_vs_Internacional___16_00_1">
-    <display-name>Campeonato Gaucho | Monsoon vs Internacional | 16:00</display-name>
   </channel>
   <channel id="Evento_Campeonato_Carioca__Campeonato_Carioca___Vasco_da_Gama_vs_Maric____18_30_1">
     <display-name>Campeonato Carioca | Vasco da Gama vs Maricá | 18:30</display-name>
@@ -140444,15 +140426,6 @@
   <programme start="20260116003000 -0600" stop="20260115235959 -0600" channel="Evento_LMP__LMP___Charros_de_Jalisco_vs_Aguilas_De_Mexicali___21_30_1">
     <title>Finalizado | Charros de Jalisco vs Aguilas De Mexicali</title>
   </programme>
-  <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Buffalo_Sabres___18_00_1">
-    <title>Próximamente | 18:00 | Montreal Canadiens vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115210000 -0600" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Buffalo_Sabres___18_00_1">
-    <title>⌾ En vivo | 18:00 | Montreal Canadiens vs Buffalo Sabres</title>
-  </programme>
-  <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NHL__NHL___Montreal_Canadiens_vs_Buffalo_Sabres___18_00_1">
-    <title>Finalizado | Montreal Canadiens vs Buffalo Sabres</title>
-  </programme>
   <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NHL__NHL___Philadelphia_Flyers_vs_Pittsburgh_Penguins___18_00_1">
     <title>Próximamente | 18:00 | Philadelphia Flyers vs Pittsburgh Penguins</title>
   </programme>
@@ -140461,15 +140434,6 @@
   </programme>
   <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NHL__NHL___Philadelphia_Flyers_vs_Pittsburgh_Penguins___18_00_1">
     <title>Finalizado | Philadelphia Flyers vs Pittsburgh Penguins</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Washington_Capitals___18_00_1">
-    <title>Próximamente | 18:00 | San Jose Sharks vs Washington Capitals</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115210000 -0600" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Washington_Capitals___18_00_1">
-    <title>⌾ En vivo | 18:00 | San Jose Sharks vs Washington Capitals</title>
-  </programme>
-  <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NHL__NHL___San_Jose_Sharks_vs_Washington_Capitals___18_00_1">
-    <title>Finalizado | San Jose Sharks vs Washington Capitals</title>
   </programme>
   <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NHL__NHL___Vancouver_Canucks_vs_Columbus_Blue_Jackets___18_00_1">
     <title>Próximamente | 18:00 | Vancouver Canucks vs Columbus Blue Jackets</title>
@@ -140606,24 +140570,6 @@
   <programme start="20260116003000 -0600" stop="20260115235959 -0600" channel="Evento_NBA__NBA___Lakers_vs_Hornets___21_30_1">
     <title>Finalizado | Lakers vs Hornets</title>
   </programme>
-  <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Noblesville_Boom___18_00_1">
-    <title>Próximamente | 18:00 | Grand Rapids Gold vs Noblesville Boom</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115210000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Noblesville_Boom___18_00_1">
-    <title>⌾ En vivo | 18:00 | Grand Rapids Gold vs Noblesville Boom</title>
-  </programme>
-  <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NBA_G_League__NBA_G_League___Grand_Rapids_Gold_vs_Noblesville_Boom___18_00_1">
-    <title>Finalizado | Grand Rapids Gold vs Noblesville Boom</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Greensboro_Swarm_vs_Westchester_Knicks___18_00_1">
-    <title>Próximamente | 18:00 | Greensboro Swarm vs Westchester Knicks</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115210000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Greensboro_Swarm_vs_Westchester_Knicks___18_00_1">
-    <title>⌾ En vivo | 18:00 | Greensboro Swarm vs Westchester Knicks</title>
-  </programme>
-  <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NBA_G_League__NBA_G_League___Greensboro_Swarm_vs_Westchester_Knicks___18_00_1">
-    <title>Finalizado | Greensboro Swarm vs Westchester Knicks</title>
-  </programme>
   <programme start="20260115000000 -0600" stop="20260115190000 -0600" channel="Evento_NBA_G_League__NBA_G_League___Austin_Spurs_vs_Salt_Lake_City_Stars___19_00_1">
     <title>Próximamente | 19:00 | Austin Spurs vs Salt Lake City Stars</title>
   </programme>
@@ -140696,15 +140642,6 @@
   <programme start="20260115170000 -0600" stop="20260115235959 -0600" channel="Evento_Copa_KNVB__Copa_KNVB___Sparta_Rotterdam_vs_Volendam___14_00_1">
     <title>Finalizado | Sparta Rotterdam vs Volendam</title>
   </programme>
-  <programme start="20260115000000 -0600" stop="20260115133000 -0600" channel="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
-    <title>Próximamente | 13:30 | Augsburg vs Union Berlin</title>
-  </programme>
-  <programme start="20260115133000 -0600" stop="20260115163000 -0600" channel="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
-    <title>⌾ En vivo | 13:30 | Augsburg vs Union Berlin</title>
-  </programme>
-  <programme start="20260115163000 -0600" stop="20260115235959 -0600" channel="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
-    <title>Finalizado | Augsburg vs Union Berlin</title>
-  </programme>
   <programme start="20260115000000 -0600" stop="20260115174500 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Olimpia_vs_Colo_Colo___17_45_1">
     <title>Próximamente | 17:45 | Olimpia vs Colo-Colo</title>
   </programme>
@@ -140767,15 +140704,6 @@
   </programme>
   <programme start="20260115190000 -0600" stop="20260115235959 -0600" channel="Evento_Campeonato_Carioca__Campeonato_Carioca___Portuguesa_RJ_vs_Botafogo___16_00_1">
     <title>Finalizado | Portuguesa RJ vs Botafogo</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115160000 -0600" channel="Evento_Campeonato_Gaucho__Campeonato_Gaucho___Monsoon_vs_Internacional___16_00_1">
-    <title>Próximamente | 16:00 | Monsoon vs Internacional</title>
-  </programme>
-  <programme start="20260115160000 -0600" stop="20260115190000 -0600" channel="Evento_Campeonato_Gaucho__Campeonato_Gaucho___Monsoon_vs_Internacional___16_00_1">
-    <title>⌾ En vivo | 16:00 | Monsoon vs Internacional</title>
-  </programme>
-  <programme start="20260115190000 -0600" stop="20260115235959 -0600" channel="Evento_Campeonato_Gaucho__Campeonato_Gaucho___Monsoon_vs_Internacional___16_00_1">
-    <title>Finalizado | Monsoon vs Internacional</title>
   </programme>
   <programme start="20260115000000 -0600" stop="20260115183000 -0600" channel="Evento_Campeonato_Carioca__Campeonato_Carioca___Vasco_da_Gama_vs_Maric____18_30_1">
     <title>Próximamente | 18:30 | Vasco da Gama vs Maricá</title>
