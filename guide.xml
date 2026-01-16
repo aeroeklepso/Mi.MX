@@ -140363,12 +140363,6 @@
   <channel id="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
     <display-name>Bundesliga | Augsburg vs Union Berlin | 13:30</display-name>
   </channel>
-  <channel id="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_1">
-    <display-name>Serie Río de la Plata | Progreso vs Atlético Tucumán | 15:00</display-name>
-  </channel>
-  <channel id="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_2">
-    <display-name>Serie Río de la Plata | Progreso vs Atlético Tucumán | 15:00</display-name>
-  </channel>
   <channel id="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Olimpia_vs_Colo_Colo___17_45_1">
     <display-name>Serie Río de la Plata | Olimpia vs Colo-Colo | 17:45</display-name>
   </channel>
@@ -140405,20 +140399,8 @@
   <channel id="Evento_Kings_World_Cup__Kings_World_Cup___Chile_vs_Espa_a___14_55_1">
     <display-name>Kings World Cup | Chile vs España | 14:55</display-name>
   </channel>
-  <channel id="Evento_Kings_World_Cup__Kings_World_Cup___M_xico_vs_Brasil___15_55_1">
-    <display-name>Kings World Cup | México vs Brasil | 15:55</display-name>
-  </channel>
-  <channel id="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional__Semifinal____EN_HD_____18_30_1">
-    <display-name>WTA | | WTA | Adelaide Intern vs ional (Semifinal) | EN-HD | | 18:30</display-name>
-  </channel>
   <channel id="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional__Semifinal____EN_HD_____22_00_1">
     <display-name>WTA | | WTA | Hobart Intern vs ional (Semifinal) | EN-HD | | 22:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Texas_vs_South_Carolina___18_00_1">
-    <display-name>NCAA Femenino | Texas vs South Carolina | 18:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Masculino__NCAA_Masculino___Oakland_vs_Milwaukee___18_00_1">
-    <display-name>NCAA Masculino | Oakland vs Milwaukee | 18:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Femenino__NCAA_Femenino___Oregon_St_vs_e_vs__Loyola_Marymount___20_00_1">
     <display-name>NCAA Femenino | Oregon St vs e vs. Loyola Marymount | 20:00</display-name>
@@ -140723,24 +140705,6 @@
   <programme start="20260115163000 -0600" stop="20260115235959 -0600" channel="Evento_Bundesliga__Bundesliga___Augsburg_vs_Union_Berlin___13_30_1">
     <title>Finalizado | Augsburg vs Union Berlin</title>
   </programme>
-  <programme start="20260115000000 -0600" stop="20260115150000 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_1">
-    <title>Próximamente | 15:00 | Progreso vs Atlético Tucumán</title>
-  </programme>
-  <programme start="20260115150000 -0600" stop="20260115180000 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_1">
-    <title>⌾ En vivo | 15:00 | Progreso vs Atlético Tucumán</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115235959 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_1">
-    <title>Finalizado | Progreso vs Atlético Tucumán</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115150000 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_2">
-    <title>Próximamente | 15:00 | Progreso vs Atlético Tucumán</title>
-  </programme>
-  <programme start="20260115150000 -0600" stop="20260115180000 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_2">
-    <title>⌾ En vivo | 15:00 | Progreso vs Atlético Tucumán</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115235959 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Progreso_vs_Atl_tico_Tucum_n___15_00_2">
-    <title>Finalizado | Progreso vs Atlético Tucumán</title>
-  </programme>
   <programme start="20260115000000 -0600" stop="20260115174500 -0600" channel="Evento_Serie_R_o_de_la_Plata__Serie_R_o_de_la_Plata___Olimpia_vs_Colo_Colo___17_45_1">
     <title>Próximamente | 17:45 | Olimpia vs Colo-Colo</title>
   </programme>
@@ -140849,24 +140813,6 @@
   <programme start="20260115175500 -0600" stop="20260115235959 -0600" channel="Evento_Kings_World_Cup__Kings_World_Cup___Chile_vs_Espa_a___14_55_1">
     <title>Finalizado | Chile vs España</title>
   </programme>
-  <programme start="20260115000000 -0600" stop="20260115155500 -0600" channel="Evento_Kings_World_Cup__Kings_World_Cup___M_xico_vs_Brasil___15_55_1">
-    <title>Próximamente | 15:55 | México vs Brasil</title>
-  </programme>
-  <programme start="20260115155500 -0600" stop="20260115185500 -0600" channel="Evento_Kings_World_Cup__Kings_World_Cup___M_xico_vs_Brasil___15_55_1">
-    <title>⌾ En vivo | 15:55 | México vs Brasil</title>
-  </programme>
-  <programme start="20260115185500 -0600" stop="20260115235959 -0600" channel="Evento_Kings_World_Cup__Kings_World_Cup___M_xico_vs_Brasil___15_55_1">
-    <title>Finalizado | México vs Brasil</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115183000 -0600" channel="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional__Semifinal____EN_HD_____18_30_1">
-    <title>Próximamente | 18:30 | Adelaide Intern vs ional (Semifinal)</title>
-  </programme>
-  <programme start="20260115183000 -0600" stop="20260115213000 -0600" channel="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional__Semifinal____EN_HD_____18_30_1">
-    <title>⌾ En vivo | 18:30 | Adelaide Intern vs ional (Semifinal)</title>
-  </programme>
-  <programme start="20260115213000 -0600" stop="20260115235959 -0600" channel="Evento_WTA__WTA_____WTA___Adelaide_Intern_vs_ional__Semifinal____EN_HD_____18_30_1">
-    <title>Finalizado | Adelaide Intern vs ional (Semifinal)</title>
-  </programme>
   <programme start="20260115000000 -0600" stop="20260115220000 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional__Semifinal____EN_HD_____22_00_1">
     <title>Próximamente | 22:00 | Hobart Intern vs ional (Semifinal)</title>
   </programme>
@@ -140875,24 +140821,6 @@
   </programme>
   <programme start="20260116010000 -0600" stop="20260115235959 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional__Semifinal____EN_HD_____22_00_1">
     <title>Finalizado | Hobart Intern vs ional (Semifinal)</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Texas_vs_South_Carolina___18_00_1">
-    <title>Próximamente | 18:00 | Texas vs South Carolina</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115210000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Texas_vs_South_Carolina___18_00_1">
-    <title>⌾ En vivo | 18:00 | Texas vs South Carolina</title>
-  </programme>
-  <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Texas_vs_South_Carolina___18_00_1">
-    <title>Finalizado | Texas vs South Carolina</title>
-  </programme>
-  <programme start="20260115000000 -0600" stop="20260115180000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Oakland_vs_Milwaukee___18_00_1">
-    <title>Próximamente | 18:00 | Oakland vs Milwaukee</title>
-  </programme>
-  <programme start="20260115180000 -0600" stop="20260115210000 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Oakland_vs_Milwaukee___18_00_1">
-    <title>⌾ En vivo | 18:00 | Oakland vs Milwaukee</title>
-  </programme>
-  <programme start="20260115210000 -0600" stop="20260115235959 -0600" channel="Evento_NCAA_Masculino__NCAA_Masculino___Oakland_vs_Milwaukee___18_00_1">
-    <title>Finalizado | Oakland vs Milwaukee</title>
   </programme>
   <programme start="20260115000000 -0600" stop="20260115200000 -0600" channel="Evento_NCAA_Femenino__NCAA_Femenino___Oregon_St_vs_e_vs__Loyola_Marymount___20_00_1">
     <title>Próximamente | 20:00 | Oregon St vs e vs. Loyola Marymount</title>
