@@ -137609,12 +137609,6 @@
   <channel id="Evento_NHL__NHL___Ducks_vs_Kings___21_30_1">
     <display-name>NHL | Ducks vs Kings | 21:30</display-name>
   </channel>
-  <channel id="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____12_Colg_vs_e_vs___13_Yale___17_00_1">
-    <display-name>NCAA Women's Hockey | #12 Colg vs e vs. #13 Yale | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Union_vs_St__Lawrence___17_00_1">
-    <display-name>NCAA Women's Hockey | Union vs St. Lawrence | 17:00</display-name>
-  </channel>
   <channel id="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey____14_Providence_vs__12_Boston_College___18_00_1">
     <display-name>NCAA Ice Hockey | #14 Providence vs #12 Boston College | 18:00</display-name>
   </channel>
@@ -137638,9 +137632,6 @@
   </channel>
   <channel id="Evento_Primera_A__Primera_A___Fortaleza_CEIF_vs_Alianza___19_30_1">
     <display-name>Primera A | Fortaleza CEIF vs Alianza | 19:30</display-name>
-  </channel>
-  <channel id="Evento_Expansi_n_MX__Expansi_n_MX___Tap_vs__o_vs__Venados___16_50_1">
-    <display-name>Expansión MX | Tap vs ío vs. Venados | 16:50</display-name>
   </channel>
   <channel id="Evento_Expansi_n_MX__Expansi_n_MX___Correcaminos_vs_Atl_tico_La_Paz___18_50_1">
     <display-name>Expansión MX | Correcaminos vs Atlético La Paz | 18:50</display-name>
@@ -137681,9 +137672,6 @@
   <channel id="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Dobles_Final___EN_HD_____22_00_1">
     <display-name>WTA | | WTA | Hobart Intern vs ional – Dobles Final | EN-HD | | 22:00</display-name>
   </channel>
-  <channel id="Evento_NLL__NLL___Colorado_Mammoth_vs_Halifax_Thunderbirds___17_30_1">
-    <display-name>NLL | Colorado Mammoth vs Halifax Thunderbirds | 17:30</display-name>
-  </channel>
   <channel id="Evento_NLL__NLL___Ottawa_Black_Bears_vs_Buffalo_Bandits___18_30_1">
     <display-name>NLL | Ottawa Black Bears vs Buffalo Bandits | 18:30</display-name>
   </channel>
@@ -137692,15 +137680,6 @@
   </channel>
   <channel id="Evento_NLL__NLL___San_Diego_Seals_vs_Vancouver_Warriors___21_00_1">
     <display-name>NLL | San Diego Seals vs Vancouver Warriors | 21:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Bowling_Green_vs_Ohio___16_00_1">
-    <display-name>NCAA Natación | Bowling Green vs Ohio | 16:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Duquesne_vs_Marshall___17_00_1">
-    <display-name>NCAA Natación | Duquesne vs Marshall | 17:00</display-name>
-  </channel>
-  <channel id="Evento_NCAA_Gimnasia_Femenina__NCAA_Gimnasia_Femenina___Alabama_vs_Florida___18_00_1">
-    <display-name>NCAA Gimnasia Femenina | Alabama vs Florida | 18:00</display-name>
   </channel>
   <channel id="Evento_NCAA_Gimnasia_Femenina__NCAA_Gimnasia_Femenina___Arizona_St_vs_e_vs__Kentucky___18_00_1">
     <display-name>NCAA Gimnasia Femenina | Arizona St vs e vs. Kentucky | 18:00</display-name>
@@ -137837,24 +137816,6 @@
   <programme start="20260117003000 -0600" stop="20260116235959 -0600" channel="Evento_NHL__NHL___Ducks_vs_Kings___21_30_1">
     <title>Finalizado | Ducks vs Kings</title>
   </programme>
-  <programme start="20260116000000 -0600" stop="20260116170000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____12_Colg_vs_e_vs___13_Yale___17_00_1">
-    <title>Próximamente | 17:00 | #12 Colg vs e vs. #13 Yale</title>
-  </programme>
-  <programme start="20260116170000 -0600" stop="20260116200000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____12_Colg_vs_e_vs___13_Yale___17_00_1">
-    <title>⌾ En vivo | 17:00 | #12 Colg vs e vs. #13 Yale</title>
-  </programme>
-  <programme start="20260116200000 -0600" stop="20260116235959 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey____12_Colg_vs_e_vs___13_Yale___17_00_1">
-    <title>Finalizado | #12 Colg vs e vs. #13 Yale</title>
-  </programme>
-  <programme start="20260116000000 -0600" stop="20260116170000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Union_vs_St__Lawrence___17_00_1">
-    <title>Próximamente | 17:00 | Union vs St. Lawrence</title>
-  </programme>
-  <programme start="20260116170000 -0600" stop="20260116200000 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Union_vs_St__Lawrence___17_00_1">
-    <title>⌾ En vivo | 17:00 | Union vs St. Lawrence</title>
-  </programme>
-  <programme start="20260116200000 -0600" stop="20260116235959 -0600" channel="Evento_NCAA_Women_s_Hockey__NCAA_Women_s_Hockey___Union_vs_St__Lawrence___17_00_1">
-    <title>Finalizado | Union vs St. Lawrence</title>
-  </programme>
   <programme start="20260116000000 -0600" stop="20260116180000 -0600" channel="Evento_NCAA_Ice_Hockey__NCAA_Ice_Hockey____14_Providence_vs__12_Boston_College___18_00_1">
     <title>Próximamente | 18:00 | #14 Providence vs #12 Boston College</title>
   </programme>
@@ -137926,15 +137887,6 @@
   </programme>
   <programme start="20260116223000 -0600" stop="20260116235959 -0600" channel="Evento_Primera_A__Primera_A___Fortaleza_CEIF_vs_Alianza___19_30_1">
     <title>Finalizado | Fortaleza CEIF vs Alianza</title>
-  </programme>
-  <programme start="20260116000000 -0600" stop="20260116165000 -0600" channel="Evento_Expansi_n_MX__Expansi_n_MX___Tap_vs__o_vs__Venados___16_50_1">
-    <title>Próximamente | 16:50 | Tap vs ío vs. Venados</title>
-  </programme>
-  <programme start="20260116165000 -0600" stop="20260116195000 -0600" channel="Evento_Expansi_n_MX__Expansi_n_MX___Tap_vs__o_vs__Venados___16_50_1">
-    <title>⌾ En vivo | 16:50 | Tap vs ío vs. Venados</title>
-  </programme>
-  <programme start="20260116195000 -0600" stop="20260116235959 -0600" channel="Evento_Expansi_n_MX__Expansi_n_MX___Tap_vs__o_vs__Venados___16_50_1">
-    <title>Finalizado | Tap vs ío vs. Venados</title>
   </programme>
   <programme start="20260116000000 -0600" stop="20260116185000 -0600" channel="Evento_Expansi_n_MX__Expansi_n_MX___Correcaminos_vs_Atl_tico_La_Paz___18_50_1">
     <title>Próximamente | 18:50 | Correcaminos vs Atlético La Paz</title>
@@ -138053,15 +138005,6 @@
   <programme start="20260117010000 -0600" stop="20260116235959 -0600" channel="Evento_WTA__WTA_____WTA___Hobart_Intern_vs_ional___Dobles_Final___EN_HD_____22_00_1">
     <title>Finalizado | Hobart Intern vs ional – Dobles Final</title>
   </programme>
-  <programme start="20260116000000 -0600" stop="20260116173000 -0600" channel="Evento_NLL__NLL___Colorado_Mammoth_vs_Halifax_Thunderbirds___17_30_1">
-    <title>Próximamente | 17:30 | Colorado Mammoth vs Halifax Thunderbirds</title>
-  </programme>
-  <programme start="20260116173000 -0600" stop="20260116203000 -0600" channel="Evento_NLL__NLL___Colorado_Mammoth_vs_Halifax_Thunderbirds___17_30_1">
-    <title>⌾ En vivo | 17:30 | Colorado Mammoth vs Halifax Thunderbirds</title>
-  </programme>
-  <programme start="20260116203000 -0600" stop="20260116235959 -0600" channel="Evento_NLL__NLL___Colorado_Mammoth_vs_Halifax_Thunderbirds___17_30_1">
-    <title>Finalizado | Colorado Mammoth vs Halifax Thunderbirds</title>
-  </programme>
   <programme start="20260116000000 -0600" stop="20260116183000 -0600" channel="Evento_NLL__NLL___Ottawa_Black_Bears_vs_Buffalo_Bandits___18_30_1">
     <title>Próximamente | 18:30 | Ottawa Black Bears vs Buffalo Bandits</title>
   </programme>
@@ -138088,33 +138031,6 @@
   </programme>
   <programme start="20260117000000 -0600" stop="20260116235959 -0600" channel="Evento_NLL__NLL___San_Diego_Seals_vs_Vancouver_Warriors___21_00_1">
     <title>Finalizado | San Diego Seals vs Vancouver Warriors</title>
-  </programme>
-  <programme start="20260116000000 -0600" stop="20260116160000 -0600" channel="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Bowling_Green_vs_Ohio___16_00_1">
-    <title>Próximamente | 16:00 | Bowling Green vs Ohio</title>
-  </programme>
-  <programme start="20260116160000 -0600" stop="20260116190000 -0600" channel="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Bowling_Green_vs_Ohio___16_00_1">
-    <title>⌾ En vivo | 16:00 | Bowling Green vs Ohio</title>
-  </programme>
-  <programme start="20260116190000 -0600" stop="20260116235959 -0600" channel="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Bowling_Green_vs_Ohio___16_00_1">
-    <title>Finalizado | Bowling Green vs Ohio</title>
-  </programme>
-  <programme start="20260116000000 -0600" stop="20260116170000 -0600" channel="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Duquesne_vs_Marshall___17_00_1">
-    <title>Próximamente | 17:00 | Duquesne vs Marshall</title>
-  </programme>
-  <programme start="20260116170000 -0600" stop="20260116200000 -0600" channel="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Duquesne_vs_Marshall___17_00_1">
-    <title>⌾ En vivo | 17:00 | Duquesne vs Marshall</title>
-  </programme>
-  <programme start="20260116200000 -0600" stop="20260116235959 -0600" channel="Evento_NCAA_Nataci_n__NCAA_Nataci_n___Duquesne_vs_Marshall___17_00_1">
-    <title>Finalizado | Duquesne vs Marshall</title>
-  </programme>
-  <programme start="20260116000000 -0600" stop="20260116180000 -0600" channel="Evento_NCAA_Gimnasia_Femenina__NCAA_Gimnasia_Femenina___Alabama_vs_Florida___18_00_1">
-    <title>Próximamente | 18:00 | Alabama vs Florida</title>
-  </programme>
-  <programme start="20260116180000 -0600" stop="20260116210000 -0600" channel="Evento_NCAA_Gimnasia_Femenina__NCAA_Gimnasia_Femenina___Alabama_vs_Florida___18_00_1">
-    <title>⌾ En vivo | 18:00 | Alabama vs Florida</title>
-  </programme>
-  <programme start="20260116210000 -0600" stop="20260116235959 -0600" channel="Evento_NCAA_Gimnasia_Femenina__NCAA_Gimnasia_Femenina___Alabama_vs_Florida___18_00_1">
-    <title>Finalizado | Alabama vs Florida</title>
   </programme>
   <programme start="20260116000000 -0600" stop="20260116180000 -0600" channel="Evento_NCAA_Gimnasia_Femenina__NCAA_Gimnasia_Femenina___Arizona_St_vs_e_vs__Kentucky___18_00_1">
     <title>Próximamente | 18:00 | Arizona St vs e vs. Kentucky</title>
