@@ -136661,9 +136661,6 @@
   <channel id="EVENTOS_VIP__Evento_____Serie_A___Parma_vs_Genoa___ES_HD_____06_30_1">
     <display-name>Evento | ◘ Serie A ◘ Parma vs Genoa ◘ ES-HD ◘ | 06:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Serie_A___Bologna_vs_Fiorentina___ES_HD_____09_00_1">
-    <display-name>Evento | ◘ Serie A ◘ Bologna vs Fiorentina ◘ ES-HD ◘ | 09:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Serie_A___Torino_vs_Roma___ES_HD_____12_00_1">
     <display-name>Evento | ◘ Serie A ◘ Torino vs Roma ◘ ES-HD ◘ | 12:00</display-name>
   </channel>
@@ -136675,15 +136672,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Bundesliga___Augsburg_vs_Freiburg___EN_HD_____11_30_1">
     <display-name>Evento | ◘ Bundesliga ◘ Augsburg vs Freiburg ◘ EN-HD ◘ | 11:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Paderborn___EN_HD_____07_30_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Holstein Kiel vs Paderborn ◘ EN-HD ◘ | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Darmstadt_98___EN_HD_____07_30_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Bochum vs Darmstadt 98 ◘ EN-HD ◘ | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Kaiserslautern_vs_Hannover_96___EN_HD_____07_30_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Kaiserslautern vs Hannover 96 ◘ EN-HD ◘ | 07:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Ligue_1___Strasbourg_vs_Metz___EN_HD_____09_00_1">
     <display-name>Evento | ◘ Ligue 1 ◘ Strasbourg vs Metz ◘ EN-HD ◘ | 09:00</display-name>
@@ -136735,9 +136723,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____LaLiga_SmartBank___C_rdoba_vs_M_laga___ES_HD_____15_00_1">
     <display-name>Evento | ◘ LaLiga SmartBank ◘ Córdoba vs Málaga ◘ ES-HD ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Superlig___Kocaelispor_vs_Trabzonspor___EN_HD_____09_00_1">
-    <display-name>Evento | ◘ Superlig ◘ Kocaelispor vs Trabzonspor ◘ EN-HD ◘ | 09:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Superlig___Alanyaspor_vs_Fenerbah_e___EN_HD_____12_00_1">
     <display-name>Evento | ◘ Superlig ◘ Alanyaspor vs Fenerbahçe ◘ EN-HD ◘ | 12:00</display-name>
@@ -137099,15 +137084,6 @@
   <programme start="20260118153000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Serie_A___Parma_vs_Genoa___ES_HD_____06_30_1">
     <title>Finalizado | ◘ Serie A ◘ Parma vs Genoa ◘ ES-HD ◘</title>
   </programme>
-  <programme start="20260118060000" stop="20260118150000" channel="EVENTOS_VIP__Evento_____Serie_A___Bologna_vs_Fiorentina___ES_HD_____09_00_1">
-    <title>Próximamente | 09:00 | ◘ Serie A ◘ Bologna vs Fiorentina ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260118150000" stop="20260118180000" channel="EVENTOS_VIP__Evento_____Serie_A___Bologna_vs_Fiorentina___ES_HD_____09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ Serie A ◘ Bologna vs Fiorentina ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260118180000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Serie_A___Bologna_vs_Fiorentina___ES_HD_____09_00_1">
-    <title>Finalizado | ◘ Serie A ◘ Bologna vs Fiorentina ◘ ES-HD ◘</title>
-  </programme>
   <programme start="20260118060000" stop="20260118180000" channel="EVENTOS_VIP__Evento_____Serie_A___Torino_vs_Roma___ES_HD_____12_00_1">
     <title>Próximamente | 12:00 | ◘ Serie A ◘ Torino vs Roma ◘ ES-HD ◘</title>
   </programme>
@@ -137143,33 +137119,6 @@
   </programme>
   <programme start="20260118203000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Bundesliga___Augsburg_vs_Freiburg___EN_HD_____11_30_1">
     <title>Finalizado | ◘ Bundesliga ◘ Augsburg vs Freiburg ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118060000" stop="20260118133000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Paderborn___EN_HD_____07_30_1">
-    <title>Próximamente | 07:30 | ◘ Bundesliga 2 ◘ Holstein Kiel vs Paderborn ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118133000" stop="20260118163000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Paderborn___EN_HD_____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Bundesliga 2 ◘ Holstein Kiel vs Paderborn ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118163000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Paderborn___EN_HD_____07_30_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Holstein Kiel vs Paderborn ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118060000" stop="20260118133000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Darmstadt_98___EN_HD_____07_30_1">
-    <title>Próximamente | 07:30 | ◘ Bundesliga 2 ◘ Bochum vs Darmstadt 98 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118133000" stop="20260118163000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Darmstadt_98___EN_HD_____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Bundesliga 2 ◘ Bochum vs Darmstadt 98 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118163000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Darmstadt_98___EN_HD_____07_30_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Bochum vs Darmstadt 98 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118060000" stop="20260118133000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Kaiserslautern_vs_Hannover_96___EN_HD_____07_30_1">
-    <title>Próximamente | 07:30 | ◘ Bundesliga 2 ◘ Kaiserslautern vs Hannover 96 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118133000" stop="20260118163000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Kaiserslautern_vs_Hannover_96___EN_HD_____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Bundesliga 2 ◘ Kaiserslautern vs Hannover 96 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118163000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Kaiserslautern_vs_Hannover_96___EN_HD_____07_30_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Kaiserslautern vs Hannover 96 ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260118060000" stop="20260118150000" channel="EVENTOS_VIP__Evento_____Ligue_1___Strasbourg_vs_Metz___EN_HD_____09_00_1">
     <title>Próximamente | 09:00 | ◘ Ligue 1 ◘ Strasbourg vs Metz ◘ EN-HD ◘</title>
@@ -137323,15 +137272,6 @@
   </programme>
   <programme start="20260119000000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____LaLiga_SmartBank___C_rdoba_vs_M_laga___ES_HD_____15_00_1">
     <title>Finalizado | ◘ LaLiga SmartBank ◘ Córdoba vs Málaga ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260118060000" stop="20260118150000" channel="EVENTOS_VIP__Evento_____Superlig___Kocaelispor_vs_Trabzonspor___EN_HD_____09_00_1">
-    <title>Próximamente | 09:00 | ◘ Superlig ◘ Kocaelispor vs Trabzonspor ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118150000" stop="20260118180000" channel="EVENTOS_VIP__Evento_____Superlig___Kocaelispor_vs_Trabzonspor___EN_HD_____09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ Superlig ◘ Kocaelispor vs Trabzonspor ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260118180000" stop="20260119055959" channel="EVENTOS_VIP__Evento_____Superlig___Kocaelispor_vs_Trabzonspor___EN_HD_____09_00_1">
-    <title>Finalizado | ◘ Superlig ◘ Kocaelispor vs Trabzonspor ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260118060000" stop="20260118180000" channel="EVENTOS_VIP__Evento_____Superlig___Alanyaspor_vs_Fenerbah_e___EN_HD_____12_00_1">
     <title>Próximamente | 12:00 | ◘ Superlig ◘ Alanyaspor vs Fenerbahçe ◘ EN-HD ◘</title>
