@@ -138287,6 +138287,9 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_Football____10_Miami_vs__1_Indiana__Final____ES_HD_____19_30_1">
     <display-name>Evento | ◘ NCAA Football ◘ #10 Miami vs #1 Indiana (Final) ◘ ES-HD ◘ | 19:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___PE_AROL_vs_RACING___00_00_1">
+    <display-name>Evento | PEÑAROL vs RACING | 00:00</display-name>
+  </channel>
   <programme start="20260119000000 -0600" stop="20260119133000 -0600" channel="EVENTOS_VIP__Evento_____NHL___Buffalo_Sabres_vs_Carolina_Hurricanes___EN_HD_____13_30_1">
     <title>Próximamente | 13:30 | ◘ NHL ◘ Buffalo Sabres vs Carolina Hurricanes ◘ EN-HD ◘</title>
   </programme>
@@ -138637,6 +138640,15 @@
   </programme>
   <programme start="20260119223000 -0600" stop="20260119235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Football____10_Miami_vs__1_Indiana__Final____ES_HD_____19_30_1">
     <title>Finalizado | ◘ NCAA Football ◘ #10 Miami vs #1 Indiana (Final) ◘ ES-HD ◘</title>
+  </programme>
+  <programme start="20260119000000 -0600" stop="20260119000000 -0600" channel="EVENTOS_VIP__Evento___PE_AROL_vs_RACING___00_00_1">
+    <title>Próximamente | 00:00 | PEÑAROL vs RACING</title>
+  </programme>
+  <programme start="20260119000000 -0600" stop="20260119030000 -0600" channel="EVENTOS_VIP__Evento___PE_AROL_vs_RACING___00_00_1">
+    <title>⌾ En vivo | 00:00 | PEÑAROL vs RACING</title>
+  </programme>
+  <programme start="20260119030000 -0600" stop="20260119235959 -0600" channel="EVENTOS_VIP__Evento___PE_AROL_vs_RACING___00_00_1">
+    <title>Finalizado | PEÑAROL vs RACING</title>
   </programme>
 </tv>
 
