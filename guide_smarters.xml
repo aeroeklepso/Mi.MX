@@ -137851,6 +137851,9 @@
   <channel id="EVENTOS_VIP__Evento_____LOVB___Houston_vs_Salt_Lake___EN_HD_____21_00_1">
     <display-name>Evento | ◘ LOVB ◘ Houston vs Salt Lake ◘ EN-HD ◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___NACIONAL_DE_FOOTBALL_vs_CLUB_ATLETICO_PROGRESO___20_30_1">
+    <display-name>Evento | NACIONAL DE FOOTBALL vs CLUB ATLETICO PROGRESO | 20:30</display-name>
+  </channel>
   <programme start="20260122060000" stop="20260123010000" channel="EVENTOS_VIP__Evento_____NHL___Vegas_Golden_Knights_vs_Boston_Bruins___EN_HD_____19_00_1">
     <title>Próximamente | 19:00 | ◘ NHL ◘ Vegas Golden Knights vs Boston Bruins ◘ EN-HD ◘</title>
   </programme>
@@ -138309,6 +138312,15 @@
   </programme>
   <programme start="20260123060000" stop="20260123055959" channel="EVENTOS_VIP__Evento_____LOVB___Houston_vs_Salt_Lake___EN_HD_____21_00_1">
     <title>Finalizado | ◘ LOVB ◘ Houston vs Salt Lake ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260122060000" stop="20260123023000" channel="EVENTOS_VIP__Evento___NACIONAL_DE_FOOTBALL_vs_CLUB_ATLETICO_PROGRESO___20_30_1">
+    <title>Próximamente | 20:30 | NACIONAL DE FOOTBALL vs CLUB ATLETICO PROGRESO</title>
+  </programme>
+  <programme start="20260123023000" stop="20260123053000" channel="EVENTOS_VIP__Evento___NACIONAL_DE_FOOTBALL_vs_CLUB_ATLETICO_PROGRESO___20_30_1">
+    <title>⌾ En vivo | 20:30 | NACIONAL DE FOOTBALL vs CLUB ATLETICO PROGRESO</title>
+  </programme>
+  <programme start="20260123053000" stop="20260123055959" channel="EVENTOS_VIP__Evento___NACIONAL_DE_FOOTBALL_vs_CLUB_ATLETICO_PROGRESO___20_30_1">
+    <title>Finalizado | NACIONAL DE FOOTBALL vs CLUB ATLETICO PROGRESO</title>
   </programme>
 </tv>
 
