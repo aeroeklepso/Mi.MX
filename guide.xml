@@ -137758,9 +137758,6 @@
   <channel id="EVENTOS_VIP__Evento_____UCL___Slavia_Praha__CZE__vs_FC_Barcelona__ESP____OP3____ESP____14_40_1">
     <display-name>Evento | ◘ UCL ◘ Slavia Praha (CZE) vs FC Barcelona (ESP) ◘ OP3 ◘ [ESP] | 14:40</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____UCL___vs_alanta__ITA__vs__Athletic_Club_Bilbao__ESP____OP2____ESP____14_40_1">
-    <display-name>Evento | ◘ UCL ◘ vs alanta (ITA) vs. Athletic Club Bilbao (ESP) ◘ OP2 ◘ [ESP] | 14:40</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____UCL___Bayern_Munich__GER__vs_Union_St__Gilloise__BEL____OP2_____14_40_1">
     <display-name>Evento | ◘ UCL ◘ Bayern Munich (GER) vs Union St. Gilloise (BEL) ◘ OP2 ◘ | 14:40</display-name>
   </channel>
@@ -137769,9 +137766,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____UCL___Newcastle_United__ENG__vs_PSV_Eindhoven__NED____OP2____ENG____14_40_1">
     <display-name>Evento | ◘ UCL ◘ Newcastle United (ENG) vs PSV Eindhoven (NED) ◘ OP2 ◘ [ENG] | 14:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____UCL___Olympique_de_Marseille__FRA__vs_Liverpool__ENG____OP2____ENG____14_40_1">
-    <display-name>Evento | ◘ UCL ◘ Olympique de Marseille (FRA) vs Liverpool (ENG) ◘ OP2 ◘ [ENG] | 14:40</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Argentina___Argentinos_Juniors_vs_Midland___ES_HD_____19_15_1">
     <display-name>Evento | ◘ Copa Argentina ◘ Argentinos Juniors vs Midland ◘ ES-HD ◘ | 19:15</display-name>
@@ -137794,9 +137788,6 @@
   <channel id="EVENTOS_VIP__Evento_____Supercopa_Chile___Coquimbo_Unido_vs_Deportes_Limache___ES_HD_____17_00_1">
     <display-name>Evento | ◘ Supercopa Chile ◘ Coquimbo Unido vs Deportes Limache ◘ ES-HD ◘ | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Campeon_vs_o_Paulista___S_o_Paulo_vs__Portuguesa___PT_HD_____17_30_1">
-    <display-name>Evento | ◘ Campeon vs o Paulista ◘ São Paulo vs. Portuguesa ◘ PT-HD ◘ | 17:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Campeon_vs_o_Mineiro___Am_rica_Mineiro_vs__Atl_tico_Mineiro___PT_HD_____19_30_1">
     <display-name>Evento | ◘ Campeon vs o Mineiro ◘ América Mineiro vs. Atlético Mineiro ◘ PT-HD ◘ | 19:30</display-name>
   </channel>
@@ -137805,9 +137796,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Primera_CR___Cartagin_s_vs_Alajuelense___ES_HD_____21_00_1">
     <display-name>Evento | ◘ Primera CR ◘ Cartaginés vs Alajuelense ◘ ES-HD ◘ | 21:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Primera_SV___Cacahu_vs_ique_vs__Alianza___ES_HD_____16_00_1">
-    <display-name>Evento | ◘ Primera SV ◘ Cacahu vs ique vs. Alianza ◘ ES-HD ◘ | 16:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Primera_SV___CD_La_Firpo_vs_ZacatecoluCA_FC___ES_HD_____20_00_1">
     <display-name>Evento | ◘ Primera SV ◘ CD La Firpo vs ZacatecoluCA FC ◘ ES-HD ◘ | 20:00</display-name>
@@ -138040,15 +138028,6 @@
   <programme start="20260121174000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Slavia_Praha__CZE__vs_FC_Barcelona__ESP____OP3____ESP____14_40_1">
     <title>Finalizado | ◘ UCL ◘ Slavia Praha (CZE) vs FC Barcelona (ESP) ◘ OP3 ◘ [ESP]</title>
   </programme>
-  <programme start="20260121000000 -0600" stop="20260121144000 -0600" channel="EVENTOS_VIP__Evento_____UCL___vs_alanta__ITA__vs__Athletic_Club_Bilbao__ESP____OP2____ESP____14_40_1">
-    <title>Próximamente | 14:40 | ◘ UCL ◘ vs alanta (ITA) vs. Athletic Club Bilbao (ESP) ◘ OP2 ◘ [ESP]</title>
-  </programme>
-  <programme start="20260121144000 -0600" stop="20260121174000 -0600" channel="EVENTOS_VIP__Evento_____UCL___vs_alanta__ITA__vs__Athletic_Club_Bilbao__ESP____OP2____ESP____14_40_1">
-    <title>⌾ En vivo | 14:40 | ◘ UCL ◘ vs alanta (ITA) vs. Athletic Club Bilbao (ESP) ◘ OP2 ◘ [ESP]</title>
-  </programme>
-  <programme start="20260121174000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___vs_alanta__ITA__vs__Athletic_Club_Bilbao__ESP____OP2____ESP____14_40_1">
-    <title>Finalizado | ◘ UCL ◘ vs alanta (ITA) vs. Athletic Club Bilbao (ESP) ◘ OP2 ◘ [ESP]</title>
-  </programme>
   <programme start="20260121000000 -0600" stop="20260121144000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Bayern_Munich__GER__vs_Union_St__Gilloise__BEL____OP2_____14_40_1">
     <title>Próximamente | 14:40 | ◘ UCL ◘ Bayern Munich (GER) vs Union St. Gilloise (BEL) ◘ OP2 ◘</title>
   </programme>
@@ -138075,15 +138054,6 @@
   </programme>
   <programme start="20260121174000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Newcastle_United__ENG__vs_PSV_Eindhoven__NED____OP2____ENG____14_40_1">
     <title>Finalizado | ◘ UCL ◘ Newcastle United (ENG) vs PSV Eindhoven (NED) ◘ OP2 ◘ [ENG]</title>
-  </programme>
-  <programme start="20260121000000 -0600" stop="20260121144000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Olympique_de_Marseille__FRA__vs_Liverpool__ENG____OP2____ENG____14_40_1">
-    <title>Próximamente | 14:40 | ◘ UCL ◘ Olympique de Marseille (FRA) vs Liverpool (ENG) ◘ OP2 ◘ [ENG]</title>
-  </programme>
-  <programme start="20260121144000 -0600" stop="20260121174000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Olympique_de_Marseille__FRA__vs_Liverpool__ENG____OP2____ENG____14_40_1">
-    <title>⌾ En vivo | 14:40 | ◘ UCL ◘ Olympique de Marseille (FRA) vs Liverpool (ENG) ◘ OP2 ◘ [ENG]</title>
-  </programme>
-  <programme start="20260121174000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Olympique_de_Marseille__FRA__vs_Liverpool__ENG____OP2____ENG____14_40_1">
-    <title>Finalizado | ◘ UCL ◘ Olympique de Marseille (FRA) vs Liverpool (ENG) ◘ OP2 ◘ [ENG]</title>
   </programme>
   <programme start="20260121000000 -0600" stop="20260121191500 -0600" channel="EVENTOS_VIP__Evento_____Copa_Argentina___Argentinos_Juniors_vs_Midland___ES_HD_____19_15_1">
     <title>Próximamente | 19:15 | ◘ Copa Argentina ◘ Argentinos Juniors vs Midland ◘ ES-HD ◘</title>
@@ -138148,15 +138118,6 @@
   <programme start="20260121200000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____Supercopa_Chile___Coquimbo_Unido_vs_Deportes_Limache___ES_HD_____17_00_1">
     <title>Finalizado | ◘ Supercopa Chile ◘ Coquimbo Unido vs Deportes Limache ◘ ES-HD ◘</title>
   </programme>
-  <programme start="20260121000000 -0600" stop="20260121173000 -0600" channel="EVENTOS_VIP__Evento_____Campeon_vs_o_Paulista___S_o_Paulo_vs__Portuguesa___PT_HD_____17_30_1">
-    <title>Próximamente | 17:30 | ◘ Campeon vs o Paulista ◘ São Paulo vs. Portuguesa ◘ PT-HD ◘</title>
-  </programme>
-  <programme start="20260121173000 -0600" stop="20260121203000 -0600" channel="EVENTOS_VIP__Evento_____Campeon_vs_o_Paulista___S_o_Paulo_vs__Portuguesa___PT_HD_____17_30_1">
-    <title>⌾ En vivo | 17:30 | ◘ Campeon vs o Paulista ◘ São Paulo vs. Portuguesa ◘ PT-HD ◘</title>
-  </programme>
-  <programme start="20260121203000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____Campeon_vs_o_Paulista___S_o_Paulo_vs__Portuguesa___PT_HD_____17_30_1">
-    <title>Finalizado | ◘ Campeon vs o Paulista ◘ São Paulo vs. Portuguesa ◘ PT-HD ◘</title>
-  </programme>
   <programme start="20260121000000 -0600" stop="20260121193000 -0600" channel="EVENTOS_VIP__Evento_____Campeon_vs_o_Mineiro___Am_rica_Mineiro_vs__Atl_tico_Mineiro___PT_HD_____19_30_1">
     <title>Próximamente | 19:30 | ◘ Campeon vs o Mineiro ◘ América Mineiro vs. Atlético Mineiro ◘ PT-HD ◘</title>
   </programme>
@@ -138183,15 +138144,6 @@
   </programme>
   <programme start="20260122000000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_CR___Cartagin_s_vs_Alajuelense___ES_HD_____21_00_1">
     <title>Finalizado | ◘ Primera CR ◘ Cartaginés vs Alajuelense ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260121000000 -0600" stop="20260121160000 -0600" channel="EVENTOS_VIP__Evento_____Primera_SV___Cacahu_vs_ique_vs__Alianza___ES_HD_____16_00_1">
-    <title>Próximamente | 16:00 | ◘ Primera SV ◘ Cacahu vs ique vs. Alianza ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260121160000 -0600" stop="20260121190000 -0600" channel="EVENTOS_VIP__Evento_____Primera_SV___Cacahu_vs_ique_vs__Alianza___ES_HD_____16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Primera SV ◘ Cacahu vs ique vs. Alianza ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260121190000 -0600" stop="20260121235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_SV___Cacahu_vs_ique_vs__Alianza___ES_HD_____16_00_1">
-    <title>Finalizado | ◘ Primera SV ◘ Cacahu vs ique vs. Alianza ◘ ES-HD ◘</title>
   </programme>
   <programme start="20260121000000 -0600" stop="20260121200000 -0600" channel="EVENTOS_VIP__Evento_____Primera_SV___CD_La_Firpo_vs_ZacatecoluCA_FC___ES_HD_____20_00_1">
     <title>Próximamente | 20:00 | ◘ Primera SV ◘ CD La Firpo vs ZacatecoluCA FC ◘ ES-HD ◘</title>
