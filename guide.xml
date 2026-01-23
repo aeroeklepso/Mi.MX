@@ -135334,6 +135334,9 @@
   <channel id="EVENTOS_VIP__Evento_____Serie_de_la_Pl_vs_a___Deportes_Concepci_n_vs__Torque___ES_SD_____19_55_1">
     <display-name>Evento | ◘ Serie de la Pl vs a ◘ Deportes Concepción vs. Torque ◘ ES-SD ◘ | 19:55</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___PE_AROL_vs_BOSTON_RIVER___20_30_1">
+    <display-name>Evento | PEÑAROL vs BOSTON RIVER | 20:30</display-name>
+  </channel>
   <channel id="EVENTOS_VIP__Evento_____Australian_Open___Tiafoe__USA__vs_De_Minaur__AUS____ES_HD_____03_00_1">
     <display-name>Evento | ◘ Australian Open ◘ Tiafoe (USA) vs De Minaur (AUS) ◘ ES-HD ◘ | 03:00</display-name>
   </channel>
@@ -135747,6 +135750,15 @@
   </programme>
   <programme start="20260123225500 -0600" stop="20260123235959 -0600" channel="EVENTOS_VIP__Evento_____Serie_de_la_Pl_vs_a___Deportes_Concepci_n_vs__Torque___ES_SD_____19_55_1">
     <title>Finalizado | ◘ Serie de la Pl vs a ◘ Deportes Concepción vs. Torque ◘ ES-SD ◘</title>
+  </programme>
+  <programme start="20260123000000 -0600" stop="20260123203000 -0600" channel="EVENTOS_VIP__Evento___PE_AROL_vs_BOSTON_RIVER___20_30_1">
+    <title>Próximamente | 20:30 | PEÑAROL vs BOSTON RIVER</title>
+  </programme>
+  <programme start="20260123203000 -0600" stop="20260123233000 -0600" channel="EVENTOS_VIP__Evento___PE_AROL_vs_BOSTON_RIVER___20_30_1">
+    <title>⌾ En vivo | 20:30 | PEÑAROL vs BOSTON RIVER</title>
+  </programme>
+  <programme start="20260123233000 -0600" stop="20260123235959 -0600" channel="EVENTOS_VIP__Evento___PE_AROL_vs_BOSTON_RIVER___20_30_1">
+    <title>Finalizado | PEÑAROL vs BOSTON RIVER</title>
   </programme>
   <programme start="20260123000000 -0600" stop="20260123030000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___Tiafoe__USA__vs_De_Minaur__AUS____ES_HD_____03_00_1">
     <title>Próximamente | 03:00 | ◘ Australian Open ◘ Tiafoe (USA) vs De Minaur (AUS) ◘ ES-HD ◘</title>
