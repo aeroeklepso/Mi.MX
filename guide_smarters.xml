@@ -130484,15 +130484,6 @@
     <desc>Los coaches comienzan la búsqueda del proximo fenomeno musical de America.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___21_00_1">
-    <display-name>Evento | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares | 21:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___EN_HD___Prelims___21_00_1">
-    <display-name>Evento | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ EN-HD ◘ Prelims | 21:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___17_00_1">
-    <display-name>Evento | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares | 17:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____NHL___Colorado_Avalanche_vs_Toronto_Maple_Leafs___EN_HD_____13_30_1">
     <display-name>Evento | ◘ NHL ◘ Colorado Avalanche vs Toronto Maple Leafs ◘ EN-HD ◘ | 13:30</display-name>
   </channel>
@@ -130847,33 +130838,6 @@
   <channel id="EVENTOS_VIP__Evento_____IMSA_SportsCar___Rolex_24_vs_Daytona___EN_HD_____12_00_1">
     <display-name>Evento | ◘ IMSA SportsCar ◘ Rolex 24 vs Daytona ◘ EN-HD ◘ | 12:00</display-name>
   </channel>
-  <programme start="20260125060000" stop="20260126030000" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___21_00_1">
-    <title>Próximamente | 21:00 | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares</title>
-  </programme>
-  <programme start="20260126030000" stop="20260126060000" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___21_00_1">
-    <title>⌾ En vivo | 21:00 | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares</title>
-  </programme>
-  <programme start="20260126060000" stop="20260126055959" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___21_00_1">
-    <title>Finalizado | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares</title>
-  </programme>
-  <programme start="20260125060000" stop="20260126030000" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___EN_HD___Prelims___21_00_1">
-    <title>Próximamente | 21:00 | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ EN-HD ◘ Prelims</title>
-  </programme>
-  <programme start="20260126030000" stop="20260126060000" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___EN_HD___Prelims___21_00_1">
-    <title>⌾ En vivo | 21:00 | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ EN-HD ◘ Prelims</title>
-  </programme>
-  <programme start="20260126060000" stop="20260126055959" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___EN_HD___Prelims___21_00_1">
-    <title>Finalizado | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ EN-HD ◘ Prelims</title>
-  </programme>
-  <programme start="20260125060000" stop="20260125230000" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___17_00_1">
-    <title>Próximamente | 17:00 | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares</title>
-  </programme>
-  <programme start="20260125230000" stop="20260126020000" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares</title>
-  </programme>
-  <programme start="20260126020000" stop="20260126055959" channel="EVENTOS_VIP__Evento_____UFC___Paddy_Pimblett_vs_Justin_Gaethje___ES_HD___Preliminares___17_00_1">
-    <title>Finalizado | ◘ UFC ◘ Paddy Pimblett vs Justin Gaethje ◘ ES-HD ◘ Preliminares</title>
-  </programme>
   <programme start="20260125060000" stop="20260125193000" channel="EVENTOS_VIP__Evento_____NHL___Colorado_Avalanche_vs_Toronto_Maple_Leafs___EN_HD_____13_30_1">
     <title>Próximamente | 13:30 | ◘ NHL ◘ Colorado Avalanche vs Toronto Maple Leafs ◘ EN-HD ◘</title>
   </programme>
