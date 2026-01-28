@@ -140340,72 +140340,12 @@
     <desc>Los coaches compiten por descubrir y entrenar al proximo fenomeno musical en la cuarta noche de las Audiciones a Ciegas.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____NHL___San_Jose_Sharks_vs_Vancouver_Canucks___EN_HD_____22_00_1">
-    <display-name>Evento | ◘ NHL ◘ San Jose Sharks vs Vancouver Canucks ◘ EN-HD ◘ | 22:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NHL___Washington_Capitals_vs_Seattle_Kraken___EN_HD_____22_00_1">
-    <display-name>Evento | ◘ NHL ◘ Washington Capitals vs Seattle Kraken ◘ EN-HD ◘ | 22:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NBA___Detroit_Pistons_vs_Denver_Nuggets___EN_HD_____21_00_1">
-    <display-name>Evento | ◘ NBA ◘ Detroit Pistons vs Denver Nuggets ◘ EN-HD ◘ | 21:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NBA___Brooklyn_Nets_vs_Phoenix_Suns___EN_HD_____21_00_1">
-    <display-name>Evento | ◘ NBA ◘ Brooklyn Nets vs Phoenix Suns ◘ EN-HD ◘ | 21:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NBA___Los_Angeles_Clippers_vs_Utah_Jazz___EN_HD_____22_00_1">
-    <display-name>Evento | ◘ NBA ◘ Los Angeles Clippers vs Utah Jazz ◘ EN-HD ◘ | 22:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Amistoso___Estados_Unidos_vs_Chile___ES_HD_____22_00_1">
     <display-name>Evento | ◘ Amistoso ◘ Estados Unidos vs Chile ◘ ES-HD ◘ | 22:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Amistoso___Estados_Unidos_vs_Chile___ES_SD_____22_00_1">
     <display-name>Evento | ◘ Amistoso ◘ Estados Unidos vs Chile ◘ ES-SD ◘ | 22:00</display-name>
   </channel>
-  <programme start="20260128000000 -0600" stop="20260128220000 -0600" channel="EVENTOS_VIP__Evento_____NHL___San_Jose_Sharks_vs_Vancouver_Canucks___EN_HD_____22_00_1">
-    <title>Próximamente | 22:00 | ◘ NHL ◘ San Jose Sharks vs Vancouver Canucks ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128220000 -0600" stop="20260129010000 -0600" channel="EVENTOS_VIP__Evento_____NHL___San_Jose_Sharks_vs_Vancouver_Canucks___EN_HD_____22_00_1">
-    <title>⌾ En vivo | 22:00 | ◘ NHL ◘ San Jose Sharks vs Vancouver Canucks ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129010000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____NHL___San_Jose_Sharks_vs_Vancouver_Canucks___EN_HD_____22_00_1">
-    <title>Finalizado | ◘ NHL ◘ San Jose Sharks vs Vancouver Canucks ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128000000 -0600" stop="20260128220000 -0600" channel="EVENTOS_VIP__Evento_____NHL___Washington_Capitals_vs_Seattle_Kraken___EN_HD_____22_00_1">
-    <title>Próximamente | 22:00 | ◘ NHL ◘ Washington Capitals vs Seattle Kraken ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128220000 -0600" stop="20260129010000 -0600" channel="EVENTOS_VIP__Evento_____NHL___Washington_Capitals_vs_Seattle_Kraken___EN_HD_____22_00_1">
-    <title>⌾ En vivo | 22:00 | ◘ NHL ◘ Washington Capitals vs Seattle Kraken ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129010000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____NHL___Washington_Capitals_vs_Seattle_Kraken___EN_HD_____22_00_1">
-    <title>Finalizado | ◘ NHL ◘ Washington Capitals vs Seattle Kraken ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128000000 -0600" stop="20260128210000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Detroit_Pistons_vs_Denver_Nuggets___EN_HD_____21_00_1">
-    <title>Próximamente | 21:00 | ◘ NBA ◘ Detroit Pistons vs Denver Nuggets ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128210000 -0600" stop="20260129000000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Detroit_Pistons_vs_Denver_Nuggets___EN_HD_____21_00_1">
-    <title>⌾ En vivo | 21:00 | ◘ NBA ◘ Detroit Pistons vs Denver Nuggets ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129000000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____NBA___Detroit_Pistons_vs_Denver_Nuggets___EN_HD_____21_00_1">
-    <title>Finalizado | ◘ NBA ◘ Detroit Pistons vs Denver Nuggets ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128000000 -0600" stop="20260128210000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Brooklyn_Nets_vs_Phoenix_Suns___EN_HD_____21_00_1">
-    <title>Próximamente | 21:00 | ◘ NBA ◘ Brooklyn Nets vs Phoenix Suns ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128210000 -0600" stop="20260129000000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Brooklyn_Nets_vs_Phoenix_Suns___EN_HD_____21_00_1">
-    <title>⌾ En vivo | 21:00 | ◘ NBA ◘ Brooklyn Nets vs Phoenix Suns ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129000000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____NBA___Brooklyn_Nets_vs_Phoenix_Suns___EN_HD_____21_00_1">
-    <title>Finalizado | ◘ NBA ◘ Brooklyn Nets vs Phoenix Suns ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128000000 -0600" stop="20260128220000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Los_Angeles_Clippers_vs_Utah_Jazz___EN_HD_____22_00_1">
-    <title>Próximamente | 22:00 | ◘ NBA ◘ Los Angeles Clippers vs Utah Jazz ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260128220000 -0600" stop="20260129010000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Los_Angeles_Clippers_vs_Utah_Jazz___EN_HD_____22_00_1">
-    <title>⌾ En vivo | 22:00 | ◘ NBA ◘ Los Angeles Clippers vs Utah Jazz ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129010000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____NBA___Los_Angeles_Clippers_vs_Utah_Jazz___EN_HD_____22_00_1">
-    <title>Finalizado | ◘ NBA ◘ Los Angeles Clippers vs Utah Jazz ◘ EN-HD ◘</title>
-  </programme>
   <programme start="20260128000000 -0600" stop="20260128220000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Estados_Unidos_vs_Chile___ES_HD_____22_00_1">
     <title>Próximamente | 22:00 | ◘ Amistoso ◘ Estados Unidos vs Chile ◘ ES-HD ◘</title>
   </programme>
