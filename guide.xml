@@ -140544,14 +140544,14 @@
   <channel id="EVENTOS_VIP__Evento_____UCL___Benfica__POR__vs_Real_Madrid__ESP____OP3____ESP____15_00_1">
     <display-name>Evento | ◘ UCL ◘ Benfica (POR) vs Real Madrid (ESP) ◘ OP3 ◘ [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_HD____ESP____15_00_1">
-    <display-name>Evento | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-HD ◘ [ESP] | 15:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP1____ESP____15_00_1">
+    <display-name>Evento | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP1 ◘ [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_1">
-    <display-name>Evento | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP] | 15:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP2____ESP____15_00_1">
+    <display-name>Evento | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP2 ◘ [ESP] | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_2">
-    <display-name>Evento | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP] | 15:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP3____ESP____15_00_1">
+    <display-name>Evento | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP3 ◘ [ESP] | 15:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____UCL___vs_l_tico_Madrid__ESP__vs__Bod____Glimt__NOR____ES_HD____ESP____15_00_1">
     <display-name>Evento | ◘ UCL ◘ vs lético Madrid (ESP) vs. Bodø / Glimt (NOR) ◘ ES-HD ◘ [ESP] | 15:00</display-name>
@@ -141384,32 +141384,32 @@
   <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Benfica__POR__vs_Real_Madrid__ESP____OP3____ESP____15_00_1">
     <title>Finalizado | ◘ UCL ◘ Benfica (POR) vs Real Madrid (ESP) ◘ OP3 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_HD____ESP____15_00_1">
-    <title>Próximamente | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-HD ◘ [ESP]</title>
+  <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP1____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP1 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128150000 -0600" stop="20260128180000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_HD____ESP____15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-HD ◘ [ESP]</title>
+  <programme start="20260128150000 -0600" stop="20260128180000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP1____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP1 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_HD____ESP____15_00_1">
-    <title>Finalizado | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-HD ◘ [ESP]</title>
+  <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP1____ESP____15_00_1">
+    <title>Finalizado | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP1 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_1">
-    <title>Próximamente | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP]</title>
+  <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP2____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP2 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128150000 -0600" stop="20260128180000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP]</title>
+  <programme start="20260128150000 -0600" stop="20260128180000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP2____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP2 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_1">
-    <title>Finalizado | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP]</title>
+  <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP2____ESP____15_00_1">
+    <title>Finalizado | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP2 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_2">
-    <title>Próximamente | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP]</title>
+  <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP3____ESP____15_00_1">
+    <title>Próximamente | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP3 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128150000 -0600" stop="20260128180000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_2">
-    <title>⌾ En vivo | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP]</title>
+  <programme start="20260128150000 -0600" stop="20260128180000 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP3____ESP____15_00_1">
+    <title>⌾ En vivo | 15:00 | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP3 ◘ [ESP]</title>
   </programme>
-  <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____ES_SD____ESP____15_00_2">
-    <title>Finalizado | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ ES-SD ◘ [ESP]</title>
+  <programme start="20260128180000 -0600" stop="20260128235959 -0600" channel="EVENTOS_VIP__Evento_____UCL___Barcelona__ESP__vs_K_benhavn__DEN____OP3____ESP____15_00_1">
+    <title>Finalizado | ◘ UCL ◘ Barcelona (ESP) vs København (DEN) ◘ OP3 ◘ [ESP]</title>
   </programme>
   <programme start="20260128000000 -0600" stop="20260128150000 -0600" channel="EVENTOS_VIP__Evento_____UCL___vs_l_tico_Madrid__ESP__vs__Bod____Glimt__NOR____ES_HD____ESP____15_00_1">
     <title>Próximamente | 15:00 | ◘ UCL ◘ vs lético Madrid (ESP) vs. Bodø / Glimt (NOR) ◘ ES-HD ◘ [ESP]</title>
