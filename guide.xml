@@ -141084,8 +141084,8 @@
   <channel id="EVENTOS_VIP__Evento_____Saudi_Pro_League___Al_Qadisiyah_vs_Al_Hilal___ES_SD_____12_30_1">
     <display-name>Evento | ◘ Saudi Pro League ◘ Al Qadisiyah vs Al Hilal ◘ ES-SD ◘ | 12:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Am_rica___Chile_vs_Colombia___ES_HD_____10_00_1">
-    <display-name>Evento | ◘ Copa América ◘ Chile vs Colombia ◘ ES-HD ◘ | 10:00</display-name>
+  <channel id="Evento_17_00_HR_CH__17_00_HR_CH___UNIVERSIDAD_DE_CHILE_2011_vs_UNIVERSIDAD_DE_CHILE_TODOS_LOS_TIEMPOS___16_00_1">
+    <display-name>17:00 HR CH | UNIVERSIDAD DE CHILE 2011 vs UNIVERSIDAD DE CHILE TODOS LOS TIEMPOS | 16:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Am_rica___Brasil_vs_Venezuela___ES_HD_____12_30_1">
     <display-name>Evento | ◘ Copa América ◘ Brasil vs Venezuela ◘ ES-HD ◘ | 12:30</display-name>
@@ -141948,14 +141948,14 @@
   <programme start="20260129153000 -0600" stop="20260129235959 -0600" channel="EVENTOS_VIP__Evento_____Saudi_Pro_League___Al_Qadisiyah_vs_Al_Hilal___ES_SD_____12_30_1">
     <title>Finalizado | ◘ Saudi Pro League ◘ Al Qadisiyah vs Al Hilal ◘ ES-SD ◘</title>
   </programme>
-  <programme start="20260129000000 -0600" stop="20260129100000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Chile_vs_Colombia___ES_HD_____10_00_1">
-    <title>Próximamente | 10:00 | ◘ Copa América ◘ Chile vs Colombia ◘ ES-HD ◘</title>
+  <programme start="20260129000000 -0600" stop="20260129170000 -0600" channel="Evento_17_00_HR_CH__17_00_HR_CH___UNIVERSIDAD_DE_CHILE_2011_vs_UNIVERSIDAD_DE_CHILE_TODOS_LOS_TIEMPOS___16_00_1">
+    <title>Próximamente | 17:00 | UNIVERSIDAD DE CHILE 2011 vs UNIVERSIDAD DE CHILE TODOS LOS TIEMPOS</title>
   </programme>
-  <programme start="20260129100000 -0600" stop="20260129130000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Chile_vs_Colombia___ES_HD_____10_00_1">
-    <title>⌾ En vivo | 10:00 | ◘ Copa América ◘ Chile vs Colombia ◘ ES-HD ◘</title>
+  <programme start="20260129170000 -0600" stop="20260129200000 -0600" channel="Evento_17_00_HR_CH__17_00_HR_CH___UNIVERSIDAD_DE_CHILE_2011_vs_UNIVERSIDAD_DE_CHILE_TODOS_LOS_TIEMPOS___16_00_1">
+    <title>⌾ En vivo | 17:00 | UNIVERSIDAD DE CHILE 2011 vs UNIVERSIDAD DE CHILE TODOS LOS TIEMPOS</title>
   </programme>
-  <programme start="20260129130000 -0600" stop="20260129235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Chile_vs_Colombia___ES_HD_____10_00_1">
-    <title>Finalizado | ◘ Copa América ◘ Chile vs Colombia ◘ ES-HD ◘</title>
+  <programme start="20260129200000 -0600" stop="20260129235959 -0600" channel="Evento_17_00_HR_CH__17_00_HR_CH___UNIVERSIDAD_DE_CHILE_2011_vs_UNIVERSIDAD_DE_CHILE_TODOS_LOS_TIEMPOS___16_00_1">
+    <title>Finalizado | UNIVERSIDAD DE CHILE 2011 vs UNIVERSIDAD DE CHILE TODOS LOS TIEMPOS</title>
   </programme>
   <programme start="20260129000000 -0600" stop="20260129123000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Brasil_vs_Venezuela___ES_HD_____12_30_1">
     <title>Próximamente | 12:30 | ◘ Copa América ◘ Brasil vs Venezuela ◘ ES-HD ◘</title>
