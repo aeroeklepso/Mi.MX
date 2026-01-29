@@ -141087,9 +141087,6 @@
   <channel id="Evento_17_00_HR_CH__17_00_HR_CH___UNIVERSIDAD_DE_CHILE_2011_vs_UNIVERSIDAD_DE_CHILE_TODOS_LOS_TIEMPOS___16_00_1">
     <display-name>17:00 HR CH | UNIVERSIDAD DE CHILE 2011 vs UNIVERSIDAD DE CHILE TODOS LOS TIEMPOS | 16:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Am_rica___Brasil_vs_Venezuela___ES_HD_____12_30_1">
-    <display-name>Evento | ◘ Copa América ◘ Brasil vs Venezuela ◘ ES-HD ◘ | 12:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Am_rica___Uruguay_vs_Per____ES_HD_____15_00_1">
     <display-name>Evento | ◘ Copa América ◘ Uruguay vs Perú ◘ ES-HD ◘ | 15:00</display-name>
   </channel>
@@ -141158,12 +141155,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Liga_Honduras___Motagua_vs_Platense___ES_HD_____20_30_1">
     <display-name>Evento | ◘ Liga Honduras ◘ Motagua vs Platense ◘ ES-HD ◘ | 20:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____03_30_1">
-    <display-name>Evento | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘ | 03:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____05_30_1">
-    <display-name>Evento | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘ | 05:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Australian_Open___Carlos_Alcaraz_vs_Alexander_Zverev__Semifinales_Masculinas____EN_HD_____22_25_1">
     <display-name>Evento | ◘ Australian Open ◘ Carlos Alcaraz vs Alexander Zverev (Semifinales Masculinas) ◘ EN-HD ◘ | 22:25</display-name>
@@ -141957,15 +141948,6 @@
   <programme start="20260129200000 -0600" stop="20260129235959 -0600" channel="Evento_17_00_HR_CH__17_00_HR_CH___UNIVERSIDAD_DE_CHILE_2011_vs_UNIVERSIDAD_DE_CHILE_TODOS_LOS_TIEMPOS___16_00_1">
     <title>Finalizado | UNIVERSIDAD DE CHILE 2011 vs UNIVERSIDAD DE CHILE TODOS LOS TIEMPOS</title>
   </programme>
-  <programme start="20260129000000 -0600" stop="20260129123000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Brasil_vs_Venezuela___ES_HD_____12_30_1">
-    <title>Próximamente | 12:30 | ◘ Copa América ◘ Brasil vs Venezuela ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260129123000 -0600" stop="20260129153000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Brasil_vs_Venezuela___ES_HD_____12_30_1">
-    <title>⌾ En vivo | 12:30 | ◘ Copa América ◘ Brasil vs Venezuela ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260129153000 -0600" stop="20260129235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Brasil_vs_Venezuela___ES_HD_____12_30_1">
-    <title>Finalizado | ◘ Copa América ◘ Brasil vs Venezuela ◘ ES-HD ◘</title>
-  </programme>
   <programme start="20260129000000 -0600" stop="20260129150000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Am_rica___Uruguay_vs_Per____ES_HD_____15_00_1">
     <title>Próximamente | 15:00 | ◘ Copa América ◘ Uruguay vs Perú ◘ ES-HD ◘</title>
   </programme>
@@ -142172,24 +142154,6 @@
   </programme>
   <programme start="20260129233000 -0600" stop="20260129235959 -0600" channel="EVENTOS_VIP__Evento_____Liga_Honduras___Motagua_vs_Platense___ES_HD_____20_30_1">
     <title>Finalizado | ◘ Liga Honduras ◘ Motagua vs Platense ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260129000000 -0600" stop="20260129033000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____03_30_1">
-    <title>Próximamente | 03:30 | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129033000 -0600" stop="20260129063000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129063000 -0600" stop="20260129235959 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____03_30_1">
-    <title>Finalizado | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129000000 -0600" stop="20260129053000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____05_30_1">
-    <title>Próximamente | 05:30 | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129053000 -0600" stop="20260129083000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____05_30_1">
-    <title>⌾ En vivo | 05:30 | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260129083000 -0600" stop="20260129235959 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Semifinal___EN_HD_____05_30_1">
-    <title>Finalizado | ◘ Australian Open ◘ AO Anim vs ed: Women's Semifinal ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260129000000 -0600" stop="20260129222500 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___Carlos_Alcaraz_vs_Alexander_Zverev__Semifinales_Masculinas____EN_HD_____22_25_1">
     <title>Próximamente | 22:25 | ◘ Australian Open ◘ Carlos Alcaraz vs Alexander Zverev (Semifinales Masculinas) ◘ EN-HD ◘</title>
