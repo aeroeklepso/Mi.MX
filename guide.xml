@@ -133716,12 +133716,6 @@
   <channel id="EVENTOS_VIP__Evento_____UFC_325___Diego_Lopes_vs_Alex_Volkanovski___ES_HD___Preliminares___17_00_1">
     <display-name>Evento | ◘ UFC 325 ◘ Diego Lopes vs Alex Volkanovski ◘ ES-HD ◘ Preliminares | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_HD_____08_00_1">
-    <display-name>Evento | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-HD ◘ | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_SD_____08_00_1">
-    <display-name>Evento | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-SD ◘ | 08:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_HD_____10_15_1">
     <display-name>Evento | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-HD ◘ | 10:15</display-name>
   </channel>
@@ -133809,15 +133803,6 @@
   <channel id="EVENTOS_VIP__Evento_____Bundesliga___Hamburger_SV_vs_Bayern_Munich___ES_SD_____12_30_1">
     <display-name>Evento | ◘ Bundesliga ◘ Hamburger SV vs Bayern Munich ◘ ES-SD ◘ | 12:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Schalke_04___EN_HD_____07_00_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Bochum vs Schalke 04 ◘ EN-HD ◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Greuther_F_rth___EN_HD_____07_00_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Holstein Kiel vs Greuther Fürth ◘ EN-HD ◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Eintracht_Braunschweig_vs_Karlsruher_SC___EN_HD_____07_00_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Eintracht Braunschweig vs Karlsruher SC ◘ EN-HD ◘ | 07:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Kaiserslautern_vs_Elversberg___EN_HD_____14_30_1">
     <display-name>Evento | ◘ Bundesliga 2 ◘ Kaiserslautern vs Elversberg ◘ EN-HD ◘ | 14:30</display-name>
   </channel>
@@ -133847,9 +133832,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Ligue_1___AS_Monaco_vs_Rennes___ES_HD_____15_05_1">
     <display-name>Evento | ◘ Ligue 1 ◘ AS Monaco vs Rennes ◘ ES-HD ◘ | 15:05</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Championship___Stoke_City_vs_Southampton___EN_HD_____07_30_1">
-    <display-name>Evento | ◘ Championship ◘ Stoke City vs Southampton ◘ EN-HD ◘ | 07:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Championship___Sheffield_Wednesday_vs_Wrexham___EN_HD_____07_30_1">
     <display-name>Evento | ◘ Championship ◘ Sheffield Wednesday vs Wrexham ◘ EN-HD ◘ | 07:30</display-name>
@@ -134727,24 +134709,6 @@
   <programme start="20260131200000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____UFC_325___Diego_Lopes_vs_Alex_Volkanovski___ES_HD___Preliminares___17_00_1">
     <title>Finalizado | ◘ UFC 325 ◘ Diego Lopes vs Alex Volkanovski ◘ ES-HD ◘ Preliminares</title>
   </programme>
-  <programme start="20260131000000 -0600" stop="20260131080000 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_HD_____08_00_1">
-    <title>Próximamente | 08:00 | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260131080000 -0600" stop="20260131110000 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_HD_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260131110000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_HD_____08_00_1">
-    <title>Finalizado | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260131000000 -0600" stop="20260131080000 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_SD_____08_00_1">
-    <title>Próximamente | 08:00 | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-SD ◘</title>
-  </programme>
-  <programme start="20260131080000 -0600" stop="20260131110000 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_SD_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-SD ◘</title>
-  </programme>
-  <programme start="20260131110000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____R3al_Ovi3do_vs_Giron4___ES_SD_____08_00_1">
-    <title>Finalizado | ◘ L∆_LlG∆ ◘ R3al Ovi3do vs Giron4 ◘ ES-SD ◘</title>
-  </programme>
   <programme start="20260131000000 -0600" stop="20260131101500 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_HD_____10_15_1">
     <title>Próximamente | 10:15 | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-HD ◘</title>
   </programme>
@@ -135006,33 +134970,6 @@
   <programme start="20260131153000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga___Hamburger_SV_vs_Bayern_Munich___ES_SD_____12_30_1">
     <title>Finalizado | ◘ Bundesliga ◘ Hamburger SV vs Bayern Munich ◘ ES-SD ◘</title>
   </programme>
-  <programme start="20260131000000 -0600" stop="20260131070000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Schalke_04___EN_HD_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ Bundesliga 2 ◘ Bochum vs Schalke 04 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131070000 -0600" stop="20260131100000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Schalke_04___EN_HD_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Bundesliga 2 ◘ Bochum vs Schalke 04 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131100000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Bochum_vs_Schalke_04___EN_HD_____07_00_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Bochum vs Schalke 04 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131000000 -0600" stop="20260131070000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Greuther_F_rth___EN_HD_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ Bundesliga 2 ◘ Holstein Kiel vs Greuther Fürth ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131070000 -0600" stop="20260131100000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Greuther_F_rth___EN_HD_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Bundesliga 2 ◘ Holstein Kiel vs Greuther Fürth ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131100000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Holstein_Kiel_vs_Greuther_F_rth___EN_HD_____07_00_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Holstein Kiel vs Greuther Fürth ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131000000 -0600" stop="20260131070000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Eintracht_Braunschweig_vs_Karlsruher_SC___EN_HD_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ Bundesliga 2 ◘ Eintracht Braunschweig vs Karlsruher SC ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131070000 -0600" stop="20260131100000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Eintracht_Braunschweig_vs_Karlsruher_SC___EN_HD_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Bundesliga 2 ◘ Eintracht Braunschweig vs Karlsruher SC ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131100000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Eintracht_Braunschweig_vs_Karlsruher_SC___EN_HD_____07_00_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Eintracht Braunschweig vs Karlsruher SC ◘ EN-HD ◘</title>
-  </programme>
   <programme start="20260131000000 -0600" stop="20260131143000 -0600" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Kaiserslautern_vs_Elversberg___EN_HD_____14_30_1">
     <title>Próximamente | 14:30 | ◘ Bundesliga 2 ◘ Kaiserslautern vs Elversberg ◘ EN-HD ◘</title>
   </programme>
@@ -135122,15 +135059,6 @@
   </programme>
   <programme start="20260131180500 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Ligue_1___AS_Monaco_vs_Rennes___ES_HD_____15_05_1">
     <title>Finalizado | ◘ Ligue 1 ◘ AS Monaco vs Rennes ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260131000000 -0600" stop="20260131073000 -0600" channel="EVENTOS_VIP__Evento_____Championship___Stoke_City_vs_Southampton___EN_HD_____07_30_1">
-    <title>Próximamente | 07:30 | ◘ Championship ◘ Stoke City vs Southampton ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131073000 -0600" stop="20260131103000 -0600" channel="EVENTOS_VIP__Evento_____Championship___Stoke_City_vs_Southampton___EN_HD_____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Championship ◘ Stoke City vs Southampton ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131103000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Championship___Stoke_City_vs_Southampton___EN_HD_____07_30_1">
-    <title>Finalizado | ◘ Championship ◘ Stoke City vs Southampton ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260131000000 -0600" stop="20260131073000 -0600" channel="EVENTOS_VIP__Evento_____Championship___Sheffield_Wednesday_vs_Wrexham___EN_HD_____07_30_1">
     <title>Próximamente | 07:30 | ◘ Championship ◘ Sheffield Wednesday vs Wrexham ◘ EN-HD ◘</title>
