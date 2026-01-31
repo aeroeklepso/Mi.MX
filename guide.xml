@@ -133716,9 +133716,6 @@
   <channel id="EVENTOS_VIP__Evento_____UFC_325___Diego_Lopes_vs_Alex_Volkanovski___ES_HD___Preliminares___17_00_1">
     <display-name>Evento | ◘ UFC 325 ◘ Diego Lopes vs Alex Volkanovski ◘ ES-HD ◘ Preliminares | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_HD_____10_15_1">
-    <display-name>Evento | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-HD ◘ | 10:15</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_SD_____10_15_1">
     <display-name>Evento | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-SD ◘ | 10:15</display-name>
   </channel>
@@ -134708,15 +134705,6 @@
   </programme>
   <programme start="20260131200000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____UFC_325___Diego_Lopes_vs_Alex_Volkanovski___ES_HD___Preliminares___17_00_1">
     <title>Finalizado | ◘ UFC 325 ◘ Diego Lopes vs Alex Volkanovski ◘ ES-HD ◘ Preliminares</title>
-  </programme>
-  <programme start="20260131000000 -0600" stop="20260131101500 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_HD_____10_15_1">
-    <title>Próximamente | 10:15 | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260131101500 -0600" stop="20260131131500 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_HD_____10_15_1">
-    <title>⌾ En vivo | 10:15 | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260131131500 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_HD_____10_15_1">
-    <title>Finalizado | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-HD ◘</title>
   </programme>
   <programme start="20260131000000 -0600" stop="20260131101500 -0600" channel="EVENTOS_VIP__Evento_____L__LlG____Os4sun4_vs_Vill4rr3al___ES_SD_____10_15_1">
     <title>Próximamente | 10:15 | ◘ L∆_LlG∆ ◘ Os4sun4 vs Vill4rr3al ◘ ES-SD ◘</title>
