@@ -134046,9 +134046,6 @@
   <channel id="EVENTOS_VIP__Evento_____Australian_Open___Sabalenka_vs_Rybakina__Final____EN_HD_____03_30_1">
     <display-name>Evento | ◘ Australian Open ◘ Sabalenka vs Rybakina (Final) ◘ EN-HD ◘ | 03:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Championship___EN_HD_____03_30_1">
-    <display-name>Evento | ◘ Australian Open ◘ AO Anim vs ed: Women's Championship ◘ EN-HD ◘ | 03:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____NLL___Georgia_Swarm_vs_Halifax_Thunderbirds___EN_HD_____18_00_1">
     <display-name>Evento | ◘ NLL ◘ Georgia Swarm vs Halifax Thunderbirds ◘ EN-HD ◘ | 18:00</display-name>
   </channel>
@@ -135719,15 +135716,6 @@
   </programme>
   <programme start="20260131063000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___Sabalenka_vs_Rybakina__Final____EN_HD_____03_30_1">
     <title>Finalizado | ◘ Australian Open ◘ Sabalenka vs Rybakina (Final) ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131000000 -0600" stop="20260131033000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Championship___EN_HD_____03_30_1">
-    <title>Próximamente | 03:30 | ◘ Australian Open ◘ AO Anim vs ed: Women's Championship ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131033000 -0600" stop="20260131063000 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Championship___EN_HD_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ Australian Open ◘ AO Anim vs ed: Women's Championship ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260131063000 -0600" stop="20260131235959 -0600" channel="EVENTOS_VIP__Evento_____Australian_Open___AO_Anim_vs_ed__Women_s_Championship___EN_HD_____03_30_1">
-    <title>Finalizado | ◘ Australian Open ◘ AO Anim vs ed: Women's Championship ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260131000000 -0600" stop="20260131180000 -0600" channel="EVENTOS_VIP__Evento_____NLL___Georgia_Swarm_vs_Halifax_Thunderbirds___EN_HD_____18_00_1">
     <title>Próximamente | 18:00 | ◘ NLL ◘ Georgia Swarm vs Halifax Thunderbirds ◘ EN-HD ◘</title>
