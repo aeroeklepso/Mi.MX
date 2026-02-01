@@ -133494,15 +133494,6 @@
     <desc>Los coaches compiten por descubrir y entrenar al proximo fenomeno musical en la quinta noche de las Audiciones a Ciegas.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___EN_HD_____18_00_1">
-    <display-name>Evento | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ EN-HD ◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___ES_HD_____18_00_1">
-    <display-name>Evento | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ ES-HD ◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Boxing___Alan_Cantero_vs_Juan_Cruz_Unco___EN_HD_____20_30_1">
-    <display-name>Evento | ◘ Boxing ◘ Alan Cantero vs Juan Cruz Unco ◘ EN-HD ◘ | 20:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____NHL___Los_Angeles_Kings_vs_Carolina_Hurricanes___EN_HD_____15_00_1">
     <display-name>Evento | ◘ NHL ◘ Los Angeles Kings vs Carolina Hurricanes ◘ EN-HD ◘ | 15:00</display-name>
   </channel>
@@ -133854,33 +133845,6 @@
   <channel id="EVENTOS_VIP__Evento_____MASL___San_Diego_Sockers_vs_Tacoma_Stars___EN_HD_____18_00_1">
     <display-name>Evento | ◘ MASL ◘ San Diego Sockers vs Tacoma Stars ◘ EN-HD ◘ | 18:00</display-name>
   </channel>
-  <programme start="20260201060000" stop="20260202000000" channel="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___EN_HD_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260202000000" stop="20260202030000" channel="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___EN_HD_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260202030000" stop="20260202055959" channel="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___EN_HD_____18_00_1">
-    <title>Finalizado | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260201060000" stop="20260202000000" channel="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___ES_HD_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260202000000" stop="20260202030000" channel="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___ES_HD_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260202030000" stop="20260202055959" channel="EVENTOS_VIP__Evento_____Boxing___Shakur_Stevenson_vs_Teofimo_Lopez___ES_HD_____18_00_1">
-    <title>Finalizado | ◘ Boxing ◘ Shakur Stevenson vs Teofimo Lopez ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260201060000" stop="20260202023000" channel="EVENTOS_VIP__Evento_____Boxing___Alan_Cantero_vs_Juan_Cruz_Unco___EN_HD_____20_30_1">
-    <title>Próximamente | 20:30 | ◘ Boxing ◘ Alan Cantero vs Juan Cruz Unco ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260202023000" stop="20260202053000" channel="EVENTOS_VIP__Evento_____Boxing___Alan_Cantero_vs_Juan_Cruz_Unco___EN_HD_____20_30_1">
-    <title>⌾ En vivo | 20:30 | ◘ Boxing ◘ Alan Cantero vs Juan Cruz Unco ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260202053000" stop="20260202055959" channel="EVENTOS_VIP__Evento_____Boxing___Alan_Cantero_vs_Juan_Cruz_Unco___EN_HD_____20_30_1">
-    <title>Finalizado | ◘ Boxing ◘ Alan Cantero vs Juan Cruz Unco ◘ EN-HD ◘</title>
-  </programme>
   <programme start="20260201060000" stop="20260201210000" channel="EVENTOS_VIP__Evento_____NHL___Los_Angeles_Kings_vs_Carolina_Hurricanes___EN_HD_____15_00_1">
     <title>Próximamente | 15:00 | ◘ NHL ◘ Los Angeles Kings vs Carolina Hurricanes ◘ EN-HD ◘</title>
   </programme>
