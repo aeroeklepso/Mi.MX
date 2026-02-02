@@ -133803,6 +133803,21 @@
   <channel id="EVENTOS_VIP__Evento_____vs_P___Open_Occitanie___Primera_Ronda___EN_HD_____10_30_1">
     <display-name>Evento | ◘ vs P ◘ Open Occitanie – Primera Ronda ◘ EN-HD ◘ | 10:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA___North_Carolina_vs_NC_State___EN_HD_____18_00_1">
+    <display-name>Evento | ◘ NCAA ◘ North Carolina vs NC State ◘ EN-HD ◘ | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA___South_Carolina_vs_Texas_A_M___EN_HD_____20_00_1">
+    <display-name>Evento | ◘ NCAA ◘ South Carolina vs Texas A&amp;M ◘ EN-HD ◘ | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA___Syracuse_vs_North_Carolina___ESPN_4_____19_00_1">
+    <display-name>Evento | ◘ NCAA ◘ Syracuse vs North Carolina ◘ ESPN 4 ◘ | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA___Kansas_vs_Texas_Tech___EN_HD_____21_00_1">
+    <display-name>Evento | ◘ NCAA ◘ Kansas vs Texas Tech ◘ EN-HD ◘ | 21:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____NCAA_Men_s_Lacrosse___Robert_Morris_vs_Johns_Hopkins___EN_HD_____12_00_1">
+    <display-name>Evento | ◘ NCAA Men's Lacrosse ◘ Robert Morris vs Johns Hopkins ◘ EN-HD ◘ | 12:00</display-name>
+  </channel>
   <programme start="20260201000000 -0600" stop="20260201183000 -0600" channel="EVENTOS_VIP__Evento_____NHL___Boston_Bruins_vs_Tampa_Bay_Lightning___EN_HD_____18_30_1">
     <title>Próximamente | 18:30 | ◘ NHL ◘ Boston Bruins vs Tampa Bay Lightning ◘ EN-HD ◘</title>
   </programme>
@@ -134729,6 +134744,51 @@
   </programme>
   <programme start="20260201133000 -0600" stop="20260201235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Open_Occitanie___Primera_Ronda___EN_HD_____10_30_1">
     <title>Finalizado | ◘ vs P ◘ Open Occitanie – Primera Ronda ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201000000 -0600" stop="20260201180000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___North_Carolina_vs_NC_State___EN_HD_____18_00_1">
+    <title>Próximamente | 18:00 | ◘ NCAA ◘ North Carolina vs NC State ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201180000 -0600" stop="20260201210000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___North_Carolina_vs_NC_State___EN_HD_____18_00_1">
+    <title>⌾ En vivo | 18:00 | ◘ NCAA ◘ North Carolina vs NC State ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201210000 -0600" stop="20260201235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA___North_Carolina_vs_NC_State___EN_HD_____18_00_1">
+    <title>Finalizado | ◘ NCAA ◘ North Carolina vs NC State ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201000000 -0600" stop="20260201200000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___South_Carolina_vs_Texas_A_M___EN_HD_____20_00_1">
+    <title>Próximamente | 20:00 | ◘ NCAA ◘ South Carolina vs Texas A&amp;M ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201200000 -0600" stop="20260201230000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___South_Carolina_vs_Texas_A_M___EN_HD_____20_00_1">
+    <title>⌾ En vivo | 20:00 | ◘ NCAA ◘ South Carolina vs Texas A&amp;M ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201230000 -0600" stop="20260201235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA___South_Carolina_vs_Texas_A_M___EN_HD_____20_00_1">
+    <title>Finalizado | ◘ NCAA ◘ South Carolina vs Texas A&amp;M ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201000000 -0600" stop="20260201190000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___Syracuse_vs_North_Carolina___ESPN_4_____19_00_1">
+    <title>Próximamente | 19:00 | ◘ NCAA ◘ Syracuse vs North Carolina ◘ ESPN 4 ◘</title>
+  </programme>
+  <programme start="20260201190000 -0600" stop="20260201220000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___Syracuse_vs_North_Carolina___ESPN_4_____19_00_1">
+    <title>⌾ En vivo | 19:00 | ◘ NCAA ◘ Syracuse vs North Carolina ◘ ESPN 4 ◘</title>
+  </programme>
+  <programme start="20260201220000 -0600" stop="20260201235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA___Syracuse_vs_North_Carolina___ESPN_4_____19_00_1">
+    <title>Finalizado | ◘ NCAA ◘ Syracuse vs North Carolina ◘ ESPN 4 ◘</title>
+  </programme>
+  <programme start="20260201000000 -0600" stop="20260201210000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___Kansas_vs_Texas_Tech___EN_HD_____21_00_1">
+    <title>Próximamente | 21:00 | ◘ NCAA ◘ Kansas vs Texas Tech ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201210000 -0600" stop="20260202000000 -0600" channel="EVENTOS_VIP__Evento_____NCAA___Kansas_vs_Texas_Tech___EN_HD_____21_00_1">
+    <title>⌾ En vivo | 21:00 | ◘ NCAA ◘ Kansas vs Texas Tech ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260202000000 -0600" stop="20260201235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA___Kansas_vs_Texas_Tech___EN_HD_____21_00_1">
+    <title>Finalizado | ◘ NCAA ◘ Kansas vs Texas Tech ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201000000 -0600" stop="20260201120000 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Lacrosse___Robert_Morris_vs_Johns_Hopkins___EN_HD_____12_00_1">
+    <title>Próximamente | 12:00 | ◘ NCAA Men's Lacrosse ◘ Robert Morris vs Johns Hopkins ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201120000 -0600" stop="20260201150000 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Lacrosse___Robert_Morris_vs_Johns_Hopkins___EN_HD_____12_00_1">
+    <title>⌾ En vivo | 12:00 | ◘ NCAA Men's Lacrosse ◘ Robert Morris vs Johns Hopkins ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260201150000 -0600" stop="20260201235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Men_s_Lacrosse___Robert_Morris_vs_Johns_Hopkins___EN_HD_____12_00_1">
+    <title>Finalizado | ◘ NCAA Men's Lacrosse ◘ Robert Morris vs Johns Hopkins ◘ EN-HD ◘</title>
   </programme>
 </tv>
 
