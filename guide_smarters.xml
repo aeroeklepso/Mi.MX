@@ -132144,12 +132144,6 @@
   <channel id="EVENTOS_VIP__Evento_____Brasileir_o___Gr_mio_vs_Botafogo___ES_HD_____19_30_1">
     <display-name>Evento | ◘ Brasileirão ◘ Grêmio vs Botafogo ◘ ES-HD ◘ | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_HD_____20_00_1">
-    <display-name>Evento | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-HD ◘ | 20:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_SD_____20_00_1">
-    <display-name>Evento | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-SD ◘ | 20:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Vancouver_FC__CAN__vs_Cruz_Azul__MX____ES_HD_____22_00_1">
     <display-name>Evento | ◘ CONCACAF Champions Cup ◘ Vancouver FC (CAN) vs Cruz Azul (MX) ◘ ES-HD ◘ | 22:00</display-name>
   </channel>
@@ -132566,24 +132560,6 @@
   </programme>
   <programme start="20260205043000" stop="20260205055959" channel="EVENTOS_VIP__Evento_____Brasileir_o___Gr_mio_vs_Botafogo___ES_HD_____19_30_1">
     <title>Finalizado | ◘ Brasileirão ◘ Grêmio vs Botafogo ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260204060000" stop="20260205020000" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_HD_____20_00_1">
-    <title>Próximamente | 20:00 | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260205020000" stop="20260205050000" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_HD_____20_00_1">
-    <title>⌾ En vivo | 20:00 | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260205050000" stop="20260205055959" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_HD_____20_00_1">
-    <title>Finalizado | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-HD ◘</title>
-  </programme>
-  <programme start="20260204060000" stop="20260205020000" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_SD_____20_00_1">
-    <title>Próximamente | 20:00 | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-SD ◘</title>
-  </programme>
-  <programme start="20260205020000" stop="20260205050000" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_SD_____20_00_1">
-    <title>⌾ En vivo | 20:00 | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-SD ◘</title>
-  </programme>
-  <programme start="20260205050000" stop="20260205055959" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Club_Xelaj___GUA__vs_CF_Monterrey__MX____ES_SD_____20_00_1">
-    <title>Finalizado | ◘ CONCACAF Champions Cup ◘ Club Xelajú (GUA) vs CF Monterrey (MX) ◘ ES-SD ◘</title>
   </programme>
   <programme start="20260204060000" stop="20260205040000" channel="EVENTOS_VIP__Evento_____CONCACAF_Champions_Cup___Vancouver_FC__CAN__vs_Cruz_Azul__MX____ES_HD_____22_00_1">
     <title>Próximamente | 22:00 | ◘ CONCACAF Champions Cup ◘ Vancouver FC (CAN) vs Cruz Azul (MX) ◘ ES-HD ◘</title>
