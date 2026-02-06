@@ -132279,6 +132279,9 @@
   <channel id="EVENTOS_VIP__Evento_____1__HNL___Lokomotiva_Zagreb_vs_Gorica___EN_HD_____12_00_1">
     <display-name>Evento | ◘ 1. HNL ◘ Lokomotiva Zagreb vs Gorica ◘ EN-HD ◘ | 12:00</display-name>
   </channel>
+  <channel id="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <display-name>Copa Davis | CHILE vs SERBIA | 00:00</display-name>
+  </channel>
   <programme start="20260206000000 -0600" stop="20260206193000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Miami_He_vs_vs__Boston_Celtics___EN_HD_____19_30_1">
     <title>Próximamente | 19:30 | ◘ NBA ◘ Miami He vs vs. Boston Celtics ◘ EN-HD ◘</title>
   </programme>
@@ -133061,6 +133064,15 @@
   </programme>
   <programme start="20260206150000 -0600" stop="20260206235959 -0600" channel="EVENTOS_VIP__Evento_____1__HNL___Lokomotiva_Zagreb_vs_Gorica___EN_HD_____12_00_1">
     <title>Finalizado | ◘ 1. HNL ◘ Lokomotiva Zagreb vs Gorica ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260206000000 -0600" stop="20260206000000 -0600" channel="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <title>Próximamente | 00:00 | CHILE vs SERBIA</title>
+  </programme>
+  <programme start="20260206000000 -0600" stop="20260206030000 -0600" channel="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <title>⌾ En vivo | 00:00 | CHILE vs SERBIA</title>
+  </programme>
+  <programme start="20260206030000 -0600" stop="20260206235959 -0600" channel="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <title>Finalizado | CHILE vs SERBIA</title>
   </programme>
 </tv>
 
