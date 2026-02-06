@@ -132081,9 +132081,6 @@
   <channel id="EVENTOS_VIP__Evento_____Liga_Smartbank____Legan_s_vs_Granada___EN_HD_____14_30_1">
     <display-name>Evento | ◘ Liga Smartbank  ◘ Leganés vs Granada ◘ EN-HD ◘ | 14:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____A_League___Wellington_Phoenix_vs_Melbourne_Victory___EN_HD_____01_00_1">
-    <display-name>Evento | ◘ A-League ◘ Wellington Phoenix vs Melbourne Victory ◘ EN-HD ◘ | 01:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____A_League___Macarthur_vs_Perth_Glory___EN_HD_____03_35_1">
     <display-name>Evento | ◘ A-League ◘ Macarthur vs Perth Glory ◘ EN-HD ◘ | 03:35</display-name>
   </channel>
@@ -132092,12 +132089,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Championship___Charlton_vs_hletic_vs__Queens_Park_Rangers___EN_HD_____15_01_1">
     <display-name>Evento | ◘ Championship ◘ Charlton vs hletic vs. Queens Park Rangers ◘ EN-HD ◘ | 15:01</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Preu_en_M_nster_vs_Bochum___EN_HD_____12_30_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Preußen Münster vs Bochum ◘ EN-HD ◘ | 12:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bundesliga_2___Greuther_F_rth_vs_Magdeburg___EN_HD_____12_30_1">
-    <display-name>Evento | ◘ Bundesliga 2 ◘ Greuther Fürth vs Magdeburg ◘ EN-HD ◘ | 12:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Saudi_Pro_League___NEOM_vs_Al_Riyadh___PT_HD_____09_25_1">
     <display-name>Evento | ◘ Saudi Pro League ◘ NEOM vs Al Riyadh ◘ PT-HD ◘ | 09:25</display-name>
@@ -132128,9 +132119,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Eredivisie___NAC_Breda_vs_Excelsior___EN_HD_____14_00_1">
     <display-name>Evento | ◘ Eredivisie ◘ NAC Breda vs Excelsior ◘ EN-HD ◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____CONCACAF_U17___Jamaica_U17_vs_Aruba_U17___EN_HD_____12_00_1">
-    <display-name>Evento | ◘ CONCACAF U17 ◘ Jamaica U17 vs Aruba U17 ◘ EN-HD ◘ | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____CONCACAF_U17___Canada_U17_vs_Cayman_Islands_U17___EN_HD_____15_00_1">
     <display-name>Evento | ◘ CONCACAF U17 ◘ Canada U17 vs Cayman Islands U17 ◘ EN-HD ◘ | 15:00</display-name>
@@ -132278,6 +132266,9 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____1__HNL___Lokomotiva_Zagreb_vs_Gorica___EN_HD_____12_00_1">
     <display-name>Evento | ◘ 1. HNL ◘ Lokomotiva Zagreb vs Gorica ◘ EN-HD ◘ | 12:00</display-name>
+  </channel>
+  <channel id="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <display-name>Copa Davis | CHILE vs SERBIA | 00:00</display-name>
   </channel>
   <programme start="20260206060000" stop="20260207013000" channel="EVENTOS_VIP__Evento_____NBA___Miami_He_vs_vs__Boston_Celtics___EN_HD_____19_30_1">
     <title>Próximamente | 19:30 | ◘ NBA ◘ Miami He vs vs. Boston Celtics ◘ EN-HD ◘</title>
@@ -132468,15 +132459,6 @@
   <programme start="20260206233000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____Liga_Smartbank____Legan_s_vs_Granada___EN_HD_____14_30_1">
     <title>Finalizado | ◘ Liga Smartbank  ◘ Leganés vs Granada ◘ EN-HD ◘</title>
   </programme>
-  <programme start="20260206060000" stop="20260206070000" channel="EVENTOS_VIP__Evento_____A_League___Wellington_Phoenix_vs_Melbourne_Victory___EN_HD_____01_00_1">
-    <title>Próximamente | 01:00 | ◘ A-League ◘ Wellington Phoenix vs Melbourne Victory ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206070000" stop="20260206100000" channel="EVENTOS_VIP__Evento_____A_League___Wellington_Phoenix_vs_Melbourne_Victory___EN_HD_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ◘ A-League ◘ Wellington Phoenix vs Melbourne Victory ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206100000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____A_League___Wellington_Phoenix_vs_Melbourne_Victory___EN_HD_____01_00_1">
-    <title>Finalizado | ◘ A-League ◘ Wellington Phoenix vs Melbourne Victory ◘ EN-HD ◘</title>
-  </programme>
   <programme start="20260206060000" stop="20260206093500" channel="EVENTOS_VIP__Evento_____A_League___Macarthur_vs_Perth_Glory___EN_HD_____03_35_1">
     <title>Próximamente | 03:35 | ◘ A-League ◘ Macarthur vs Perth Glory ◘ EN-HD ◘</title>
   </programme>
@@ -132503,24 +132485,6 @@
   </programme>
   <programme start="20260207000100" stop="20260207055959" channel="EVENTOS_VIP__Evento_____Championship___Charlton_vs_hletic_vs__Queens_Park_Rangers___EN_HD_____15_01_1">
     <title>Finalizado | ◘ Championship ◘ Charlton vs hletic vs. Queens Park Rangers ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206060000" stop="20260206183000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Preu_en_M_nster_vs_Bochum___EN_HD_____12_30_1">
-    <title>Próximamente | 12:30 | ◘ Bundesliga 2 ◘ Preußen Münster vs Bochum ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206183000" stop="20260206213000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Preu_en_M_nster_vs_Bochum___EN_HD_____12_30_1">
-    <title>⌾ En vivo | 12:30 | ◘ Bundesliga 2 ◘ Preußen Münster vs Bochum ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206213000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Preu_en_M_nster_vs_Bochum___EN_HD_____12_30_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Preußen Münster vs Bochum ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206060000" stop="20260206183000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Greuther_F_rth_vs_Magdeburg___EN_HD_____12_30_1">
-    <title>Próximamente | 12:30 | ◘ Bundesliga 2 ◘ Greuther Fürth vs Magdeburg ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206183000" stop="20260206213000" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Greuther_F_rth_vs_Magdeburg___EN_HD_____12_30_1">
-    <title>⌾ En vivo | 12:30 | ◘ Bundesliga 2 ◘ Greuther Fürth vs Magdeburg ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206213000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____Bundesliga_2___Greuther_F_rth_vs_Magdeburg___EN_HD_____12_30_1">
-    <title>Finalizado | ◘ Bundesliga 2 ◘ Greuther Fürth vs Magdeburg ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260206060000" stop="20260206152500" channel="EVENTOS_VIP__Evento_____Saudi_Pro_League___NEOM_vs_Al_Riyadh___PT_HD_____09_25_1">
     <title>Próximamente | 09:25 | ◘ Saudi Pro League ◘ NEOM vs Al Riyadh ◘ PT-HD ◘</title>
@@ -132611,15 +132575,6 @@
   </programme>
   <programme start="20260206230000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____Eredivisie___NAC_Breda_vs_Excelsior___EN_HD_____14_00_1">
     <title>Finalizado | ◘ Eredivisie ◘ NAC Breda vs Excelsior ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206060000" stop="20260206180000" channel="EVENTOS_VIP__Evento_____CONCACAF_U17___Jamaica_U17_vs_Aruba_U17___EN_HD_____12_00_1">
-    <title>Próximamente | 12:00 | ◘ CONCACAF U17 ◘ Jamaica U17 vs Aruba U17 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206180000" stop="20260206210000" channel="EVENTOS_VIP__Evento_____CONCACAF_U17___Jamaica_U17_vs_Aruba_U17___EN_HD_____12_00_1">
-    <title>⌾ En vivo | 12:00 | ◘ CONCACAF U17 ◘ Jamaica U17 vs Aruba U17 ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260206210000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____CONCACAF_U17___Jamaica_U17_vs_Aruba_U17___EN_HD_____12_00_1">
-    <title>Finalizado | ◘ CONCACAF U17 ◘ Jamaica U17 vs Aruba U17 ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260206060000" stop="20260206210000" channel="EVENTOS_VIP__Evento_____CONCACAF_U17___Canada_U17_vs_Cayman_Islands_U17___EN_HD_____15_00_1">
     <title>Próximamente | 15:00 | ◘ CONCACAF U17 ◘ Canada U17 vs Cayman Islands U17 ◘ EN-HD ◘</title>
@@ -133061,6 +133016,15 @@
   </programme>
   <programme start="20260206210000" stop="20260207055959" channel="EVENTOS_VIP__Evento_____1__HNL___Lokomotiva_Zagreb_vs_Gorica___EN_HD_____12_00_1">
     <title>Finalizado | ◘ 1. HNL ◘ Lokomotiva Zagreb vs Gorica ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260206060000" stop="20260206060000" channel="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <title>Próximamente | 00:00 | CHILE vs SERBIA</title>
+  </programme>
+  <programme start="20260206060000" stop="20260206090000" channel="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <title>⌾ En vivo | 00:00 | CHILE vs SERBIA</title>
+  </programme>
+  <programme start="20260206090000" stop="20260207055959" channel="Evento_Copa_Davis__Copa_Davis___CHILE_vs_SERBIA___00_00_1">
+    <title>Finalizado | CHILE vs SERBIA</title>
   </programme>
 </tv>
 
