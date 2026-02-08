@@ -132381,9 +132381,6 @@
   <channel id="EVENTOS_VIP__Evento_____Campeon_vs_o_Carioca___Volta_Redonda_vs__Madureira___PT_HD_____19_00_1">
     <display-name>Evento | ◘ Campeon vs o Carioca ◘ Volta Redonda vs. Madureira ◘ PT-HD ◘ | 19:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____USL_Super_League___Sporting_JAX_vs_DC_Power___EN_HD_____17_00_1">
-    <display-name>Evento | ◘ USL Super League ◘ Sporting JAX vs DC Power ◘ EN-HD ◘ | 17:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____USL_Super_League___Fort_Lauderdale_United_vs_Dallas_Trinity___EN_HD_____20_00_1">
     <display-name>Evento | ◘ USL Super League ◘ Fort Lauderdale United vs Dallas Trinity ◘ EN-HD ◘ | 20:00</display-name>
   </channel>
@@ -134129,15 +134126,6 @@
   </programme>
   <programme start="20260208040000" stop="20260208055959" channel="EVENTOS_VIP__Evento_____Campeon_vs_o_Carioca___Volta_Redonda_vs__Madureira___PT_HD_____19_00_1">
     <title>Finalizado | ◘ Campeon vs o Carioca ◘ Volta Redonda vs. Madureira ◘ PT-HD ◘</title>
-  </programme>
-  <programme start="20260207060000" stop="20260207230000" channel="EVENTOS_VIP__Evento_____USL_Super_League___Sporting_JAX_vs_DC_Power___EN_HD_____17_00_1">
-    <title>Próximamente | 17:00 | ◘ USL Super League ◘ Sporting JAX vs DC Power ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260207230000" stop="20260208020000" channel="EVENTOS_VIP__Evento_____USL_Super_League___Sporting_JAX_vs_DC_Power___EN_HD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ USL Super League ◘ Sporting JAX vs DC Power ◘ EN-HD ◘</title>
-  </programme>
-  <programme start="20260208020000" stop="20260208055959" channel="EVENTOS_VIP__Evento_____USL_Super_League___Sporting_JAX_vs_DC_Power___EN_HD_____17_00_1">
-    <title>Finalizado | ◘ USL Super League ◘ Sporting JAX vs DC Power ◘ EN-HD ◘</title>
   </programme>
   <programme start="20260207060000" stop="20260208020000" channel="EVENTOS_VIP__Evento_____USL_Super_League___Fort_Lauderdale_United_vs_Dallas_Trinity___EN_HD_____20_00_1">
     <title>Próximamente | 20:00 | ◘ USL Super League ◘ Fort Lauderdale United vs Dallas Trinity ◘ EN-HD ◘</title>
