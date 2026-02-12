@@ -137010,6 +137010,12 @@
   <channel id="EVENTOS_VIP__Evento_____NBA___Dallas_Mavericks_vs_Los_Angeles_Lakers___EN_HD_____22_00_1">
     <display-name>Evento | ◘ NBA ◘ Dallas Mavericks vs Los Angeles Lakers ◘ EN-HD ◘ | 22:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_1___19_15_1">
+    <display-name>Evento | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 1 | 19:15</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_2___19_15_1">
+    <display-name>Evento | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 2 | 19:15</display-name>
+  </channel>
   <programme start="20260212000000 -0600" stop="20260212000000 -0600" channel="EVENTOS_VIP__Evento_____ICC___Sri_Lanka_vs_Oman___EN_HD_____00_00_1">
     <title>Próximamente | 00:00 | ◘ ICC ◘ Sri Lanka vs Oman ◘ EN-HD ◘</title>
   </programme>
@@ -137711,6 +137717,24 @@
   </programme>
   <programme start="20260213010000 -0600" stop="20260212235959 -0600" channel="EVENTOS_VIP__Evento_____NBA___Dallas_Mavericks_vs_Los_Angeles_Lakers___EN_HD_____22_00_1">
     <title>Finalizado | ◘ NBA ◘ Dallas Mavericks vs Los Angeles Lakers ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260212000000 -0600" stop="20260212191500 -0600" channel="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_1___19_15_1">
+    <title>Próximamente | 19:15 | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 1</title>
+  </programme>
+  <programme start="20260212191500 -0600" stop="20260212221500 -0600" channel="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_1___19_15_1">
+    <title>⌾ En vivo | 19:15 | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 1</title>
+  </programme>
+  <programme start="20260212221500 -0600" stop="20260212235959 -0600" channel="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_1___19_15_1">
+    <title>Finalizado | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 1</title>
+  </programme>
+  <programme start="20260212000000 -0600" stop="20260212191500 -0600" channel="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_2___19_15_1">
+    <title>Próximamente | 19:15 | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 2</title>
+  </programme>
+  <programme start="20260212191500 -0600" stop="20260212221500 -0600" channel="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_2___19_15_1">
+    <title>⌾ En vivo | 19:15 | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 2</title>
+  </programme>
+  <programme start="20260212221500 -0600" stop="20260212235959 -0600" channel="EVENTOS_VIP__Evento_____Liga_Profesional___Argentinos_Juniors_vs_River_Plate___ES_HD___OP_2___19_15_1">
+    <title>Finalizado | ◘ Liga Profesional ◘ Argentinos Juniors vs River Plate ◘ ES-HD ◘ OP 2</title>
   </programme>
 </tv>
 
