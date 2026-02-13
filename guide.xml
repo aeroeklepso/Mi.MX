@@ -135747,6 +135747,9 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_Baseball___Gonzaga_vs_Hawaii___EN_HD_____23_30_1">
     <display-name>Evento | ◘ NCAA Baseball ◘ Gonzaga vs Hawaii ◘ EN-HD ◘ | 23:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Amistoso___Barcelona_SC_vs_Aucas___00_00_1">
+    <display-name>Evento | Amistoso - Barcelona SC vs Aucas | 00:00</display-name>
+  </channel>
   <programme start="20260213000000 -0600" stop="20260213150000 -0600" channel="EVENTOS_VIP__Evento_____LaLiga___Elche_vs_Osasuna___ES_HD_____15_00_1">
     <title>Próximamente | 15:00 | ◘ LaLiga ◘ Elche vs Osasuna ◘ ES-HD ◘</title>
   </programme>
@@ -137483,6 +137486,15 @@
   </programme>
   <programme start="20260214023000 -0600" stop="20260213235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Baseball___Gonzaga_vs_Hawaii___EN_HD_____23_30_1">
     <title>Finalizado | ◘ NCAA Baseball ◘ Gonzaga vs Hawaii ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260213000000 -0600" stop="20260213000000 -0600" channel="EVENTOS_VIP__Evento___Amistoso___Barcelona_SC_vs_Aucas___00_00_1">
+    <title>Próximamente | 00:00 | Amistoso - Barcelona SC vs Aucas</title>
+  </programme>
+  <programme start="20260213000000 -0600" stop="20260213030000 -0600" channel="EVENTOS_VIP__Evento___Amistoso___Barcelona_SC_vs_Aucas___00_00_1">
+    <title>⌾ En vivo | 00:00 | Amistoso - Barcelona SC vs Aucas</title>
+  </programme>
+  <programme start="20260213030000 -0600" stop="20260213235959 -0600" channel="EVENTOS_VIP__Evento___Amistoso___Barcelona_SC_vs_Aucas___00_00_1">
+    <title>Finalizado | Amistoso - Barcelona SC vs Aucas</title>
   </programme>
 </tv>
 
