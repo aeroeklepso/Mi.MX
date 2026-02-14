@@ -133152,6 +133152,9 @@
   <channel id="EVENTOS_VIP__Evento_____Boxeo___Marco_Huck_vs_Vaclav_Pejsar___EN_HD_____14_30_1">
     <display-name>Evento | ◘ Boxeo ◘ Marco Huck vs Vaclav Pejsar ◘ EN-HD ◘ | 14:30</display-name>
   </channel>
+  <channel id="Evento_NXT_Best_Bets_SX_Round_6_Seattle__NXT_Best_Bets_SX_Round_6_Seattle___NXT_Best_Bets_SX_Round_6_Se_vs_tle___00_00_1">
+    <display-name>NXT Best Bets SX Round 6 Seattle | NXT Best Bets SX Round 6 Se vs tle | 00:00</display-name>
+  </channel>
   <programme start="20260214000000 -0600" stop="20260214080000 -0600" channel="EVENTOS_VIP__Evento_____LaLiga___Espanyol_vs_Celta_de_Vigo___ES_HD_____08_00_1">
     <title>Próximamente | 08:00 | ◘ LaLiga ◘ Espanyol vs Celta de Vigo ◘ ES-HD ◘</title>
   </programme>
@@ -135653,6 +135656,15 @@
   </programme>
   <programme start="20260214173000 -0600" stop="20260214235959 -0600" channel="EVENTOS_VIP__Evento_____Boxeo___Marco_Huck_vs_Vaclav_Pejsar___EN_HD_____14_30_1">
     <title>Finalizado | ◘ Boxeo ◘ Marco Huck vs Vaclav Pejsar ◘ EN-HD ◘</title>
+  </programme>
+  <programme start="20260214000000 -0600" stop="20260214000000 -0600" channel="Evento_NXT_Best_Bets_SX_Round_6_Seattle__NXT_Best_Bets_SX_Round_6_Seattle___NXT_Best_Bets_SX_Round_6_Se_vs_tle___00_00_1">
+    <title>Próximamente | 00:00 | NXT Best Bets SX Round 6 Se vs tle</title>
+  </programme>
+  <programme start="20260214000000 -0600" stop="20260214030000 -0600" channel="Evento_NXT_Best_Bets_SX_Round_6_Seattle__NXT_Best_Bets_SX_Round_6_Seattle___NXT_Best_Bets_SX_Round_6_Se_vs_tle___00_00_1">
+    <title>⌾ En vivo | 00:00 | NXT Best Bets SX Round 6 Se vs tle</title>
+  </programme>
+  <programme start="20260214030000 -0600" stop="20260214235959 -0600" channel="Evento_NXT_Best_Bets_SX_Round_6_Seattle__NXT_Best_Bets_SX_Round_6_Seattle___NXT_Best_Bets_SX_Round_6_Se_vs_tle___00_00_1">
+    <title>Finalizado | NXT Best Bets SX Round 6 Se vs tle</title>
   </programme>
 </tv>
 
