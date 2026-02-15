@@ -131793,6 +131793,9 @@
   <channel id="Evento_NBA__All_Star_Saturday_Night__NBA__All_Star_Saturday_Night___NBA__All_Star_S_vs_urday_Night___17_00_UTC__5___OP_2___17_00_1">
     <display-name>NBA: All-Star Saturday Night | NBA: All-Star S vs urday Night | 17:00 UTC -5 | OP 2 | 17:00</display-name>
   </channel>
+  <channel id="Evento_LigaMX__LigaMX_____Liga_MX___Guadalajara_vs_Am_rica___ES_HD_____21_07_2">
+    <display-name>LigaMX | ◘ Liga MX ◘ Guadalajara vs América ◘ ES-HD ◘ | 21:07</display-name>
+  </channel>
   <programme start="20260214000000 -0600" stop="20260214101500 -0600" channel="EVENTOS_VIP__Evento_____LaLiga___Getafe_vs_Villarreal___ES_HD_____10_15_1">
     <title>Próximamente | 10:15 | ◘ LaLiga ◘ Getafe vs Villarreal ◘ ES-HD ◘</title>
   </programme>
@@ -132737,6 +132740,15 @@
   </programme>
   <programme start="20260214200000 -0600" stop="20260214235959 -0600" channel="Evento_NBA__All_Star_Saturday_Night__NBA__All_Star_Saturday_Night___NBA__All_Star_S_vs_urday_Night___17_00_UTC__5___OP_2___17_00_1">
     <title>Finalizado | NBA: All-Star S vs urday Night</title>
+  </programme>
+  <programme start="20260214000000 -0600" stop="20260214210700 -0600" channel="Evento_LigaMX__LigaMX_____Liga_MX___Guadalajara_vs_Am_rica___ES_HD_____21_07_2">
+    <title>Próximamente | 21:07 | ◘ Liga MX ◘ Guadalajara vs América ◘ ES-HD ◘</title>
+  </programme>
+  <programme start="20260214210700 -0600" stop="20260215000700 -0600" channel="Evento_LigaMX__LigaMX_____Liga_MX___Guadalajara_vs_Am_rica___ES_HD_____21_07_2">
+    <title>⌾ En vivo | 21:07 | ◘ Liga MX ◘ Guadalajara vs América ◘ ES-HD ◘</title>
+  </programme>
+  <programme start="20260215000700 -0600" stop="20260214235959 -0600" channel="Evento_LigaMX__LigaMX_____Liga_MX___Guadalajara_vs_Am_rica___ES_HD_____21_07_2">
+    <title>Finalizado | ◘ Liga MX ◘ Guadalajara vs América ◘ ES-HD ◘</title>
   </programme>
 </tv>
 
