@@ -132819,6 +132819,9 @@
   <channel id="Evento_EREDIVISE__EREDIVISE___Go_Ahead_Eagles_vs_Heracles___00_00_1">
     <display-name>EREDIVISE | Go Ahead Eagles vs Heracles | 00:00</display-name>
   </channel>
+  <channel id="Evento_EREDIVISIE__EREDIVISIE___Feyenoord_vs_Telstar___00_00_1">
+    <display-name>EREDIVISIE | Feyenoord vs Telstar | 00:00</display-name>
+  </channel>
   <programme start="20260222000000 -0600" stop="20260222090000 -0600" channel="EVENTOS_VIP__Evento_____Premier_League___Sunderland_vs_Fulham___ES_HD_____09_00_1">
     <title>Próximamente | 09:00 | ◘ Premier League ◘ Sunderland vs Fulham ◘ ES-HD ◘</title>
   </programme>
@@ -134249,6 +134252,15 @@
   </programme>
   <programme start="20260222030000 -0600" stop="20260222235959 -0600" channel="Evento_EREDIVISE__EREDIVISE___Go_Ahead_Eagles_vs_Heracles___00_00_1">
     <title>Finalizado | Go Ahead Eagles vs Heracles</title>
+  </programme>
+  <programme start="20260222000000 -0600" stop="20260222000000 -0600" channel="Evento_EREDIVISIE__EREDIVISIE___Feyenoord_vs_Telstar___00_00_1">
+    <title>Próximamente | 00:00 | Feyenoord vs Telstar</title>
+  </programme>
+  <programme start="20260222000000 -0600" stop="20260222030000 -0600" channel="Evento_EREDIVISIE__EREDIVISIE___Feyenoord_vs_Telstar___00_00_1">
+    <title>⌾ En vivo | 00:00 | Feyenoord vs Telstar</title>
+  </programme>
+  <programme start="20260222030000 -0600" stop="20260222235959 -0600" channel="Evento_EREDIVISIE__EREDIVISIE___Feyenoord_vs_Telstar___00_00_1">
+    <title>Finalizado | Feyenoord vs Telstar</title>
   </programme>
 </tv>
 
