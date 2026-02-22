@@ -133191,6 +133191,9 @@
   <channel id="EVENTOS_VIP__Evento___Cerro_Porte_o_vs_Olimpia_OP_2___00_00_1">
     <display-name>Evento | Cerro Porteño vs Olimpia OP 2 | 00:00</display-name>
   </channel>
+  <channel id="Evento_NCAA__NCAA___Michigan_vs_Duke___00_00_1">
+    <display-name>NCAA | Michigan vs Duke | 00:00</display-name>
+  </channel>
   <programme start="20260221060000" stop="20260221230000" channel="EVENTOS_VIP__Evento_____NBA___Orlando_Magic_vs_Phoenix_Suns___ES_HD_____17_00_1">
     <title>Próximamente | 17:00 | ○ NBA ○ Orlando Magic vs Phoenix Suns ○ ES-HD ○</title>
   </programme>
@@ -135737,6 +135740,15 @@
   </programme>
   <programme start="20260221090000" stop="20260222055959" channel="EVENTOS_VIP__Evento___Cerro_Porte_o_vs_Olimpia_OP_2___00_00_1">
     <title>Finalizado | Cerro Porteño vs Olimpia OP 2</title>
+  </programme>
+  <programme start="20260221060000" stop="20260221060000" channel="Evento_NCAA__NCAA___Michigan_vs_Duke___00_00_1">
+    <title>Próximamente | 00:00 | Michigan vs Duke</title>
+  </programme>
+  <programme start="20260221060000" stop="20260221090000" channel="Evento_NCAA__NCAA___Michigan_vs_Duke___00_00_1">
+    <title>⌾ En vivo | 00:00 | Michigan vs Duke</title>
+  </programme>
+  <programme start="20260221090000" stop="20260222055959" channel="Evento_NCAA__NCAA___Michigan_vs_Duke___00_00_1">
+    <title>Finalizado | Michigan vs Duke</title>
   </programme>
 </tv>
 
