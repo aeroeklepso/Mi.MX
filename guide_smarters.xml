@@ -132360,15 +132360,6 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_Women_s_Lacrosse____13_Loyola_Maryland_vs__15_Syracuse___En_720p_____17_00_1">
     <display-name>Evento | □ NCAA Women’s Lacrosse □ #13 Loyola Maryland vs #15 Syracuse □ En-720p □ | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIH_Pro_League___Espa_a_vs_India___En_720p_____03_30_1">
-    <display-name>Evento | □ FIH Pro League □ España vs India □ En-720p □ | 03:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____ICC_T20_WC___Ingl_vs_erra_vs__Pakistan___En_720p_____08_00_1">
-    <display-name>Evento | □ ICC T20 WC □ Ingl vs erra vs. Pakistan □ En-720p □ | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Women_s_FIH_Pro_League___Espa_a_vs_China___En_720p_____01_30_1">
-    <display-name>Evento | □ Women’s FIH Pro League □ España vs China □ En-720p □ | 01:30</display-name>
-  </channel>
   <programme start="20260224060000" stop="20260225010000" channel="EVENTOS_VIP__Evento_____NBA___Philadelphia_76ers_vs_Indiana_Pacers___En_720p_____19_00_1">
     <title>Próximamente | 19:00 | □ NBA □ Philadelphia 76ers vs Indiana Pacers □ En-720p □</title>
   </programme>
@@ -133412,33 +133403,6 @@
   </programme>
   <programme start="20260225020000" stop="20260225055959" channel="EVENTOS_VIP__Evento_____NCAA_Women_s_Lacrosse____13_Loyola_Maryland_vs__15_Syracuse___En_720p_____17_00_1">
     <title>Finalizado | □ NCAA Women’s Lacrosse □ #13 Loyola Maryland vs #15 Syracuse □ En-720p □</title>
-  </programme>
-  <programme start="20260224060000" stop="20260224093000" channel="EVENTOS_VIP__Evento_____FIH_Pro_League___Espa_a_vs_India___En_720p_____03_30_1">
-    <title>Próximamente | 03:30 | □ FIH Pro League □ España vs India □ En-720p □</title>
-  </programme>
-  <programme start="20260224093000" stop="20260224123000" channel="EVENTOS_VIP__Evento_____FIH_Pro_League___Espa_a_vs_India___En_720p_____03_30_1">
-    <title>⌾ En vivo | 03:30 | □ FIH Pro League □ España vs India □ En-720p □</title>
-  </programme>
-  <programme start="20260224123000" stop="20260225055959" channel="EVENTOS_VIP__Evento_____FIH_Pro_League___Espa_a_vs_India___En_720p_____03_30_1">
-    <title>Finalizado | □ FIH Pro League □ España vs India □ En-720p □</title>
-  </programme>
-  <programme start="20260224060000" stop="20260224140000" channel="EVENTOS_VIP__Evento_____ICC_T20_WC___Ingl_vs_erra_vs__Pakistan___En_720p_____08_00_1">
-    <title>Próximamente | 08:00 | □ ICC T20 WC □ Ingl vs erra vs. Pakistan □ En-720p □</title>
-  </programme>
-  <programme start="20260224140000" stop="20260224170000" channel="EVENTOS_VIP__Evento_____ICC_T20_WC___Ingl_vs_erra_vs__Pakistan___En_720p_____08_00_1">
-    <title>⌾ En vivo | 08:00 | □ ICC T20 WC □ Ingl vs erra vs. Pakistan □ En-720p □</title>
-  </programme>
-  <programme start="20260224170000" stop="20260225055959" channel="EVENTOS_VIP__Evento_____ICC_T20_WC___Ingl_vs_erra_vs__Pakistan___En_720p_____08_00_1">
-    <title>Finalizado | □ ICC T20 WC □ Ingl vs erra vs. Pakistan □ En-720p □</title>
-  </programme>
-  <programme start="20260224060000" stop="20260224073000" channel="EVENTOS_VIP__Evento_____Women_s_FIH_Pro_League___Espa_a_vs_China___En_720p_____01_30_1">
-    <title>Próximamente | 01:30 | □ Women’s FIH Pro League □ España vs China □ En-720p □</title>
-  </programme>
-  <programme start="20260224073000" stop="20260224103000" channel="EVENTOS_VIP__Evento_____Women_s_FIH_Pro_League___Espa_a_vs_China___En_720p_____01_30_1">
-    <title>⌾ En vivo | 01:30 | □ Women’s FIH Pro League □ España vs China □ En-720p □</title>
-  </programme>
-  <programme start="20260224103000" stop="20260225055959" channel="EVENTOS_VIP__Evento_____Women_s_FIH_Pro_League___Espa_a_vs_China___En_720p_____01_30_1">
-    <title>Finalizado | □ Women’s FIH Pro League □ España vs China □ En-720p □</title>
   </programme>
 </tv>
 
