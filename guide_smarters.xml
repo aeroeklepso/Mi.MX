@@ -131643,9 +131643,6 @@
   <channel id="EVENTOS_VIP__Evento_____CONCACAF_WQ___Puerto_Rico_vs_St__Vincent___The_Grenadines___ES_720p_____18_50_1">
     <display-name>Evento | ◌ CONCACAF WQ ◌ Puerto Rico vs St. Vincent &amp; The Grenadines ◌ ES-720p ◌ | 18:50</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Primera_B_Chile___Deportes_Santa_Cruz_vs_Cobreloa___ES_720p_____18_30_1">
-    <display-name>Evento | ◌ Primera B Chile ◌ Deportes Santa Cruz vs Cobreloa ◌ ES-720p ◌ | 18:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Primera_Chile___Uni_n_La_Calera_vs_Audax_Italiano___ES_720p_____18_30_1">
     <display-name>Evento | ◌ Primera Chile ◌ Unión La Calera vs Audax Italiano ◌ ES-720p ◌ | 18:30</display-name>
   </channel>
@@ -132242,15 +132239,6 @@
   </programme>
   <programme start="20260228035000" stop="20260228055959" channel="EVENTOS_VIP__Evento_____CONCACAF_WQ___Puerto_Rico_vs_St__Vincent___The_Grenadines___ES_720p_____18_50_1">
     <title>Finalizado | ◌ CONCACAF WQ ◌ Puerto Rico vs St. Vincent &amp; The Grenadines ◌ ES-720p ◌</title>
-  </programme>
-  <programme start="20260227060000" stop="20260228003000" channel="EVENTOS_VIP__Evento_____Primera_B_Chile___Deportes_Santa_Cruz_vs_Cobreloa___ES_720p_____18_30_1">
-    <title>Próximamente | 18:30 | ◌ Primera B Chile ◌ Deportes Santa Cruz vs Cobreloa ◌ ES-720p ◌</title>
-  </programme>
-  <programme start="20260228003000" stop="20260228033000" channel="EVENTOS_VIP__Evento_____Primera_B_Chile___Deportes_Santa_Cruz_vs_Cobreloa___ES_720p_____18_30_1">
-    <title>⌾ En vivo | 18:30 | ◌ Primera B Chile ◌ Deportes Santa Cruz vs Cobreloa ◌ ES-720p ◌</title>
-  </programme>
-  <programme start="20260228033000" stop="20260228055959" channel="EVENTOS_VIP__Evento_____Primera_B_Chile___Deportes_Santa_Cruz_vs_Cobreloa___ES_720p_____18_30_1">
-    <title>Finalizado | ◌ Primera B Chile ◌ Deportes Santa Cruz vs Cobreloa ◌ ES-720p ◌</title>
   </programme>
   <programme start="20260227060000" stop="20260228003000" channel="EVENTOS_VIP__Evento_____Primera_Chile___Uni_n_La_Calera_vs_Audax_Italiano___ES_720p_____18_30_1">
     <title>Próximamente | 18:30 | ◌ Primera Chile ◌ Unión La Calera vs Audax Italiano ◌ ES-720p ◌</title>
