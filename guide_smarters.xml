@@ -132177,6 +132177,9 @@
   <channel id="EVENTOS_VIP__Evento_____Women_s_Lacrosse_League___Maryland_Charm_vs_New_York_Charging__Round_Robin____en_720p_____14_00_1">
     <display-name>Evento | ◌ Women's Lacrosse League ◌ Maryland Charm vs New York Charging (Round Robin) ◌ en-720p ◌ | 14:00</display-name>
   </channel>
+  <channel id="Evento_WWE__WWE_____WWE___ELIMIN_vs_ION_CHAMBER_VAULT___18_00_1">
+    <display-name>WWE | | WWE | ELIMIN vs ION CHAMBER VAULT | 18:00</display-name>
+  </channel>
   <programme start="20260228060000" stop="20260228183000" channel="EVENTOS_VIP__Evento_____NHL___Pittsburgh_Penguins_vs_New_York_Rangers___en_720p_____12_30_1">
     <title>Próximamente | 12:30 | ◌ NHL ◌ Pittsburgh Penguins vs New York Rangers ◌ en-720p ◌</title>
   </programme>
@@ -134273,6 +134276,15 @@
   </programme>
   <programme start="20260228230000" stop="20260301055959" channel="EVENTOS_VIP__Evento_____Women_s_Lacrosse_League___Maryland_Charm_vs_New_York_Charging__Round_Robin____en_720p_____14_00_1">
     <title>Finalizado | ◌ Women's Lacrosse League ◌ Maryland Charm vs New York Charging (Round Robin) ◌ en-720p ◌</title>
+  </programme>
+  <programme start="20260228060000" stop="20260301000000" channel="Evento_WWE__WWE_____WWE___ELIMIN_vs_ION_CHAMBER_VAULT___18_00_1">
+    <title>Próximamente | 18:00 | ELIMIN vs ION CHAMBER VAULT</title>
+  </programme>
+  <programme start="20260301000000" stop="20260301030000" channel="Evento_WWE__WWE_____WWE___ELIMIN_vs_ION_CHAMBER_VAULT___18_00_1">
+    <title>⌾ En vivo | 18:00 | ELIMIN vs ION CHAMBER VAULT</title>
+  </programme>
+  <programme start="20260301030000" stop="20260301055959" channel="Evento_WWE__WWE_____WWE___ELIMIN_vs_ION_CHAMBER_VAULT___18_00_1">
+    <title>Finalizado | ELIMIN vs ION CHAMBER VAULT</title>
   </programme>
 </tv>
 
