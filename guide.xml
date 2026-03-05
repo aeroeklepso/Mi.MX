@@ -130368,6 +130368,9 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_W_vs_er_Polo_Femenino___Michigan_vs__UC_San_Diego___en_720p_____21_00_1">
     <display-name>Evento | ◌ NCAA W vs er Polo Femenino ◌ Michigan vs. UC San Diego ◌ en-720p ◌ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Dep__Cuenca_vs_Libertad_FC___00_00_1">
+    <display-name>Evento | Dep. Cuenca vs Libertad FC | 00:00</display-name>
+  </channel>
   <programme start="20260304000000 -0600" stop="20260304190000 -0600" channel="EVENTOS_VIP__Evento_____NHL___Vegas_Golden_Knights_vs_Detroit_Red_Wings___en_720p_____19_00_1">
     <title>Próximamente | 19:00 | ◌ NHL ◌ Vegas Golden Knights vs Detroit Red Wings ◌ en-720p ◌</title>
   </programme>
@@ -131285,6 +131288,15 @@
   </programme>
   <programme start="20260305000000 -0600" stop="20260304235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA_W_vs_er_Polo_Femenino___Michigan_vs__UC_San_Diego___en_720p_____21_00_1">
     <title>Finalizado | ◌ NCAA W vs er Polo Femenino ◌ Michigan vs. UC San Diego ◌ en-720p ◌</title>
+  </programme>
+  <programme start="20260304000000 -0600" stop="20260304000000 -0600" channel="EVENTOS_VIP__Evento___Dep__Cuenca_vs_Libertad_FC___00_00_1">
+    <title>Próximamente | 00:00 | Dep. Cuenca vs Libertad FC</title>
+  </programme>
+  <programme start="20260304000000 -0600" stop="20260304030000 -0600" channel="EVENTOS_VIP__Evento___Dep__Cuenca_vs_Libertad_FC___00_00_1">
+    <title>⌾ En vivo | 00:00 | Dep. Cuenca vs Libertad FC</title>
+  </programme>
+  <programme start="20260304030000 -0600" stop="20260304235959 -0600" channel="EVENTOS_VIP__Evento___Dep__Cuenca_vs_Libertad_FC___00_00_1">
+    <title>Finalizado | Dep. Cuenca vs Libertad FC</title>
   </programme>
 </tv>
 
