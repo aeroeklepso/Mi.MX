@@ -135762,12 +135762,6 @@
   <channel id="EVENTOS_VIP__Evento_____MLB_Spring___Chicago_Cubs_vs_San_Diego_Padres___en_720p_____20_10_1">
     <display-name>Evento | ◌ MLB Spring ◌ Chicago Cubs vs San Diego Padres ◌ en-720p ◌ | 20:10</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_720p_____05_00_1">
-    <display-name>Evento | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-720p ◌ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_540p_____05_00_1">
-    <display-name>Evento | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-540p ◌ | 05:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____World_Baseball_Classic___Cuba_vs_Panama___en_720p_____11_00_1">
     <display-name>Evento | ◌ World Baseball Classic ◌ Cuba vs Panama ◌ en-720p ◌ | 11:00</display-name>
   </channel>
@@ -135975,12 +135969,6 @@
   <channel id="Evento_LigaMX__LigaMX_____Liga_MX___Necaxa_vs_Pumas_UNAM___es_720p_____21_00_1">
     <display-name>LigaMX | ◌ Liga MX ◌ Necaxa vs Pumas UNAM ◌ es-720p ◌ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___Chiefs_vs_Moana_Pasifika___en_720p_____01_00_1">
-    <display-name>Evento | ◌ Super Rugby Pacific ◌ Chiefs vs Moana Pasifika ◌ en-720p ◌ | 01:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___War_vs_ahs_vs__Hurricanes___en_720p_____03_30_1">
-    <display-name>Evento | ◌ Super Rugby Pacific ◌ War vs ahs vs. Hurricanes ◌ en-720p ◌ | 03:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Super_Rugby_Americas___Pampas_XV_vs_Capibaras_XV___en_720p_____16_55_1">
     <display-name>Evento | ◌ Super Rugby Americas ◌ Pampas XV vs Capibaras XV ◌ en-720p ◌ | 16:55</display-name>
   </channel>
@@ -136181,24 +136169,6 @@
   </programme>
   <programme start="20260306231000 -0600" stop="20260306235959 -0600" channel="EVENTOS_VIP__Evento_____MLB_Spring___Chicago_Cubs_vs_San_Diego_Padres___en_720p_____20_10_1">
     <title>Finalizado | ◌ MLB Spring ◌ Chicago Cubs vs San Diego Padres ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306000000 -0600" stop="20260306050000 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_720p_____05_00_1">
-    <title>Próximamente | 05:00 | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306050000 -0600" stop="20260306080000 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_720p_____05_00_1">
-    <title>⌾ En vivo | 05:00 | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306080000 -0600" stop="20260306235959 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_720p_____05_00_1">
-    <title>Finalizado | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306000000 -0600" stop="20260306050000 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_540p_____05_00_1">
-    <title>Próximamente | 05:00 | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-540p ◌</title>
-  </programme>
-  <programme start="20260306050000 -0600" stop="20260306080000 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_540p_____05_00_1">
-    <title>⌾ En vivo | 05:00 | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-540p ◌</title>
-  </programme>
-  <programme start="20260306080000 -0600" stop="20260306235959 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Japan_vs_Chinese_Taipei___en_540p_____05_00_1">
-    <title>Finalizado | ◌ World Baseball Classic ◌ Japan vs Chinese Taipei ◌ en-540p ◌</title>
   </programme>
   <programme start="20260306000000 -0600" stop="20260306110000 -0600" channel="EVENTOS_VIP__Evento_____World_Baseball_Classic___Cuba_vs_Panama___en_720p_____11_00_1">
     <title>Próximamente | 11:00 | ◌ World Baseball Classic ◌ Cuba vs Panama ◌ en-720p ◌</title>
@@ -136820,24 +136790,6 @@
   </programme>
   <programme start="20260307000000 -0600" stop="20260306235959 -0600" channel="Evento_LigaMX__LigaMX_____Liga_MX___Necaxa_vs_Pumas_UNAM___es_720p_____21_00_1">
     <title>Finalizado | ◌ Liga MX ◌ Necaxa vs Pumas UNAM ◌ es-720p ◌</title>
-  </programme>
-  <programme start="20260306000000 -0600" stop="20260306010000 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___Chiefs_vs_Moana_Pasifika___en_720p_____01_00_1">
-    <title>Próximamente | 01:00 | ◌ Super Rugby Pacific ◌ Chiefs vs Moana Pasifika ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306010000 -0600" stop="20260306040000 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___Chiefs_vs_Moana_Pasifika___en_720p_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ◌ Super Rugby Pacific ◌ Chiefs vs Moana Pasifika ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306040000 -0600" stop="20260306235959 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___Chiefs_vs_Moana_Pasifika___en_720p_____01_00_1">
-    <title>Finalizado | ◌ Super Rugby Pacific ◌ Chiefs vs Moana Pasifika ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306000000 -0600" stop="20260306033000 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___War_vs_ahs_vs__Hurricanes___en_720p_____03_30_1">
-    <title>Próximamente | 03:30 | ◌ Super Rugby Pacific ◌ War vs ahs vs. Hurricanes ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306033000 -0600" stop="20260306063000 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___War_vs_ahs_vs__Hurricanes___en_720p_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◌ Super Rugby Pacific ◌ War vs ahs vs. Hurricanes ◌ en-720p ◌</title>
-  </programme>
-  <programme start="20260306063000 -0600" stop="20260306235959 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Pacific___War_vs_ahs_vs__Hurricanes___en_720p_____03_30_1">
-    <title>Finalizado | ◌ Super Rugby Pacific ◌ War vs ahs vs. Hurricanes ◌ en-720p ◌</title>
   </programme>
   <programme start="20260306000000 -0600" stop="20260306165500 -0600" channel="EVENTOS_VIP__Evento_____Super_Rugby_Americas___Pampas_XV_vs_Capibaras_XV___en_720p_____16_55_1">
     <title>Próximamente | 16:55 | ◌ Super Rugby Americas ◌ Pampas XV vs Capibaras XV ◌ en-720p ◌</title>
