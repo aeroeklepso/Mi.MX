@@ -137568,9 +137568,6 @@
   <channel id="EVENTOS_VIP__Evento_____TBD_vs_TBD___NCAA_M__Basketball___720p_en_____22_30_1">
     <display-name>Evento | ◘ TBD vs TBD ◘ NCAA M* Basketball ◘ 720p-en ◘ | 22:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bayer_Leverkusen__GER__vs_Arsenal__ENG____UEFA_Champions_League___1080p_es____ENG____12_45_1">
-    <display-name>Evento | ◘ Bayer Leverkusen (GER) vs Arsenal (ENG) ◘ UEFA Champions League ◘ 1080p-es ◘ [ENG] | 12:45</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Bayer_Leverkusen__GER__vs_Arsenal__ENG____UEFA_Champions_League___540p_es____ENG____12_45_1">
     <display-name>Evento | ◘ Bayer Leverkusen (GER) vs Arsenal (ENG) ◘ UEFA Champions League ◘ 540p-es ◘ [ENG] | 12:45</display-name>
   </channel>
@@ -138185,15 +138182,6 @@
   </programme>
   <programme start="20260312073000" stop="20260312055959" channel="EVENTOS_VIP__Evento_____TBD_vs_TBD___NCAA_M__Basketball___720p_en_____22_30_1">
     <title>Finalizado | ◘ TBD vs TBD ◘ NCAA M* Basketball ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260311060000" stop="20260311184500" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen__GER__vs_Arsenal__ENG____UEFA_Champions_League___1080p_es____ENG____12_45_1">
-    <title>Próximamente | 12:45 | ◘ Bayer Leverkusen (GER) vs Arsenal (ENG) ◘ UEFA Champions League ◘ 1080p-es ◘ [ENG]</title>
-  </programme>
-  <programme start="20260311184500" stop="20260311214500" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen__GER__vs_Arsenal__ENG____UEFA_Champions_League___1080p_es____ENG____12_45_1">
-    <title>⌾ En vivo | 12:45 | ◘ Bayer Leverkusen (GER) vs Arsenal (ENG) ◘ UEFA Champions League ◘ 1080p-es ◘ [ENG]</title>
-  </programme>
-  <programme start="20260311214500" stop="20260312055959" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen__GER__vs_Arsenal__ENG____UEFA_Champions_League___1080p_es____ENG____12_45_1">
-    <title>Finalizado | ◘ Bayer Leverkusen (GER) vs Arsenal (ENG) ◘ UEFA Champions League ◘ 1080p-es ◘ [ENG]</title>
   </programme>
   <programme start="20260311060000" stop="20260311184500" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen__GER__vs_Arsenal__ENG____UEFA_Champions_League___540p_es____ENG____12_45_1">
     <title>Próximamente | 12:45 | ◘ Bayer Leverkusen (GER) vs Arsenal (ENG) ◘ UEFA Champions League ◘ 540p-es ◘ [ENG]</title>
