@@ -137742,15 +137742,6 @@
     <desc>Todd y Faye terminan, accidentalmente, en una fiesta swinger mientras los niños buscan su propia aventura.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___1080p_es_____22_30_1">
-    <display-name>Evento | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 1080p-es ◘ | 22:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___540_es_____22_30_1">
-    <display-name>Evento | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 540-es ◘ | 22:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___720p_es_____22_30_1">
-    <display-name>Evento | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 720p-es ◘ | 22:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Anaheim_Ducks_vs_Toronto_Maple_Leafs___NHL___720p_en_____18_00_1">
     <display-name>Evento | ◘ Anaheim Ducks vs Toronto Maple Leafs ◘ NHL ◘ 720p-en ◘ | 18:00</display-name>
   </channel>
@@ -138165,33 +138156,6 @@
   <channel id="EVENTOS_VIP__Evento_____UMass_Lowell_vs_Furman___Lacrosse_Femenino_NCAA___720p_en_____18_00_1">
     <display-name>Evento | ◘ UMass Lowell vs Furman ◘ Lacrosse Femenino NCAA ◘ 720p-en ◘ | 18:00</display-name>
   </channel>
-  <programme start="20260312000000 -0600" stop="20260312223000 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___1080p_es_____22_30_1">
-    <title>Próximamente | 22:30 | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 1080p-es ◘</title>
-  </programme>
-  <programme start="20260312223000 -0600" stop="20260313013000 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___1080p_es_____22_30_1">
-    <title>⌾ En vivo | 22:30 | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 1080p-es ◘</title>
-  </programme>
-  <programme start="20260313013000 -0600" stop="20260312235959 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___1080p_es_____22_30_1">
-    <title>Finalizado | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 1080p-es ◘</title>
-  </programme>
-  <programme start="20260312000000 -0600" stop="20260312223000 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___540_es_____22_30_1">
-    <title>Próximamente | 22:30 | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 540-es ◘</title>
-  </programme>
-  <programme start="20260312223000 -0600" stop="20260313013000 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___540_es_____22_30_1">
-    <title>⌾ En vivo | 22:30 | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 540-es ◘</title>
-  </programme>
-  <programme start="20260313013000 -0600" stop="20260312235959 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___540_es_____22_30_1">
-    <title>Finalizado | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 540-es ◘</title>
-  </programme>
-  <programme start="20260312000000 -0600" stop="20260312223000 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___720p_es_____22_30_1">
-    <title>Próximamente | 22:30 | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260312223000 -0600" stop="20260313013000 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___720p_es_____22_30_1">
-    <title>⌾ En vivo | 22:30 | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260313013000 -0600" stop="20260312235959 -0600" channel="EVENTOS_VIP__Evento_____San_Diego_FC__USA__vs_Deportivo_Toluca_FC__MX____CONCACAF_Champions_Cup___720p_es_____22_30_1">
-    <title>Finalizado | ◘ San Diego FC (USA) vs Deportivo Toluca FC (MX) ◘ CONCACAF Champions Cup ◘ 720p-es ◘</title>
-  </programme>
   <programme start="20260312000000 -0600" stop="20260312180000 -0600" channel="EVENTOS_VIP__Evento_____Anaheim_Ducks_vs_Toronto_Maple_Leafs___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Anaheim Ducks vs Toronto Maple Leafs ◘ NHL ◘ 720p-en ◘</title>
   </programme>
