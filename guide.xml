@@ -136560,9 +136560,6 @@
   <channel id="EVENTOS_VIP__Evento_____South_Carolina_St_vs_e_vs__Howard___B_squetbol_Masculino_NCAA___720p_en_____18_00_1">
     <display-name>Evento | ◘ South Carolina St vs e vs. Howard ◘ Básquetbol Masculino NCAA ◘ 720p-en ◘ | 18:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Ohio_vs_Miami__OH____B_squet_Femenino_NCAA___720p_en_____10_00_1">
-    <display-name>Evento | ◘ Ohio vs Miami (OH) ◘ Básquet Femenino NCAA ◘ 720p-en ◘ | 10:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Coppin_St_vs_e_vs__Howard___B_squet_Femenino_NCAA___720p_en_____12_00_1">
     <display-name>Evento | ◘ Coppin St vs e vs. Howard ◘ Básquet Femenino NCAA ◘ 720p-en ◘ | 12:00</display-name>
   </channel>
@@ -136671,12 +136668,6 @@
   <channel id="EVENTOS_VIP__Evento_____Estudiantes_vs_Lan_s___Primera_Divisi_n___720p_es_____18_00_1">
     <display-name>Evento | ◘ Estudiantes vs Lanús ◘ Primera División ◘ 720p-es ◘ | 18:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___540p_en_____04_55_1">
-    <display-name>Evento | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 540p-en ◘ | 04:55</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___720p_en_____04_55_1">
-    <display-name>Evento | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 720p-en ◘ | 04:55</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Audax_Italiano_vs_Deportes_Concepci_n___Primera_Chile___720p_es_____18_00_1">
     <display-name>Evento | ◘ Audax Italiano vs Deportes Concepción ◘ Primera Chile ◘ 720p-es ◘ | 18:00</display-name>
   </channel>
@@ -136760,9 +136751,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Pe_arol_Rugby_vs_Cobras_Brasil_Rugby___S_per_Rugby_Am_ricas___720p_es_____17_55_1">
     <display-name>Evento | ◘ Peñarol Rugby vs Cobras Brasil Rugby ◘ Súper Rugby Américas ◘ 720p-es ◘ | 17:55</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Hurricanes_vs_Force___Super_Rugby_Am_ricas___720p_en_____02_00_1">
-    <display-name>Evento | ◘ Hurricanes vs Force ◘ Super Rugby Américas ◘ 720p-en ◘ | 02:00</display-name>
   </channel>
   <channel id="Evento_14_00___BNP_Paribas_Open___Stadium_1___ATP___720p_en____14_00___BNP_Paribas_Open___Stadium_1___ATP___720p_en_______BNP_Paribas_Open___Stadium_1___vs_P___720p_en_____13_00_1">
     <display-name>14:00 ◘ BNP Paribas Open / Stadium 1 ◘ ATP ◘ 720p-en ◘ | ◘ BNP Paribas Open / Stadium 1 ◘ vs P ◘ 720p-en ◘ | 13:00</display-name>
@@ -137112,15 +137100,6 @@
   <programme start="20260313210000 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____South_Carolina_St_vs_e_vs__Howard___B_squetbol_Masculino_NCAA___720p_en_____18_00_1">
     <title>Finalizado | ◘ South Carolina St vs e vs. Howard ◘ Básquetbol Masculino NCAA ◘ 720p-en ◘</title>
   </programme>
-  <programme start="20260313000000 -0600" stop="20260313100000 -0600" channel="EVENTOS_VIP__Evento_____Ohio_vs_Miami__OH____B_squet_Femenino_NCAA___720p_en_____10_00_1">
-    <title>Próximamente | 10:00 | ◘ Ohio vs Miami (OH) ◘ Básquet Femenino NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260313100000 -0600" stop="20260313130000 -0600" channel="EVENTOS_VIP__Evento_____Ohio_vs_Miami__OH____B_squet_Femenino_NCAA___720p_en_____10_00_1">
-    <title>⌾ En vivo | 10:00 | ◘ Ohio vs Miami (OH) ◘ Básquet Femenino NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260313130000 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____Ohio_vs_Miami__OH____B_squet_Femenino_NCAA___720p_en_____10_00_1">
-    <title>Finalizado | ◘ Ohio vs Miami (OH) ◘ Básquet Femenino NCAA ◘ 720p-en ◘</title>
-  </programme>
   <programme start="20260313000000 -0600" stop="20260313120000 -0600" channel="EVENTOS_VIP__Evento_____Coppin_St_vs_e_vs__Howard___B_squet_Femenino_NCAA___720p_en_____12_00_1">
     <title>Próximamente | 12:00 | ◘ Coppin St vs e vs. Howard ◘ Básquet Femenino NCAA ◘ 720p-en ◘</title>
   </programme>
@@ -137445,24 +137424,6 @@
   <programme start="20260313210000 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____Estudiantes_vs_Lan_s___Primera_Divisi_n___720p_es_____18_00_1">
     <title>Finalizado | ◘ Estudiantes vs Lanús ◘ Primera División ◘ 720p-es ◘</title>
   </programme>
-  <programme start="20260313000000 -0600" stop="20260313045500 -0600" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___540p_en_____04_55_1">
-    <title>Próximamente | 04:55 | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 540p-en ◘</title>
-  </programme>
-  <programme start="20260313045500 -0600" stop="20260313075500 -0600" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___540p_en_____04_55_1">
-    <title>⌾ En vivo | 04:55 | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 540p-en ◘</title>
-  </programme>
-  <programme start="20260313075500 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___540p_en_____04_55_1">
-    <title>Finalizado | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 540p-en ◘</title>
-  </programme>
-  <programme start="20260313000000 -0600" stop="20260313045500 -0600" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___720p_en_____04_55_1">
-    <title>Próximamente | 04:55 | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260313045500 -0600" stop="20260313075500 -0600" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___720p_en_____04_55_1">
-    <title>⌾ En vivo | 04:55 | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260313075500 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____Corea_del_Sur_vs_Uzbekistan___AFC_Women_s_Asian_Cup___720p_en_____04_55_1">
-    <title>Finalizado | ◘ Corea del Sur vs Uzbekistan ◘ AFC Women's Asian Cup ◘ 720p-en ◘</title>
-  </programme>
   <programme start="20260313000000 -0600" stop="20260313180000 -0600" channel="EVENTOS_VIP__Evento_____Audax_Italiano_vs_Deportes_Concepci_n___Primera_Chile___720p_es_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Audax Italiano vs Deportes Concepción ◘ Primera Chile ◘ 720p-es ◘</title>
   </programme>
@@ -137714,15 +137675,6 @@
   </programme>
   <programme start="20260313205500 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____Pe_arol_Rugby_vs_Cobras_Brasil_Rugby___S_per_Rugby_Am_ricas___720p_es_____17_55_1">
     <title>Finalizado | ◘ Peñarol Rugby vs Cobras Brasil Rugby ◘ Súper Rugby Américas ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260313000000 -0600" stop="20260313020000 -0600" channel="EVENTOS_VIP__Evento_____Hurricanes_vs_Force___Super_Rugby_Am_ricas___720p_en_____02_00_1">
-    <title>Próximamente | 02:00 | ◘ Hurricanes vs Force ◘ Super Rugby Américas ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260313020000 -0600" stop="20260313050000 -0600" channel="EVENTOS_VIP__Evento_____Hurricanes_vs_Force___Super_Rugby_Am_ricas___720p_en_____02_00_1">
-    <title>⌾ En vivo | 02:00 | ◘ Hurricanes vs Force ◘ Super Rugby Américas ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260313050000 -0600" stop="20260313235959 -0600" channel="EVENTOS_VIP__Evento_____Hurricanes_vs_Force___Super_Rugby_Am_ricas___720p_en_____02_00_1">
-    <title>Finalizado | ◘ Hurricanes vs Force ◘ Super Rugby Américas ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260313000000 -0600" stop="20260313140000 -0600" channel="Evento_14_00___BNP_Paribas_Open___Stadium_1___ATP___720p_en____14_00___BNP_Paribas_Open___Stadium_1___ATP___720p_en_______BNP_Paribas_Open___Stadium_1___vs_P___720p_en_____13_00_1">
     <title>Próximamente | 14:00 | ◘ BNP Paribas Open / Stadium 1 ◘ vs P ◘ 720p-en ◘</title>
