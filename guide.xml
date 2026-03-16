@@ -137022,6 +137022,9 @@
   <channel id="EVENTOS_VIP__Evento_____San_Antonio_Spurs_vs_Los_Angeles_Clippers___NBA___720p_en_____21_00_1">
     <display-name>Evento | ◘ San Antonio Spurs vs Los Angeles Clippers ◘ NBA ◘ 720p-en ◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___COLO_COLO_vs_MAGALLANES___00_00_1">
+    <display-name>Evento | COLO COLO vs MAGALLANES | 00:00</display-name>
+  </channel>
   <programme start="20260316000000 -0600" stop="20260316180000 -0600" channel="EVENTOS_VIP__Evento_____Calgary_Flames_vs_Detroit_Red_Wings___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Calgary Flames vs Detroit Red Wings ◘ NHL ◘ 720p-en ◘</title>
   </programme>
@@ -137453,6 +137456,15 @@
   </programme>
   <programme start="20260317000000 -0600" stop="20260316235959 -0600" channel="EVENTOS_VIP__Evento_____San_Antonio_Spurs_vs_Los_Angeles_Clippers___NBA___720p_en_____21_00_1">
     <title>Finalizado | ◘ San Antonio Spurs vs Los Angeles Clippers ◘ NBA ◘ 720p-en ◘</title>
+  </programme>
+  <programme start="20260316000000 -0600" stop="20260316000000 -0600" channel="EVENTOS_VIP__Evento___COLO_COLO_vs_MAGALLANES___00_00_1">
+    <title>Próximamente | 00:00 | COLO COLO vs MAGALLANES</title>
+  </programme>
+  <programme start="20260316000000 -0600" stop="20260316030000 -0600" channel="EVENTOS_VIP__Evento___COLO_COLO_vs_MAGALLANES___00_00_1">
+    <title>⌾ En vivo | 00:00 | COLO COLO vs MAGALLANES</title>
+  </programme>
+  <programme start="20260316030000 -0600" stop="20260316235959 -0600" channel="EVENTOS_VIP__Evento___COLO_COLO_vs_MAGALLANES___00_00_1">
+    <title>Finalizado | COLO COLO vs MAGALLANES</title>
   </programme>
 </tv>
 
