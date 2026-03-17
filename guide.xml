@@ -136902,12 +136902,6 @@
   <channel id="EVENTOS_VIP__Evento_____Stockton_Kings_vs_Valley_Suns___NBA_G_League___720p_en_____21_00_1">
     <display-name>Evento | ◘ Stockton Kings vs Valley Suns ◘ NBA G League ◘ 720p-en ◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Mali_vs_South_Sudan___FIBA_Women_s_World_Cup___720p_en_____00_30_1">
-    <display-name>Evento | ◘ Mali vs South Sudan ◘ FIBA Women's World Cup ◘ 720p-en ◘ | 00:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Czechia_vs_Belgium___FIBA_Women_s_World_Cup___720p_en_____03_30_1">
-    <display-name>Evento | ◘ Czechia vs Belgium ◘ FIBA Women's World Cup ◘ 720p-en ◘ | 03:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Brazil_vs_China___FIBA_Women_s_World_Cup___720p_en_____06_30_1">
     <display-name>Evento | ◘ Brazil vs China ◘ FIBA Women's World Cup ◘ 720p-en ◘ | 06:30</display-name>
   </channel>
@@ -137378,24 +137372,6 @@
   </programme>
   <programme start="20260318000000 -0600" stop="20260317235959 -0600" channel="EVENTOS_VIP__Evento_____Stockton_Kings_vs_Valley_Suns___NBA_G_League___720p_en_____21_00_1">
     <title>Finalizado | ◘ Stockton Kings vs Valley Suns ◘ NBA G League ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260317000000 -0600" stop="20260317003000 -0600" channel="EVENTOS_VIP__Evento_____Mali_vs_South_Sudan___FIBA_Women_s_World_Cup___720p_en_____00_30_1">
-    <title>Próximamente | 00:30 | ◘ Mali vs South Sudan ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260317003000 -0600" stop="20260317033000 -0600" channel="EVENTOS_VIP__Evento_____Mali_vs_South_Sudan___FIBA_Women_s_World_Cup___720p_en_____00_30_1">
-    <title>⌾ En vivo | 00:30 | ◘ Mali vs South Sudan ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260317033000 -0600" stop="20260317235959 -0600" channel="EVENTOS_VIP__Evento_____Mali_vs_South_Sudan___FIBA_Women_s_World_Cup___720p_en_____00_30_1">
-    <title>Finalizado | ◘ Mali vs South Sudan ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260317000000 -0600" stop="20260317033000 -0600" channel="EVENTOS_VIP__Evento_____Czechia_vs_Belgium___FIBA_Women_s_World_Cup___720p_en_____03_30_1">
-    <title>Próximamente | 03:30 | ◘ Czechia vs Belgium ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260317033000 -0600" stop="20260317063000 -0600" channel="EVENTOS_VIP__Evento_____Czechia_vs_Belgium___FIBA_Women_s_World_Cup___720p_en_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ Czechia vs Belgium ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260317063000 -0600" stop="20260317235959 -0600" channel="EVENTOS_VIP__Evento_____Czechia_vs_Belgium___FIBA_Women_s_World_Cup___720p_en_____03_30_1">
-    <title>Finalizado | ◘ Czechia vs Belgium ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260317000000 -0600" stop="20260317063000 -0600" channel="EVENTOS_VIP__Evento_____Brazil_vs_China___FIBA_Women_s_World_Cup___720p_en_____06_30_1">
     <title>Próximamente | 06:30 | ◘ Brazil vs China ◘ FIBA Women's World Cup ◘ 720p-en ◘</title>
