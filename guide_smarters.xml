@@ -137139,6 +137139,15 @@
   <channel id="EVENTOS_VIP__Evento_____Vermont_Green_vs_Portland_Hearts_of_Pine___USL_League_Two___720p_en_____18_00_1">
     <display-name>Evento | ◘ Vermont Green vs Portland Hearts of Pine ◘ USL League Two ◘ 720p-en ◘ | 18:00</display-name>
   </channel>
+  <channel id="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_1">
+    <display-name>FINAL | Estados Unidos vs Venezuela | 19:00</display-name>
+  </channel>
+  <channel id="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_2">
+    <display-name>FINAL | Estados Unidos vs Venezuela | 19:00</display-name>
+  </channel>
+  <channel id="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_3">
+    <display-name>FINAL | Estados Unidos vs Venezuela | 19:00</display-name>
+  </channel>
   <programme start="20260317060000" stop="20260318000000" channel="EVENTOS_VIP__Evento_____New_York_Islanders_vs_Toronto_Maple_Leafs___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ◘ New York Islanders vs Toronto Maple Leafs ◘ NHL ◘ 720p-en ◘</title>
   </programme>
@@ -138083,6 +138092,33 @@
   </programme>
   <programme start="20260318030000" stop="20260318055959" channel="EVENTOS_VIP__Evento_____Vermont_Green_vs_Portland_Hearts_of_Pine___USL_League_Two___720p_en_____18_00_1">
     <title>Finalizado | ◘ Vermont Green vs Portland Hearts of Pine ◘ USL League Two ◘ 720p-en ◘</title>
+  </programme>
+  <programme start="20260317060000" stop="20260318010000" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_1">
+    <title>Próximamente | 19:00 | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260318010000" stop="20260318040000" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_1">
+    <title>⌾ En vivo | 19:00 | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260318040000" stop="20260318055959" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_1">
+    <title>Finalizado | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260317060000" stop="20260318010000" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_2">
+    <title>Próximamente | 19:00 | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260318010000" stop="20260318040000" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_2">
+    <title>⌾ En vivo | 19:00 | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260318040000" stop="20260318055959" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_2">
+    <title>Finalizado | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260317060000" stop="20260318010000" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_3">
+    <title>Próximamente | 19:00 | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260318010000" stop="20260318040000" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_3">
+    <title>⌾ En vivo | 19:00 | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260318040000" stop="20260318055959" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_3">
+    <title>Finalizado | Estados Unidos vs Venezuela</title>
   </programme>
 </tv>
 
