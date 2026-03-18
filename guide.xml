@@ -137331,6 +137331,9 @@
   <channel id="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_3">
     <display-name>FINAL | Estados Unidos vs Venezuela | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___MLB_Royals_vs_Dodgers___00_00_1">
+    <display-name>Evento | MLB Royals vs Dodgers | 00:00</display-name>
+  </channel>
   <programme start="20260317000000 -0600" stop="20260317180000 -0600" channel="EVENTOS_VIP__Evento_____New_York_Islanders_vs_Toronto_Maple_Leafs___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ◘ New York Islanders vs Toronto Maple Leafs ◘ NHL ◘ 720p-en ◘</title>
   </programme>
@@ -137987,6 +137990,15 @@
   </programme>
   <programme start="20260317220000 -0600" stop="20260317235959 -0600" channel="Evento_FINAL__FINAL___Estados_Unidos_vs_Venezuela___19_00_3">
     <title>Finalizado | Estados Unidos vs Venezuela</title>
+  </programme>
+  <programme start="20260317000000 -0600" stop="20260317000000 -0600" channel="EVENTOS_VIP__Evento___MLB_Royals_vs_Dodgers___00_00_1">
+    <title>Próximamente | 00:00 | MLB Royals vs Dodgers</title>
+  </programme>
+  <programme start="20260317000000 -0600" stop="20260317030000 -0600" channel="EVENTOS_VIP__Evento___MLB_Royals_vs_Dodgers___00_00_1">
+    <title>⌾ En vivo | 00:00 | MLB Royals vs Dodgers</title>
+  </programme>
+  <programme start="20260317030000 -0600" stop="20260317235959 -0600" channel="EVENTOS_VIP__Evento___MLB_Royals_vs_Dodgers___00_00_1">
+    <title>Finalizado | MLB Royals vs Dodgers</title>
   </programme>
 </tv>
 
