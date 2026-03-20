@@ -92013,6 +92013,12 @@
   <channel id="EVENTOS_VIP__Evento_____Penn_St_vs_e_vs___2_Wisconsin__Semifinal____NCAA_Women_s_Hockey___720p_en_____18_30_1">
     <display-name>Evento | ◘ Penn St vs e vs. #2 Wisconsin (Semifinal) ◘ NCAA Women's Hockey ◘ 720p-en ◘ | 18:30</display-name>
   </channel>
+  <channel id="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP1___12_00_1">
+    <display-name>PFL | LUCIANO PEREIRA vs KEVIN Cordero OP1 | 12:00</display-name>
+  </channel>
+  <channel id="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP2___12_00_1">
+    <display-name>PFL | LUCIANO PEREIRA vs KEVIN Cordero OP2 | 12:00</display-name>
+  </channel>
   <programme start="20260320000000 -0600" stop="20260320150000 -0600" channel="EVENTOS_VIP__Evento_____Villarreal_vs_Real_Sociedad___LaLiga___1080p_es_____15_00_1">
     <title>Próximamente | 15:00 | ◘ Villarreal vs Real Sociedad ◘ LaLiga ◘ 1080p-es ◘</title>
   </programme>
@@ -93047,6 +93053,24 @@
   </programme>
   <programme start="20260320213000 -0600" stop="20260320235959 -0600" channel="EVENTOS_VIP__Evento_____Penn_St_vs_e_vs___2_Wisconsin__Semifinal____NCAA_Women_s_Hockey___720p_en_____18_30_1">
     <title>Finalizado | ◘ Penn St vs e vs. #2 Wisconsin (Semifinal) ◘ NCAA Women's Hockey ◘ 720p-en ◘</title>
+  </programme>
+  <programme start="20260320000000 -0600" stop="20260320120000 -0600" channel="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP1___12_00_1">
+    <title>Próximamente | 12:00 | LUCIANO PEREIRA vs KEVIN Cordero OP1</title>
+  </programme>
+  <programme start="20260320120000 -0600" stop="20260320150000 -0600" channel="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP1___12_00_1">
+    <title>⌾ En vivo | 12:00 | LUCIANO PEREIRA vs KEVIN Cordero OP1</title>
+  </programme>
+  <programme start="20260320150000 -0600" stop="20260320235959 -0600" channel="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP1___12_00_1">
+    <title>Finalizado | LUCIANO PEREIRA vs KEVIN Cordero OP1</title>
+  </programme>
+  <programme start="20260320000000 -0600" stop="20260320120000 -0600" channel="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP2___12_00_1">
+    <title>Próximamente | 12:00 | LUCIANO PEREIRA vs KEVIN Cordero OP2</title>
+  </programme>
+  <programme start="20260320120000 -0600" stop="20260320150000 -0600" channel="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP2___12_00_1">
+    <title>⌾ En vivo | 12:00 | LUCIANO PEREIRA vs KEVIN Cordero OP2</title>
+  </programme>
+  <programme start="20260320150000 -0600" stop="20260320235959 -0600" channel="Evento_PFL__PFL___LUCIANO_PEREIRA_vs_KEVIN_Cordero_OP2___12_00_1">
+    <title>Finalizado | LUCIANO PEREIRA vs KEVIN Cordero OP2</title>
   </programme>
 </tv>
 
