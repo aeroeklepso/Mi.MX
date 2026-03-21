@@ -134220,12 +134220,6 @@
   <channel id="EVENTOS_VIP__Evento_____Botafogo_SP_vs_Fortaleza___Serie_B___720p_br_____17_15_1">
     <display-name>Evento | ◘ Botafogo SP vs Fortaleza ◘ Serie B ◘ 720p-br ◘ | 17:15</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <display-name>Evento | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘ | 01:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <display-name>Evento | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘ | 03:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Exeter_Chiefs_vs_Sale_Sharks___Premiership_Rugby___720p_en_____10_00_1">
     <display-name>Evento | ◘ Exeter Chiefs vs Sale Sharks ◘ Premiership Rugby ◘ 720p-en ◘ | 10:00</display-name>
   </channel>
@@ -134381,9 +134375,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Tacoma_Stars_vs_St__Louis_Ambush___Major_Arena_Soccer_League___720p_en_____20_05_1">
     <display-name>Evento | ◘ Tacoma Stars vs St. Louis Ambush ◘ Major Arena Soccer League ◘ 720p-en ◘ | 20:05</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <display-name>Evento | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘ | 03:50</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____London_City_Lionesses_vs_Chelsea___Women_s_Super_League___720p_en_____06_55_1">
     <display-name>Evento | ◘ London City Lionesses vs Chelsea ◘ Women's Super League ◘ 720p-en ◘ | 06:55</display-name>
@@ -135837,24 +135828,6 @@
   <programme start="20260321201500 -0600" stop="20260321235959 -0600" channel="EVENTOS_VIP__Evento_____Botafogo_SP_vs_Fortaleza___Serie_B___720p_br_____17_15_1">
     <title>Finalizado | ◘ Botafogo SP vs Fortaleza ◘ Serie B ◘ 720p-br ◘</title>
   </programme>
-  <programme start="20260321000000 -0600" stop="20260321010000 -0600" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>Próximamente | 01:00 | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321010000 -0600" stop="20260321040000 -0600" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321040000 -0600" stop="20260321235959 -0600" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>Finalizado | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321000000 -0600" stop="20260321033000 -0600" channel="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>Próximamente | 03:30 | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321033000 -0600" stop="20260321063000 -0600" channel="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321063000 -0600" stop="20260321235959 -0600" channel="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>Finalizado | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
   <programme start="20260321000000 -0600" stop="20260321100000 -0600" channel="EVENTOS_VIP__Evento_____Exeter_Chiefs_vs_Sale_Sharks___Premiership_Rugby___720p_en_____10_00_1">
     <title>Próximamente | 10:00 | ◘ Exeter Chiefs vs Sale Sharks ◘ Premiership Rugby ◘ 720p-en ◘</title>
   </programme>
@@ -136322,15 +136295,6 @@
   </programme>
   <programme start="20260321230500 -0600" stop="20260321235959 -0600" channel="EVENTOS_VIP__Evento_____Tacoma_Stars_vs_St__Louis_Ambush___Major_Arena_Soccer_League___720p_en_____20_05_1">
     <title>Finalizado | ◘ Tacoma Stars vs St. Louis Ambush ◘ Major Arena Soccer League ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321000000 -0600" stop="20260321035000 -0600" channel="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <title>Próximamente | 03:50 | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321035000 -0600" stop="20260321065000 -0600" channel="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <title>⌾ En vivo | 03:50 | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321065000 -0600" stop="20260321235959 -0600" channel="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <title>Finalizado | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260321000000 -0600" stop="20260321065500 -0600" channel="EVENTOS_VIP__Evento_____London_City_Lionesses_vs_Chelsea___Women_s_Super_League___720p_en_____06_55_1">
     <title>Próximamente | 06:55 | ◘ London City Lionesses vs Chelsea ◘ Women's Super League ◘ 720p-en ◘</title>
