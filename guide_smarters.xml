@@ -133887,8 +133887,8 @@
   <channel id="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_City_SC___MLS___720p_es_____16_15_1">
     <display-name>MLS | ◘ Nashville SC vs Orlando City SC ◘ MLS ◘ 720p-es ◘ | 16:15</display-name>
   </channel>
-  <channel id="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_http___23_153_217_128_90_Logos_ppv2_City_SC___MLS___1080p_es_____16_15_1">
-    <display-name>MLS | ◘ Nashville SC vs Orlando http://23.153.217.128:90/Logos/ppv2/City SC ◘ MLS ◘ 1080p-es ◘ | 16:15</display-name>
+  <channel id="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_City_SC___MLS___1080p_es_____16_15_1">
+    <display-name>MLS | ◘ Nashville SC vs Orlando City SC ◘ MLS ◘ 1080p-es ◘ | 16:15</display-name>
   </channel>
   <channel id="Evento_MLS__MLS_____vs_lanta_United_vs__DC_United___MLS___1080p_es_____17_30_1">
     <display-name>MLS | ◘ vs lanta United vs. DC United ◘ MLS ◘ 1080p-es ◘ | 17:30</display-name>
@@ -133961,9 +133961,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Sevilla_vs_Valencia___LaLiga___720p_es_____15_00_1">
     <display-name>Evento | ◘ Sevilla vs Valencia ◘ LaLiga ◘ 720p-es ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Legan_s_vs_Ceuta___LaLiga_SmartBank___720p_es_____07_50_1">
-    <display-name>Evento | ◘ Leganés vs Ceuta ◘ LaLiga SmartBank ◘ 720p-es ◘ | 07:50</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____FC_Andorra_vs_SD_Eibar___LaLiga_SmartBank___720p_es_____10_00_1">
     <display-name>Evento | ◘ FC Andorra vs SD Eibar ◘ LaLiga SmartBank ◘ 720p-es ◘ | 10:00</display-name>
@@ -134058,21 +134055,6 @@
   <channel id="EVENTOS_VIP__Evento_____Borussia_Dortmund_vs_Hamburger_SV___Bundesliga___720p_es_____12_30_1">
     <display-name>Evento | ◘ Borussia Dortmund vs Hamburger SV ◘ Bundesliga ◘ 720p-es ◘ | 12:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___540p_de_____07_00_1">
-    <display-name>Evento | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 540p-de ◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___720p_de_____07_00_1">
-    <display-name>Evento | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 720p-de ◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___540p_de_____07_00_1">
-    <display-name>Evento | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 540p-de ◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___720p_de_____07_00_1">
-    <display-name>Evento | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 720p-de ◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Arminia_Bielefeld___2__Bundesliga___720p_de_____07_00_1">
-    <display-name>Evento | ◘ SV Elversberg vs Arminia Bielefeld ◘ 2. Bundesliga ◘ 720p-de ◘ | 07:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____SV_Darmstadt_98_vs_FC_Schalke_04___2__Bundesliga___720p_de_____14_30_1">
     <display-name>Evento | ◘ SV Darmstadt 98 vs FC Schalke 04 ◘ 2. Bundesliga ◘ 720p-de ◘ | 14:30</display-name>
   </channel>
@@ -134084,9 +134066,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____PEC_Zwolle_vs_NAC_Breda___Eredivisie___720p_nl_____15_00_1">
     <display-name>Evento | ◘ PEC Zwolle vs NAC Breda ◘ Eredivisie ◘ 720p-nl ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Ipswich_Town_vs_Millwall___EFL_Championship___720p_en_____07_20_1">
-    <display-name>Evento | ◘ Ipswich Town vs Millwall ◘ EFL Championship ◘ 720p-en ◘ | 07:20</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Sheffield_United_vs_Wrexham_AFC___EFL_Championship___720p_es_____10_00_1">
     <display-name>Evento | ◘ Sheffield United vs Wrexham AFC ◘ EFL Championship ◘ 720p-es ◘ | 10:00</display-name>
@@ -134141,12 +134120,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____LDU_Quito_vs_Manta___Liga_Pro___720p_es___Tentativo___19_00_1">
     <display-name>Evento | ◘ LDU Quito vs Manta ◘ Liga Pro ◘ 720p-es ◘ Tentativo | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___540p_es_____07_30_1">
-    <display-name>Evento | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 540p-es ◘ | 07:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___720p_es_____07_30_1">
-    <display-name>Evento | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 720p-es ◘ | 07:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Montevideo_Wanderers_vs_Danubio___Primera_Divisi_n___540p_es_____13_30_1">
     <display-name>Evento | ◘ Montevideo Wanderers vs Danubio ◘ Primera División ◘ 540p-es ◘ | 13:30</display-name>
@@ -134219,12 +134192,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Botafogo_SP_vs_Fortaleza___Serie_B___720p_br_____17_15_1">
     <display-name>Evento | ◘ Botafogo SP vs Fortaleza ◘ Serie B ◘ 720p-br ◘ | 17:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <display-name>Evento | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘ | 01:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <display-name>Evento | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘ | 03:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Exeter_Chiefs_vs_Sale_Sharks___Premiership_Rugby___720p_en_____10_00_1">
     <display-name>Evento | ◘ Exeter Chiefs vs Sale Sharks ◘ Premiership Rugby ◘ 720p-en ◘ | 10:00</display-name>
@@ -134381,12 +134348,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Tacoma_Stars_vs_St__Louis_Ambush___Major_Arena_Soccer_League___720p_en_____20_05_1">
     <display-name>Evento | ◘ Tacoma Stars vs St. Louis Ambush ◘ Major Arena Soccer League ◘ 720p-en ◘ | 20:05</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <display-name>Evento | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘ | 03:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____London_City_Lionesses_vs_Chelsea___Women_s_Super_League___720p_en_____06_55_1">
-    <display-name>Evento | ◘ London City Lionesses vs Chelsea ◘ Women's Super League ◘ 720p-en ◘ | 06:55</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Houston_Dash_vs_Boston_Legacy___NWSL___720p_en_____15_00_1">
     <display-name>Evento | ◘ Houston Dash vs Boston Legacy ◘ NWSL ◘ 720p-en ◘ | 15:00</display-name>
@@ -134838,14 +134799,14 @@
   <programme start="20260322011500" stop="20260322055959" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_City_SC___MLS___720p_es_____16_15_1">
     <title>Finalizado | ◘ Nashville SC vs Orlando City SC ◘ MLS ◘ 720p-es ◘</title>
   </programme>
-  <programme start="20260321060000" stop="20260321221500" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_http___23_153_217_128_90_Logos_ppv2_City_SC___MLS___1080p_es_____16_15_1">
-    <title>Próximamente | 16:15 | ◘ Nashville SC vs Orlando http://23.153.217.128:90/Logos/ppv2/City SC ◘ MLS ◘ 1080p-es ◘</title>
+  <programme start="20260321060000" stop="20260321221500" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_City_SC___MLS___1080p_es_____16_15_1">
+    <title>Próximamente | 16:15 | ◘ Nashville SC vs Orlando City SC ◘ MLS ◘ 1080p-es ◘</title>
   </programme>
-  <programme start="20260321221500" stop="20260322011500" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_http___23_153_217_128_90_Logos_ppv2_City_SC___MLS___1080p_es_____16_15_1">
-    <title>⌾ En vivo | 16:15 | ◘ Nashville SC vs Orlando http://23.153.217.128:90/Logos/ppv2/City SC ◘ MLS ◘ 1080p-es ◘</title>
+  <programme start="20260321221500" stop="20260322011500" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_City_SC___MLS___1080p_es_____16_15_1">
+    <title>⌾ En vivo | 16:15 | ◘ Nashville SC vs Orlando City SC ◘ MLS ◘ 1080p-es ◘</title>
   </programme>
-  <programme start="20260322011500" stop="20260322055959" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_http___23_153_217_128_90_Logos_ppv2_City_SC___MLS___1080p_es_____16_15_1">
-    <title>Finalizado | ◘ Nashville SC vs Orlando http://23.153.217.128:90/Logos/ppv2/City SC ◘ MLS ◘ 1080p-es ◘</title>
+  <programme start="20260322011500" stop="20260322055959" channel="Evento_MLS__MLS_____Nashville_SC_vs_Orlando_City_SC___MLS___1080p_es_____16_15_1">
+    <title>Finalizado | ◘ Nashville SC vs Orlando City SC ◘ MLS ◘ 1080p-es ◘</title>
   </programme>
   <programme start="20260321060000" stop="20260321233000" channel="Evento_MLS__MLS_____vs_lanta_United_vs__DC_United___MLS___1080p_es_____17_30_1">
     <title>Próximamente | 17:30 | ◘ vs lanta United vs. DC United ◘ MLS ◘ 1080p-es ◘</title>
@@ -135062,15 +135023,6 @@
   </programme>
   <programme start="20260322000000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Valencia___LaLiga___720p_es_____15_00_1">
     <title>Finalizado | ◘ Sevilla vs Valencia ◘ LaLiga ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321135000" channel="EVENTOS_VIP__Evento_____Legan_s_vs_Ceuta___LaLiga_SmartBank___720p_es_____07_50_1">
-    <title>Próximamente | 07:50 | ◘ Leganés vs Ceuta ◘ LaLiga SmartBank ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260321135000" stop="20260321165000" channel="EVENTOS_VIP__Evento_____Legan_s_vs_Ceuta___LaLiga_SmartBank___720p_es_____07_50_1">
-    <title>⌾ En vivo | 07:50 | ◘ Leganés vs Ceuta ◘ LaLiga SmartBank ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260321165000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Legan_s_vs_Ceuta___LaLiga_SmartBank___720p_es_____07_50_1">
-    <title>Finalizado | ◘ Leganés vs Ceuta ◘ LaLiga SmartBank ◘ 720p-es ◘</title>
   </programme>
   <programme start="20260321060000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____FC_Andorra_vs_SD_Eibar___LaLiga_SmartBank___720p_es_____10_00_1">
     <title>Próximamente | 10:00 | ◘ FC Andorra vs SD Eibar ◘ LaLiga SmartBank ◘ 720p-es ◘</title>
@@ -135351,51 +135303,6 @@
   <programme start="20260321213000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Borussia_Dortmund_vs_Hamburger_SV___Bundesliga___720p_es_____12_30_1">
     <title>Finalizado | ◘ Borussia Dortmund vs Hamburger SV ◘ Bundesliga ◘ 720p-es ◘</title>
   </programme>
-  <programme start="20260321060000" stop="20260321130000" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___540p_de_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 540p-de ◘</title>
-  </programme>
-  <programme start="20260321130000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___540p_de_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 540p-de ◘</title>
-  </programme>
-  <programme start="20260321160000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___540p_de_____07_00_1">
-    <title>Finalizado | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 540p-de ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321130000" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___720p_de_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321130000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___720p_de_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321160000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_1__FC_Kaiserslautern___2__Bundesliga___720p_de_____07_00_1">
-    <title>Finalizado | ◘ 1. FC Nurnberg vs 1. FC Kaiserslautern ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321130000" channel="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___540p_de_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 540p-de ◘</title>
-  </programme>
-  <programme start="20260321130000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___540p_de_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 540p-de ◘</title>
-  </programme>
-  <programme start="20260321160000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___540p_de_____07_00_1">
-    <title>Finalizado | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 540p-de ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321130000" channel="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___720p_de_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321130000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___720p_de_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321160000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____SC_Paderborn_07_vs_SG_Dynamo_Dresden___2__Bundesliga___720p_de_____07_00_1">
-    <title>Finalizado | ◘ SC Paderborn 07 vs SG Dynamo Dresden ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321130000" channel="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Arminia_Bielefeld___2__Bundesliga___720p_de_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ SV Elversberg vs Arminia Bielefeld ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321130000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Arminia_Bielefeld___2__Bundesliga___720p_de_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ SV Elversberg vs Arminia Bielefeld ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
-  <programme start="20260321160000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Arminia_Bielefeld___2__Bundesliga___720p_de_____07_00_1">
-    <title>Finalizado | ◘ SV Elversberg vs Arminia Bielefeld ◘ 2. Bundesliga ◘ 720p-de ◘</title>
-  </programme>
   <programme start="20260321060000" stop="20260321203000" channel="EVENTOS_VIP__Evento_____SV_Darmstadt_98_vs_FC_Schalke_04___2__Bundesliga___720p_de_____14_30_1">
     <title>Próximamente | 14:30 | ◘ SV Darmstadt 98 vs FC Schalke 04 ◘ 2. Bundesliga ◘ 720p-de ◘</title>
   </programme>
@@ -135431,15 +135338,6 @@
   </programme>
   <programme start="20260322000000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____PEC_Zwolle_vs_NAC_Breda___Eredivisie___720p_nl_____15_00_1">
     <title>Finalizado | ◘ PEC Zwolle vs NAC Breda ◘ Eredivisie ◘ 720p-nl ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321132000" channel="EVENTOS_VIP__Evento_____Ipswich_Town_vs_Millwall___EFL_Championship___720p_en_____07_20_1">
-    <title>Próximamente | 07:20 | ◘ Ipswich Town vs Millwall ◘ EFL Championship ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321132000" stop="20260321162000" channel="EVENTOS_VIP__Evento_____Ipswich_Town_vs_Millwall___EFL_Championship___720p_en_____07_20_1">
-    <title>⌾ En vivo | 07:20 | ◘ Ipswich Town vs Millwall ◘ EFL Championship ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321162000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Ipswich_Town_vs_Millwall___EFL_Championship___720p_en_____07_20_1">
-    <title>Finalizado | ◘ Ipswich Town vs Millwall ◘ EFL Championship ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260321060000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____Sheffield_United_vs_Wrexham_AFC___EFL_Championship___720p_es_____10_00_1">
     <title>Próximamente | 10:00 | ◘ Sheffield United vs Wrexham AFC ◘ EFL Championship ◘ 720p-es ◘</title>
@@ -135602,24 +135500,6 @@
   </programme>
   <programme start="20260322040000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____LDU_Quito_vs_Manta___Liga_Pro___720p_es___Tentativo___19_00_1">
     <title>Finalizado | ◘ LDU Quito vs Manta ◘ Liga Pro ◘ 720p-es ◘ Tentativo</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321133000" channel="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___540p_es_____07_30_1">
-    <title>Próximamente | 07:30 | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 540p-es ◘</title>
-  </programme>
-  <programme start="20260321133000" stop="20260321163000" channel="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___540p_es_____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 540p-es ◘</title>
-  </programme>
-  <programme start="20260321163000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___540p_es_____07_30_1">
-    <title>Finalizado | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 540p-es ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321133000" channel="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___720p_es_____07_30_1">
-    <title>Próximamente | 07:30 | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260321133000" stop="20260321163000" channel="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___720p_es_____07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260321163000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Racing_vs_Liverpool_FC___Primera_Divisi_n___720p_es_____07_30_1">
-    <title>Finalizado | ◘ Racing vs Liverpool FC ◘ Primera División ◘ 720p-es ◘</title>
   </programme>
   <programme start="20260321060000" stop="20260321193000" channel="EVENTOS_VIP__Evento_____Montevideo_Wanderers_vs_Danubio___Primera_Divisi_n___540p_es_____13_30_1">
     <title>Próximamente | 13:30 | ◘ Montevideo Wanderers vs Danubio ◘ Primera División ◘ 540p-es ◘</title>
@@ -135836,24 +135716,6 @@
   </programme>
   <programme start="20260322021500" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Botafogo_SP_vs_Fortaleza___Serie_B___720p_br_____17_15_1">
     <title>Finalizado | ◘ Botafogo SP vs Fortaleza ◘ Serie B ◘ 720p-br ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321070000" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>Próximamente | 01:00 | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321070000" stop="20260321100000" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321100000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Crusaders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>Finalizado | ◘ Moana Pasifika vs Crusaders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321093000" channel="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>Próximamente | 03:30 | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321093000" stop="20260321123000" channel="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321123000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____War_vs_ahs_vs__Blues___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>Finalizado | ◘ War vs ahs vs. Blues ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260321060000" stop="20260321160000" channel="EVENTOS_VIP__Evento_____Exeter_Chiefs_vs_Sale_Sharks___Premiership_Rugby___720p_en_____10_00_1">
     <title>Próximamente | 10:00 | ◘ Exeter Chiefs vs Sale Sharks ◘ Premiership Rugby ◘ 720p-en ◘</title>
@@ -136322,24 +136184,6 @@
   </programme>
   <programme start="20260322050500" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Tacoma_Stars_vs_St__Louis_Ambush___Major_Arena_Soccer_League___720p_en_____20_05_1">
     <title>Finalizado | ◘ Tacoma Stars vs St. Louis Ambush ◘ Major Arena Soccer League ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321095000" channel="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <title>Próximamente | 03:50 | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321095000" stop="20260321125000" channel="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <title>⌾ En vivo | 03:50 | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321125000" stop="20260322055959" channel="EVENTOS_VIP__Evento_____Australia_vs_Jap_n___AFC_Women_s_Asian_Cup_l___720p_en_____03_50_1">
-    <title>Finalizado | ◘ Australia vs Japón ◘ AFC Women's Asian Cup	l ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321060000" stop="20260321125500" channel="EVENTOS_VIP__Evento_____London_City_Lionesses_vs_Chelsea___Women_s_Super_League___720p_en_____06_55_1">
-    <title>Próximamente | 06:55 | ◘ London City Lionesses vs Chelsea ◘ Women's Super League ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321125500" stop="20260321155500" channel="EVENTOS_VIP__Evento_____London_City_Lionesses_vs_Chelsea___Women_s_Super_League___720p_en_____06_55_1">
-    <title>⌾ En vivo | 06:55 | ◘ London City Lionesses vs Chelsea ◘ Women's Super League ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260321155500" stop="20260322055959" channel="EVENTOS_VIP__Evento_____London_City_Lionesses_vs_Chelsea___Women_s_Super_League___720p_en_____06_55_1">
-    <title>Finalizado | ◘ London City Lionesses vs Chelsea ◘ Women's Super League ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260321060000" stop="20260321210000" channel="EVENTOS_VIP__Evento_____Houston_Dash_vs_Boston_Legacy___NWSL___720p_en_____15_00_1">
     <title>Próximamente | 15:00 | ◘ Houston Dash vs Boston Legacy ◘ NWSL ◘ 720p-en ◘</title>
