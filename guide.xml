@@ -136776,9 +136776,6 @@
   <channel id="EVENTOS_VIP__Evento_____Stockton_Kings_vs_South_Bay_Lakers___NBA_G_League___720p_en_____21_00_1">
     <display-name>Evento | ◘ Stockton Kings vs South Bay Lakers ◘ NBA G League ◘ 720p-en ◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Murray_St_vs_e_vs__Belmont___Baloncesto_NCAA___720p_en_____15_30_1">
-    <display-name>Evento | ◘ Murray St vs e vs. Belmont ◘ Baloncesto NCAA ◘ 720p-en ◘ | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Carson_Newman_vs_Grand_Valley_State___Baloncesto_NCAA___720p_en_____17_00_1">
     <display-name>Evento | ◘ Carson-Newman vs Grand Valley State ◘ Baloncesto NCAA ◘ 720p-en ◘ | 17:00</display-name>
   </channel>
@@ -136788,20 +136785,8 @@
   <channel id="EVENTOS_VIP__Evento_____Cal_St_vs_e_Fullerton_vs__San_Diego___Baloncesto_NCAA___720p_en_____20_00_1">
     <display-name>Evento | ◘ Cal St vs e Fullerton vs. San Diego ◘ Baloncesto NCAA ◘ 720p-en ◘ | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Emmen_vs_Cambuur___Eerste_Divisie___720p_nl_____14_00_1">
-    <display-name>Evento | ◘ Emmen vs Cambuur ◘ Eerste Divisie ◘ 720p-nl ◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___540p_es_____14_30_1">
-    <display-name>Evento | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 540p-es ◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___720p_es_____14_30_1">
-    <display-name>Evento | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 720p-es ◘ | 14:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea___UEFA_Women_s_Champions_League___720p_en_____14_40_1">
     <display-name>Evento | ◘ Arsenal vs Chelsea ◘ UEFA Women's Champions League ◘ 720p-en ◘ | 14:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Doncaster_Rovers_vs_Port_Vale___EFL_League_Two___720p_en_____14_45_1">
-    <display-name>Evento | ◘ Doncaster Rovers vs Port Vale ◘ EFL League Two ◘ 720p-en ◘ | 14:45</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Uni_n_La_Calera___Copa_de_la_Liga___720p_es_____16_00_1">
     <display-name>Evento | ◘ Universidad Chile vs Unión La Calera ◘ Copa de la Liga ◘ 720p-es ◘ | 16:00</display-name>
@@ -137118,15 +137103,6 @@
   <programme start="20260325000000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Stockton_Kings_vs_South_Bay_Lakers___NBA_G_League___720p_en_____21_00_1">
     <title>Finalizado | ◘ Stockton Kings vs South Bay Lakers ◘ NBA G League ◘ 720p-en ◘</title>
   </programme>
-  <programme start="20260324000000 -0600" stop="20260324153000 -0600" channel="EVENTOS_VIP__Evento_____Murray_St_vs_e_vs__Belmont___Baloncesto_NCAA___720p_en_____15_30_1">
-    <title>Próximamente | 15:30 | ◘ Murray St vs e vs. Belmont ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260324153000 -0600" stop="20260324183000 -0600" channel="EVENTOS_VIP__Evento_____Murray_St_vs_e_vs__Belmont___Baloncesto_NCAA___720p_en_____15_30_1">
-    <title>⌾ En vivo | 15:30 | ◘ Murray St vs e vs. Belmont ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260324183000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Murray_St_vs_e_vs__Belmont___Baloncesto_NCAA___720p_en_____15_30_1">
-    <title>Finalizado | ◘ Murray St vs e vs. Belmont ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
   <programme start="20260324000000 -0600" stop="20260324170000 -0600" channel="EVENTOS_VIP__Evento_____Carson_Newman_vs_Grand_Valley_State___Baloncesto_NCAA___720p_en_____17_00_1">
     <title>Próximamente | 17:00 | ◘ Carson-Newman vs Grand Valley State ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
   </programme>
@@ -137154,33 +137130,6 @@
   <programme start="20260324230000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Cal_St_vs_e_Fullerton_vs__San_Diego___Baloncesto_NCAA___720p_en_____20_00_1">
     <title>Finalizado | ◘ Cal St vs e Fullerton vs. San Diego ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
   </programme>
-  <programme start="20260324000000 -0600" stop="20260324140000 -0600" channel="EVENTOS_VIP__Evento_____Emmen_vs_Cambuur___Eerste_Divisie___720p_nl_____14_00_1">
-    <title>Próximamente | 14:00 | ◘ Emmen vs Cambuur ◘ Eerste Divisie ◘ 720p-nl ◘</title>
-  </programme>
-  <programme start="20260324140000 -0600" stop="20260324170000 -0600" channel="EVENTOS_VIP__Evento_____Emmen_vs_Cambuur___Eerste_Divisie___720p_nl_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ◘ Emmen vs Cambuur ◘ Eerste Divisie ◘ 720p-nl ◘</title>
-  </programme>
-  <programme start="20260324170000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Emmen_vs_Cambuur___Eerste_Divisie___720p_nl_____14_00_1">
-    <title>Finalizado | ◘ Emmen vs Cambuur ◘ Eerste Divisie ◘ 720p-nl ◘</title>
-  </programme>
-  <programme start="20260324000000 -0600" stop="20260324143000 -0600" channel="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___540p_es_____14_30_1">
-    <title>Próximamente | 14:30 | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 540p-es ◘</title>
-  </programme>
-  <programme start="20260324143000 -0600" stop="20260324173000 -0600" channel="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___540p_es_____14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 540p-es ◘</title>
-  </programme>
-  <programme start="20260324173000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___540p_es_____14_30_1">
-    <title>Finalizado | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 540p-es ◘</title>
-  </programme>
-  <programme start="20260324000000 -0600" stop="20260324143000 -0600" channel="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___720p_es_____14_30_1">
-    <title>Próximamente | 14:30 | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260324143000 -0600" stop="20260324173000 -0600" channel="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___720p_es_____14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260324173000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Liverpool_FC_vs_Central_Espa_ol___Primera_Divisi_n___720p_es_____14_30_1">
-    <title>Finalizado | ◘ Liverpool FC vs Central Español ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
   <programme start="20260324000000 -0600" stop="20260324144000 -0600" channel="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea___UEFA_Women_s_Champions_League___720p_en_____14_40_1">
     <title>Próximamente | 14:40 | ◘ Arsenal vs Chelsea ◘ UEFA Women's Champions League ◘ 720p-en ◘</title>
   </programme>
@@ -137189,15 +137138,6 @@
   </programme>
   <programme start="20260324174000 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Arsenal_vs_Chelsea___UEFA_Women_s_Champions_League___720p_en_____14_40_1">
     <title>Finalizado | ◘ Arsenal vs Chelsea ◘ UEFA Women's Champions League ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260324000000 -0600" stop="20260324144500 -0600" channel="EVENTOS_VIP__Evento_____Doncaster_Rovers_vs_Port_Vale___EFL_League_Two___720p_en_____14_45_1">
-    <title>Próximamente | 14:45 | ◘ Doncaster Rovers vs Port Vale ◘ EFL League Two ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260324144500 -0600" stop="20260324174500 -0600" channel="EVENTOS_VIP__Evento_____Doncaster_Rovers_vs_Port_Vale___EFL_League_Two___720p_en_____14_45_1">
-    <title>⌾ En vivo | 14:45 | ◘ Doncaster Rovers vs Port Vale ◘ EFL League Two ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260324174500 -0600" stop="20260324235959 -0600" channel="EVENTOS_VIP__Evento_____Doncaster_Rovers_vs_Port_Vale___EFL_League_Two___720p_en_____14_45_1">
-    <title>Finalizado | ◘ Doncaster Rovers vs Port Vale ◘ EFL League Two ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260324000000 -0600" stop="20260324160000 -0600" channel="EVENTOS_VIP__Evento_____Universidad_Chile_vs_Uni_n_La_Calera___Copa_de_la_Liga___720p_es_____16_00_1">
     <title>Próximamente | 16:00 | ◘ Universidad Chile vs Unión La Calera ◘ Copa de la Liga ◘ 720p-es ◘</title>
