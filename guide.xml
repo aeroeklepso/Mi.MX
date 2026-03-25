@@ -136785,9 +136785,6 @@
   <channel id="EVENTOS_VIP__Evento_____Manchester_United_vs_FC_Bayern_Munchen___UEFA_Women_s_Champions_League___720p_en_____15_00_1">
     <display-name>Evento | ◘ Manchester United vs FC Bayern Munchen ◘ UEFA Women's Champions League ◘ 720p-en ◘ | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Kazakhstan_vs_Namibia___Amistoso_Internacional___720p_en_____06_50_1">
-    <display-name>Evento | ◘ Kazakhstan vs Namibia ◘ Amistoso Internacional ◘ 720p-en ◘ | 06:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Huachip_vs_o_vs__Coquimbo_Unido___Copa_de_la_Liga___720p_es_____16_00_1">
     <display-name>Evento | ◘ Huachip vs o vs. Coquimbo Unido ◘ Copa de la Liga ◘ 720p-es ◘ | 16:00</display-name>
   </channel>
@@ -136847,9 +136844,6 @@
   </channel>
   <channel id="Evento_LigaMX__LigaMX_____Tigres_UANL_vs_Am_rica___Liga_MX_Femenil___720p_es_____19_00_1">
     <display-name>LigaMX | ◘ Tigres UANL vs América ◘ Liga MX Femenil ◘ 720p-es ◘ | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Central_Coast_Mariners_vs_Wellington_Phoenix___A_League_Women___720p_en_____03_00_1">
-    <display-name>Evento | ◘ Central Coast Mariners vs Wellington Phoenix ◘ A-League Women ◘ 720p-en ◘ | 03:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Greenville_Triumph_SC_vs_New_York_Cosmos___USL_League_One___720p_en_____18_00_1">
     <display-name>Evento | ◘ Greenville Triumph SC vs New York Cosmos ◘ USL League One ◘ 720p-en ◘ | 18:00</display-name>
@@ -137184,15 +137178,6 @@
   <programme start="20260325180000 -0600" stop="20260325235959 -0600" channel="EVENTOS_VIP__Evento_____Manchester_United_vs_FC_Bayern_Munchen___UEFA_Women_s_Champions_League___720p_en_____15_00_1">
     <title>Finalizado | ◘ Manchester United vs FC Bayern Munchen ◘ UEFA Women's Champions League ◘ 720p-en ◘</title>
   </programme>
-  <programme start="20260325000000 -0600" stop="20260325065000 -0600" channel="EVENTOS_VIP__Evento_____Kazakhstan_vs_Namibia___Amistoso_Internacional___720p_en_____06_50_1">
-    <title>Próximamente | 06:50 | ◘ Kazakhstan vs Namibia ◘ Amistoso Internacional ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325065000 -0600" stop="20260325095000 -0600" channel="EVENTOS_VIP__Evento_____Kazakhstan_vs_Namibia___Amistoso_Internacional___720p_en_____06_50_1">
-    <title>⌾ En vivo | 06:50 | ◘ Kazakhstan vs Namibia ◘ Amistoso Internacional ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325095000 -0600" stop="20260325235959 -0600" channel="EVENTOS_VIP__Evento_____Kazakhstan_vs_Namibia___Amistoso_Internacional___720p_en_____06_50_1">
-    <title>Finalizado | ◘ Kazakhstan vs Namibia ◘ Amistoso Internacional ◘ 720p-en ◘</title>
-  </programme>
   <programme start="20260325000000 -0600" stop="20260325160000 -0600" channel="EVENTOS_VIP__Evento_____Huachip_vs_o_vs__Coquimbo_Unido___Copa_de_la_Liga___720p_es_____16_00_1">
     <title>Próximamente | 16:00 | ◘ Huachip vs o vs. Coquimbo Unido ◘ Copa de la Liga ◘ 720p-es ◘</title>
   </programme>
@@ -137372,15 +137357,6 @@
   </programme>
   <programme start="20260325220000 -0600" stop="20260325235959 -0600" channel="Evento_LigaMX__LigaMX_____Tigres_UANL_vs_Am_rica___Liga_MX_Femenil___720p_es_____19_00_1">
     <title>Finalizado | ◘ Tigres UANL vs América ◘ Liga MX Femenil ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260325000000 -0600" stop="20260325030000 -0600" channel="EVENTOS_VIP__Evento_____Central_Coast_Mariners_vs_Wellington_Phoenix___A_League_Women___720p_en_____03_00_1">
-    <title>Próximamente | 03:00 | ◘ Central Coast Mariners vs Wellington Phoenix ◘ A-League Women ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325030000 -0600" stop="20260325060000 -0600" channel="EVENTOS_VIP__Evento_____Central_Coast_Mariners_vs_Wellington_Phoenix___A_League_Women___720p_en_____03_00_1">
-    <title>⌾ En vivo | 03:00 | ◘ Central Coast Mariners vs Wellington Phoenix ◘ A-League Women ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325060000 -0600" stop="20260325235959 -0600" channel="EVENTOS_VIP__Evento_____Central_Coast_Mariners_vs_Wellington_Phoenix___A_League_Women___720p_en_____03_00_1">
-    <title>Finalizado | ◘ Central Coast Mariners vs Wellington Phoenix ◘ A-League Women ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260325000000 -0600" stop="20260325180000 -0600" channel="EVENTOS_VIP__Evento_____Greenville_Triumph_SC_vs_New_York_Cosmos___USL_League_One___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Greenville Triumph SC vs New York Cosmos ◘ USL League One ◘ 720p-en ◘</title>
