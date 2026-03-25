@@ -136752,15 +136752,6 @@
   <channel id="EVENTOS_VIP__Evento_____Toronto_Raptors_vs_Los_Angeles_Clippers___NBA___720p_en_____21_30_1">
     <display-name>Evento | ◘ Toronto Raptors vs Los Angeles Clippers ◘ NBA ◘ 720p-en ◘ | 21:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Longwood_vs_Wofford___Baloncesto_NCAA___720p_en_____11_00_1">
-    <display-name>Evento | ◘ Longwood vs Wofford ◘ Baloncesto NCAA ◘ 720p-en ◘ | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Michigan_Tech_vs_Gannon___Baloncesto_NCAA___720p_en_____11_00_1">
-    <display-name>Evento | ◘ Michigan Tech vs Gannon ◘ Baloncesto NCAA ◘ 720p-en ◘ | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Vanderbilt_vs_Louisville___Baloncesto_NCAA___720p_en_____11_00_1">
-    <display-name>Evento | ◘ Vanderbilt vs Louisville ◘ Baloncesto NCAA ◘ 720p-en ◘ | 11:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Oklahoma_Baptist_vs_CSU_East_Bay___Baloncesto_NCAA___720p_en_____13_30_1">
     <display-name>Evento | ◘ Oklahoma Baptist vs CSU East Bay ◘ Baloncesto NCAA ◘ 720p-en ◘ | 13:30</display-name>
   </channel>
@@ -136811,12 +136802,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Deportivo_Riestra_vs_San_Lorenzo___Primera_Argentina___720p_es_____17_00_1">
     <display-name>Evento | ◘ Deportivo Riestra vs San Lorenzo ◘ Primera Argentina ◘ 720p-es ◘ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___5400p_es_____11_30_1">
-    <display-name>Evento | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 5400p-es ◘ | 11:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___720p_es_____11_30_1">
-    <display-name>Evento | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 720p-es ◘ | 11:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Cerro_vs_Juventud___Primera_Divisi_n___540p_es_____14_30_1">
     <display-name>Evento | ◘ Cerro vs Juventud ◘ Primera División ◘ 540p-es ◘ | 14:30</display-name>
@@ -136877,6 +136862,9 @@
   </channel>
   <channel id="Evento_20_00___NCAA_Women_s_Swimming_and_Diving_Championship___Nataci_n_NCAA___720p_en____20_00___NCAA_Women_s_Swimming_and_Diving_Championship___Nataci_n_NCAA___720p_en_______NCAA_Women_s_Swimming_and_Diving_Championship___N_vs_aci_n_NCAA___720p_en_____19_00_1">
     <display-name>20:00 ◘ NCAA Women's Swimming and Diving Championship ◘ Natación NCAA ◘ 720p-en ◘ | ◘ NCAA Women's Swimming and Diving Championship ◘ N vs ación NCAA ◘ 720p-en ◘ | 19:00</display-name>
+  </channel>
+  <channel id="Evento_AMISTOSO_INTERNACIONAL__AMISTOSO_INTERNACIONAL___PUERTO_RICO_vs_GUAM___00_00_1">
+    <display-name>AMISTOSO INTERNACIONAL | PUERTO RICO vs GUAM | 00:00</display-name>
   </channel>
   <programme start="20260325060000" stop="20260326003000" channel="EVENTOS_VIP__Evento_____Boston_Bruins_vs_Buffalo_Sabres___NHL___720p_en_____18_30_1">
     <title>Próximamente | 18:30 | ◘ Boston Bruins vs Buffalo Sabres ◘ NHL ◘ 720p-en ◘</title>
@@ -137076,33 +137064,6 @@
   <programme start="20260326063000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Toronto_Raptors_vs_Los_Angeles_Clippers___NBA___720p_en_____21_30_1">
     <title>Finalizado | ◘ Toronto Raptors vs Los Angeles Clippers ◘ NBA ◘ 720p-en ◘</title>
   </programme>
-  <programme start="20260325060000" stop="20260325170000" channel="EVENTOS_VIP__Evento_____Longwood_vs_Wofford___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>Próximamente | 11:00 | ◘ Longwood vs Wofford ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325170000" stop="20260325200000" channel="EVENTOS_VIP__Evento_____Longwood_vs_Wofford___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>⌾ En vivo | 11:00 | ◘ Longwood vs Wofford ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325200000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Longwood_vs_Wofford___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>Finalizado | ◘ Longwood vs Wofford ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325060000" stop="20260325170000" channel="EVENTOS_VIP__Evento_____Michigan_Tech_vs_Gannon___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>Próximamente | 11:00 | ◘ Michigan Tech vs Gannon ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325170000" stop="20260325200000" channel="EVENTOS_VIP__Evento_____Michigan_Tech_vs_Gannon___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>⌾ En vivo | 11:00 | ◘ Michigan Tech vs Gannon ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325200000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Michigan_Tech_vs_Gannon___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>Finalizado | ◘ Michigan Tech vs Gannon ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325060000" stop="20260325170000" channel="EVENTOS_VIP__Evento_____Vanderbilt_vs_Louisville___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>Próximamente | 11:00 | ◘ Vanderbilt vs Louisville ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325170000" stop="20260325200000" channel="EVENTOS_VIP__Evento_____Vanderbilt_vs_Louisville___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>⌾ En vivo | 11:00 | ◘ Vanderbilt vs Louisville ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260325200000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Vanderbilt_vs_Louisville___Baloncesto_NCAA___720p_en_____11_00_1">
-    <title>Finalizado | ◘ Vanderbilt vs Louisville ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
-  </programme>
   <programme start="20260325060000" stop="20260325193000" channel="EVENTOS_VIP__Evento_____Oklahoma_Baptist_vs_CSU_East_Bay___Baloncesto_NCAA___720p_en_____13_30_1">
     <title>Próximamente | 13:30 | ◘ Oklahoma Baptist vs CSU East Bay ◘ Baloncesto NCAA ◘ 720p-en ◘</title>
   </programme>
@@ -137255,24 +137216,6 @@
   </programme>
   <programme start="20260326020000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Deportivo_Riestra_vs_San_Lorenzo___Primera_Argentina___720p_es_____17_00_1">
     <title>Finalizado | ◘ Deportivo Riestra vs San Lorenzo ◘ Primera Argentina ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260325060000" stop="20260325173000" channel="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___5400p_es_____11_30_1">
-    <title>Próximamente | 11:30 | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 5400p-es ◘</title>
-  </programme>
-  <programme start="20260325173000" stop="20260325203000" channel="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___5400p_es_____11_30_1">
-    <title>⌾ En vivo | 11:30 | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 5400p-es ◘</title>
-  </programme>
-  <programme start="20260325203000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___5400p_es_____11_30_1">
-    <title>Finalizado | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 5400p-es ◘</title>
-  </programme>
-  <programme start="20260325060000" stop="20260325173000" channel="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___720p_es_____11_30_1">
-    <title>Próximamente | 11:30 | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260325173000" stop="20260325203000" channel="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___720p_es_____11_30_1">
-    <title>⌾ En vivo | 11:30 | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260325203000" stop="20260326055959" channel="EVENTOS_VIP__Evento_____Albion_FC_vs_Montevideo_Wanderers___Primera_Divisi_n___720p_es_____11_30_1">
-    <title>Finalizado | ◘ Albion FC vs Montevideo Wanderers ◘ Primera División ◘ 720p-es ◘</title>
   </programme>
   <programme start="20260325060000" stop="20260325203000" channel="EVENTOS_VIP__Evento_____Cerro_vs_Juventud___Primera_Divisi_n___540p_es_____14_30_1">
     <title>Próximamente | 14:30 | ◘ Cerro vs Juventud ◘ Primera División ◘ 540p-es ◘</title>
@@ -137453,6 +137396,15 @@
   </programme>
   <programme start="20260326050000" stop="20260326055959" channel="Evento_20_00___NCAA_Women_s_Swimming_and_Diving_Championship___Nataci_n_NCAA___720p_en____20_00___NCAA_Women_s_Swimming_and_Diving_Championship___Nataci_n_NCAA___720p_en_______NCAA_Women_s_Swimming_and_Diving_Championship___N_vs_aci_n_NCAA___720p_en_____19_00_1">
     <title>Finalizado | ◘ NCAA Women's Swimming and Diving Championship ◘ N vs ación NCAA ◘ 720p-en ◘</title>
+  </programme>
+  <programme start="20260325060000" stop="20260325060000" channel="Evento_AMISTOSO_INTERNACIONAL__AMISTOSO_INTERNACIONAL___PUERTO_RICO_vs_GUAM___00_00_1">
+    <title>Próximamente | 00:00 | PUERTO RICO vs GUAM</title>
+  </programme>
+  <programme start="20260325060000" stop="20260325090000" channel="Evento_AMISTOSO_INTERNACIONAL__AMISTOSO_INTERNACIONAL___PUERTO_RICO_vs_GUAM___00_00_1">
+    <title>⌾ En vivo | 00:00 | PUERTO RICO vs GUAM</title>
+  </programme>
+  <programme start="20260325090000" stop="20260326055959" channel="Evento_AMISTOSO_INTERNACIONAL__AMISTOSO_INTERNACIONAL___PUERTO_RICO_vs_GUAM___00_00_1">
+    <title>Finalizado | PUERTO RICO vs GUAM</title>
   </programme>
 </tv>
 
