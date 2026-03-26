@@ -136245,8 +136245,14 @@
   <channel id="EVENTOS_VIP__Evento_____Deportes_Limache_vs_Palestino___Copa_de_Chile___720p_cl_____16_00_1">
     <display-name>Evento | ◘ Deportes Limache vs Palestino ◘ Copa de Chile ◘ 720p-cl ◘ | 16:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Moldavia_vs_Lituania___Amistoso_Internacional___720p_es_____10_00_1">
-    <display-name>Evento | ◘ Moldavia vs Lituania ◘ Amistoso Internacional ◘ 720p-es ◘ | 10:00</display-name>
+  <channel id="EVENTOS_VIP__Evento___Bolivia_vs_Surinam___17_00_1">
+    <display-name>Evento | Bolivia vs Surinam | 17:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Rep_blica_Checa_vs_Rep_blica_de_Irlanda___14_45_1">
+    <display-name>Evento | República Checa vs República de Irlanda | 14:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Nueva_Caledonia_vs_Jamaica___22_00_1">
+    <display-name>Evento | Nueva Caledonia vs Jamaica | 22:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Racing_vs_Progreso___Primera_Divisi_n___540p_es_____10_30_1">
     <display-name>Evento | ◘ Racing vs Progreso ◘ Primera División ◘ 540p-es ◘ | 10:30</display-name>
@@ -136304,6 +136310,12 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Columbia_vs_California___B_squet_Femenino_NCAA___720p_en_____21_00_1">
     <display-name>Evento | ◘ Columbia vs California ◘ Básquet Femenino NCAA ◘ 720p-en ◘ | 21:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Los__ngeles_dodgers_vs_Arizona___00_00_1">
+    <display-name>Evento | Los ángeles dodgers vs Arizona | 00:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Se_vs_tle_vs_cleveland___00_00_1">
+    <display-name>Evento | Se vs tle vs cleveland | 00:00</display-name>
   </channel>
   <programme start="20260326000000 -0600" stop="20260326180000 -0600" channel="EVENTOS_VIP__Evento_____Chicago_Blackhawks_vs_Philadelphia_Flyers___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Chicago Blackhawks vs Philadelphia Flyers ◘ NHL ◘ 720p-en ◘</title>
@@ -136818,14 +136830,32 @@
   <programme start="20260326190000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento_____Deportes_Limache_vs_Palestino___Copa_de_Chile___720p_cl_____16_00_1">
     <title>Finalizado | ◘ Deportes Limache vs Palestino ◘ Copa de Chile ◘ 720p-cl ◘</title>
   </programme>
-  <programme start="20260326000000 -0600" stop="20260326100000 -0600" channel="EVENTOS_VIP__Evento_____Moldavia_vs_Lituania___Amistoso_Internacional___720p_es_____10_00_1">
-    <title>Próximamente | 10:00 | ◘ Moldavia vs Lituania ◘ Amistoso Internacional ◘ 720p-es ◘</title>
+  <programme start="20260326000000 -0600" stop="20260326170000 -0600" channel="EVENTOS_VIP__Evento___Bolivia_vs_Surinam___17_00_1">
+    <title>Próximamente | 17:00 | Bolivia vs Surinam</title>
   </programme>
-  <programme start="20260326100000 -0600" stop="20260326130000 -0600" channel="EVENTOS_VIP__Evento_____Moldavia_vs_Lituania___Amistoso_Internacional___720p_es_____10_00_1">
-    <title>⌾ En vivo | 10:00 | ◘ Moldavia vs Lituania ◘ Amistoso Internacional ◘ 720p-es ◘</title>
+  <programme start="20260326170000 -0600" stop="20260326200000 -0600" channel="EVENTOS_VIP__Evento___Bolivia_vs_Surinam___17_00_1">
+    <title>⌾ En vivo | 17:00 | Bolivia vs Surinam</title>
   </programme>
-  <programme start="20260326130000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento_____Moldavia_vs_Lituania___Amistoso_Internacional___720p_es_____10_00_1">
-    <title>Finalizado | ◘ Moldavia vs Lituania ◘ Amistoso Internacional ◘ 720p-es ◘</title>
+  <programme start="20260326200000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento___Bolivia_vs_Surinam___17_00_1">
+    <title>Finalizado | Bolivia vs Surinam</title>
+  </programme>
+  <programme start="20260326000000 -0600" stop="20260326144500 -0600" channel="EVENTOS_VIP__Evento___Rep_blica_Checa_vs_Rep_blica_de_Irlanda___14_45_1">
+    <title>Próximamente | 14:45 | República Checa vs República de Irlanda</title>
+  </programme>
+  <programme start="20260326144500 -0600" stop="20260326174500 -0600" channel="EVENTOS_VIP__Evento___Rep_blica_Checa_vs_Rep_blica_de_Irlanda___14_45_1">
+    <title>⌾ En vivo | 14:45 | República Checa vs República de Irlanda</title>
+  </programme>
+  <programme start="20260326174500 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento___Rep_blica_Checa_vs_Rep_blica_de_Irlanda___14_45_1">
+    <title>Finalizado | República Checa vs República de Irlanda</title>
+  </programme>
+  <programme start="20260326000000 -0600" stop="20260326220000 -0600" channel="EVENTOS_VIP__Evento___Nueva_Caledonia_vs_Jamaica___22_00_1">
+    <title>Próximamente | 22:00 | Nueva Caledonia vs Jamaica</title>
+  </programme>
+  <programme start="20260326220000 -0600" stop="20260327010000 -0600" channel="EVENTOS_VIP__Evento___Nueva_Caledonia_vs_Jamaica___22_00_1">
+    <title>⌾ En vivo | 22:00 | Nueva Caledonia vs Jamaica</title>
+  </programme>
+  <programme start="20260327010000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento___Nueva_Caledonia_vs_Jamaica___22_00_1">
+    <title>Finalizado | Nueva Caledonia vs Jamaica</title>
   </programme>
   <programme start="20260326000000 -0600" stop="20260326103000 -0600" channel="EVENTOS_VIP__Evento_____Racing_vs_Progreso___Primera_Divisi_n___540p_es_____10_30_1">
     <title>Próximamente | 10:30 | ◘ Racing vs Progreso ◘ Primera División ◘ 540p-es ◘</title>
@@ -136997,6 +137027,24 @@
   </programme>
   <programme start="20260327000000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento_____Columbia_vs_California___B_squet_Femenino_NCAA___720p_en_____21_00_1">
     <title>Finalizado | ◘ Columbia vs California ◘ Básquet Femenino NCAA ◘ 720p-en ◘</title>
+  </programme>
+  <programme start="20260326000000 -0600" stop="20260326000000 -0600" channel="EVENTOS_VIP__Evento___Los__ngeles_dodgers_vs_Arizona___00_00_1">
+    <title>Próximamente | 00:00 | Los ángeles dodgers vs Arizona</title>
+  </programme>
+  <programme start="20260326000000 -0600" stop="20260326030000 -0600" channel="EVENTOS_VIP__Evento___Los__ngeles_dodgers_vs_Arizona___00_00_1">
+    <title>⌾ En vivo | 00:00 | Los ángeles dodgers vs Arizona</title>
+  </programme>
+  <programme start="20260326030000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento___Los__ngeles_dodgers_vs_Arizona___00_00_1">
+    <title>Finalizado | Los ángeles dodgers vs Arizona</title>
+  </programme>
+  <programme start="20260326000000 -0600" stop="20260326000000 -0600" channel="EVENTOS_VIP__Evento___Se_vs_tle_vs_cleveland___00_00_1">
+    <title>Próximamente | 00:00 | Se vs tle vs cleveland</title>
+  </programme>
+  <programme start="20260326000000 -0600" stop="20260326030000 -0600" channel="EVENTOS_VIP__Evento___Se_vs_tle_vs_cleveland___00_00_1">
+    <title>⌾ En vivo | 00:00 | Se vs tle vs cleveland</title>
+  </programme>
+  <programme start="20260326030000 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento___Se_vs_tle_vs_cleveland___00_00_1">
+    <title>Finalizado | Se vs tle vs cleveland</title>
   </programme>
 </tv>
 
