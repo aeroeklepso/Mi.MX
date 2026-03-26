@@ -136176,8 +136176,8 @@
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Eslov_quia_vs_Kosovo___Clasificaci_n_Mundial___1080p_en_____13_30_1">
     <display-name>FIFA Clasificación Mundial | ◘ Eslováquia vs Kosovo ◘ Clasificación Mundial ◘ 1080p-en ◘ | 13:30</display-name>
   </channel>
-  <channel id="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Eslov_quia_vs_Kosovo___Clasificaci_n_Mundial___720p_en_____13_30_1">
-    <display-name>FIFA Clasificación Mundial | ◘ Eslováquia vs Kosovo ◘ Clasificación Mundial ◘ 720p-en ◘ | 13:30</display-name>
+  <channel id="EVENTOS_VIP__Evento___Italia_vs_Irlanda_del_Norte___13_45_1">
+    <display-name>Evento | Italia vs Irlanda del Norte | 13:45</display-name>
   </channel>
   <channel id="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Polonia_vs_Albania___Clasificaci_n_Mundial___540p_en_____13_30_1">
     <display-name>FIFA Clasificación Mundial | ◘ Polonia vs Albania ◘ Clasificación Mundial ◘ 540p-en ◘ | 13:30</display-name>
@@ -136623,14 +136623,14 @@
   <programme start="20260326163000 -0600" stop="20260326235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Eslov_quia_vs_Kosovo___Clasificaci_n_Mundial___1080p_en_____13_30_1">
     <title>Finalizado | ◘ Eslováquia vs Kosovo ◘ Clasificación Mundial ◘ 1080p-en ◘</title>
   </programme>
-  <programme start="20260326000000 -0600" stop="20260326133000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Eslov_quia_vs_Kosovo___Clasificaci_n_Mundial___720p_en_____13_30_1">
-    <title>Próximamente | 13:30 | ◘ Eslováquia vs Kosovo ◘ Clasificación Mundial ◘ 720p-en ◘</title>
+  <programme start="20260326000000 -0600" stop="20260326134500 -0600" channel="EVENTOS_VIP__Evento___Italia_vs_Irlanda_del_Norte___13_45_1">
+    <title>Próximamente | 13:45 | Italia vs Irlanda del Norte</title>
   </programme>
-  <programme start="20260326133000 -0600" stop="20260326163000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Eslov_quia_vs_Kosovo___Clasificaci_n_Mundial___720p_en_____13_30_1">
-    <title>⌾ En vivo | 13:30 | ◘ Eslováquia vs Kosovo ◘ Clasificación Mundial ◘ 720p-en ◘</title>
+  <programme start="20260326134500 -0600" stop="20260326164500 -0600" channel="EVENTOS_VIP__Evento___Italia_vs_Irlanda_del_Norte___13_45_1">
+    <title>⌾ En vivo | 13:45 | Italia vs Irlanda del Norte</title>
   </programme>
-  <programme start="20260326163000 -0600" stop="20260326235959 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Eslov_quia_vs_Kosovo___Clasificaci_n_Mundial___720p_en_____13_30_1">
-    <title>Finalizado | ◘ Eslováquia vs Kosovo ◘ Clasificación Mundial ◘ 720p-en ◘</title>
+  <programme start="20260326164500 -0600" stop="20260326235959 -0600" channel="EVENTOS_VIP__Evento___Italia_vs_Irlanda_del_Norte___13_45_1">
+    <title>Finalizado | Italia vs Irlanda del Norte</title>
   </programme>
   <programme start="20260326000000 -0600" stop="20260326133000 -0600" channel="Evento_FIFA_Clasificaci_n_Mundial__FIFA_Clasificaci_n_Mundial_____Polonia_vs_Albania___Clasificaci_n_Mundial___540p_en_____13_30_1">
     <title>Próximamente | 13:30 | ◘ Polonia vs Albania ◘ Clasificación Mundial ◘ 540p-en ◘</title>
