@@ -93081,8 +93081,8 @@
   <channel id="EVENTOS_VIP__Evento_____Joel_Mafaud_vs_Mariano_Farias___Boxeo___720p_en_____20_00_1">
     <display-name>Evento | ◘ Joel Mafaud vs Mariano Farias ◘ Boxeo ◘ 720p-en ◘ | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____China_vs_Curazao___FIFA_Series___720p_en_____01_00_1">
-    <display-name>Evento | ◘ China vs Curazao ◘ FIFA Series ◘ 720p-en ◘ | 01:00</display-name>
+  <channel id="EVENTOS_VIP__Evento___Rusia_vs_Nicaragua___00_00_1">
+    <display-name>Evento | Rusia vs Nicaragua | 00:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Nueva_Zelanda_vs_Finlandia___FIFA_Series___720p_en_____01_15_1">
     <display-name>Evento | ◘ Nueva Zelanda vs Finlandia ◘ FIFA Series ◘ 720p-en ◘ | 01:15</display-name>
@@ -93543,14 +93543,14 @@
   <programme start="20260327230000 -0600" stop="20260327235959 -0600" channel="EVENTOS_VIP__Evento_____Joel_Mafaud_vs_Mariano_Farias___Boxeo___720p_en_____20_00_1">
     <title>Finalizado | ◘ Joel Mafaud vs Mariano Farias ◘ Boxeo ◘ 720p-en ◘</title>
   </programme>
-  <programme start="20260327000000 -0600" stop="20260327010000 -0600" channel="EVENTOS_VIP__Evento_____China_vs_Curazao___FIFA_Series___720p_en_____01_00_1">
-    <title>Próximamente | 01:00 | ◘ China vs Curazao ◘ FIFA Series ◘ 720p-en ◘</title>
+  <programme start="20260327000000 -0600" stop="20260327000000 -0600" channel="EVENTOS_VIP__Evento___Rusia_vs_Nicaragua___00_00_1">
+    <title>Próximamente | 00:00 | Rusia vs Nicaragua</title>
   </programme>
-  <programme start="20260327010000 -0600" stop="20260327040000 -0600" channel="EVENTOS_VIP__Evento_____China_vs_Curazao___FIFA_Series___720p_en_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ◘ China vs Curazao ◘ FIFA Series ◘ 720p-en ◘</title>
+  <programme start="20260327000000 -0600" stop="20260327030000 -0600" channel="EVENTOS_VIP__Evento___Rusia_vs_Nicaragua___00_00_1">
+    <title>⌾ En vivo | 00:00 | Rusia vs Nicaragua</title>
   </programme>
-  <programme start="20260327040000 -0600" stop="20260327235959 -0600" channel="EVENTOS_VIP__Evento_____China_vs_Curazao___FIFA_Series___720p_en_____01_00_1">
-    <title>Finalizado | ◘ China vs Curazao ◘ FIFA Series ◘ 720p-en ◘</title>
+  <programme start="20260327030000 -0600" stop="20260327235959 -0600" channel="EVENTOS_VIP__Evento___Rusia_vs_Nicaragua___00_00_1">
+    <title>Finalizado | Rusia vs Nicaragua</title>
   </programme>
   <programme start="20260327000000 -0600" stop="20260327011500 -0600" channel="EVENTOS_VIP__Evento_____Nueva_Zelanda_vs_Finlandia___FIFA_Series___720p_en_____01_15_1">
     <title>Próximamente | 01:15 | ◘ Nueva Zelanda vs Finlandia ◘ FIFA Series ◘ 720p-en ◘</title>
