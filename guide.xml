@@ -93234,12 +93234,6 @@
   <channel id="Evento_14_50___Red_Bull_Grand_Prix_of_The_United_States___Practice___MotoGP___720p_es____14_50___Red_Bull_Grand_Prix_of_The_United_States___Practice___MotoGP___720p_es_______Red_Bull_Grand_Prix_of_The_United_St_vs_es___Practice___MotoGP___720p_es_____13_50_1">
     <display-name>14:50 ◘ Red Bull Grand Prix of The United States - Practice ◘ MotoGP ◘ 720p-es ◘ | ◘ Red Bull Grand Prix of The United St vs es - Practice ◘ MotoGP ◘ 720p-es ◘ | 13:50</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Highlanders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <display-name>Evento | ◘ Moana Pasifika vs Highlanders ◘ Super Rugby Pacific ◘ 720p-en ◘ | 01:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Brumbies_vs_Waratahs___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <display-name>Evento | ◘ Brumbies vs Waratahs ◘ Super Rugby Pacific ◘ 720p-en ◘ | 03:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Hurricanes_vs_Reds___Super_Rugby_Pacific___720p_en_____22_30_1">
     <display-name>Evento | ◘ Hurricanes vs Reds ◘ Super Rugby Pacific ◘ 720p-en ◘ | 22:30</display-name>
   </channel>
@@ -94007,24 +94001,6 @@
   </programme>
   <programme start="20260327175000 -0600" stop="20260327235959 -0600" channel="Evento_14_50___Red_Bull_Grand_Prix_of_The_United_States___Practice___MotoGP___720p_es____14_50___Red_Bull_Grand_Prix_of_The_United_States___Practice___MotoGP___720p_es_______Red_Bull_Grand_Prix_of_The_United_St_vs_es___Practice___MotoGP___720p_es_____13_50_1">
     <title>Finalizado | ◘ Red Bull Grand Prix of The United St vs es - Practice ◘ MotoGP ◘ 720p-es ◘</title>
-  </programme>
-  <programme start="20260327000000 -0600" stop="20260327010000 -0600" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Highlanders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>Próximamente | 01:00 | ◘ Moana Pasifika vs Highlanders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260327010000 -0600" stop="20260327040000 -0600" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Highlanders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ◘ Moana Pasifika vs Highlanders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260327040000 -0600" stop="20260327235959 -0600" channel="EVENTOS_VIP__Evento_____Moana_Pasifika_vs_Highlanders___Super_Rugby_Pacific___720p_en_____01_00_1">
-    <title>Finalizado | ◘ Moana Pasifika vs Highlanders ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260327000000 -0600" stop="20260327033000 -0600" channel="EVENTOS_VIP__Evento_____Brumbies_vs_Waratahs___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>Próximamente | 03:30 | ◘ Brumbies vs Waratahs ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260327033000 -0600" stop="20260327063000 -0600" channel="EVENTOS_VIP__Evento_____Brumbies_vs_Waratahs___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ Brumbies vs Waratahs ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
-  </programme>
-  <programme start="20260327063000 -0600" stop="20260327235959 -0600" channel="EVENTOS_VIP__Evento_____Brumbies_vs_Waratahs___Super_Rugby_Pacific___720p_en_____03_30_1">
-    <title>Finalizado | ◘ Brumbies vs Waratahs ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
   </programme>
   <programme start="20260327000000 -0600" stop="20260327223000 -0600" channel="EVENTOS_VIP__Evento_____Hurricanes_vs_Reds___Super_Rugby_Pacific___720p_en_____22_30_1">
     <title>Próximamente | 22:30 | ◘ Hurricanes vs Reds ◘ Super Rugby Pacific ◘ 720p-en ◘</title>
