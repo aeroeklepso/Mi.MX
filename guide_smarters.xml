@@ -123510,6 +123510,9 @@
   <channel id="Evento_LigaMX__LigaMX_____Tijuana_vs_Tigres_UANL___Liga_MX_Femenil___720p_es_____21_06_1">
     <display-name>LigaMX | ▫ Tijuana vs Tigres UANL ▫ Liga MX Femenil ▫ 720p-es ▫ | 21:06</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Chicago_White_soxdl_vs_Toronto_Blue___00_00_1">
+    <display-name>Evento | Chicago White soxdl vs Toronto Blue | 00:00</display-name>
+  </channel>
   <programme start="20260403060000" stop="20260404000000" channel="EVENTOS_VIP__Evento_____Philadelphia_Flyers_vs_New_York_Islanders___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ▫ Philadelphia Flyers vs New York Islanders ▫ NHL ▫ 720p-en ▫</title>
   </programme>
@@ -124391,6 +124394,15 @@
   </programme>
   <programme start="20260404060600" stop="20260404055959" channel="Evento_LigaMX__LigaMX_____Tijuana_vs_Tigres_UANL___Liga_MX_Femenil___720p_es_____21_06_1">
     <title>Finalizado | ▫ Tijuana vs Tigres UANL ▫ Liga MX Femenil ▫ 720p-es ▫</title>
+  </programme>
+  <programme start="20260403060000" stop="20260403060000" channel="EVENTOS_VIP__Evento___Chicago_White_soxdl_vs_Toronto_Blue___00_00_1">
+    <title>Próximamente | 00:00 | Chicago White soxdl vs Toronto Blue</title>
+  </programme>
+  <programme start="20260403060000" stop="20260403090000" channel="EVENTOS_VIP__Evento___Chicago_White_soxdl_vs_Toronto_Blue___00_00_1">
+    <title>⌾ En vivo | 00:00 | Chicago White soxdl vs Toronto Blue</title>
+  </programme>
+  <programme start="20260403090000" stop="20260404055959" channel="EVENTOS_VIP__Evento___Chicago_White_soxdl_vs_Toronto_Blue___00_00_1">
+    <title>Finalizado | Chicago White soxdl vs Toronto Blue</title>
   </programme>
 </tv>
 
