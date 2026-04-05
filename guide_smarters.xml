@@ -130446,9 +130446,6 @@
   <channel id="EVENTOS_VIP__Evento_____Toronto_Maple_Leafs_vs_Los_Angeles_Kings___NHL___720p_en_____18_00_1">
     <display-name>Evento | ▫ Toronto Maple Leafs vs Los Angeles Kings ▫ NHL ▫ 720p-en ▫ | 18:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Utah_Mammoth_vs_Vancouver_Canucks___NHL___720p_en_____18_00_1">
-    <display-name>Evento | ▫ Utah Mammoth vs Vancouver Canucks ▫ NHL ▫ 720p-en ▫ | 18:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Winnipeg_Jets_vs_Columbus_Blue_Jackets___NHL___720p_en_____18_00_1">
     <display-name>Evento | ▫ Winnipeg Jets vs Columbus Blue Jackets ▫ NHL ▫ 720p-en ▫ | 18:00</display-name>
   </channel>
@@ -130641,9 +130638,6 @@
   <channel id="EVENTOS_VIP__Evento_____El_Salvador_vs_Portugal___World___Beach_Soccer___720p_en_____19_30_1">
     <display-name>Evento | ▫ El Salvador vs Portugal ▫ World - Beach Soccer ▫ 720p-en ▫ | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Vancouver_FC_vs_HFX_Wanderers___Canadian_Premier_League___720p_es_____18_00_1">
-    <display-name>Evento | ▫ Vancouver FC vs HFX Wanderers ▫ Canadian Premier League ▫ 720p-es ▫ | 18:00</display-name>
-  </channel>
   <channel id="Evento_LigaMX__LigaMX_____Monterrey_vs_Atl_tico_San_Luis___Liga_MX___720p_en_____17_00_1">
     <display-name>LigaMX | ▫ Monterrey vs Atlético San Luis ▫ Liga MX ▫ 720p-en ▫ | 17:00</display-name>
   </channel>
@@ -130772,15 +130766,6 @@
   </programme>
   <programme start="20260405030000" stop="20260405055959" channel="EVENTOS_VIP__Evento_____Toronto_Maple_Leafs_vs_Los_Angeles_Kings___NHL___720p_en_____18_00_1">
     <title>Finalizado | ▫ Toronto Maple Leafs vs Los Angeles Kings ▫ NHL ▫ 720p-en ▫</title>
-  </programme>
-  <programme start="20260404060000" stop="20260405000000" channel="EVENTOS_VIP__Evento_____Utah_Mammoth_vs_Vancouver_Canucks___NHL___720p_en_____18_00_1">
-    <title>Próximamente | 18:00 | ▫ Utah Mammoth vs Vancouver Canucks ▫ NHL ▫ 720p-en ▫</title>
-  </programme>
-  <programme start="20260405000000" stop="20260405030000" channel="EVENTOS_VIP__Evento_____Utah_Mammoth_vs_Vancouver_Canucks___NHL___720p_en_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ▫ Utah Mammoth vs Vancouver Canucks ▫ NHL ▫ 720p-en ▫</title>
-  </programme>
-  <programme start="20260405030000" stop="20260405055959" channel="EVENTOS_VIP__Evento_____Utah_Mammoth_vs_Vancouver_Canucks___NHL___720p_en_____18_00_1">
-    <title>Finalizado | ▫ Utah Mammoth vs Vancouver Canucks ▫ NHL ▫ 720p-en ▫</title>
   </programme>
   <programme start="20260404060000" stop="20260405000000" channel="EVENTOS_VIP__Evento_____Winnipeg_Jets_vs_Columbus_Blue_Jackets___NHL___720p_en_____18_00_1">
     <title>Próximamente | 18:00 | ▫ Winnipeg Jets vs Columbus Blue Jackets ▫ NHL ▫ 720p-en ▫</title>
@@ -131357,15 +131342,6 @@
   </programme>
   <programme start="20260405043000" stop="20260405055959" channel="EVENTOS_VIP__Evento_____El_Salvador_vs_Portugal___World___Beach_Soccer___720p_en_____19_30_1">
     <title>Finalizado | ▫ El Salvador vs Portugal ▫ World - Beach Soccer ▫ 720p-en ▫</title>
-  </programme>
-  <programme start="20260404060000" stop="20260405000000" channel="EVENTOS_VIP__Evento_____Vancouver_FC_vs_HFX_Wanderers___Canadian_Premier_League___720p_es_____18_00_1">
-    <title>Próximamente | 18:00 | ▫ Vancouver FC vs HFX Wanderers ▫ Canadian Premier League ▫ 720p-es ▫</title>
-  </programme>
-  <programme start="20260405000000" stop="20260405030000" channel="EVENTOS_VIP__Evento_____Vancouver_FC_vs_HFX_Wanderers___Canadian_Premier_League___720p_es_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ▫ Vancouver FC vs HFX Wanderers ▫ Canadian Premier League ▫ 720p-es ▫</title>
-  </programme>
-  <programme start="20260405030000" stop="20260405055959" channel="EVENTOS_VIP__Evento_____Vancouver_FC_vs_HFX_Wanderers___Canadian_Premier_League___720p_es_____18_00_1">
-    <title>Finalizado | ▫ Vancouver FC vs HFX Wanderers ▫ Canadian Premier League ▫ 720p-es ▫</title>
   </programme>
   <programme start="20260404060000" stop="20260404230000" channel="Evento_LigaMX__LigaMX_____Monterrey_vs_Atl_tico_San_Luis___Liga_MX___720p_en_____17_00_1">
     <title>Próximamente | 17:00 | ▫ Monterrey vs Atlético San Luis ▫ Liga MX ▫ 720p-en ▫</title>
