@@ -128021,6 +128021,12 @@
   <channel id="EVENTOS_VIP__Evento_____Wednesday_vs_the_PGA_Championship___HD___ENG_____ENG____11_00_1">
     <display-name>Evento | ▫ Wednesday vs the PGA Championship ▫ HD - ENG ▫▫ [ENG] | 11:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Hearts_vs_Falkirk___14_00_1">
+    <display-name>Evento | Hearts vs Falkirk | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Motherwell_vs_Celtic___14_00_1">
+    <display-name>Evento | Motherwell vs Celtic | 14:00</display-name>
+  </channel>
   <programme start="20260513060000" stop="20260514010000" channel="EVENTOS_VIP__Evento_____NHL___Minnesota_Wild_vs_Colorado_Avalanche___HD___ENG____ENG____19_00_1">
     <title>Próximamente | 19:00 | ▫ NHL ▫ Minnesota Wild vs Colorado Avalanche ▫ HD - ENG ▫ [ENG]</title>
   </programme>
@@ -128731,6 +128737,24 @@
   </programme>
   <programme start="20260513200000" stop="20260514055959" channel="EVENTOS_VIP__Evento_____Wednesday_vs_the_PGA_Championship___HD___ENG_____ENG____11_00_1">
     <title>Finalizado | ▫ Wednesday vs the PGA Championship ▫ HD - ENG ▫▫ [ENG]</title>
+  </programme>
+  <programme start="20260513060000" stop="20260513200000" channel="EVENTOS_VIP__Evento___Hearts_vs_Falkirk___14_00_1">
+    <title>Próximamente | 14:00 | Hearts vs Falkirk</title>
+  </programme>
+  <programme start="20260513200000" stop="20260513230000" channel="EVENTOS_VIP__Evento___Hearts_vs_Falkirk___14_00_1">
+    <title>⌾ En vivo | 14:00 | Hearts vs Falkirk</title>
+  </programme>
+  <programme start="20260513230000" stop="20260514055959" channel="EVENTOS_VIP__Evento___Hearts_vs_Falkirk___14_00_1">
+    <title>Finalizado | Hearts vs Falkirk</title>
+  </programme>
+  <programme start="20260513060000" stop="20260513200000" channel="EVENTOS_VIP__Evento___Motherwell_vs_Celtic___14_00_1">
+    <title>Próximamente | 14:00 | Motherwell vs Celtic</title>
+  </programme>
+  <programme start="20260513200000" stop="20260513230000" channel="EVENTOS_VIP__Evento___Motherwell_vs_Celtic___14_00_1">
+    <title>⌾ En vivo | 14:00 | Motherwell vs Celtic</title>
+  </programme>
+  <programme start="20260513230000" stop="20260514055959" channel="EVENTOS_VIP__Evento___Motherwell_vs_Celtic___14_00_1">
+    <title>Finalizado | Motherwell vs Celtic</title>
   </programme>
 </tv>
 
