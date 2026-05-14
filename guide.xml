@@ -130616,9 +130616,6 @@
   <channel id="EVENTOS_VIP__Evento_____vs_P_Roma___Jannik_Sinner_vs__Andrey_Rublev___HD___ENG_____ENG____06_00_1">
     <display-name>Evento | ▫ vs P Roma ▫ Jannik Sinner vs. Andrey Rublev ▫ HD - ENG ▫▫ [ENG] | 06:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P_Roma___Jannik_Sinner_vs__Andrey_Rublev__alternativo____HD___ENG_____ENG____06_00_1">
-    <display-name>Evento | ▫ vs P Roma ▫ Jannik Sinner vs. Andrey Rublev (alternativo) ▫ HD - ENG ▫▫ [ENG] | 06:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____vs_P_Roma___Supertennis_Arena___HD___ENG_____ENG____08_00_1">
     <display-name>Evento | ▫ vs P Roma ▫ Supertennis Arena ▫ HD - ENG ▫▫ [ENG] | 08:00</display-name>
   </channel>
@@ -130867,15 +130864,6 @@
   </programme>
   <programme start="20260514090000 -0600" stop="20260514235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P_Roma___Jannik_Sinner_vs__Andrey_Rublev___HD___ENG_____ENG____06_00_1">
     <title>Finalizado | ▫ vs P Roma ▫ Jannik Sinner vs. Andrey Rublev ▫ HD - ENG ▫▫ [ENG]</title>
-  </programme>
-  <programme start="20260514000000 -0600" stop="20260514060000 -0600" channel="EVENTOS_VIP__Evento_____vs_P_Roma___Jannik_Sinner_vs__Andrey_Rublev__alternativo____HD___ENG_____ENG____06_00_1">
-    <title>Próximamente | 06:00 | ▫ vs P Roma ▫ Jannik Sinner vs. Andrey Rublev (alternativo) ▫ HD - ENG ▫▫ [ENG]</title>
-  </programme>
-  <programme start="20260514060000 -0600" stop="20260514090000 -0600" channel="EVENTOS_VIP__Evento_____vs_P_Roma___Jannik_Sinner_vs__Andrey_Rublev__alternativo____HD___ENG_____ENG____06_00_1">
-    <title>⌾ En vivo | 06:00 | ▫ vs P Roma ▫ Jannik Sinner vs. Andrey Rublev (alternativo) ▫ HD - ENG ▫▫ [ENG]</title>
-  </programme>
-  <programme start="20260514090000 -0600" stop="20260514235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P_Roma___Jannik_Sinner_vs__Andrey_Rublev__alternativo____HD___ENG_____ENG____06_00_1">
-    <title>Finalizado | ▫ vs P Roma ▫ Jannik Sinner vs. Andrey Rublev (alternativo) ▫ HD - ENG ▫▫ [ENG]</title>
   </programme>
   <programme start="20260514000000 -0600" stop="20260514080000 -0600" channel="EVENTOS_VIP__Evento_____vs_P_Roma___Supertennis_Arena___HD___ENG_____ENG____08_00_1">
     <title>Próximamente | 08:00 | ▫ vs P Roma ▫ Supertennis Arena ▫ HD - ENG ▫▫ [ENG]</title>
