@@ -130604,9 +130604,6 @@
   <channel id="Evento_LigaMX__LigaMX_____Liga_MX_Femenil___Monterrey_vs_Am_rica___HD___ESP_____ESP____21_10_1">
     <display-name>LigaMX | ▫ Liga MX Femenil ▫ Monterrey vs América ▫ HD - ESP ▫▫ [ESP] | 21:10</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____UEFA_Women_s_Under_17___Alemania__F__vs_Espa_a__F____HD___ESP_____ESP____08_00_1">
-    <display-name>Evento | ▫ UEFA Women's Under-17 ▫ Alemania (F) vs España (F) ▫ HD - ESP ▫▫ [ESP] | 08:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____UEFA_Women_s_Under_17___Francia__F__vs_Noruega__F____HD___ESP_____ESP____22_10_1">
     <display-name>Evento | ▫ UEFA Women's Under-17 ▫ Francia (F) vs Noruega (F) ▫ HD - ESP ▫▫ [ESP] | 22:10</display-name>
   </channel>
@@ -130828,15 +130825,6 @@
   </programme>
   <programme start="20260515001000 -0600" stop="20260514235959 -0600" channel="Evento_LigaMX__LigaMX_____Liga_MX_Femenil___Monterrey_vs_Am_rica___HD___ESP_____ESP____21_10_1">
     <title>Finalizado | ▫ Liga MX Femenil ▫ Monterrey vs América ▫ HD - ESP ▫▫ [ESP]</title>
-  </programme>
-  <programme start="20260514000000 -0600" stop="20260514080000 -0600" channel="EVENTOS_VIP__Evento_____UEFA_Women_s_Under_17___Alemania__F__vs_Espa_a__F____HD___ESP_____ESP____08_00_1">
-    <title>Próximamente | 08:00 | ▫ UEFA Women's Under-17 ▫ Alemania (F) vs España (F) ▫ HD - ESP ▫▫ [ESP]</title>
-  </programme>
-  <programme start="20260514080000 -0600" stop="20260514110000 -0600" channel="EVENTOS_VIP__Evento_____UEFA_Women_s_Under_17___Alemania__F__vs_Espa_a__F____HD___ESP_____ESP____08_00_1">
-    <title>⌾ En vivo | 08:00 | ▫ UEFA Women's Under-17 ▫ Alemania (F) vs España (F) ▫ HD - ESP ▫▫ [ESP]</title>
-  </programme>
-  <programme start="20260514110000 -0600" stop="20260514235959 -0600" channel="EVENTOS_VIP__Evento_____UEFA_Women_s_Under_17___Alemania__F__vs_Espa_a__F____HD___ESP_____ESP____08_00_1">
-    <title>Finalizado | ▫ UEFA Women's Under-17 ▫ Alemania (F) vs España (F) ▫ HD - ESP ▫▫ [ESP]</title>
   </programme>
   <programme start="20260514000000 -0600" stop="20260514221000 -0600" channel="EVENTOS_VIP__Evento_____UEFA_Women_s_Under_17___Francia__F__vs_Noruega__F____HD___ESP_____ESP____22_10_1">
     <title>Próximamente | 22:10 | ▫ UEFA Women's Under-17 ▫ Francia (F) vs Noruega (F) ▫ HD - ESP ▫▫ [ESP]</title>
