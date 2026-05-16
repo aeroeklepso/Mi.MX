@@ -127895,6 +127895,9 @@
   <channel id="EVENTOS_VIP__Evento_____MotoGP___GP_C_vs_alu_a___Qualifying___HD___ESP_____ESP____06_35_1">
     <display-name>Evento | ▫ MotoGP ▫ GP C vs aluña - Qualifying ▫ HD - ESP ▫▫ [ESP] | 06:35</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___MLB_Tampa_Bay_Rays_vs_Florida_Marlins___00_00_1">
+    <display-name>Evento | MLB Tampa Bay Rays vs Florida Marlins | 00:00</display-name>
+  </channel>
   <programme start="20260516060000" stop="20260516181000" channel="EVENTOS_VIP__Evento_____MLB___Toronto_Blue_Jays_vs_Detroit_Tigers___HD___ENG____ENG____12_10_1">
     <title>Próximamente | 12:10 | ▫ MLB ▫ Toronto Blue Jays vs Detroit Tigers ▫ HD - ENG ▫ [ENG]</title>
   </programme>
@@ -129145,6 +129148,15 @@
   </programme>
   <programme start="20260516153500" stop="20260517055959" channel="EVENTOS_VIP__Evento_____MotoGP___GP_C_vs_alu_a___Qualifying___HD___ESP_____ESP____06_35_1">
     <title>Finalizado | ▫ MotoGP ▫ GP C vs aluña - Qualifying ▫ HD - ESP ▫▫ [ESP]</title>
+  </programme>
+  <programme start="20260516060000" stop="20260516060000" channel="EVENTOS_VIP__Evento___MLB_Tampa_Bay_Rays_vs_Florida_Marlins___00_00_1">
+    <title>Próximamente | 00:00 | MLB Tampa Bay Rays vs Florida Marlins</title>
+  </programme>
+  <programme start="20260516060000" stop="20260516090000" channel="EVENTOS_VIP__Evento___MLB_Tampa_Bay_Rays_vs_Florida_Marlins___00_00_1">
+    <title>⌾ En vivo | 00:00 | MLB Tampa Bay Rays vs Florida Marlins</title>
+  </programme>
+  <programme start="20260516090000" stop="20260517055959" channel="EVENTOS_VIP__Evento___MLB_Tampa_Bay_Rays_vs_Florida_Marlins___00_00_1">
+    <title>Finalizado | MLB Tampa Bay Rays vs Florida Marlins</title>
   </programme>
 </tv>
 
