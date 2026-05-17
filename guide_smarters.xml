@@ -127022,6 +127022,9 @@
   <channel id="EVENTOS_VIP__Evento_____NWSL___Portland_Thorns_FC_vs_Angel_City_FC___HD___ENG_____ENG____17_00_1">
     <display-name>Evento | ▫ NWSL ▫ Portland Thorns FC vs Angel City FC ▫ HD - ENG ▫▫ [ENG] | 17:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Universit_vs_ea_Craiova_vs_Universitatea_Cluj___00_00_1">
+    <display-name>Evento | Universit vs ea Craiova vs Universitatea Cluj | 00:00</display-name>
+  </channel>
   <programme start="20260517060000" stop="20260517171500" channel="EVENTOS_VIP__Evento_____MLB___Miami_Marlins_vs_Tampa_Bay_Rays___HD___ENG____ENG____11_15_1">
     <title>Próximamente | 11:15 | ▫ MLB ▫ Miami Marlins vs Tampa Bay Rays ▫ HD - ENG ▫ [ENG]</title>
   </programme>
@@ -128389,6 +128392,15 @@
   </programme>
   <programme start="20260518020000" stop="20260518055959" channel="EVENTOS_VIP__Evento_____NWSL___Portland_Thorns_FC_vs_Angel_City_FC___HD___ENG_____ENG____17_00_1">
     <title>Finalizado | ▫ NWSL ▫ Portland Thorns FC vs Angel City FC ▫ HD - ENG ▫▫ [ENG]</title>
+  </programme>
+  <programme start="20260517060000" stop="20260517060000" channel="EVENTOS_VIP__Evento___Universit_vs_ea_Craiova_vs_Universitatea_Cluj___00_00_1">
+    <title>Próximamente | 00:00 | Universit vs ea Craiova vs Universitatea Cluj</title>
+  </programme>
+  <programme start="20260517060000" stop="20260517090000" channel="EVENTOS_VIP__Evento___Universit_vs_ea_Craiova_vs_Universitatea_Cluj___00_00_1">
+    <title>⌾ En vivo | 00:00 | Universit vs ea Craiova vs Universitatea Cluj</title>
+  </programme>
+  <programme start="20260517090000" stop="20260518055959" channel="EVENTOS_VIP__Evento___Universit_vs_ea_Craiova_vs_Universitatea_Cluj___00_00_1">
+    <title>Finalizado | Universit vs ea Craiova vs Universitatea Cluj</title>
   </programme>
 </tv>
 
