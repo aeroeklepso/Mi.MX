@@ -125657,6 +125657,12 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Diablos_Rojos_del_M_xico_vs_Bravos_de_Le_n___HD___ESP_____ESP____20_30_1">
     <display-name>Evento | ▫ LMB ▫ Diablos Rojos del México vs Bravos de León ▫ HD - ESP ▫▫ [ESP] | 20:30</display-name>
   </channel>
+  <channel id="Evento_WNBA_01__WNBA_01___Mystics_vs_Wings___06_00_1">
+    <display-name>WNBA 01 | Mystics vs Wings | 06:00</display-name>
+  </channel>
+  <channel id="Evento_WNBA_02__WNBA_02___Fire_vs_Sun___08_00_1">
+    <display-name>WNBA 02 | Fire vs Sun | 08:00</display-name>
+  </channel>
   <programme start="20260518060000" stop="20260518193000" channel="EVENTOS_VIP__Evento_____LaLiga_SmartBank___Legan_s_vs_Huesca___HD___ESP_____ESP____13_30_1">
     <title>Próximamente | 13:30 | ▫ LaLiga SmartBank ▫ Leganés vs Huesca ▫ HD - ESP ▫▫ [ESP]</title>
   </programme>
@@ -125989,6 +125995,24 @@
   </programme>
   <programme start="20260519053000" stop="20260519055959" channel="EVENTOS_VIP__Evento_____LMB___Diablos_Rojos_del_M_xico_vs_Bravos_de_Le_n___HD___ESP_____ESP____20_30_1">
     <title>Finalizado | ▫ LMB ▫ Diablos Rojos del México vs Bravos de León ▫ HD - ESP ▫▫ [ESP]</title>
+  </programme>
+  <programme start="20260518060000" stop="20260518120000" channel="Evento_WNBA_01__WNBA_01___Mystics_vs_Wings___06_00_1">
+    <title>Próximamente | 06:00 | Mystics vs Wings</title>
+  </programme>
+  <programme start="20260518120000" stop="20260518150000" channel="Evento_WNBA_01__WNBA_01___Mystics_vs_Wings___06_00_1">
+    <title>⌾ En vivo | 06:00 | Mystics vs Wings</title>
+  </programme>
+  <programme start="20260518150000" stop="20260519055959" channel="Evento_WNBA_01__WNBA_01___Mystics_vs_Wings___06_00_1">
+    <title>Finalizado | Mystics vs Wings</title>
+  </programme>
+  <programme start="20260518060000" stop="20260518140000" channel="Evento_WNBA_02__WNBA_02___Fire_vs_Sun___08_00_1">
+    <title>Próximamente | 08:00 | Fire vs Sun</title>
+  </programme>
+  <programme start="20260518140000" stop="20260518170000" channel="Evento_WNBA_02__WNBA_02___Fire_vs_Sun___08_00_1">
+    <title>⌾ En vivo | 08:00 | Fire vs Sun</title>
+  </programme>
+  <programme start="20260518170000" stop="20260519055959" channel="Evento_WNBA_02__WNBA_02___Fire_vs_Sun___08_00_1">
+    <title>Finalizado | Fire vs Sun</title>
   </programme>
 </tv>
 
