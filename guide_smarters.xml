@@ -127505,6 +127505,9 @@
   <channel id="EVENTOS_VIP__Evento_____vs_P_Hamburg_Open___Main___HD___ENG_____ENG____05_00_1">
     <display-name>Evento | ▫ vs P Hamburg Open ▫ Main ▫ HD - ENG ▫▫ [ENG] | 05:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____NBA___San_Antonio_Spurs_vs_Oklahoma_City_Thunder___HD___ENG___2__ENG____19_30_1">
+    <display-name>Evento | ▫ NBA ▫ San Antonio Spurs vs Oklahoma City Thunder ▫ HD - ENG ▫ 2 [ENG] | 19:30</display-name>
+  </channel>
   <programme start="20260520060000" stop="20260520180500" channel="EVENTOS_VIP__Evento_____MLB___Cincinn_vs_i_Reds_vs__Philadelphia_Phillies___HD___ENG____ENG____12_05_1">
     <title>Próximamente | 12:05 | ▫ MLB ▫ Cincinn vs i Reds vs. Philadelphia Phillies ▫ HD - ENG ▫ [ENG]</title>
   </programme>
@@ -128179,6 +128182,15 @@
   </programme>
   <programme start="20260520140000" stop="20260521055959" channel="EVENTOS_VIP__Evento_____vs_P_Hamburg_Open___Main___HD___ENG_____ENG____05_00_1">
     <title>Finalizado | ▫ vs P Hamburg Open ▫ Main ▫ HD - ENG ▫▫ [ENG]</title>
+  </programme>
+  <programme start="20260520060000" stop="20260521013000" channel="EVENTOS_VIP__Evento_____NBA___San_Antonio_Spurs_vs_Oklahoma_City_Thunder___HD___ENG___2__ENG____19_30_1">
+    <title>Próximamente | 19:30 | ▫ NBA ▫ San Antonio Spurs vs Oklahoma City Thunder ▫ HD - ENG ▫ 2 [ENG]</title>
+  </programme>
+  <programme start="20260521013000" stop="20260521043000" channel="EVENTOS_VIP__Evento_____NBA___San_Antonio_Spurs_vs_Oklahoma_City_Thunder___HD___ENG___2__ENG____19_30_1">
+    <title>⌾ En vivo | 19:30 | ▫ NBA ▫ San Antonio Spurs vs Oklahoma City Thunder ▫ HD - ENG ▫ 2 [ENG]</title>
+  </programme>
+  <programme start="20260521043000" stop="20260521055959" channel="EVENTOS_VIP__Evento_____NBA___San_Antonio_Spurs_vs_Oklahoma_City_Thunder___HD___ENG___2__ENG____19_30_1">
+    <title>Finalizado | ▫ NBA ▫ San Antonio Spurs vs Oklahoma City Thunder ▫ HD - ENG ▫ 2 [ENG]</title>
   </programme>
 </tv>
 
