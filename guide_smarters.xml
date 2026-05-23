@@ -125789,6 +125789,9 @@
   <channel id="EVENTOS_VIP__Evento_____NHL_Conference_Final___Vegas_Golden_Knights_vs_Colorado_Avalanche____HD___ESP____ESP____19_00_1">
     <display-name>Evento | ▫ NHL Conference Final ▫ Vegas Golden Knights vs Colorado Avalanche  ▫ HD - ESP ▫ [ESP] | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD___ES____19_30_1">
+    <display-name>Evento | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD - ES▫ | 19:30</display-name>
+  </channel>
   <programme start="20260522060000" stop="20260522194500" channel="EVENTOS_VIP__Evento_____Serie_A___Fiorentina_vs_Atalanta___HD___ESP____ESP____13_45_1">
     <title>Próximamente | 13:45 | ▫ Serie A ▫ Fiorentina vs Atalanta ▫ HD - ESP ▫ [ESP]</title>
   </programme>
@@ -126283,6 +126286,15 @@
   </programme>
   <programme start="20260523040000" stop="20260523055959" channel="EVENTOS_VIP__Evento_____NHL_Conference_Final___Vegas_Golden_Knights_vs_Colorado_Avalanche____HD___ESP____ESP____19_00_1">
     <title>Finalizado | ▫ NHL Conference Final ▫ Vegas Golden Knights vs Colorado Avalanche  ▫ HD - ESP ▫ [ESP]</title>
+  </programme>
+  <programme start="20260522060000" stop="20260523013000" channel="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD___ES____19_30_1">
+    <title>Próximamente | 19:30 | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD - ES▫</title>
+  </programme>
+  <programme start="20260523013000" stop="20260523043000" channel="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD___ES____19_30_1">
+    <title>⌾ En vivo | 19:30 | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD - ES▫</title>
+  </programme>
+  <programme start="20260523043000" stop="20260523055959" channel="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD___ES____19_30_1">
+    <title>Finalizado | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD - ES▫</title>
   </programme>
 </tv>
 
