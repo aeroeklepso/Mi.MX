@@ -124853,8 +124853,8 @@
   <channel id="EVENTOS_VIP__Evento_____Primera_Chile___La_Serena_vs_Deportes_Limache___HD_____14_00_1">
     <display-name>Evento | ▫ Primera Chile ▫ La Serena vs Deportes Limache ▫ HD ▫ | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD_____17_00_1">
-    <display-name>Evento | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ | 17:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP1___17_00_1">
+    <display-name>Evento | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP1 | 17:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Colombia___Alianza_vs_Atl_tico_Bucaramanga___HD_____15_30_1">
     <display-name>Evento | ▫ Copa Colombia ▫ Alianza vs Atlético Bucaramanga ▫ HD ▫ | 15:30</display-name>
@@ -124912,6 +124912,9 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento___Ajax_vs_Utrecht___10_00_1">
     <display-name>Evento | Ajax vs Utrecht | 10:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP2___17_00_1">
+    <display-name>Evento | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP2 | 17:00</display-name>
   </channel>
   <programme start="20260524000000 -0600" stop="20260524190000 -0600" channel="EVENTOS_VIP__Evento_____NHL___Colorado_Avalanche_vs_Vegas_Golden_Knights___HD_____19_00_1">
     <title>Próximamente | 19:00 | ▫ NHL ▫ Colorado Avalanche vs Vegas Golden Knights ▫ HD ▫</title>
@@ -125570,14 +125573,14 @@
   <programme start="20260524170000 -0600" stop="20260524235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___La_Serena_vs_Deportes_Limache___HD_____14_00_1">
     <title>Finalizado | ▫ Primera Chile ▫ La Serena vs Deportes Limache ▫ HD ▫</title>
   </programme>
-  <programme start="20260524000000 -0600" stop="20260524170000 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD_____17_00_1">
-    <title>Próximamente | 17:00 | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫</title>
+  <programme start="20260524000000 -0600" stop="20260524170000 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP1___17_00_1">
+    <title>Próximamente | 17:00 | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP1</title>
   </programme>
-  <programme start="20260524170000 -0600" stop="20260524200000 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫</title>
+  <programme start="20260524170000 -0600" stop="20260524200000 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP1___17_00_1">
+    <title>⌾ En vivo | 17:00 | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP1</title>
   </programme>
-  <programme start="20260524200000 -0600" stop="20260524235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD_____17_00_1">
-    <title>Finalizado | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫</title>
+  <programme start="20260524200000 -0600" stop="20260524235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP1___17_00_1">
+    <title>Finalizado | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP1</title>
   </programme>
   <programme start="20260524000000 -0600" stop="20260524153000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Colombia___Alianza_vs_Atl_tico_Bucaramanga___HD_____15_30_1">
     <title>Próximamente | 15:30 | ▫ Copa Colombia ▫ Alianza vs Atlético Bucaramanga ▫ HD ▫</title>
@@ -125749,6 +125752,15 @@
   </programme>
   <programme start="20260524130000 -0600" stop="20260524235959 -0600" channel="EVENTOS_VIP__Evento___Ajax_vs_Utrecht___10_00_1">
     <title>Finalizado | Ajax vs Utrecht</title>
+  </programme>
+  <programme start="20260524000000 -0600" stop="20260524170000 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP2___17_00_1">
+    <title>Próximamente | 17:00 | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP2</title>
+  </programme>
+  <programme start="20260524170000 -0600" stop="20260524200000 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP2___17_00_1">
+    <title>⌾ En vivo | 17:00 | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP2</title>
+  </programme>
+  <programme start="20260524200000 -0600" stop="20260524235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_Chile___Universidad_C_vs__lica_vs__Colo_Colo___HD___OP2___17_00_1">
+    <title>Finalizado | ▫ Primera Chile ▫ Universidad C vs ólica vs. Colo-Colo ▫ HD ▫ OP2</title>
   </programme>
 </tv>
 
