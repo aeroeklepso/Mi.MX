@@ -126140,9 +126140,6 @@
   <channel id="EVENTOS_VIP__Evento_____Copa_Libertadores___Lan_s__ARG__vs_Mirassol__BRA____HD_____17_00_1">
     <display-name>Evento | ▫ Copa Libertadores ▫ Lanús (ARG) vs Mirassol (BRA) ▫ HD ▫ | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Libertadores___Lan_s__ARG__vs_Mirassol__BRA____SD_____17_00_1">
-    <display-name>Evento | ▫ Copa Libertadores ▫ Lanús (ARG) vs Mirassol (BRA) ▫ SD ▫ | 17:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Libertadores___LDU_Quito__ECU__vs_Always_Ready__BOL____HD_____17_00_1">
     <display-name>Evento | ▫ Copa Libertadores ▫ LDU Quito (ECU) vs Always Ready (BOL) ▫ HD ▫ | 17:00</display-name>
   </channel>
@@ -126184,12 +126181,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Sudamericana___Palestino__CHI__vs_Deportivo_Riestra__ARG____HD_____17_00_1">
     <display-name>Evento | ▫ Copa Sudamericana ▫ Palestino (CHI) vs Deportivo Riestra (ARG) ▫ HD ▫ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Sudamericana___Palestino__CHI__vs_Deportivo_Riestra__ARG____SD_____17_00_1">
-    <display-name>Evento | ▫ Copa Sudamericana ▫ Palestino (CHI) vs Deportivo Riestra (ARG) ▫ SD ▫ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Sudamericana___S_o_Paulo__BRA__vs_Boston_River__ARG____HD_____17_00_1">
-    <display-name>Evento | ▫ Copa Sudamericana ▫ São Paulo (BRA) vs Boston River (ARG) ▫ HD ▫ | 17:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Sudamericana___San_Lorenzo__ARG__vs_Deportivo_Recoleta__PAR____HD_____19_30_1">
     <display-name>Evento | ▫ Copa Sudamericana ▫ San Lorenzo (ARG) vs Deportivo Recoleta (PAR) ▫ HD ▫ | 19:30</display-name>
@@ -126476,15 +126467,6 @@
   <programme start="20260526200000 -0600" stop="20260526235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Libertadores___Lan_s__ARG__vs_Mirassol__BRA____HD_____17_00_1">
     <title>Finalizado | ▫ Copa Libertadores ▫ Lanús (ARG) vs Mirassol (BRA) ▫ HD ▫</title>
   </programme>
-  <programme start="20260526000000 -0600" stop="20260526170000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Libertadores___Lan_s__ARG__vs_Mirassol__BRA____SD_____17_00_1">
-    <title>Próximamente | 17:00 | ▫ Copa Libertadores ▫ Lanús (ARG) vs Mirassol (BRA) ▫ SD ▫</title>
-  </programme>
-  <programme start="20260526170000 -0600" stop="20260526200000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Libertadores___Lan_s__ARG__vs_Mirassol__BRA____SD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ▫ Copa Libertadores ▫ Lanús (ARG) vs Mirassol (BRA) ▫ SD ▫</title>
-  </programme>
-  <programme start="20260526200000 -0600" stop="20260526235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Libertadores___Lan_s__ARG__vs_Mirassol__BRA____SD_____17_00_1">
-    <title>Finalizado | ▫ Copa Libertadores ▫ Lanús (ARG) vs Mirassol (BRA) ▫ SD ▫</title>
-  </programme>
   <programme start="20260526000000 -0600" stop="20260526170000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Libertadores___LDU_Quito__ECU__vs_Always_Ready__BOL____HD_____17_00_1">
     <title>Próximamente | 17:00 | ▫ Copa Libertadores ▫ LDU Quito (ECU) vs Always Ready (BOL) ▫ HD ▫</title>
   </programme>
@@ -126610,24 +126592,6 @@
   </programme>
   <programme start="20260526200000 -0600" stop="20260526235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___Palestino__CHI__vs_Deportivo_Riestra__ARG____HD_____17_00_1">
     <title>Finalizado | ▫ Copa Sudamericana ▫ Palestino (CHI) vs Deportivo Riestra (ARG) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260526000000 -0600" stop="20260526170000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___Palestino__CHI__vs_Deportivo_Riestra__ARG____SD_____17_00_1">
-    <title>Próximamente | 17:00 | ▫ Copa Sudamericana ▫ Palestino (CHI) vs Deportivo Riestra (ARG) ▫ SD ▫</title>
-  </programme>
-  <programme start="20260526170000 -0600" stop="20260526200000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___Palestino__CHI__vs_Deportivo_Riestra__ARG____SD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ▫ Copa Sudamericana ▫ Palestino (CHI) vs Deportivo Riestra (ARG) ▫ SD ▫</title>
-  </programme>
-  <programme start="20260526200000 -0600" stop="20260526235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___Palestino__CHI__vs_Deportivo_Riestra__ARG____SD_____17_00_1">
-    <title>Finalizado | ▫ Copa Sudamericana ▫ Palestino (CHI) vs Deportivo Riestra (ARG) ▫ SD ▫</title>
-  </programme>
-  <programme start="20260526000000 -0600" stop="20260526170000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___S_o_Paulo__BRA__vs_Boston_River__ARG____HD_____17_00_1">
-    <title>Próximamente | 17:00 | ▫ Copa Sudamericana ▫ São Paulo (BRA) vs Boston River (ARG) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260526170000 -0600" stop="20260526200000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___S_o_Paulo__BRA__vs_Boston_River__ARG____HD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ▫ Copa Sudamericana ▫ São Paulo (BRA) vs Boston River (ARG) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260526200000 -0600" stop="20260526235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___S_o_Paulo__BRA__vs_Boston_River__ARG____HD_____17_00_1">
-    <title>Finalizado | ▫ Copa Sudamericana ▫ São Paulo (BRA) vs Boston River (ARG) ▫ HD ▫</title>
   </programme>
   <programme start="20260526000000 -0600" stop="20260526193000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Sudamericana___San_Lorenzo__ARG__vs_Deportivo_Recoleta__PAR____HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ Copa Sudamericana ▫ San Lorenzo (ARG) vs Deportivo Recoleta (PAR) ▫ HD ▫</title>
