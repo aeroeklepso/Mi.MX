@@ -125306,8 +125306,17 @@
   <channel id="EVENTOS_VIP__Evento_____Boxing___Terry_Washington_vs_Axel_Aragon_Vega___HD_____20_00_1">
     <display-name>Evento | ▫ Boxing ▫ Terry Washington vs Axel Aragon Vega ▫ HD ▫ | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Ligue_1___Nice_vs_Saint__tienne___HD_____13_45_1">
-    <display-name>Evento | ▫ Ligue 1 ▫ Nice vs Saint-Étienne ▫ HD ▫ | 13:45</display-name>
+  <channel id="EVENTOS_VIP__Evento_____Ligue_1___Niza_vs_Saint__tienne___HD_____13_45_1">
+    <display-name>Evento | ▫ Ligue 1 ▫ Niza vs Saint-Étienne ▫ HD ▫ | 13:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Premi_re_Ligue_Arkema___Ol_Lyonnes_vs_Paris_FC___HD_____14_00_1">
+    <display-name>Evento | ▫ Première Ligue Arkema ▫ Ol Lyonnes vs Paris FC ▫ HD ▫ | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Friendly___Sur__frica_vs_Nicaragua___HD______11_00_1">
+    <display-name>Evento | ▫ Friendly ▫ Sur África vs Nicaragua ▫ HD ▫▫ | 11:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Friendly___Andorra_vs_Iraq___HD______11_00_1">
+    <display-name>Evento | ▫ Friendly ▫ Andorra vs Iraq ▫ HD ▫▫ | 11:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Friendly___Bosnia_Herzegovina_vs_Macedonia_del_Norte___HD______13_30_1">
     <display-name>Evento | ▫ Friendly ▫ Bosnia-Herzegovina vs Macedonia del Norte ▫ HD ▫▫ | 13:30</display-name>
@@ -125915,14 +125924,41 @@
   <programme start="20260530050000" stop="20260530055959" channel="EVENTOS_VIP__Evento_____Boxing___Terry_Washington_vs_Axel_Aragon_Vega___HD_____20_00_1">
     <title>Finalizado | ▫ Boxing ▫ Terry Washington vs Axel Aragon Vega ▫ HD ▫</title>
   </programme>
-  <programme start="20260529060000" stop="20260529194500" channel="EVENTOS_VIP__Evento_____Ligue_1___Nice_vs_Saint__tienne___HD_____13_45_1">
-    <title>Próximamente | 13:45 | ▫ Ligue 1 ▫ Nice vs Saint-Étienne ▫ HD ▫</title>
+  <programme start="20260529060000" stop="20260529194500" channel="EVENTOS_VIP__Evento_____Ligue_1___Niza_vs_Saint__tienne___HD_____13_45_1">
+    <title>Próximamente | 13:45 | ▫ Ligue 1 ▫ Niza vs Saint-Étienne ▫ HD ▫</title>
   </programme>
-  <programme start="20260529194500" stop="20260529224500" channel="EVENTOS_VIP__Evento_____Ligue_1___Nice_vs_Saint__tienne___HD_____13_45_1">
-    <title>⌾ En vivo | 13:45 | ▫ Ligue 1 ▫ Nice vs Saint-Étienne ▫ HD ▫</title>
+  <programme start="20260529194500" stop="20260529224500" channel="EVENTOS_VIP__Evento_____Ligue_1___Niza_vs_Saint__tienne___HD_____13_45_1">
+    <title>⌾ En vivo | 13:45 | ▫ Ligue 1 ▫ Niza vs Saint-Étienne ▫ HD ▫</title>
   </programme>
-  <programme start="20260529224500" stop="20260530055959" channel="EVENTOS_VIP__Evento_____Ligue_1___Nice_vs_Saint__tienne___HD_____13_45_1">
-    <title>Finalizado | ▫ Ligue 1 ▫ Nice vs Saint-Étienne ▫ HD ▫</title>
+  <programme start="20260529224500" stop="20260530055959" channel="EVENTOS_VIP__Evento_____Ligue_1___Niza_vs_Saint__tienne___HD_____13_45_1">
+    <title>Finalizado | ▫ Ligue 1 ▫ Niza vs Saint-Étienne ▫ HD ▫</title>
+  </programme>
+  <programme start="20260529060000" stop="20260529200000" channel="EVENTOS_VIP__Evento_____Premi_re_Ligue_Arkema___Ol_Lyonnes_vs_Paris_FC___HD_____14_00_1">
+    <title>Próximamente | 14:00 | ▫ Première Ligue Arkema ▫ Ol Lyonnes vs Paris FC ▫ HD ▫</title>
+  </programme>
+  <programme start="20260529200000" stop="20260529230000" channel="EVENTOS_VIP__Evento_____Premi_re_Ligue_Arkema___Ol_Lyonnes_vs_Paris_FC___HD_____14_00_1">
+    <title>⌾ En vivo | 14:00 | ▫ Première Ligue Arkema ▫ Ol Lyonnes vs Paris FC ▫ HD ▫</title>
+  </programme>
+  <programme start="20260529230000" stop="20260530055959" channel="EVENTOS_VIP__Evento_____Premi_re_Ligue_Arkema___Ol_Lyonnes_vs_Paris_FC___HD_____14_00_1">
+    <title>Finalizado | ▫ Première Ligue Arkema ▫ Ol Lyonnes vs Paris FC ▫ HD ▫</title>
+  </programme>
+  <programme start="20260529060000" stop="20260529170000" channel="EVENTOS_VIP__Evento_____Friendly___Sur__frica_vs_Nicaragua___HD______11_00_1">
+    <title>Próximamente | 11:00 | ▫ Friendly ▫ Sur África vs Nicaragua ▫ HD ▫▫</title>
+  </programme>
+  <programme start="20260529170000" stop="20260529200000" channel="EVENTOS_VIP__Evento_____Friendly___Sur__frica_vs_Nicaragua___HD______11_00_1">
+    <title>⌾ En vivo | 11:00 | ▫ Friendly ▫ Sur África vs Nicaragua ▫ HD ▫▫</title>
+  </programme>
+  <programme start="20260529200000" stop="20260530055959" channel="EVENTOS_VIP__Evento_____Friendly___Sur__frica_vs_Nicaragua___HD______11_00_1">
+    <title>Finalizado | ▫ Friendly ▫ Sur África vs Nicaragua ▫ HD ▫▫</title>
+  </programme>
+  <programme start="20260529060000" stop="20260529170000" channel="EVENTOS_VIP__Evento_____Friendly___Andorra_vs_Iraq___HD______11_00_1">
+    <title>Próximamente | 11:00 | ▫ Friendly ▫ Andorra vs Iraq ▫ HD ▫▫</title>
+  </programme>
+  <programme start="20260529170000" stop="20260529200000" channel="EVENTOS_VIP__Evento_____Friendly___Andorra_vs_Iraq___HD______11_00_1">
+    <title>⌾ En vivo | 11:00 | ▫ Friendly ▫ Andorra vs Iraq ▫ HD ▫▫</title>
+  </programme>
+  <programme start="20260529200000" stop="20260530055959" channel="EVENTOS_VIP__Evento_____Friendly___Andorra_vs_Iraq___HD______11_00_1">
+    <title>Finalizado | ▫ Friendly ▫ Andorra vs Iraq ▫ HD ▫▫</title>
   </programme>
   <programme start="20260529060000" stop="20260529193000" channel="EVENTOS_VIP__Evento_____Friendly___Bosnia_Herzegovina_vs_Macedonia_del_Norte___HD______13_30_1">
     <title>Próximamente | 13:30 | ▫ Friendly ▫ Bosnia-Herzegovina vs Macedonia del Norte ▫ HD ▫▫</title>
