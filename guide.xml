@@ -125201,21 +125201,6 @@
   <channel id="EVENTOS_VIP__Evento_____World_Championship_QF___Sweden_vs_Switzerland___HD_____13_20_1">
     <display-name>Evento | ▫ World Championship QF ▫ Sweden vs Switzerland ▫ HD ▫ | 13:20</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <display-name>Evento | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫ | 03:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <display-name>Evento | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <display-name>Evento | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫ | 09:00</display-name>
-  </channel>
   <programme start="20260528000000 -0600" stop="20260528193000 -0600" channel="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD ▫</title>
   </programme>
@@ -125458,51 +125443,6 @@
   </programme>
   <programme start="20260528162000 -0600" stop="20260528235959 -0600" channel="EVENTOS_VIP__Evento_____World_Championship_QF___Sweden_vs_Switzerland___HD_____13_20_1">
     <title>Finalizado | ▫ World Championship QF ▫ Sweden vs Switzerland ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528000000 -0600" stop="20260528040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528040000 -0600" stop="20260528070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528070000 -0600" stop="20260528235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528000000 -0600" stop="20260528050000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <title>Próximamente | 05:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528050000 -0600" stop="20260528080000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528080000 -0600" stop="20260528235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528000000 -0600" stop="20260528030000 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <title>Próximamente | 03:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528030000 -0600" stop="20260528060000 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <title>⌾ En vivo | 03:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528060000 -0600" stop="20260528235959 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <title>Finalizado | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528000000 -0600" stop="20260528050000 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <title>Próximamente | 05:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528050000 -0600" stop="20260528080000 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528080000 -0600" stop="20260528235959 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <title>Finalizado | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528000000 -0600" stop="20260528090000 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <title>Próximamente | 09:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528090000 -0600" stop="20260528120000 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <title>⌾ En vivo | 09:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528120000 -0600" stop="20260528235959 -0600" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <title>Finalizado | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
   </programme>
 </tv>
 
