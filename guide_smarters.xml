@@ -125126,15 +125126,6 @@
   <channel id="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD___ESP__ESP____19_30_1">
     <display-name>Evento | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD ▫ ESP [ESP] | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Angels_vs_Detroit_Tigers___HD_____12_10_1">
-    <display-name>Evento | ▫ MLB ▫ Los Angeles Angels vs Detroit Tigers ▫ HD ▫ | 12:10</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_Chicago_White_Sox___HD_____13_10_1">
-    <display-name>Evento | ▫ MLB ▫ Minnesota Twins vs Chicago White Sox ▫ HD ▫ | 13:10</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs_Boston_Red_Sox___HD_____15_10_1">
-    <display-name>Evento | ▫ MLB ▫ vs lanta Braves vs Boston Red Sox ▫ HD ▫ | 15:10</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___Toronto_Blue_Jays_vs_Baltimore_Orioles___HD_____17_35_1">
     <display-name>Evento | ▫ MLB ▫ Toronto Blue Jays vs Baltimore Orioles ▫ HD ▫ | 17:35</display-name>
   </channel>
@@ -125177,9 +125168,6 @@
   <channel id="EVENTOS_VIP__Evento_____Friendly___Egipto_vs_Rusia___HD______13_00_1">
     <display-name>Evento | ▫ Friendly ▫ Egipto vs Rusia ▫ HD ▫▫ | 13:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Primeira_Liga___Casa_Pia_vs_Torreense___HD_____14_00_1">
-    <display-name>Evento | ▫ Primeira Liga ▫ Casa Pia vs Torreense ▫ HD ▫ | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Sudamericana___Am_rica_de_Cali__COL__vs_Macar___ECU____HD_____19_30_1">
     <display-name>Evento | ▫ Sudamericana ▫ América de Cali (COL) vs Macará (ECU) ▫ HD ▫ | 19:30</display-name>
   </channel>
@@ -125189,32 +125177,11 @@
   <channel id="EVENTOS_VIP__Evento_____Libertadores___Cerro_Porte_o__PAR__vs_Sporting_Cristal__PER____HD_____17_00_1">
     <display-name>Evento | ▫ Libertadores ▫ Cerro Porteño (PAR) vs Sporting Cristal (PER) ▫ HD ▫ | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Libertadores___Palmeiras__BRA__vs_Junior__COL____HD_____17_00_1">
-    <display-name>Evento | ▫ Libertadores ▫ Palmeiras (BRA) vs Junior (COL) ▫ HD ▫ | 17:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Libertadores___Boca_Juniors__ARG__vs_Universidad_Cat_lica__CHI____HD_____19_30_1">
     <display-name>Evento | ▫ Libertadores ▫ Boca Juniors (ARG) vs Universidad Católica (CHI) ▫ HD ▫ | 19:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Libertadores___Cruzeiro__BRA__vs_Barcelona__ECU____HD_____19_30_1">
     <display-name>Evento | ▫ Libertadores ▫ Cruzeiro (BRA) vs Barcelona (ECU) ▫ HD ▫ | 19:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____World_Championship_QF___Sweden_vs_Switzerland___HD_____13_20_1">
-    <display-name>Evento | ▫ World Championship QF ▫ Sweden vs Switzerland ▫ HD ▫ | 13:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <display-name>Evento | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫ | 03:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <display-name>Evento | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <display-name>Evento | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫ | 09:00</display-name>
   </channel>
   <programme start="20260528060000" stop="20260529013000" channel="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD ▫</title>
@@ -125233,33 +125200,6 @@
   </programme>
   <programme start="20260529043000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____NBA___Oklahoma_City_Thunder_vs_San_Antonio_Spurs___HD___ESP__ESP____19_30_1">
     <title>Finalizado | ▫ NBA ▫ Oklahoma City Thunder vs San Antonio Spurs ▫ HD ▫ ESP [ESP]</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528181000" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Angels_vs_Detroit_Tigers___HD_____12_10_1">
-    <title>Próximamente | 12:10 | ▫ MLB ▫ Los Angeles Angels vs Detroit Tigers ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528181000" stop="20260528211000" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Angels_vs_Detroit_Tigers___HD_____12_10_1">
-    <title>⌾ En vivo | 12:10 | ▫ MLB ▫ Los Angeles Angels vs Detroit Tigers ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528211000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Angels_vs_Detroit_Tigers___HD_____12_10_1">
-    <title>Finalizado | ▫ MLB ▫ Los Angeles Angels vs Detroit Tigers ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528191000" channel="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_Chicago_White_Sox___HD_____13_10_1">
-    <title>Próximamente | 13:10 | ▫ MLB ▫ Minnesota Twins vs Chicago White Sox ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528191000" stop="20260528221000" channel="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_Chicago_White_Sox___HD_____13_10_1">
-    <title>⌾ En vivo | 13:10 | ▫ MLB ▫ Minnesota Twins vs Chicago White Sox ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528221000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_Chicago_White_Sox___HD_____13_10_1">
-    <title>Finalizado | ▫ MLB ▫ Minnesota Twins vs Chicago White Sox ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528211000" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs_Boston_Red_Sox___HD_____15_10_1">
-    <title>Próximamente | 15:10 | ▫ MLB ▫ vs lanta Braves vs Boston Red Sox ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528211000" stop="20260529001000" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs_Boston_Red_Sox___HD_____15_10_1">
-    <title>⌾ En vivo | 15:10 | ▫ MLB ▫ vs lanta Braves vs Boston Red Sox ▫ HD ▫</title>
-  </programme>
-  <programme start="20260529001000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs_Boston_Red_Sox___HD_____15_10_1">
-    <title>Finalizado | ▫ MLB ▫ vs lanta Braves vs Boston Red Sox ▫ HD ▫</title>
   </programme>
   <programme start="20260528060000" stop="20260528233500" channel="EVENTOS_VIP__Evento_____MLB___Toronto_Blue_Jays_vs_Baltimore_Orioles___HD_____17_35_1">
     <title>Próximamente | 17:35 | ▫ MLB ▫ Toronto Blue Jays vs Baltimore Orioles ▫ HD ▫</title>
@@ -125387,15 +125327,6 @@
   <programme start="20260528220000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Friendly___Egipto_vs_Rusia___HD______13_00_1">
     <title>Finalizado | ▫ Friendly ▫ Egipto vs Rusia ▫ HD ▫▫</title>
   </programme>
-  <programme start="20260528060000" stop="20260528200000" channel="EVENTOS_VIP__Evento_____Primeira_Liga___Casa_Pia_vs_Torreense___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ Primeira Liga ▫ Casa Pia vs Torreense ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528200000" stop="20260528230000" channel="EVENTOS_VIP__Evento_____Primeira_Liga___Casa_Pia_vs_Torreense___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ Primeira Liga ▫ Casa Pia vs Torreense ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528230000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Primeira_Liga___Casa_Pia_vs_Torreense___HD_____14_00_1">
-    <title>Finalizado | ▫ Primeira Liga ▫ Casa Pia vs Torreense ▫ HD ▫</title>
-  </programme>
   <programme start="20260528060000" stop="20260529013000" channel="EVENTOS_VIP__Evento_____Sudamericana___Am_rica_de_Cali__COL__vs_Macar___ECU____HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ Sudamericana ▫ América de Cali (COL) vs Macará (ECU) ▫ HD ▫</title>
   </programme>
@@ -125423,15 +125354,6 @@
   <programme start="20260529020000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Libertadores___Cerro_Porte_o__PAR__vs_Sporting_Cristal__PER____HD_____17_00_1">
     <title>Finalizado | ▫ Libertadores ▫ Cerro Porteño (PAR) vs Sporting Cristal (PER) ▫ HD ▫</title>
   </programme>
-  <programme start="20260528060000" stop="20260528230000" channel="EVENTOS_VIP__Evento_____Libertadores___Palmeiras__BRA__vs_Junior__COL____HD_____17_00_1">
-    <title>Próximamente | 17:00 | ▫ Libertadores ▫ Palmeiras (BRA) vs Junior (COL) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528230000" stop="20260529020000" channel="EVENTOS_VIP__Evento_____Libertadores___Palmeiras__BRA__vs_Junior__COL____HD_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ▫ Libertadores ▫ Palmeiras (BRA) vs Junior (COL) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260529020000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Libertadores___Palmeiras__BRA__vs_Junior__COL____HD_____17_00_1">
-    <title>Finalizado | ▫ Libertadores ▫ Palmeiras (BRA) vs Junior (COL) ▫ HD ▫</title>
-  </programme>
   <programme start="20260528060000" stop="20260529013000" channel="EVENTOS_VIP__Evento_____Libertadores___Boca_Juniors__ARG__vs_Universidad_Cat_lica__CHI____HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ Libertadores ▫ Boca Juniors (ARG) vs Universidad Católica (CHI) ▫ HD ▫</title>
   </programme>
@@ -125449,60 +125371,6 @@
   </programme>
   <programme start="20260529043000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Libertadores___Cruzeiro__BRA__vs_Barcelona__ECU____HD_____19_30_1">
     <title>Finalizado | ▫ Libertadores ▫ Cruzeiro (BRA) vs Barcelona (ECU) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528192000" channel="EVENTOS_VIP__Evento_____World_Championship_QF___Sweden_vs_Switzerland___HD_____13_20_1">
-    <title>Próximamente | 13:20 | ▫ World Championship QF ▫ Sweden vs Switzerland ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528192000" stop="20260528222000" channel="EVENTOS_VIP__Evento_____World_Championship_QF___Sweden_vs_Switzerland___HD_____13_20_1">
-    <title>⌾ En vivo | 13:20 | ▫ World Championship QF ▫ Sweden vs Switzerland ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528222000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____World_Championship_QF___Sweden_vs_Switzerland___HD_____13_20_1">
-    <title>Finalizado | ▫ World Championship QF ▫ Sweden vs Switzerland ▫ HD ▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528100000" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528100000" stop="20260528130000" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528130000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simonne_M_vs_hieu___HD______04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Simonne-M vs hieu ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528110000" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <title>Próximamente | 05:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528110000" stop="20260528140000" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528140000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD______05_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528090000" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <title>Próximamente | 03:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528090000" stop="20260528120000" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <title>⌾ En vivo | 03:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528120000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______03_00_1">
-    <title>Finalizado | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528110000" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <title>Próximamente | 05:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528110000" stop="20260528140000" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528140000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Secondary_Court___HD______05_00_1">
-    <title>Finalizado | ▫ FIP Pl vs inum (Padel) ▫ Albania - Secondary Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528060000" stop="20260528150000" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <title>Próximamente | 09:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528150000" stop="20260528180000" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <title>⌾ En vivo | 09:00 | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260528180000" stop="20260529055959" channel="EVENTOS_VIP__Evento_____FIP_Pl_vs_inum__Padel____Albania___Centre_Court___HD______09_00_1">
-    <title>Finalizado | ▫ FIP Pl vs inum (Padel) ▫ Albania - Centre Court ▫ HD ▫▫</title>
   </programme>
 </tv>
 
