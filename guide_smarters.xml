@@ -122081,12 +122081,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Sultanes_de_Monterrey_vs_Toros_de_Tijuana___HD_____20_05_1">
     <display-name>Evento | ▫ LMB ▫ Sultanes de Monterrey vs Toros de Tijuana ▫ HD ▫ | 20:05</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Jap_n_vs_Islandia___HD______05_25_1">
-    <display-name>Evento | ▫ Friendly ▫ Japón vs Islandia ▫ HD ▫▫ | 05:25</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Espana_U17_vs_Croatia_U17___HD______06_30_1">
-    <display-name>Evento | ▫ Friendly ▫ Espana U17 vs Croatia U17 ▫ HD ▫▫ | 06:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Friendly___Switzerland_vs_Jordan___HD______08_00_1">
     <display-name>Evento | ▫ Friendly ▫ Switzerland vs Jordan ▫ HD ▫▫ | 08:00</display-name>
   </channel>
@@ -122497,24 +122491,6 @@
   </programme>
   <programme start="20260601050500" stop="20260601055959" channel="EVENTOS_VIP__Evento_____LMB___Sultanes_de_Monterrey_vs_Toros_de_Tijuana___HD_____20_05_1">
     <title>Finalizado | ▫ LMB ▫ Sultanes de Monterrey vs Toros de Tijuana ▫ HD ▫</title>
-  </programme>
-  <programme start="20260531060000" stop="20260531112500" channel="EVENTOS_VIP__Evento_____Friendly___Jap_n_vs_Islandia___HD______05_25_1">
-    <title>Próximamente | 05:25 | ▫ Friendly ▫ Japón vs Islandia ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260531112500" stop="20260531142500" channel="EVENTOS_VIP__Evento_____Friendly___Jap_n_vs_Islandia___HD______05_25_1">
-    <title>⌾ En vivo | 05:25 | ▫ Friendly ▫ Japón vs Islandia ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260531142500" stop="20260601055959" channel="EVENTOS_VIP__Evento_____Friendly___Jap_n_vs_Islandia___HD______05_25_1">
-    <title>Finalizado | ▫ Friendly ▫ Japón vs Islandia ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260531060000" stop="20260531123000" channel="EVENTOS_VIP__Evento_____Friendly___Espana_U17_vs_Croatia_U17___HD______06_30_1">
-    <title>Próximamente | 06:30 | ▫ Friendly ▫ Espana U17 vs Croatia U17 ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260531123000" stop="20260531153000" channel="EVENTOS_VIP__Evento_____Friendly___Espana_U17_vs_Croatia_U17___HD______06_30_1">
-    <title>⌾ En vivo | 06:30 | ▫ Friendly ▫ Espana U17 vs Croatia U17 ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260531153000" stop="20260601055959" channel="EVENTOS_VIP__Evento_____Friendly___Espana_U17_vs_Croatia_U17___HD______06_30_1">
-    <title>Finalizado | ▫ Friendly ▫ Espana U17 vs Croatia U17 ▫ HD ▫▫</title>
   </programme>
   <programme start="20260531060000" stop="20260531140000" channel="EVENTOS_VIP__Evento_____Friendly___Switzerland_vs_Jordan___HD______08_00_1">
     <title>Próximamente | 08:00 | ▫ Friendly ▫ Switzerland vs Jordan ▫ HD ▫▫</title>
