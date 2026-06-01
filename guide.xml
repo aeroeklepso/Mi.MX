@@ -122210,6 +122210,15 @@
   <channel id="EVENTOS_VIP__Evento_____WNBA___Minnesota_Lynx_vs_Phoenix_Mercury___HD_____21_00_1">
     <display-name>Evento | ▫ WNBA ▫ Minnesota Lynx vs Phoenix Mercury ▫ HD ▫ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
+    <display-name>Evento | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫ | 04:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
+    <display-name>Evento | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS) | 04:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
+    <display-name>Evento | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39) | 04:00</display-name>
+  </channel>
   <programme start="20260601000000 -0600" stop="20260601110000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Bulgaria_vs_Montenegro___HD_____11_00_1">
     <title>Próximamente | 11:00 | ▫ Friendly ▫ Bulgaria vs Montenegro ▫ HD ▫</title>
   </programme>
@@ -122461,6 +122470,33 @@
   </programme>
   <programme start="20260602000000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Minnesota_Lynx_vs_Phoenix_Mercury___HD_____21_00_1">
     <title>Finalizado | ▫ WNBA ▫ Minnesota Lynx vs Phoenix Mercury ▫ HD ▫</title>
+  </programme>
+  <programme start="20260601000000 -0600" stop="20260601040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
+    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫</title>
+  </programme>
+  <programme start="20260601040000 -0600" stop="20260601070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
+    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫</title>
+  </programme>
+  <programme start="20260601070000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
+    <title>Finalizado | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫</title>
+  </programme>
+  <programme start="20260601000000 -0600" stop="20260601040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
+    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS)</title>
+  </programme>
+  <programme start="20260601040000 -0600" stop="20260601070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
+    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS)</title>
+  </programme>
+  <programme start="20260601070000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
+    <title>Finalizado | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS)</title>
+  </programme>
+  <programme start="20260601000000 -0600" stop="20260601122200 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
+    <title>Próximamente | 12:22 | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39)</title>
+  </programme>
+  <programme start="20260601122200 -0600" stop="20260601152200 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
+    <title>⌾ En vivo | 12:22 | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39)</title>
+  </programme>
+  <programme start="20260601152200 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
+    <title>Finalizado | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39)</title>
   </programme>
 </tv>
 
