@@ -123378,6 +123378,9 @@
   <channel id="EVENTOS_VIP__Evento_____Roland_Garros___A__Bernal_vs_X__Li__En_espa_ol____HD_____08_00_1">
     <display-name>Evento | ▫ Roland Garros ▫ A. Bernal vs X. Li (En español) ▫ HD ▫ | 08:00</display-name>
   </channel>
+  <channel id="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
+    <display-name>VNL | BELGICA vs POLONIA | 22:30</display-name>
+  </channel>
   <programme start="20260602060000" stop="20260603010000" channel="EVENTOS_VIP__Evento_____NHL___Vegas_Golden_Knights_vs_Carolina_Hurricanes___HD_____19_00_1">
     <title>Próximamente | 19:00 | ▫ NHL ▫ Vegas Golden Knights vs Carolina Hurricanes ▫ HD ▫</title>
   </programme>
@@ -123755,6 +123758,15 @@
   </programme>
   <programme start="20260602170000" stop="20260603055959" channel="EVENTOS_VIP__Evento_____Roland_Garros___A__Bernal_vs_X__Li__En_espa_ol____HD_____08_00_1">
     <title>Finalizado | ▫ Roland Garros ▫ A. Bernal vs X. Li (En español) ▫ HD ▫</title>
+  </programme>
+  <programme start="20260602060000" stop="20260603043000" channel="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
+    <title>Próximamente | 22:30 | BELGICA vs POLONIA</title>
+  </programme>
+  <programme start="20260603043000" stop="20260603073000" channel="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
+    <title>⌾ En vivo | 22:30 | BELGICA vs POLONIA</title>
+  </programme>
+  <programme start="20260603073000" stop="20260603055959" channel="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
+    <title>Finalizado | BELGICA vs POLONIA</title>
   </programme>
 </tv>
 
