@@ -123252,21 +123252,6 @@
     <desc>Con las tensiones a punto de estallar, ¿podrán los Traidores trabajar juntos? Mientras tanto, dos peligrosos fieles empiezan a tejer un plan. ¿Les saldrá el tiro por la culata? ¿O acabarán definitivamente con el Traidor?</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Bulgaria_vs_Montenegro___HD_____11_00_1">
-    <display-name>Evento | ▫ Friendly ▫ Bulgaria vs Montenegro ▫ HD ▫ | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Slovakia_vs_Malta___HD_____11_00_1">
-    <display-name>Evento | ▫ Friendly ▫ Slovakia vs Malta ▫ HD ▫ | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Turkey_vs_North_Macedonia___HD_____11_30_1">
-    <display-name>Evento | ▫ Friendly ▫ Turkey vs North Macedonia ▫ HD ▫ | 11:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Norway_vs_Sweden___HD_____12_00_1">
-    <display-name>Evento | ▫ Friendly ▫ Norway vs Sweden ▫ HD ▫ | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Friendly___Austria_vs_Tunisia___HD_____13_45_1">
-    <display-name>Evento | ▫ Friendly ▫ Austria vs Tunisia ▫ HD ▫ | 13:45</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Friendly___Colombia_vs_Costa_Rica___HD_____18_00_1">
     <display-name>Evento | ▫ Friendly ▫ Colombia vs Costa Rica ▫ HD ▫ | 18:00</display-name>
   </channel>
@@ -123275,15 +123260,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Friendly___Canada_vs_Uzbekistan___HD_____20_00_1">
     <display-name>Evento | ▫ Friendly ▫ Canada vs Uzbekistan ▫ HD ▫ | 20:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Japan_U20_vs_C_te_d_Ivoire_U20___HD_____08_00_1">
-    <display-name>Evento | ▫ Maurice Revello Tournament ▫ Japan U20 vs Côte d'Ivoire U20 ▫ HD ▫ | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Venezuela_U20_vs_Canada_U20___HD_____11_30_1">
-    <display-name>Evento | ▫ Maurice Revello Tournament ▫ Venezuela U20 vs Canada U20 ▫ HD ▫ | 11:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Primera_UY___Boston_River_vs_Liverpool___HD_____13_00_1">
-    <display-name>Evento | ▫ Primera UY ▫ Boston River vs Liverpool ▫ HD ▫ | 13:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Primera_UY___Pe_arol_vs_Central_Espa_ol___HD_____18_00_1">
     <display-name>Evento | ▫ Primera UY ▫ Peñarol vs Central Español ▫ HD ▫ | 18:00</display-name>
@@ -123336,60 +123312,6 @@
   <channel id="EVENTOS_VIP__Evento_____WNBA___Minnesota_Lynx_vs_Phoenix_Mercury___HD_____21_00_1">
     <display-name>Evento | ▫ WNBA ▫ Minnesota Lynx vs Phoenix Mercury ▫ HD ▫ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS) | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39) | 04:00</display-name>
-  </channel>
-  <programme start="20260601000000 -0600" stop="20260601110000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Bulgaria_vs_Montenegro___HD_____11_00_1">
-    <title>Próximamente | 11:00 | ▫ Friendly ▫ Bulgaria vs Montenegro ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601110000 -0600" stop="20260601140000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Bulgaria_vs_Montenegro___HD_____11_00_1">
-    <title>⌾ En vivo | 11:00 | ▫ Friendly ▫ Bulgaria vs Montenegro ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601140000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Bulgaria_vs_Montenegro___HD_____11_00_1">
-    <title>Finalizado | ▫ Friendly ▫ Bulgaria vs Montenegro ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601110000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Slovakia_vs_Malta___HD_____11_00_1">
-    <title>Próximamente | 11:00 | ▫ Friendly ▫ Slovakia vs Malta ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601110000 -0600" stop="20260601140000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Slovakia_vs_Malta___HD_____11_00_1">
-    <title>⌾ En vivo | 11:00 | ▫ Friendly ▫ Slovakia vs Malta ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601140000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Slovakia_vs_Malta___HD_____11_00_1">
-    <title>Finalizado | ▫ Friendly ▫ Slovakia vs Malta ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601113000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Turkey_vs_North_Macedonia___HD_____11_30_1">
-    <title>Próximamente | 11:30 | ▫ Friendly ▫ Turkey vs North Macedonia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601113000 -0600" stop="20260601143000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Turkey_vs_North_Macedonia___HD_____11_30_1">
-    <title>⌾ En vivo | 11:30 | ▫ Friendly ▫ Turkey vs North Macedonia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601143000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Turkey_vs_North_Macedonia___HD_____11_30_1">
-    <title>Finalizado | ▫ Friendly ▫ Turkey vs North Macedonia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601120000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Norway_vs_Sweden___HD_____12_00_1">
-    <title>Próximamente | 12:00 | ▫ Friendly ▫ Norway vs Sweden ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601120000 -0600" stop="20260601150000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Norway_vs_Sweden___HD_____12_00_1">
-    <title>⌾ En vivo | 12:00 | ▫ Friendly ▫ Norway vs Sweden ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601150000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Norway_vs_Sweden___HD_____12_00_1">
-    <title>Finalizado | ▫ Friendly ▫ Norway vs Sweden ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601134500 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Austria_vs_Tunisia___HD_____13_45_1">
-    <title>Próximamente | 13:45 | ▫ Friendly ▫ Austria vs Tunisia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601134500 -0600" stop="20260601164500 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Austria_vs_Tunisia___HD_____13_45_1">
-    <title>⌾ En vivo | 13:45 | ▫ Friendly ▫ Austria vs Tunisia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601164500 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Austria_vs_Tunisia___HD_____13_45_1">
-    <title>Finalizado | ▫ Friendly ▫ Austria vs Tunisia ▫ HD ▫</title>
-  </programme>
   <programme start="20260601000000 -0600" stop="20260601180000 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Colombia_vs_Costa_Rica___HD_____18_00_1">
     <title>Próximamente | 18:00 | ▫ Friendly ▫ Colombia vs Costa Rica ▫ HD ▫</title>
   </programme>
@@ -123416,33 +123338,6 @@
   </programme>
   <programme start="20260601230000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Friendly___Canada_vs_Uzbekistan___HD_____20_00_1">
     <title>Finalizado | ▫ Friendly ▫ Canada vs Uzbekistan ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601080000 -0600" channel="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Japan_U20_vs_C_te_d_Ivoire_U20___HD_____08_00_1">
-    <title>Próximamente | 08:00 | ▫ Maurice Revello Tournament ▫ Japan U20 vs Côte d'Ivoire U20 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601080000 -0600" stop="20260601110000 -0600" channel="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Japan_U20_vs_C_te_d_Ivoire_U20___HD_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ▫ Maurice Revello Tournament ▫ Japan U20 vs Côte d'Ivoire U20 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601110000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Japan_U20_vs_C_te_d_Ivoire_U20___HD_____08_00_1">
-    <title>Finalizado | ▫ Maurice Revello Tournament ▫ Japan U20 vs Côte d'Ivoire U20 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601113000 -0600" channel="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Venezuela_U20_vs_Canada_U20___HD_____11_30_1">
-    <title>Próximamente | 11:30 | ▫ Maurice Revello Tournament ▫ Venezuela U20 vs Canada U20 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601113000 -0600" stop="20260601143000 -0600" channel="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Venezuela_U20_vs_Canada_U20___HD_____11_30_1">
-    <title>⌾ En vivo | 11:30 | ▫ Maurice Revello Tournament ▫ Venezuela U20 vs Canada U20 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601143000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Maurice_Revello_Tournament___Venezuela_U20_vs_Canada_U20___HD_____11_30_1">
-    <title>Finalizado | ▫ Maurice Revello Tournament ▫ Venezuela U20 vs Canada U20 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601130000 -0600" channel="EVENTOS_VIP__Evento_____Primera_UY___Boston_River_vs_Liverpool___HD_____13_00_1">
-    <title>Próximamente | 13:00 | ▫ Primera UY ▫ Boston River vs Liverpool ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601130000 -0600" stop="20260601160000 -0600" channel="EVENTOS_VIP__Evento_____Primera_UY___Boston_River_vs_Liverpool___HD_____13_00_1">
-    <title>⌾ En vivo | 13:00 | ▫ Primera UY ▫ Boston River vs Liverpool ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601160000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_UY___Boston_River_vs_Liverpool___HD_____13_00_1">
-    <title>Finalizado | ▫ Primera UY ▫ Boston River vs Liverpool ▫ HD ▫</title>
   </programme>
   <programme start="20260601000000 -0600" stop="20260601180000 -0600" channel="EVENTOS_VIP__Evento_____Primera_UY___Pe_arol_vs_Central_Espa_ol___HD_____18_00_1">
     <title>Próximamente | 18:00 | ▫ Primera UY ▫ Peñarol vs Central Español ▫ HD ▫</title>
@@ -123596,33 +123491,6 @@
   </programme>
   <programme start="20260602000000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Minnesota_Lynx_vs_Phoenix_Mercury___HD_____21_00_1">
     <title>Finalizado | ▫ WNBA ▫ Minnesota Lynx vs Phoenix Mercury ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601040000 -0600" stop="20260601070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601070000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier____HD_____04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Philippe-Ch vs rier  ▫ HD ▫</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS)</title>
-  </programme>
-  <programme start="20260601040000 -0600" stop="20260601070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS)</title>
-  </programme>
-  <programme start="20260601070000 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___M__Keys__USA__vs_D__Shnaider__RUS____04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ M. Keys (USA) vs D. Shnaider (RUS)</title>
-  </programme>
-  <programme start="20260601000000 -0600" stop="20260601122200 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
-    <title>Próximamente | 12:22 | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39)</title>
-  </programme>
-  <programme start="20260601122200 -0600" stop="20260601152200 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
-    <title>⌾ En vivo | 12:22 | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39)</title>
-  </programme>
-  <programme start="20260601152200 -0600" stop="20260601235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Quilmes_vs_Santa_B_rbara___LIVE__2026_06_01_12_22_39____04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Quilmes vs Santa Bárbara - LIVE (2026-06-01 12:22:39)</title>
   </programme>
 </tv>
 
