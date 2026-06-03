@@ -127617,6 +127617,9 @@
   <channel id="EVENTOS_VIP__Evento_____WNBA_02___Storm_vs_Mercury___20_00_1">
     <display-name>Evento | - WNBA 02 - Storm vs Mercury | 20:00</display-name>
   </channel>
+  <channel id="Evento_VNL__VNL___REPUBLICA_DOMINICANA_vs_TURKIA___12_00_1">
+    <display-name>VNL | REPUBLICA DOMINICANA vs TURKIA | 12:00</display-name>
+  </channel>
   <programme start="20260603000000 -0600" stop="20260603110000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Gibraltar_vs_Islas_V_rgenes_Brit_nicas___11_00_1">
     <title>Próximamente | 11:00 | - Amistoso - Gibraltar vs Islas Vírgenes Británicas</title>
   </programme>
@@ -128093,6 +128096,15 @@
   </programme>
   <programme start="20260603230000 -0600" stop="20260603235959 -0600" channel="EVENTOS_VIP__Evento_____WNBA_02___Storm_vs_Mercury___20_00_1">
     <title>Finalizado | - WNBA 02 - Storm vs Mercury</title>
+  </programme>
+  <programme start="20260603000000 -0600" stop="20260603120000 -0600" channel="Evento_VNL__VNL___REPUBLICA_DOMINICANA_vs_TURKIA___12_00_1">
+    <title>Próximamente | 12:00 | REPUBLICA DOMINICANA vs TURKIA</title>
+  </programme>
+  <programme start="20260603120000 -0600" stop="20260603150000 -0600" channel="Evento_VNL__VNL___REPUBLICA_DOMINICANA_vs_TURKIA___12_00_1">
+    <title>⌾ En vivo | 12:00 | REPUBLICA DOMINICANA vs TURKIA</title>
+  </programme>
+  <programme start="20260603150000 -0600" stop="20260603235959 -0600" channel="Evento_VNL__VNL___REPUBLICA_DOMINICANA_vs_TURKIA___12_00_1">
+    <title>Finalizado | REPUBLICA DOMINICANA vs TURKIA</title>
   </programme>
 </tv>
 
