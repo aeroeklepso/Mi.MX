@@ -127557,9 +127557,6 @@
   <channel id="EVENTOS_VIP__Evento_____Amistoso___Cro_vs_ia_vs__Belgium___HD_____10_45_1">
     <display-name>Evento | ▫ Amistoso ▫ Cro vs ia vs. Belgium ▫ HD ▫ | 10:45</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Amistoso___Georgia_vs_Romania___HD_____11_50_1">
-    <display-name>Evento | ▫ Amistoso ▫ Georgia vs Romania ▫ HD ▫ | 11:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Amistoso___Wales_vs_Ghana___HD_____13_30_1">
     <display-name>Evento | ▫ Amistoso ▫ Wales vs Ghana ▫ HD ▫ | 13:30</display-name>
   </channel>
@@ -127574,15 +127571,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD_____04_00_1">
     <display-name>Evento | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simone_M_vs_hieu___HD_____04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Simone-M vs hieu ▫ HD ▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___D__Caverzaschi_vs_G__Fern_ndez__En_espa_ol____HD_____04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ D. Caverzaschi vs G. Fernández (En español) ▫ HD ▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___A__Bernal_vs_X__Li__En_espa_ol____HD_____08_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ A. Bernal vs X. Li (En español) ▫ HD ▫ | 08:00</display-name>
   </channel>
   <channel id="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
     <display-name>VNL | BELGICA vs POLONIA | 22:30</display-name>
@@ -127884,15 +127872,6 @@
   <programme start="20260602134500 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Cro_vs_ia_vs__Belgium___HD_____10_45_1">
     <title>Finalizado | ▫ Amistoso ▫ Cro vs ia vs. Belgium ▫ HD ▫</title>
   </programme>
-  <programme start="20260602000000 -0600" stop="20260602115000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Georgia_vs_Romania___HD_____11_50_1">
-    <title>Próximamente | 11:50 | ▫ Amistoso ▫ Georgia vs Romania ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602115000 -0600" stop="20260602145000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Georgia_vs_Romania___HD_____11_50_1">
-    <title>⌾ En vivo | 11:50 | ▫ Amistoso ▫ Georgia vs Romania ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602145000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Georgia_vs_Romania___HD_____11_50_1">
-    <title>Finalizado | ▫ Amistoso ▫ Georgia vs Romania ▫ HD ▫</title>
-  </programme>
   <programme start="20260602000000 -0600" stop="20260602133000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Wales_vs_Ghana___HD_____13_30_1">
     <title>Próximamente | 13:30 | ▫ Amistoso ▫ Wales vs Ghana ▫ HD ▫</title>
   </programme>
@@ -127937,33 +127916,6 @@
   </programme>
   <programme start="20260602070000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD_____04_00_1">
     <title>Finalizado | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602000000 -0600" stop="20260602040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simone_M_vs_hieu___HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ Court Simone-M vs hieu ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602040000 -0600" stop="20260602070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simone_M_vs_hieu___HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ Court Simone-M vs hieu ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602070000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Simone_M_vs_hieu___HD_____04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Simone-M vs hieu ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602000000 -0600" stop="20260602040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___D__Caverzaschi_vs_G__Fern_ndez__En_espa_ol____HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ D. Caverzaschi vs G. Fernández (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602040000 -0600" stop="20260602070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___D__Caverzaschi_vs_G__Fern_ndez__En_espa_ol____HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ D. Caverzaschi vs G. Fernández (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602070000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___D__Caverzaschi_vs_G__Fern_ndez__En_espa_ol____HD_____04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ D. Caverzaschi vs G. Fernández (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602000000 -0600" stop="20260602080000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___A__Bernal_vs_X__Li__En_espa_ol____HD_____08_00_1">
-    <title>Próximamente | 08:00 | ▫ Roland Garros ▫ A. Bernal vs X. Li (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602080000 -0600" stop="20260602110000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___A__Bernal_vs_X__Li__En_espa_ol____HD_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ▫ Roland Garros ▫ A. Bernal vs X. Li (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602110000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___A__Bernal_vs_X__Li__En_espa_ol____HD_____08_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ A. Bernal vs X. Li (En español) ▫ HD ▫</title>
   </programme>
   <programme start="20260602000000 -0600" stop="20260602223000 -0600" channel="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
     <title>Próximamente | 22:30 | BELGICA vs POLONIA</title>
