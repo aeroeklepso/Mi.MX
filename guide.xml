@@ -127509,9 +127509,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Toros_de_Tijuana___HD_____22_35_1">
     <display-name>Evento | ▫ LMB ▫ Charros de Jalisco vs Toros de Tijuana ▫ HD ▫ | 22:35</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Detroit_Tigers_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Detroit Tigers vs Tampa Bay Rays ▫ HD ▫ | 17:40</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___San_Diego_Padres_vs_Philadelphia_Phillies___HD_____17_40_1">
     <display-name>Evento | ▫ MLB ▫ San Diego Padres vs Philadelphia Phillies ▫ HD ▫ | 17:40</display-name>
   </channel>
@@ -127554,12 +127551,6 @@
   <channel id="EVENTOS_VIP__Evento_____MLB___New_York_Mets_vs_Seattle_Mariners___HD_____20_40_1">
     <display-name>Evento | ▫ MLB ▫ New York Mets vs Seattle Mariners ▫ HD ▫ | 20:40</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Amistoso___Cro_vs_ia_vs__Belgium___HD_____10_45_1">
-    <display-name>Evento | ▫ Amistoso ▫ Cro vs ia vs. Belgium ▫ HD ▫ | 10:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Amistoso___Wales_vs_Ghana___HD_____13_30_1">
-    <display-name>Evento | ▫ Amistoso ▫ Wales vs Ghana ▫ HD ▫ | 13:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Amistoso___Haiti_vs_New_Zealand___HD_____18_45_1">
     <display-name>Evento | ▫ Amistoso ▫ Haiti vs New Zealand ▫ HD ▫ | 18:45</display-name>
   </channel>
@@ -127568,9 +127559,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Liga_Betplay___Junior_vs_Atl_tico_Nacional___HD_____19_30_1">
     <display-name>Evento | ▫ Liga Betplay ▫ Junior vs Atlético Nacional ▫ HD ▫ | 19:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD_____04_00_1">
-    <display-name>Evento | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫ | 04:00</display-name>
   </channel>
   <channel id="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
     <display-name>VNL | BELGICA vs POLONIA | 22:30</display-name>
@@ -127728,15 +127716,6 @@
   <programme start="20260603013500 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Toros_de_Tijuana___HD_____22_35_1">
     <title>Finalizado | ▫ LMB ▫ Charros de Jalisco vs Toros de Tijuana ▫ HD ▫</title>
   </programme>
-  <programme start="20260602000000 -0600" stop="20260602174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Detroit_Tigers_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Detroit Tigers vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602174000 -0600" stop="20260602204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Detroit_Tigers_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Detroit Tigers vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602204000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Detroit_Tigers_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Detroit Tigers vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
   <programme start="20260602000000 -0600" stop="20260602174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___San_Diego_Padres_vs_Philadelphia_Phillies___HD_____17_40_1">
     <title>Próximamente | 17:40 | ▫ MLB ▫ San Diego Padres vs Philadelphia Phillies ▫ HD ▫</title>
   </programme>
@@ -127863,24 +127842,6 @@
   <programme start="20260602234000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Mets_vs_Seattle_Mariners___HD_____20_40_1">
     <title>Finalizado | ▫ MLB ▫ New York Mets vs Seattle Mariners ▫ HD ▫</title>
   </programme>
-  <programme start="20260602000000 -0600" stop="20260602104500 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Cro_vs_ia_vs__Belgium___HD_____10_45_1">
-    <title>Próximamente | 10:45 | ▫ Amistoso ▫ Cro vs ia vs. Belgium ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602104500 -0600" stop="20260602134500 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Cro_vs_ia_vs__Belgium___HD_____10_45_1">
-    <title>⌾ En vivo | 10:45 | ▫ Amistoso ▫ Cro vs ia vs. Belgium ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602134500 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Cro_vs_ia_vs__Belgium___HD_____10_45_1">
-    <title>Finalizado | ▫ Amistoso ▫ Cro vs ia vs. Belgium ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602000000 -0600" stop="20260602133000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Wales_vs_Ghana___HD_____13_30_1">
-    <title>Próximamente | 13:30 | ▫ Amistoso ▫ Wales vs Ghana ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602133000 -0600" stop="20260602163000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Wales_vs_Ghana___HD_____13_30_1">
-    <title>⌾ En vivo | 13:30 | ▫ Amistoso ▫ Wales vs Ghana ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602163000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Wales_vs_Ghana___HD_____13_30_1">
-    <title>Finalizado | ▫ Amistoso ▫ Wales vs Ghana ▫ HD ▫</title>
-  </programme>
   <programme start="20260602000000 -0600" stop="20260602184500 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Haiti_vs_New_Zealand___HD_____18_45_1">
     <title>Próximamente | 18:45 | ▫ Amistoso ▫ Haiti vs New Zealand ▫ HD ▫</title>
   </programme>
@@ -127907,15 +127868,6 @@
   </programme>
   <programme start="20260602223000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Liga_Betplay___Junior_vs_Atl_tico_Nacional___HD_____19_30_1">
     <title>Finalizado | ▫ Liga Betplay ▫ Junior vs Atlético Nacional ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602000000 -0600" stop="20260602040000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602040000 -0600" stop="20260602070000 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫</title>
-  </programme>
-  <programme start="20260602070000 -0600" stop="20260602235959 -0600" channel="EVENTOS_VIP__Evento_____Roland_Garros___Court_Philippe_Ch_vs_rier___HD_____04_00_1">
-    <title>Finalizado | ▫ Roland Garros ▫ Court Philippe-Ch vs rier ▫ HD ▫</title>
   </programme>
   <programme start="20260602000000 -0600" stop="20260602223000 -0600" channel="Evento_VNL__VNL___BELGICA_vs_POLONIA___22_30_1">
     <title>Próximamente | 22:30 | BELGICA vs POLONIA</title>
