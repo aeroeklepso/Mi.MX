@@ -193247,17 +193247,11 @@
   <channel id="EVENTOS_VIP__Evento_____Amistoso___M_xico_vs_Serbia_OPC2___22_00_1">
     <display-name>Evento | - Amistoso - México vs Serbia OPC2 | 22:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Europeo_Sub17___B_lgica_vs_Francia___07_30_1">
-    <display-name>Evento | - Europeo Sub17 - Bélgica vs Francia | 07:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Arg_Torneo_Res___Barracas_Central_Res__vs_Aldosivi_Res____14_00_1">
     <display-name>Evento | - Arg Torneo Res - Barracas Central Res. vs Aldosivi Res. | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____NCAA_Softball____2_Texas_vs__11_Texas_Tech___20_00_1">
     <display-name>Evento | - NCAA Softball - #2 Texas vs #11 Texas Tech | 20:00</display-name>
-  </channel>
-  <channel id="Evento_08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR__08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR_____The_Memorial_Tournament_Fe_vs_ured_Groups__Primera_Ronda____PGA_TOUR___07_30_1">
-    <display-name>08:30 - The Memorial Tournament Featured Groups Primera Ronda - PGA TOUR | - The Memorial Tournament Fe vs ured Groups (Primera Ronda) - PGA TOUR | 07:30</display-name>
   </channel>
   <channel id="Evento_14_00___The_Memorial_Tournament_presented_by_Workday__Featured_Group_1___PGA_TOUR__14_00___The_Memorial_Tournament_presented_by_Workday__Featured_Group_1___PGA_TOUR_____The_Memorial_Tournament_presented_by_Workday__Fe_vs_ured_Group_1___PGA_TOUR___13_00_1">
     <display-name>14:00 - The Memorial Tournament presented by Workday: Featured Group 1 - PGA TOUR | - The Memorial Tournament presented by Workday: Fe vs ured Group 1 - PGA TOUR | 13:00</display-name>
@@ -193427,15 +193421,6 @@
   <programme start="20260605010000 -0600" stop="20260604235959 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___M_xico_vs_Serbia_OPC2___22_00_1">
     <title>Finalizado | - Amistoso - México vs Serbia OPC2</title>
   </programme>
-  <programme start="20260604000000 -0600" stop="20260604073000 -0600" channel="EVENTOS_VIP__Evento_____Europeo_Sub17___B_lgica_vs_Francia___07_30_1">
-    <title>Próximamente | 07:30 | - Europeo Sub17 - Bélgica vs Francia</title>
-  </programme>
-  <programme start="20260604073000 -0600" stop="20260604103000 -0600" channel="EVENTOS_VIP__Evento_____Europeo_Sub17___B_lgica_vs_Francia___07_30_1">
-    <title>⌾ En vivo | 07:30 | - Europeo Sub17 - Bélgica vs Francia</title>
-  </programme>
-  <programme start="20260604103000 -0600" stop="20260604235959 -0600" channel="EVENTOS_VIP__Evento_____Europeo_Sub17___B_lgica_vs_Francia___07_30_1">
-    <title>Finalizado | - Europeo Sub17 - Bélgica vs Francia</title>
-  </programme>
   <programme start="20260604000000 -0600" stop="20260604140000 -0600" channel="EVENTOS_VIP__Evento_____Arg_Torneo_Res___Barracas_Central_Res__vs_Aldosivi_Res____14_00_1">
     <title>Próximamente | 14:00 | - Arg Torneo Res - Barracas Central Res. vs Aldosivi Res.</title>
   </programme>
@@ -193453,15 +193438,6 @@
   </programme>
   <programme start="20260604230000 -0600" stop="20260604235959 -0600" channel="EVENTOS_VIP__Evento_____NCAA_Softball____2_Texas_vs__11_Texas_Tech___20_00_1">
     <title>Finalizado | - NCAA Softball - #2 Texas vs #11 Texas Tech</title>
-  </programme>
-  <programme start="20260604000000 -0600" stop="20260604083000 -0600" channel="Evento_08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR__08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR_____The_Memorial_Tournament_Fe_vs_ured_Groups__Primera_Ronda____PGA_TOUR___07_30_1">
-    <title>Próximamente | 08:30 | - The Memorial Tournament Fe vs ured Groups (Primera Ronda) - PGA TOUR</title>
-  </programme>
-  <programme start="20260604083000 -0600" stop="20260604113000 -0600" channel="Evento_08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR__08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR_____The_Memorial_Tournament_Fe_vs_ured_Groups__Primera_Ronda____PGA_TOUR___07_30_1">
-    <title>⌾ En vivo | 08:30 | - The Memorial Tournament Fe vs ured Groups (Primera Ronda) - PGA TOUR</title>
-  </programme>
-  <programme start="20260604113000 -0600" stop="20260604235959 -0600" channel="Evento_08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR__08_30___The_Memorial_Tournament_Featured_Groups_Primera_Ronda___PGA_TOUR_____The_Memorial_Tournament_Fe_vs_ured_Groups__Primera_Ronda____PGA_TOUR___07_30_1">
-    <title>Finalizado | - The Memorial Tournament Fe vs ured Groups (Primera Ronda) - PGA TOUR</title>
   </programme>
   <programme start="20260604000000 -0600" stop="20260604140000 -0600" channel="Evento_14_00___The_Memorial_Tournament_presented_by_Workday__Featured_Group_1___PGA_TOUR__14_00___The_Memorial_Tournament_presented_by_Workday__Featured_Group_1___PGA_TOUR_____The_Memorial_Tournament_presented_by_Workday__Fe_vs_ured_Group_1___PGA_TOUR___13_00_1">
     <title>Próximamente | 14:00 | - The Memorial Tournament presented by Workday: Fe vs ured Group 1 - PGA TOUR</title>
