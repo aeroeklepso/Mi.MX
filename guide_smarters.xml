@@ -194449,6 +194449,12 @@
   <channel id="Evento_BOX__BOX___Brown_vs_Vieira___06_00_1">
     <display-name>BOX | Brown vs Vieira | 06:00</display-name>
   </channel>
+  <channel id="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___El_Salvador_vs_Costa_Rica___19_00_1">
+    <display-name>AMISTOSO FEMENIL | El Salvador vs Costa Rica | 19:00</display-name>
+  </channel>
+  <channel id="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___Panam__vs_Jamaica___18_00_1">
+    <display-name>AMISTOSO FEMENIL | Panamá vs Jamaica | 18:00</display-name>
+  </channel>
   <programme start="20260605060000" stop="20260605170000" channel="EVENTOS_VIP__Evento_____Amistoso___Georgia_vs_Bahrein___11_00_1">
     <title>Próximamente | 11:00 | - Amistoso - Georgia vs Bahrein</title>
   </programme>
@@ -195069,6 +195075,24 @@
   </programme>
   <programme start="20260605150000" stop="20260606055959" channel="Evento_BOX__BOX___Brown_vs_Vieira___06_00_1">
     <title>Finalizado | Brown vs Vieira</title>
+  </programme>
+  <programme start="20260605060000" stop="20260606010000" channel="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___El_Salvador_vs_Costa_Rica___19_00_1">
+    <title>Próximamente | 19:00 | El Salvador vs Costa Rica</title>
+  </programme>
+  <programme start="20260606010000" stop="20260606040000" channel="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___El_Salvador_vs_Costa_Rica___19_00_1">
+    <title>⌾ En vivo | 19:00 | El Salvador vs Costa Rica</title>
+  </programme>
+  <programme start="20260606040000" stop="20260606055959" channel="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___El_Salvador_vs_Costa_Rica___19_00_1">
+    <title>Finalizado | El Salvador vs Costa Rica</title>
+  </programme>
+  <programme start="20260605060000" stop="20260606000000" channel="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___Panam__vs_Jamaica___18_00_1">
+    <title>Próximamente | 18:00 | Panamá vs Jamaica</title>
+  </programme>
+  <programme start="20260606000000" stop="20260606030000" channel="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___Panam__vs_Jamaica___18_00_1">
+    <title>⌾ En vivo | 18:00 | Panamá vs Jamaica</title>
+  </programme>
+  <programme start="20260606030000" stop="20260606055959" channel="Evento_AMISTOSO_FEMENIL__AMISTOSO_FEMENIL___Panam__vs_Jamaica___18_00_1">
+    <title>Finalizado | Panamá vs Jamaica</title>
   </programme>
 </tv>
 
