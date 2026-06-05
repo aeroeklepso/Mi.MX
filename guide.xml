@@ -194365,6 +194365,9 @@
   <channel id="EVENTOS_VIP__Evento_____COPA_ECUADOR___CUENCA_vs_MACARA___18_30_1">
     <display-name>Evento | - COPA ECUADOR - CUENCA vs MACARA | 18:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Amistoso___Chequia_vs_Guatemala_ESP__ESP____20_00_1">
+    <display-name>Evento | - Amistoso - Chequia vs Guatemala ESP [ESP] | 20:00</display-name>
+  </channel>
   <programme start="20260604000000 -0600" stop="20260604120000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Irlanda_del_Norte_vs_Guinea___12_00_1">
     <title>Próximamente | 12:00 | - Amistoso - Irlanda del Norte vs Guinea</title>
   </programme>
@@ -194733,6 +194736,15 @@
   </programme>
   <programme start="20260604213000 -0600" stop="20260604235959 -0600" channel="EVENTOS_VIP__Evento_____COPA_ECUADOR___CUENCA_vs_MACARA___18_30_1">
     <title>Finalizado | - COPA ECUADOR - CUENCA vs MACARA</title>
+  </programme>
+  <programme start="20260604000000 -0600" stop="20260604200000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Chequia_vs_Guatemala_ESP__ESP____20_00_1">
+    <title>Próximamente | 20:00 | - Amistoso - Chequia vs Guatemala ESP [ESP]</title>
+  </programme>
+  <programme start="20260604200000 -0600" stop="20260604230000 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Chequia_vs_Guatemala_ESP__ESP____20_00_1">
+    <title>⌾ En vivo | 20:00 | - Amistoso - Chequia vs Guatemala ESP [ESP]</title>
+  </programme>
+  <programme start="20260604230000 -0600" stop="20260604235959 -0600" channel="EVENTOS_VIP__Evento_____Amistoso___Chequia_vs_Guatemala_ESP__ESP____20_00_1">
+    <title>Finalizado | - Amistoso - Chequia vs Guatemala ESP [ESP]</title>
   </programme>
 </tv>
 
