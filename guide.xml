@@ -183097,39 +183097,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Acereros_de_Monclova_vs_Tigres_de_Quintana_Roo___HD_____20_45_1">
     <display-name>Evento | ▫ LMB ▫ Acereros de Monclova vs Tigres de Quintana Roo ▫ HD ▫ | 20:45</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Boss_Open__Cuartos_de_Final____HD_____04_00_1">
-    <display-name>Evento | ▫ vs P ▫ Boss Open (Cuartos de Final) ▫ HD ▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Zhizhen_Zhang_vs__Adrian_Mamanino__Cuartos_de_Final____HD_____04_00_1">
-    <display-name>Evento | ▫ vs P ▫ Zhizhen Zhang vs. Adrian Mamanino (Cuartos de Final) ▫ HD ▫ | 04:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____WTA___Ajla_Tomljanovi__vs_Dayana_Yastremska__Segunda_Ronda____HD_____05_00_1">
-    <display-name>Evento | ▫ WTA ▫ Ajla Tomljanović vs Dayana Yastremska (Segunda Ronda) ▫ HD ▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Lib_ma_Open___Centre_Court__Cuartos_de_Final____HD_____05_30_1">
-    <display-name>Evento | ▫ vs P ▫ Libéma Open / Centre Court (Cuartos de Final) ▫ HD ▫ | 05:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Holes__Segunda_Ronda____HD_____06_15_1">
-    <display-name>Evento | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Holes (Segunda Ronda) ▫ HD ▫ | 06:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____F1___GP_Barcelona_Pr_ctica_Libre_1__On_Board_Pia_vs_ri____HD_____06_30_1">
-    <display-name>Evento | ▫ F1 ▫ GP Barcelona Práctica Libre 1 (On Board Pia vs ri) ▫ HD ▫ | 06:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____College_World_Series___Troy_vs__16_West_Virginia___HD_____12_00_1">
-    <display-name>Evento | ▫ College World Series ▫ Troy vs #16 West Virginia ▫ HD ▫ | 12:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_1__Segunda_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 1 (Segunda Ronda) ▫ HD ▫ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_2__Segunda_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 2 (Segunda Ronda) ▫ HD ▫ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_14__Segunda_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 14 (Segunda Ronda) ▫ HD ▫ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_7__Segunda_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 7 (Segunda Ronda) ▫ HD ▫ | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____College_World_Series___Ole_Miss_vs__5_North_Carolina___HD_____17_30_1">
     <display-name>Evento | ▫ College World Series ▫ Ole Miss vs #5 North Carolina ▫ HD ▫ | 17:30</display-name>
   </channel>
@@ -183141,6 +183108,9 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____CIBACOPA_Semifinal___Astros_de_Jalisco_vs__ngeles_de_la_Ciudad_de_M_xico___HD_____21_00_1">
     <display-name>Evento | ▫ CIBACOPA Semifinal ▫ Astros de Jalisco vs Ángeles de la Ciudad de México ▫ HD ▫ | 21:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____3ra_FINAL___PE_AROL_vs_AGUADA___19_15_1">
+    <display-name>Evento | - 3ra FINAL - PEÑAROL vs AGUADA | 19:15</display-name>
   </channel>
   <programme start="20260612000000 -0600" stop="20260612183000 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Toronto_Tempo_vs_Washington_Mystics___HD_____18_30_1">
     <title>Próximamente | 18:30 | ▫ WNBA ▫ Toronto Tempo vs Washington Mystics ▫ HD ▫</title>
@@ -183403,105 +183373,6 @@
   <programme start="20260612234500 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Acereros_de_Monclova_vs_Tigres_de_Quintana_Roo___HD_____20_45_1">
     <title>Finalizado | ▫ LMB ▫ Acereros de Monclova vs Tigres de Quintana Roo ▫ HD ▫</title>
   </programme>
-  <programme start="20260612000000 -0600" stop="20260612040000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Boss_Open__Cuartos_de_Final____HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ vs P ▫ Boss Open (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612040000 -0600" stop="20260612070000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Boss_Open__Cuartos_de_Final____HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ vs P ▫ Boss Open (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612070000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Boss_Open__Cuartos_de_Final____HD_____04_00_1">
-    <title>Finalizado | ▫ vs P ▫ Boss Open (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612040000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Zhizhen_Zhang_vs__Adrian_Mamanino__Cuartos_de_Final____HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ vs P ▫ Zhizhen Zhang vs. Adrian Mamanino (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612040000 -0600" stop="20260612070000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Zhizhen_Zhang_vs__Adrian_Mamanino__Cuartos_de_Final____HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ vs P ▫ Zhizhen Zhang vs. Adrian Mamanino (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612070000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Zhizhen_Zhang_vs__Adrian_Mamanino__Cuartos_de_Final____HD_____04_00_1">
-    <title>Finalizado | ▫ vs P ▫ Zhizhen Zhang vs. Adrian Mamanino (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612050000 -0600" channel="EVENTOS_VIP__Evento_____WTA___Ajla_Tomljanovi__vs_Dayana_Yastremska__Segunda_Ronda____HD_____05_00_1">
-    <title>Próximamente | 05:00 | ▫ WTA ▫ Ajla Tomljanović vs Dayana Yastremska (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612050000 -0600" stop="20260612080000 -0600" channel="EVENTOS_VIP__Evento_____WTA___Ajla_Tomljanovi__vs_Dayana_Yastremska__Segunda_Ronda____HD_____05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ WTA ▫ Ajla Tomljanović vs Dayana Yastremska (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612080000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____WTA___Ajla_Tomljanovi__vs_Dayana_Yastremska__Segunda_Ronda____HD_____05_00_1">
-    <title>Finalizado | ▫ WTA ▫ Ajla Tomljanović vs Dayana Yastremska (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612053000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Lib_ma_Open___Centre_Court__Cuartos_de_Final____HD_____05_30_1">
-    <title>Próximamente | 05:30 | ▫ vs P ▫ Libéma Open / Centre Court (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612053000 -0600" stop="20260612083000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Lib_ma_Open___Centre_Court__Cuartos_de_Final____HD_____05_30_1">
-    <title>⌾ En vivo | 05:30 | ▫ vs P ▫ Libéma Open / Centre Court (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612083000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Lib_ma_Open___Centre_Court__Cuartos_de_Final____HD_____05_30_1">
-    <title>Finalizado | ▫ vs P ▫ Libéma Open / Centre Court (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612061500 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Holes__Segunda_Ronda____HD_____06_15_1">
-    <title>Próximamente | 06:15 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Holes (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612061500 -0600" stop="20260612091500 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Holes__Segunda_Ronda____HD_____06_15_1">
-    <title>⌾ En vivo | 06:15 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Holes (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612091500 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Holes__Segunda_Ronda____HD_____06_15_1">
-    <title>Finalizado | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Holes (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612063000 -0600" channel="EVENTOS_VIP__Evento_____F1___GP_Barcelona_Pr_ctica_Libre_1__On_Board_Pia_vs_ri____HD_____06_30_1">
-    <title>Próximamente | 06:30 | ▫ F1 ▫ GP Barcelona Práctica Libre 1 (On Board Pia vs ri) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612063000 -0600" stop="20260612093000 -0600" channel="EVENTOS_VIP__Evento_____F1___GP_Barcelona_Pr_ctica_Libre_1__On_Board_Pia_vs_ri____HD_____06_30_1">
-    <title>⌾ En vivo | 06:30 | ▫ F1 ▫ GP Barcelona Práctica Libre 1 (On Board Pia vs ri) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612093000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____F1___GP_Barcelona_Pr_ctica_Libre_1__On_Board_Pia_vs_ri____HD_____06_30_1">
-    <title>Finalizado | ▫ F1 ▫ GP Barcelona Práctica Libre 1 (On Board Pia vs ri) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612120000 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series___Troy_vs__16_West_Virginia___HD_____12_00_1">
-    <title>Próximamente | 12:00 | ▫ College World Series ▫ Troy vs #16 West Virginia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612120000 -0600" stop="20260612150000 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series___Troy_vs__16_West_Virginia___HD_____12_00_1">
-    <title>⌾ En vivo | 12:00 | ▫ College World Series ▫ Troy vs #16 West Virginia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612150000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series___Troy_vs__16_West_Virginia___HD_____12_00_1">
-    <title>Finalizado | ▫ College World Series ▫ Troy vs #16 West Virginia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612140000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_1__Segunda_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 1 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612140000 -0600" stop="20260612170000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_1__Segunda_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 1 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612170000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_1__Segunda_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 1 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612140000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_2__Segunda_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 2 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612140000 -0600" stop="20260612170000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_2__Segunda_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 2 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612170000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Group_2__Segunda_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Group 2 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612140000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_14__Segunda_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 14 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612140000 -0600" stop="20260612170000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_14__Segunda_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 14 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612170000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_14__Segunda_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 14 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612000000 -0600" stop="20260612140000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_7__Segunda_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 7 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612140000 -0600" stop="20260612170000 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_7__Segunda_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 7 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260612170000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____PGA_TOUR___RBC_Canadian_Open__Fe_vs_ured_Hole_7__Segunda_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ PGA TOUR ▫ RBC Canadian Open: Fe vs ured Hole 7 (Segunda Ronda) ▫ HD ▫</title>
-  </programme>
   <programme start="20260612000000 -0600" stop="20260612173000 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series___Ole_Miss_vs__5_North_Carolina___HD_____17_30_1">
     <title>Próximamente | 17:30 | ▫ College World Series ▫ Ole Miss vs #5 North Carolina ▫ HD ▫</title>
   </programme>
@@ -183537,6 +183408,15 @@
   </programme>
   <programme start="20260613000000 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Semifinal___Astros_de_Jalisco_vs__ngeles_de_la_Ciudad_de_M_xico___HD_____21_00_1">
     <title>Finalizado | ▫ CIBACOPA Semifinal ▫ Astros de Jalisco vs Ángeles de la Ciudad de México ▫ HD ▫</title>
+  </programme>
+  <programme start="20260612000000 -0600" stop="20260612191500 -0600" channel="EVENTOS_VIP__Evento_____3ra_FINAL___PE_AROL_vs_AGUADA___19_15_1">
+    <title>Próximamente | 19:15 | - 3ra FINAL - PEÑAROL vs AGUADA</title>
+  </programme>
+  <programme start="20260612191500 -0600" stop="20260612221500 -0600" channel="EVENTOS_VIP__Evento_____3ra_FINAL___PE_AROL_vs_AGUADA___19_15_1">
+    <title>⌾ En vivo | 19:15 | - 3ra FINAL - PEÑAROL vs AGUADA</title>
+  </programme>
+  <programme start="20260612221500 -0600" stop="20260612235959 -0600" channel="EVENTOS_VIP__Evento_____3ra_FINAL___PE_AROL_vs_AGUADA___19_15_1">
+    <title>Finalizado | - 3ra FINAL - PEÑAROL vs AGUADA</title>
   </programme>
 </tv>
 
