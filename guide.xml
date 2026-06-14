@@ -183046,15 +183046,6 @@
     <desc>Luego de una última misión bastante arriesgada y una mesa redonda algo disputada. ¿Quién ganará el gran premio?</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Boxing___Antonio_Vargas_vs_Jesse_Rodriguez___HD_____19_00_1">
-    <display-name>Evento | ▫ Boxing ▫ Antonio Vargas vs Jesse Rodriguez ▫ HD ▫ | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Boxing___Oshae_Jones_vs_Elia_Carranza___HD_____20_00_1">
-    <display-name>Evento | ▫ Boxing ▫ Oshae Jones vs Elia Carranza ▫ HD ▫ | 20:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento___Bam__Rodr_guez_vs_Antonio_Vargas___HD_____19_00___Boxing___Jesse__Bam__Rodr_guez_vs__Antonio_Vargas___HD_____19_00_1">
-    <display-name>Evento | Bam" Rodríguez vs Antonio Vargas ▫ HD ▫"  19:00 ▫ Boxing ▫ Jesse "Bam" Rodríguez vs. Antonio Vargas ▫ HD ▫ | 19:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____LMB___Pericos_de_Puebla_vs_Toros_de_Tijuana___HD_____15_00_1">
     <display-name>Evento | ▫ LMB ▫ Pericos de Puebla vs Toros de Tijuana ▫ HD ▫ | 15:00</display-name>
   </channel>
@@ -183217,33 +183208,6 @@
   <channel id="EVENTOS_VIP__Evento_____WTA___Donna_Veki__vs_Emma_Raducanu__Final____HD_____07_30_1">
     <display-name>Evento | ▫ WTA ▫ Donna Vekić vs Emma Raducanu (Final) ▫ HD ▫ | 07:30</display-name>
   </channel>
-  <programme start="20260614000000 -0600" stop="20260614190000 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Antonio_Vargas_vs_Jesse_Rodriguez___HD_____19_00_1">
-    <title>Próximamente | 19:00 | ▫ Boxing ▫ Antonio Vargas vs Jesse Rodriguez ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614190000 -0600" stop="20260614220000 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Antonio_Vargas_vs_Jesse_Rodriguez___HD_____19_00_1">
-    <title>⌾ En vivo | 19:00 | ▫ Boxing ▫ Antonio Vargas vs Jesse Rodriguez ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614220000 -0600" stop="20260614235959 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Antonio_Vargas_vs_Jesse_Rodriguez___HD_____19_00_1">
-    <title>Finalizado | ▫ Boxing ▫ Antonio Vargas vs Jesse Rodriguez ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614000000 -0600" stop="20260614200000 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Oshae_Jones_vs_Elia_Carranza___HD_____20_00_1">
-    <title>Próximamente | 20:00 | ▫ Boxing ▫ Oshae Jones vs Elia Carranza ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614200000 -0600" stop="20260614230000 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Oshae_Jones_vs_Elia_Carranza___HD_____20_00_1">
-    <title>⌾ En vivo | 20:00 | ▫ Boxing ▫ Oshae Jones vs Elia Carranza ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614230000 -0600" stop="20260614235959 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Oshae_Jones_vs_Elia_Carranza___HD_____20_00_1">
-    <title>Finalizado | ▫ Boxing ▫ Oshae Jones vs Elia Carranza ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614000000 -0600" stop="20260614190000 -0600" channel="EVENTOS_VIP__Evento___Bam__Rodr_guez_vs_Antonio_Vargas___HD_____19_00___Boxing___Jesse__Bam__Rodr_guez_vs__Antonio_Vargas___HD_____19_00_1">
-    <title>Próximamente | 19:00 | Bam" Rodríguez vs Antonio Vargas ▫ HD ▫"  19:00 ▫ Boxing ▫ Jesse "Bam" Rodríguez vs. Antonio Vargas ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614190000 -0600" stop="20260614220000 -0600" channel="EVENTOS_VIP__Evento___Bam__Rodr_guez_vs_Antonio_Vargas___HD_____19_00___Boxing___Jesse__Bam__Rodr_guez_vs__Antonio_Vargas___HD_____19_00_1">
-    <title>⌾ En vivo | 19:00 | Bam" Rodríguez vs Antonio Vargas ▫ HD ▫"  19:00 ▫ Boxing ▫ Jesse "Bam" Rodríguez vs. Antonio Vargas ▫ HD ▫</title>
-  </programme>
-  <programme start="20260614220000 -0600" stop="20260614235959 -0600" channel="EVENTOS_VIP__Evento___Bam__Rodr_guez_vs_Antonio_Vargas___HD_____19_00___Boxing___Jesse__Bam__Rodr_guez_vs__Antonio_Vargas___HD_____19_00_1">
-    <title>Finalizado | Bam" Rodríguez vs Antonio Vargas ▫ HD ▫"  19:00 ▫ Boxing ▫ Jesse "Bam" Rodríguez vs. Antonio Vargas ▫ HD ▫</title>
-  </programme>
   <programme start="20260614000000 -0600" stop="20260614150000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pericos_de_Puebla_vs_Toros_de_Tijuana___HD_____15_00_1">
     <title>Próximamente | 15:00 | ▫ LMB ▫ Pericos de Puebla vs Toros de Tijuana ▫ HD ▫</title>
   </programme>
