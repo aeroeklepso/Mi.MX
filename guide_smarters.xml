@@ -128629,33 +128629,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Toros_de_Tijuana_vs_Bravos_de_Le_n___HD_____20_30_1">
     <display-name>Evento | ▫ LMB ▫ Toros de Tijuana vs Bravos de León ▫ HD ▫ | 20:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open__Primera_Ronda____HD_____04_30_1">
-    <display-name>Evento | ▫ vs P ▫ Terra Wortmann Open (Primera Ronda) ▫ HD ▫ | 04:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_2__Doubles____HD_____04_30_1">
-    <display-name>Evento | ▫ vs P ▫ Terra Wortmann Open / Court 2 (Doubles) ▫ HD ▫ | 04:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Schauinsland_Reisen_Court___HD_____04_30_1">
-    <display-name>Evento | ▫ vs P ▫ Terra Wortmann Open / Schauinsland-Reisen Court ▫ HD ▫ | 04:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____05_30_1">
-    <display-name>Evento | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫ | 05:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1___HD_____05_30_1">
-    <display-name>Evento | ▫ vs P ▫ HSBC Championships / Court 1 ▫ HD ▫ | 05:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_5___HD_____05_30_1">
-    <display-name>Evento | ▫ vs P ▫ HSBC Championships / Court 5 ▫ HD ▫ | 05:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_3__Doubles____HD_____06_00_1">
-    <display-name>Evento | ▫ vs P ▫ Terra Wortmann Open / Court 3 (Doubles) ▫ HD ▫ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____08_30_1">
-    <display-name>Evento | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫ | 08:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Tomas_Martin_Etcheverry_vs__Daniil_Medvedev__Primera_Ronda____HD_____10_30_1">
-    <display-name>Evento | ▫ vs P ▫ Tomas Martin Etcheverry vs. Daniil Medvedev (Primera Ronda) ▫ HD ▫ | 10:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_1____Frayles_de_Guasave_vs_Astros_de_Jalisco___HD_____21_00_1">
     <display-name>Evento | ▫ CIBACOPA Final (Juego 1) ▫ Frayles de Guasave vs Astros de Jalisco ▫ HD ▫ | 21:00</display-name>
   </channel>
@@ -128901,87 +128874,6 @@
   </programme>
   <programme start="20260617053000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____LMB___Toros_de_Tijuana_vs_Bravos_de_Le_n___HD_____20_30_1">
     <title>Finalizado | ▫ LMB ▫ Toros de Tijuana vs Bravos de León ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616103000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open__Primera_Ronda____HD_____04_30_1">
-    <title>Próximamente | 04:30 | ▫ vs P ▫ Terra Wortmann Open (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616103000" stop="20260616133000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open__Primera_Ronda____HD_____04_30_1">
-    <title>⌾ En vivo | 04:30 | ▫ vs P ▫ Terra Wortmann Open (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616133000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open__Primera_Ronda____HD_____04_30_1">
-    <title>Finalizado | ▫ vs P ▫ Terra Wortmann Open (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616103000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_2__Doubles____HD_____04_30_1">
-    <title>Próximamente | 04:30 | ▫ vs P ▫ Terra Wortmann Open / Court 2 (Doubles) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616103000" stop="20260616133000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_2__Doubles____HD_____04_30_1">
-    <title>⌾ En vivo | 04:30 | ▫ vs P ▫ Terra Wortmann Open / Court 2 (Doubles) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616133000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_2__Doubles____HD_____04_30_1">
-    <title>Finalizado | ▫ vs P ▫ Terra Wortmann Open / Court 2 (Doubles) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616103000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Schauinsland_Reisen_Court___HD_____04_30_1">
-    <title>Próximamente | 04:30 | ▫ vs P ▫ Terra Wortmann Open / Schauinsland-Reisen Court ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616103000" stop="20260616133000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Schauinsland_Reisen_Court___HD_____04_30_1">
-    <title>⌾ En vivo | 04:30 | ▫ vs P ▫ Terra Wortmann Open / Schauinsland-Reisen Court ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616133000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Schauinsland_Reisen_Court___HD_____04_30_1">
-    <title>Finalizado | ▫ vs P ▫ Terra Wortmann Open / Schauinsland-Reisen Court ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616113000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____05_30_1">
-    <title>Próximamente | 05:30 | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616113000" stop="20260616143000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____05_30_1">
-    <title>⌾ En vivo | 05:30 | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616143000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____05_30_1">
-    <title>Finalizado | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616113000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1___HD_____05_30_1">
-    <title>Próximamente | 05:30 | ▫ vs P ▫ HSBC Championships / Court 1 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616113000" stop="20260616143000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1___HD_____05_30_1">
-    <title>⌾ En vivo | 05:30 | ▫ vs P ▫ HSBC Championships / Court 1 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616143000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1___HD_____05_30_1">
-    <title>Finalizado | ▫ vs P ▫ HSBC Championships / Court 1 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616113000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_5___HD_____05_30_1">
-    <title>Próximamente | 05:30 | ▫ vs P ▫ HSBC Championships / Court 5 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616113000" stop="20260616143000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_5___HD_____05_30_1">
-    <title>⌾ En vivo | 05:30 | ▫ vs P ▫ HSBC Championships / Court 5 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616143000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_5___HD_____05_30_1">
-    <title>Finalizado | ▫ vs P ▫ HSBC Championships / Court 5 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616120000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_3__Doubles____HD_____06_00_1">
-    <title>Próximamente | 06:00 | ▫ vs P ▫ Terra Wortmann Open / Court 3 (Doubles) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616120000" stop="20260616150000" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_3__Doubles____HD_____06_00_1">
-    <title>⌾ En vivo | 06:00 | ▫ vs P ▫ Terra Wortmann Open / Court 3 (Doubles) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616150000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___Terra_Wortmann_Open___Court_3__Doubles____HD_____06_00_1">
-    <title>Finalizado | ▫ vs P ▫ Terra Wortmann Open / Court 3 (Doubles) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616143000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____08_30_1">
-    <title>Próximamente | 08:30 | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616143000" stop="20260616173000" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____08_30_1">
-    <title>⌾ En vivo | 08:30 | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616173000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Primera_Ronda____HD_____08_30_1">
-    <title>Finalizado | ▫ vs P ▫ HSBC Championships (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616060000" stop="20260616163000" channel="EVENTOS_VIP__Evento_____vs_P___Tomas_Martin_Etcheverry_vs__Daniil_Medvedev__Primera_Ronda____HD_____10_30_1">
-    <title>Próximamente | 10:30 | ▫ vs P ▫ Tomas Martin Etcheverry vs. Daniil Medvedev (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616163000" stop="20260616193000" channel="EVENTOS_VIP__Evento_____vs_P___Tomas_Martin_Etcheverry_vs__Daniil_Medvedev__Primera_Ronda____HD_____10_30_1">
-    <title>⌾ En vivo | 10:30 | ▫ vs P ▫ Tomas Martin Etcheverry vs. Daniil Medvedev (Primera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260616193000" stop="20260617055959" channel="EVENTOS_VIP__Evento_____vs_P___Tomas_Martin_Etcheverry_vs__Daniil_Medvedev__Primera_Ronda____HD_____10_30_1">
-    <title>Finalizado | ▫ vs P ▫ Tomas Martin Etcheverry vs. Daniil Medvedev (Primera Ronda) ▫ HD ▫</title>
   </programme>
   <programme start="20260616060000" stop="20260617030000" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_1____Frayles_de_Guasave_vs_Astros_de_Jalisco___HD_____21_00_1">
     <title>Próximamente | 21:00 | ▫ CIBACOPA Final (Juego 1) ▫ Frayles de Guasave vs Astros de Jalisco ▫ HD ▫</title>
