@@ -126379,9 +126379,6 @@
   <channel id="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Cuartos_de_Final____HD_____05_30_1">
     <display-name>Evento | ▫ vs P ▫ HSBC Championships (Cuartos de Final) ▫ HD ▫ | 05:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1__Doubles_Quarterfinals____HD_____07_00_1">
-    <display-name>Evento | ▫ vs P ▫ HSBC Championships / Court 1 (Doubles Quarterfinals) ▫ HD ▫ | 07:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____U_S__Open___Fe_vs_ured_Groups_2__Segunda_Ronda____HD_____06_30_1">
     <display-name>Evento | ▫ U.S. Open ▫ Fe vs ured Groups 2 (Segunda Ronda) ▫ HD ▫ | 06:30</display-name>
   </channel>
@@ -126534,15 +126531,6 @@
   </programme>
   <programme start="20260619083000 -0600" stop="20260619235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships__Cuartos_de_Final____HD_____05_30_1">
     <title>Finalizado | ▫ vs P ▫ HSBC Championships (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260619000000 -0600" stop="20260619070000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1__Doubles_Quarterfinals____HD_____07_00_1">
-    <title>Próximamente | 07:00 | ▫ vs P ▫ HSBC Championships / Court 1 (Doubles Quarterfinals) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260619070000 -0600" stop="20260619100000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1__Doubles_Quarterfinals____HD_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ▫ vs P ▫ HSBC Championships / Court 1 (Doubles Quarterfinals) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260619100000 -0600" stop="20260619235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___HSBC_Championships___Court_1__Doubles_Quarterfinals____HD_____07_00_1">
-    <title>Finalizado | ▫ vs P ▫ HSBC Championships / Court 1 (Doubles Quarterfinals) ▫ HD ▫</title>
   </programme>
   <programme start="20260619000000 -0600" stop="20260619063000 -0600" channel="EVENTOS_VIP__Evento_____U_S__Open___Fe_vs_ured_Groups_2__Segunda_Ronda____HD_____06_30_1">
     <title>Próximamente | 06:30 | ▫ U.S. Open ▫ Fe vs ured Groups 2 (Segunda Ronda) ▫ HD ▫</title>
