@@ -117277,30 +117277,6 @@
   <channel id="EVENTOS_VIP__Evento_____WTA___Marie_Bouzkova_vs_Emma_Navarro__Final____HD_____05_00_1">
     <display-name>Evento | ▫ WTA ▫ Marie Bouzkova vs Emma Navarro (Final) ▫ HD ▫ | 05:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Volta_Ciclista_a_C_vs_alunya___Etapa_3___HD_____05_30_1">
-    <display-name>Evento | ▫ Volta Ciclista a C vs alunya ▫ Etapa 3 ▫ HD ▫ | 05:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Bulgaria__F__vs__Ucrania__F____HD_____01_00_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ Bulgaria (F) vs. Ucrania (F) ▫ HD ▫ | 01:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Rep_blica_Checa__F__vs__Rep_blica_Dominicana__F____HD_____03_00_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ República Checa (F) vs. República Dominicana (F) ▫ HD ▫ | 03:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___B_lgica__F__vs__Francia__F____HD_____04_30_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ Bélgica (F) vs. Francia (F) ▫ HD ▫ | 04:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Canad___F__vs__Polonia__F____HD_____05_00_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ Canadá (F) vs. Polonia (F) ▫ HD ▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Jap_n__F__vs__Italia__F____HD_____07_00_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ Japón (F) vs. Italia (F) ▫ HD ▫ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Alemania__F__vs__Brasil__F____HD_____08_00_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ Alemania (F) vs. Brasil (F) ▫ HD ▫ | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Tailandia__F__vs__Pa_ses_Bajos__F____HD_____08_30_1">
-    <display-name>Evento | ▫ VNL N vs ions Women ▫ Tailandia (F) vs. Países Bajos (F) ▫ HD ▫ | 08:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Turqu_a__F__vs__China__F____HD_____11_30_1">
     <display-name>Evento | ▫ VNL N vs ions Women ▫ Turquía (F) vs. China (F) ▫ HD ▫ | 11:30</display-name>
   </channel>
@@ -117717,78 +117693,6 @@
   </programme>
   <programme start="20260621140000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____WTA___Marie_Bouzkova_vs_Emma_Navarro__Final____HD_____05_00_1">
     <title>Finalizado | ▫ WTA ▫ Marie Bouzkova vs Emma Navarro (Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621113000" channel="EVENTOS_VIP__Evento_____Volta_Ciclista_a_C_vs_alunya___Etapa_3___HD_____05_30_1">
-    <title>Próximamente | 05:30 | ▫ Volta Ciclista a C vs alunya ▫ Etapa 3 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621113000" stop="20260621143000" channel="EVENTOS_VIP__Evento_____Volta_Ciclista_a_C_vs_alunya___Etapa_3___HD_____05_30_1">
-    <title>⌾ En vivo | 05:30 | ▫ Volta Ciclista a C vs alunya ▫ Etapa 3 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621143000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____Volta_Ciclista_a_C_vs_alunya___Etapa_3___HD_____05_30_1">
-    <title>Finalizado | ▫ Volta Ciclista a C vs alunya ▫ Etapa 3 ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621070000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Bulgaria__F__vs__Ucrania__F____HD_____01_00_1">
-    <title>Próximamente | 01:00 | ▫ VNL N vs ions Women ▫ Bulgaria (F) vs. Ucrania (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621070000" stop="20260621100000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Bulgaria__F__vs__Ucrania__F____HD_____01_00_1">
-    <title>⌾ En vivo | 01:00 | ▫ VNL N vs ions Women ▫ Bulgaria (F) vs. Ucrania (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621100000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Bulgaria__F__vs__Ucrania__F____HD_____01_00_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ Bulgaria (F) vs. Ucrania (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621090000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Rep_blica_Checa__F__vs__Rep_blica_Dominicana__F____HD_____03_00_1">
-    <title>Próximamente | 03:00 | ▫ VNL N vs ions Women ▫ República Checa (F) vs. República Dominicana (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621090000" stop="20260621120000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Rep_blica_Checa__F__vs__Rep_blica_Dominicana__F____HD_____03_00_1">
-    <title>⌾ En vivo | 03:00 | ▫ VNL N vs ions Women ▫ República Checa (F) vs. República Dominicana (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621120000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Rep_blica_Checa__F__vs__Rep_blica_Dominicana__F____HD_____03_00_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ República Checa (F) vs. República Dominicana (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621103000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___B_lgica__F__vs__Francia__F____HD_____04_30_1">
-    <title>Próximamente | 04:30 | ▫ VNL N vs ions Women ▫ Bélgica (F) vs. Francia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621103000" stop="20260621133000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___B_lgica__F__vs__Francia__F____HD_____04_30_1">
-    <title>⌾ En vivo | 04:30 | ▫ VNL N vs ions Women ▫ Bélgica (F) vs. Francia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621133000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___B_lgica__F__vs__Francia__F____HD_____04_30_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ Bélgica (F) vs. Francia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621110000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Canad___F__vs__Polonia__F____HD_____05_00_1">
-    <title>Próximamente | 05:00 | ▫ VNL N vs ions Women ▫ Canadá (F) vs. Polonia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621110000" stop="20260621140000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Canad___F__vs__Polonia__F____HD_____05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ VNL N vs ions Women ▫ Canadá (F) vs. Polonia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621140000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Canad___F__vs__Polonia__F____HD_____05_00_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ Canadá (F) vs. Polonia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621130000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Jap_n__F__vs__Italia__F____HD_____07_00_1">
-    <title>Próximamente | 07:00 | ▫ VNL N vs ions Women ▫ Japón (F) vs. Italia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621130000" stop="20260621160000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Jap_n__F__vs__Italia__F____HD_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ▫ VNL N vs ions Women ▫ Japón (F) vs. Italia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621160000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Jap_n__F__vs__Italia__F____HD_____07_00_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ Japón (F) vs. Italia (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621140000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Alemania__F__vs__Brasil__F____HD_____08_00_1">
-    <title>Próximamente | 08:00 | ▫ VNL N vs ions Women ▫ Alemania (F) vs. Brasil (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621140000" stop="20260621170000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Alemania__F__vs__Brasil__F____HD_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ▫ VNL N vs ions Women ▫ Alemania (F) vs. Brasil (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621170000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Alemania__F__vs__Brasil__F____HD_____08_00_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ Alemania (F) vs. Brasil (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621060000" stop="20260621143000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Tailandia__F__vs__Pa_ses_Bajos__F____HD_____08_30_1">
-    <title>Próximamente | 08:30 | ▫ VNL N vs ions Women ▫ Tailandia (F) vs. Países Bajos (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621143000" stop="20260621173000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Tailandia__F__vs__Pa_ses_Bajos__F____HD_____08_30_1">
-    <title>⌾ En vivo | 08:30 | ▫ VNL N vs ions Women ▫ Tailandia (F) vs. Países Bajos (F) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260621173000" stop="20260622055959" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Tailandia__F__vs__Pa_ses_Bajos__F____HD_____08_30_1">
-    <title>Finalizado | ▫ VNL N vs ions Women ▫ Tailandia (F) vs. Países Bajos (F) ▫ HD ▫</title>
   </programme>
   <programme start="20260621060000" stop="20260621173000" channel="EVENTOS_VIP__Evento_____VNL_N_vs_ions_Women___Turqu_a__F__vs__China__F____HD_____11_30_1">
     <title>Próximamente | 11:30 | ▫ VNL N vs ions Women ▫ Turquía (F) vs. China (F) ▫ HD ▫</title>
