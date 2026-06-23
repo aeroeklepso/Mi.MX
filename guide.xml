@@ -127132,11 +127132,11 @@
     <desc>El elenco de "Los Traidores" expresa sus quejas sobre asesinatos, destierros y traiciones.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
-    <display-name>Evento | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫ | 20:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
+    <display-name>Evento | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫ | 15:07</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_10_1">
-    <display-name>Evento | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫ | 17:10</display-name>
+  <channel id="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
+    <display-name>Evento | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫ | 17:40</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
     <display-name>Evento | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫ | 17:40</display-name>
@@ -127144,11 +127144,11 @@
   <channel id="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
     <display-name>Evento | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫ | 17:40</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
+    <display-name>Evento | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫ | 17:40</display-name>
+  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
     <display-name>Evento | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫ | 17:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____18_07_1">
-    <display-name>Evento | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫ | 18:07</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
     <display-name>Evento | ▫ MLB ▫ Chicago Cubs vs New York Mets ▫ HD ▫ | 18:10</display-name>
@@ -127171,158 +127171,314 @@
   <channel id="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
     <display-name>Evento | ▫ MLB ▫ Baltimore Orioles vs Los Angeles Angels ▫ HD ▫ | 20:38</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____21_10_1">
-    <display-name>Evento | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫ | 21:10</display-name>
+  <channel id="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____20_40_1">
+    <display-name>Evento | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫ | 20:40</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____College_World_Series_Finals__Game_3___En_espa_ol____Oklahoma_vs__5_North_Carolina___HD_____18_00_1">
-    <display-name>Evento | ▫ College World Series Finals (Game 3) (En español) ▫ Oklahoma vs #5 North Carolina ▫ HD ▫ | 18:00</display-name>
+  <channel id="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
+    <display-name>Evento | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫ | 20:45</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_4____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
-    <display-name>Evento | ▫ CIBACOPA Final (Juego 4) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫ | 21:30</display-name>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
+    <display-name>Evento | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫ | 14:00</display-name>
   </channel>
-  <programme start="20260622000000 -0600" stop="20260622200000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
-    <title>Próximamente | 20:00 | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫</title>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
+    <display-name>Evento | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫ | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Leones_de_Yuc_vs__n_vs__Tigres_de_Quintana_Roo___HD_____19_05_1">
+    <display-name>Evento | ▫ LMB ▫ Leones de Yuc vs án vs. Tigres de Quintana Roo ▫ HD ▫ | 19:05</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Conspiradores_de_Quer_taro_vs_Olmecas_de_Tabasco___HD_____19_00_1">
+    <display-name>Evento | ▫ LMB ▫ Conspiradores de Querétaro vs Olmecas de Tabasco ▫ HD ▫ | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
+    <display-name>Evento | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫ | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Guerreros_de_Oaxaca_vs_Pericos_de_Puebla___HD_____20_00_1">
+    <display-name>Evento | ▫ LMB ▫ Guerreros de Oaxaca vs Pericos de Puebla ▫ HD ▫ | 20:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Rieleros_de_Aguascalientes_vs_Sultanes_de_Monterrey___HD_____20_30_1">
+    <display-name>Evento | ▫ LMB ▫ Rieleros de Aguascalientes vs Sultanes de Monterrey ▫ HD ▫ | 20:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Bravos_de_Le_n_vs_El__guila_de_Veracruz___HD_____20_30_1">
+    <display-name>Evento | ▫ LMB ▫ Bravos de León vs El Águila de Veracruz ▫ HD ▫ | 20:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Acereros_de_Monclova_vs_Caliente_de_Durango___HD_____20_45_1">
+    <display-name>Evento | ▫ LMB ▫ Acereros de Monclova vs Caliente de Durango ▫ HD ▫ | 20:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
+    <display-name>Evento | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫ | 21:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
+    <display-name>Evento | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫ | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
+    <display-name>Evento | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫ | 19:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Palestino_vs_Audax_Italiano___HD_____19_30_1">
+    <display-name>Evento | ▫ Copa Chile ▫ Palestino vs Audax Italiano ▫ HD ▫ | 19:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_5____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
+    <display-name>Evento | ▫ CIBACOPA Final (Juego 5) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫ | 21:30</display-name>
+  </channel>
+  <programme start="20260623000000 -0600" stop="20260623150700 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
+    <title>Próximamente | 15:07 | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
   </programme>
-  <programme start="20260622200000 -0600" stop="20260622230000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
-    <title>⌾ En vivo | 20:00 | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫</title>
+  <programme start="20260623150700 -0600" stop="20260623180700 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
+    <title>⌾ En vivo | 15:07 | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
   </programme>
-  <programme start="20260622230000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
-    <title>Finalizado | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622000000 -0600" stop="20260622171000 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_10_1">
-    <title>Próximamente | 17:10 | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622171000 -0600" stop="20260622201000 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_10_1">
-    <title>⌾ En vivo | 17:10 | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622201000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_10_1">
-    <title>Finalizado | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622000000 -0600" stop="20260622174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622174000 -0600" stop="20260622204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622204000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622000000 -0600" stop="20260622174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622174000 -0600" stop="20260622204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622204000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622000000 -0600" stop="20260622174500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
-    <title>Próximamente | 17:45 | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622174500 -0600" stop="20260622204500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
-    <title>⌾ En vivo | 17:45 | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622204500 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
-    <title>Finalizado | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622000000 -0600" stop="20260622180700 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____18_07_1">
-    <title>Próximamente | 18:07 | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622180700 -0600" stop="20260622210700 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____18_07_1">
-    <title>⌾ En vivo | 18:07 | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260622210700 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____18_07_1">
+  <programme start="20260623180700 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
     <title>Finalizado | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622181000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
+  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
+    <title>Próximamente | 17:40 | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
+    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
+    <title>Finalizado | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
+    <title>Próximamente | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
+    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
+    <title>Finalizado | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
+    <title>Próximamente | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
+    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
+    <title>Finalizado | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
+    <title>Próximamente | 17:40 | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
+    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
+    <title>Finalizado | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623174500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
+    <title>Próximamente | 17:45 | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623174500 -0600" stop="20260623204500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
+    <title>⌾ En vivo | 17:45 | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623204500 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Philadelphia_Phillies_vs_Washington_Nationals___HD_____17_45_1">
+    <title>Finalizado | ▫ MLB ▫ Philadelphia Phillies vs Washington Nationals ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623181000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
     <title>Próximamente | 18:10 | ▫ MLB ▫ Chicago Cubs vs New York Mets ▫ HD ▫</title>
   </programme>
-  <programme start="20260622181000 -0600" stop="20260622211000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
+  <programme start="20260623181000 -0600" stop="20260623211000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
     <title>⌾ En vivo | 18:10 | ▫ MLB ▫ Chicago Cubs vs New York Mets ▫ HD ▫</title>
   </programme>
-  <programme start="20260622211000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
+  <programme start="20260623211000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Chicago_Cubs_vs_New_York_Mets___HD_____18_10_1">
     <title>Finalizado | ▫ MLB ▫ Chicago Cubs vs New York Mets ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622181000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Cincinnati_Reds___HD_____18_10_1">
+  <programme start="20260623000000 -0600" stop="20260623181000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Cincinnati_Reds___HD_____18_10_1">
     <title>Próximamente | 18:10 | ▫ MLB ▫ Milwaukee Brewers vs Cincinnati Reds ▫ HD ▫</title>
   </programme>
-  <programme start="20260622181000 -0600" stop="20260622211000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Cincinnati_Reds___HD_____18_10_1">
+  <programme start="20260623181000 -0600" stop="20260623211000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Cincinnati_Reds___HD_____18_10_1">
     <title>⌾ En vivo | 18:10 | ▫ MLB ▫ Milwaukee Brewers vs Cincinnati Reds ▫ HD ▫</title>
   </programme>
-  <programme start="20260622211000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Cincinnati_Reds___HD_____18_10_1">
+  <programme start="20260623211000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Cincinnati_Reds___HD_____18_10_1">
     <title>Finalizado | ▫ MLB ▫ Milwaukee Brewers vs Cincinnati Reds ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622184000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Dodgers_vs_Minnesota_Twins___HD_____18_40_1">
+  <programme start="20260623000000 -0600" stop="20260623184000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Dodgers_vs_Minnesota_Twins___HD_____18_40_1">
     <title>Próximamente | 18:40 | ▫ MLB ▫ Los Angeles Dodgers vs Minnesota Twins ▫ HD ▫</title>
   </programme>
-  <programme start="20260622184000 -0600" stop="20260622214000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Dodgers_vs_Minnesota_Twins___HD_____18_40_1">
+  <programme start="20260623184000 -0600" stop="20260623214000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Dodgers_vs_Minnesota_Twins___HD_____18_40_1">
     <title>⌾ En vivo | 18:40 | ▫ MLB ▫ Los Angeles Dodgers vs Minnesota Twins ▫ HD ▫</title>
   </programme>
-  <programme start="20260622214000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Dodgers_vs_Minnesota_Twins___HD_____18_40_1">
+  <programme start="20260623214000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Los_Angeles_Dodgers_vs_Minnesota_Twins___HD_____18_40_1">
     <title>Finalizado | ▫ MLB ▫ Los Angeles Dodgers vs Minnesota Twins ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622184000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Cleveland_Guardians_vs_Chicago_White_Sox___HD_____18_40_1">
+  <programme start="20260623000000 -0600" stop="20260623184000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Cleveland_Guardians_vs_Chicago_White_Sox___HD_____18_40_1">
     <title>Próximamente | 18:40 | ▫ MLB ▫ Cleveland Guardians vs Chicago White Sox ▫ HD ▫</title>
   </programme>
-  <programme start="20260622184000 -0600" stop="20260622214000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Cleveland_Guardians_vs_Chicago_White_Sox___HD_____18_40_1">
+  <programme start="20260623184000 -0600" stop="20260623214000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Cleveland_Guardians_vs_Chicago_White_Sox___HD_____18_40_1">
     <title>⌾ En vivo | 18:40 | ▫ MLB ▫ Cleveland Guardians vs Chicago White Sox ▫ HD ▫</title>
   </programme>
-  <programme start="20260622214000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Cleveland_Guardians_vs_Chicago_White_Sox___HD_____18_40_1">
+  <programme start="20260623214000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Cleveland_Guardians_vs_Chicago_White_Sox___HD_____18_40_1">
     <title>Finalizado | ▫ MLB ▫ Cleveland Guardians vs Chicago White Sox ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622184500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Arizona_Diamondbacks_vs_St__Louis_Cardinals___HD_____18_45_1">
+  <programme start="20260623000000 -0600" stop="20260623184500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Arizona_Diamondbacks_vs_St__Louis_Cardinals___HD_____18_45_1">
     <title>Próximamente | 18:45 | ▫ MLB ▫ Arizona Diamondbacks vs St. Louis Cardinals ▫ HD ▫</title>
   </programme>
-  <programme start="20260622184500 -0600" stop="20260622214500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Arizona_Diamondbacks_vs_St__Louis_Cardinals___HD_____18_45_1">
+  <programme start="20260623184500 -0600" stop="20260623214500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Arizona_Diamondbacks_vs_St__Louis_Cardinals___HD_____18_45_1">
     <title>⌾ En vivo | 18:45 | ▫ MLB ▫ Arizona Diamondbacks vs St. Louis Cardinals ▫ HD ▫</title>
   </programme>
-  <programme start="20260622214500 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Arizona_Diamondbacks_vs_St__Louis_Cardinals___HD_____18_45_1">
+  <programme start="20260623214500 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Arizona_Diamondbacks_vs_St__Louis_Cardinals___HD_____18_45_1">
     <title>Finalizado | ▫ MLB ▫ Arizona Diamondbacks vs St. Louis Cardinals ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622194000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Boston_Red_Sox_vs_Colorado_Rockies___HD_____19_40_1">
+  <programme start="20260623000000 -0600" stop="20260623194000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Boston_Red_Sox_vs_Colorado_Rockies___HD_____19_40_1">
     <title>Próximamente | 19:40 | ▫ MLB ▫ Boston Red Sox vs Colorado Rockies ▫ HD ▫</title>
   </programme>
-  <programme start="20260622194000 -0600" stop="20260622224000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Boston_Red_Sox_vs_Colorado_Rockies___HD_____19_40_1">
+  <programme start="20260623194000 -0600" stop="20260623224000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Boston_Red_Sox_vs_Colorado_Rockies___HD_____19_40_1">
     <title>⌾ En vivo | 19:40 | ▫ MLB ▫ Boston Red Sox vs Colorado Rockies ▫ HD ▫</title>
   </programme>
-  <programme start="20260622224000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Boston_Red_Sox_vs_Colorado_Rockies___HD_____19_40_1">
+  <programme start="20260623224000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Boston_Red_Sox_vs_Colorado_Rockies___HD_____19_40_1">
     <title>Finalizado | ▫ MLB ▫ Boston Red Sox vs Colorado Rockies ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622203800 -0600" channel="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
+  <programme start="20260623000000 -0600" stop="20260623203800 -0600" channel="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
     <title>Próximamente | 20:38 | ▫ MLB ▫ Baltimore Orioles vs Los Angeles Angels ▫ HD ▫</title>
   </programme>
-  <programme start="20260622203800 -0600" stop="20260622233800 -0600" channel="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
+  <programme start="20260623203800 -0600" stop="20260623233800 -0600" channel="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
     <title>⌾ En vivo | 20:38 | ▫ MLB ▫ Baltimore Orioles vs Los Angeles Angels ▫ HD ▫</title>
   </programme>
-  <programme start="20260622233800 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
+  <programme start="20260623233800 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Baltimore_Orioles_vs_Los_Angeles_Angels___HD_____20_38_1">
     <title>Finalizado | ▫ MLB ▫ Baltimore Orioles vs Los Angeles Angels ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622211000 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____21_10_1">
-    <title>Próximamente | 21:10 | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫</title>
+  <programme start="20260623000000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____20_40_1">
+    <title>Próximamente | 20:40 | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫</title>
   </programme>
-  <programme start="20260622211000 -0600" stop="20260623001000 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____21_10_1">
-    <title>⌾ En vivo | 21:10 | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫</title>
+  <programme start="20260623204000 -0600" stop="20260623234000 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____20_40_1">
+    <title>⌾ En vivo | 20:40 | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫</title>
   </programme>
-  <programme start="20260623001000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____21_10_1">
+  <programme start="20260623234000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__San_Diego_Padres___HD_____20_40_1">
     <title>Finalizado | ▫ MLB ▫ vs lanta Braves vs. San Diego Padres ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622180000 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series_Finals__Game_3___En_espa_ol____Oklahoma_vs__5_North_Carolina___HD_____18_00_1">
-    <title>Próximamente | 18:00 | ▫ College World Series Finals (Game 3) (En español) ▫ Oklahoma vs #5 North Carolina ▫ HD ▫</title>
+  <programme start="20260623000000 -0600" stop="20260623204500 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
+    <title>Próximamente | 20:45 | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫</title>
   </programme>
-  <programme start="20260622180000 -0600" stop="20260622210000 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series_Finals__Game_3___En_espa_ol____Oklahoma_vs__5_North_Carolina___HD_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ▫ College World Series Finals (Game 3) (En español) ▫ Oklahoma vs #5 North Carolina ▫ HD ▫</title>
+  <programme start="20260623204500 -0600" stop="20260623234500 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
+    <title>⌾ En vivo | 20:45 | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫</title>
   </programme>
-  <programme start="20260622210000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____College_World_Series_Finals__Game_3___En_espa_ol____Oklahoma_vs__5_North_Carolina___HD_____18_00_1">
-    <title>Finalizado | ▫ College World Series Finals (Game 3) (En español) ▫ Oklahoma vs #5 North Carolina ▫ HD ▫</title>
+  <programme start="20260623234500 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
+    <title>Finalizado | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫</title>
   </programme>
-  <programme start="20260622000000 -0600" stop="20260622213000 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_4____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
-    <title>Próximamente | 21:30 | ▫ CIBACOPA Final (Juego 4) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫</title>
+  <programme start="20260623000000 -0600" stop="20260623140000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
+    <title>Próximamente | 14:00 | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
   </programme>
-  <programme start="20260622213000 -0600" stop="20260623003000 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_4____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
-    <title>⌾ En vivo | 21:30 | ▫ CIBACOPA Final (Juego 4) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫</title>
+  <programme start="20260623140000 -0600" stop="20260623170000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
+    <title>⌾ En vivo | 14:00 | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
   </programme>
-  <programme start="20260623003000 -0600" stop="20260622235959 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_4____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
-    <title>Finalizado | ▫ CIBACOPA Final (Juego 4) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫</title>
+  <programme start="20260623170000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
+    <title>Finalizado | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623190000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
+    <title>Próximamente | 19:00 | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623190000 -0600" stop="20260623220000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
+    <title>⌾ En vivo | 19:00 | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623220000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
+    <title>Finalizado | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623190500 -0600" channel="EVENTOS_VIP__Evento_____LMB___Leones_de_Yuc_vs__n_vs__Tigres_de_Quintana_Roo___HD_____19_05_1">
+    <title>Próximamente | 19:05 | ▫ LMB ▫ Leones de Yuc vs án vs. Tigres de Quintana Roo ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623190500 -0600" stop="20260623220500 -0600" channel="EVENTOS_VIP__Evento_____LMB___Leones_de_Yuc_vs__n_vs__Tigres_de_Quintana_Roo___HD_____19_05_1">
+    <title>⌾ En vivo | 19:05 | ▫ LMB ▫ Leones de Yuc vs án vs. Tigres de Quintana Roo ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623220500 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Leones_de_Yuc_vs__n_vs__Tigres_de_Quintana_Roo___HD_____19_05_1">
+    <title>Finalizado | ▫ LMB ▫ Leones de Yuc vs án vs. Tigres de Quintana Roo ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623190000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Conspiradores_de_Quer_taro_vs_Olmecas_de_Tabasco___HD_____19_00_1">
+    <title>Próximamente | 19:00 | ▫ LMB ▫ Conspiradores de Querétaro vs Olmecas de Tabasco ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623190000 -0600" stop="20260623220000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Conspiradores_de_Quer_taro_vs_Olmecas_de_Tabasco___HD_____19_00_1">
+    <title>⌾ En vivo | 19:00 | ▫ LMB ▫ Conspiradores de Querétaro vs Olmecas de Tabasco ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623220000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Conspiradores_de_Quer_taro_vs_Olmecas_de_Tabasco___HD_____19_00_1">
+    <title>Finalizado | ▫ LMB ▫ Conspiradores de Querétaro vs Olmecas de Tabasco ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623200000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
+    <title>Próximamente | 20:00 | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623200000 -0600" stop="20260623230000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
+    <title>⌾ En vivo | 20:00 | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623230000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Pir_vs_as_de_Campeche_vs__Diablos_Rojos_del_M_xico___HD_____20_00_1">
+    <title>Finalizado | ▫ LMB ▫ Pir vs as de Campeche vs. Diablos Rojos del México ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623200000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Guerreros_de_Oaxaca_vs_Pericos_de_Puebla___HD_____20_00_1">
+    <title>Próximamente | 20:00 | ▫ LMB ▫ Guerreros de Oaxaca vs Pericos de Puebla ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623200000 -0600" stop="20260623230000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Guerreros_de_Oaxaca_vs_Pericos_de_Puebla___HD_____20_00_1">
+    <title>⌾ En vivo | 20:00 | ▫ LMB ▫ Guerreros de Oaxaca vs Pericos de Puebla ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623230000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Guerreros_de_Oaxaca_vs_Pericos_de_Puebla___HD_____20_00_1">
+    <title>Finalizado | ▫ LMB ▫ Guerreros de Oaxaca vs Pericos de Puebla ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623203000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Rieleros_de_Aguascalientes_vs_Sultanes_de_Monterrey___HD_____20_30_1">
+    <title>Próximamente | 20:30 | ▫ LMB ▫ Rieleros de Aguascalientes vs Sultanes de Monterrey ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623203000 -0600" stop="20260623233000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Rieleros_de_Aguascalientes_vs_Sultanes_de_Monterrey___HD_____20_30_1">
+    <title>⌾ En vivo | 20:30 | ▫ LMB ▫ Rieleros de Aguascalientes vs Sultanes de Monterrey ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623233000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Rieleros_de_Aguascalientes_vs_Sultanes_de_Monterrey___HD_____20_30_1">
+    <title>Finalizado | ▫ LMB ▫ Rieleros de Aguascalientes vs Sultanes de Monterrey ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623203000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Bravos_de_Le_n_vs_El__guila_de_Veracruz___HD_____20_30_1">
+    <title>Próximamente | 20:30 | ▫ LMB ▫ Bravos de León vs El Águila de Veracruz ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623203000 -0600" stop="20260623233000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Bravos_de_Le_n_vs_El__guila_de_Veracruz___HD_____20_30_1">
+    <title>⌾ En vivo | 20:30 | ▫ LMB ▫ Bravos de León vs El Águila de Veracruz ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623233000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Bravos_de_Le_n_vs_El__guila_de_Veracruz___HD_____20_30_1">
+    <title>Finalizado | ▫ LMB ▫ Bravos de León vs El Águila de Veracruz ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623204500 -0600" channel="EVENTOS_VIP__Evento_____LMB___Acereros_de_Monclova_vs_Caliente_de_Durango___HD_____20_45_1">
+    <title>Próximamente | 20:45 | ▫ LMB ▫ Acereros de Monclova vs Caliente de Durango ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623204500 -0600" stop="20260623234500 -0600" channel="EVENTOS_VIP__Evento_____LMB___Acereros_de_Monclova_vs_Caliente_de_Durango___HD_____20_45_1">
+    <title>⌾ En vivo | 20:45 | ▫ LMB ▫ Acereros de Monclova vs Caliente de Durango ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623234500 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Acereros_de_Monclova_vs_Caliente_de_Durango___HD_____20_45_1">
+    <title>Finalizado | ▫ LMB ▫ Acereros de Monclova vs Caliente de Durango ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623210000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
+    <title>Próximamente | 21:00 | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623210000 -0600" stop="20260624000000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
+    <title>⌾ En vivo | 21:00 | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫</title>
+  </programme>
+  <programme start="20260624000000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
+    <title>Finalizado | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623140000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
+    <title>Próximamente | 14:00 | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623140000 -0600" stop="20260623170000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
+    <title>⌾ En vivo | 14:00 | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623170000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
+    <title>Finalizado | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623193000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
+    <title>Próximamente | 19:30 | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623193000 -0600" stop="20260623223000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
+    <title>⌾ En vivo | 19:30 | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623223000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
+    <title>Finalizado | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623193000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Palestino_vs_Audax_Italiano___HD_____19_30_1">
+    <title>Próximamente | 19:30 | ▫ Copa Chile ▫ Palestino vs Audax Italiano ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623193000 -0600" stop="20260623223000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Palestino_vs_Audax_Italiano___HD_____19_30_1">
+    <title>⌾ En vivo | 19:30 | ▫ Copa Chile ▫ Palestino vs Audax Italiano ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623223000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Palestino_vs_Audax_Italiano___HD_____19_30_1">
+    <title>Finalizado | ▫ Copa Chile ▫ Palestino vs Audax Italiano ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623000000 -0600" stop="20260623213000 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_5____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
+    <title>Próximamente | 21:30 | ▫ CIBACOPA Final (Juego 5) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫</title>
+  </programme>
+  <programme start="20260623213000 -0600" stop="20260624003000 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_5____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
+    <title>⌾ En vivo | 21:30 | ▫ CIBACOPA Final (Juego 5) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫</title>
+  </programme>
+  <programme start="20260624003000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____CIBACOPA_Final__Juego_5____Astros_de_Jalisco_vs_Frayles_de_Guasave___HD_____21_30_1">
+    <title>Finalizado | ▫ CIBACOPA Final (Juego 5) ▫ Astros de Jalisco vs Frayles de Guasave ▫ HD ▫</title>
   </programme>
 </tv>
 
