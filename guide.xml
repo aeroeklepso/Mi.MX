@@ -125393,9 +125393,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
     <display-name>Evento | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <display-name>Evento | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫ | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
     <display-name>Evento | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫ | 19:30</display-name>
   </channel>
@@ -125629,15 +125626,6 @@
   </programme>
   <programme start="20260624000000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
     <title>Finalizado | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623000000 -0600" stop="20260623140000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623140000 -0600" stop="20260623170000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623170000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <title>Finalizado | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
   </programme>
   <programme start="20260623000000 -0600" stop="20260623193000 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫</title>
