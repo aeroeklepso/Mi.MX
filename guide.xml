@@ -125321,15 +125321,6 @@
   <channel id="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
     <display-name>Evento | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫ | 15:07</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫ | 17:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫ | 17:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫ | 17:40</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
     <display-name>Evento | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫ | 17:40</display-name>
   </channel>
@@ -125362,9 +125353,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
     <display-name>Evento | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫ | 20:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <display-name>Evento | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫ | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
     <display-name>Evento | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫ | 19:00</display-name>
@@ -125410,33 +125398,6 @@
   </programme>
   <programme start="20260623180700 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
     <title>Finalizado | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623174000 -0600" stop="20260623204000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623204000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
   </programme>
   <programme start="20260623000000 -0600" stop="20260623174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
     <title>Próximamente | 17:40 | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
@@ -125536,15 +125497,6 @@
   </programme>
   <programme start="20260623234500 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
     <title>Finalizado | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623000000 -0600" stop="20260623140000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623140000 -0600" stop="20260623170000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623170000 -0600" stop="20260623235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <title>Finalizado | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
   </programme>
   <programme start="20260623000000 -0600" stop="20260623190000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
     <title>Próximamente | 19:00 | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫</title>
