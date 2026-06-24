@@ -125321,15 +125321,6 @@
   <channel id="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
     <display-name>Evento | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫ | 15:07</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫ | 17:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫ | 17:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <display-name>Evento | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫ | 17:40</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
     <display-name>Evento | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫ | 17:40</display-name>
   </channel>
@@ -125363,9 +125354,6 @@
   <channel id="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
     <display-name>Evento | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫ | 20:45</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <display-name>Evento | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫ | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
     <display-name>Evento | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫ | 19:00</display-name>
   </channel>
@@ -125393,9 +125381,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
     <display-name>Evento | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <display-name>Evento | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫ | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
     <display-name>Evento | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫ | 19:30</display-name>
   </channel>
@@ -125413,33 +125398,6 @@
   </programme>
   <programme start="20260624000700" stop="20260624055959" channel="EVENTOS_VIP__Evento_____MLB___Houston_Astros_vs_Toronto_Blue_Jays___HD_____15_07_1">
     <title>Finalizado | ▫ MLB ▫ Houston Astros vs Toronto Blue Jays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623060000" stop="20260623234000" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623234000" stop="20260624024000" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624024000" stop="20260624055959" channel="EVENTOS_VIP__Evento_____MLB___Se_vs_tle_Mariners_vs__Pittsburgh_Pirates___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Se vs tle Mariners vs. Pittsburgh Pirates ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623060000" stop="20260623234000" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623234000" stop="20260624024000" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624024000" stop="20260624055959" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623060000" stop="20260623234000" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>Próximamente | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623234000" stop="20260624024000" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>⌾ En vivo | 17:40 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624024000" stop="20260624055959" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____17_40_1">
-    <title>Finalizado | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
   </programme>
   <programme start="20260623060000" stop="20260623234000" channel="EVENTOS_VIP__Evento_____MLB___New_York_Yankees_vs_Detroit_Tigers___HD_____17_40_1">
     <title>Próximamente | 17:40 | ▫ MLB ▫ New York Yankees vs Detroit Tigers ▫ HD ▫</title>
@@ -125540,15 +125498,6 @@
   <programme start="20260624054500" stop="20260624055959" channel="EVENTOS_VIP__Evento_____MLB___vs_hletics_vs__San_Francisco_Giants___HD_____20_45_1">
     <title>Finalizado | ▫ MLB ▫ vs hletics vs. San Francisco Giants ▫ HD ▫</title>
   </programme>
-  <programme start="20260623060000" stop="20260623200000" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623200000" stop="20260623230000" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623230000" stop="20260624055959" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Saraperos_de_Saltillo___HD_____14_00_1">
-    <title>Finalizado | ▫ LMB ▫ Charros de Jalisco vs Saraperos de Saltillo ▫ HD ▫</title>
-  </programme>
   <programme start="20260623060000" stop="20260624010000" channel="EVENTOS_VIP__Evento_____LMB___Tecolotes_de_los_Dos_Laredos_vs_Algodoneros_de_Uni_n_Laguna___HD_____19_00_1">
     <title>Próximamente | 19:00 | ▫ LMB ▫ Tecolotes de los Dos Laredos vs Algodoneros de Unión Laguna ▫ HD ▫</title>
   </programme>
@@ -125629,15 +125578,6 @@
   </programme>
   <programme start="20260624060000" stop="20260624055959" channel="EVENTOS_VIP__Evento_____LMB___Dorados_de_Chihuahua_vs_Toros_de_Tijuana___HD_____21_00_1">
     <title>Finalizado | ▫ LMB ▫ Dorados de Chihuahua vs Toros de Tijuana ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623060000" stop="20260623200000" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623200000" stop="20260623230000" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
-  </programme>
-  <programme start="20260623230000" stop="20260624055959" channel="EVENTOS_VIP__Evento_____Copa_Chile___Coquimbo_Unido_vs_Deportes_Limache___HD_____14_00_1">
-    <title>Finalizado | ▫ Copa Chile ▫ Coquimbo Unido vs Deportes Limache ▫ HD ▫</title>
   </programme>
   <programme start="20260623060000" stop="20260624013000" channel="EVENTOS_VIP__Evento_____Copa_Chile___Everton_vs_Universidad_Cat_lica___HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ Copa Chile ▫ Everton vs Universidad Católica ▫ HD ▫</title>
