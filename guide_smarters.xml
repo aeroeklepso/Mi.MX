@@ -125087,12 +125087,6 @@
   <channel id="EVENTOS_VIP__Evento_____Copa_Chile____ublense_vs_Universidad_de_Concepci_n___HD_____18_30_1">
     <display-name>Evento | ▫ Copa Chile ▫ Ñublense vs Universidad de Concepción ▫ HD ▫ | 18:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bad_Homburg_Open___T_vs_jana_Maria_vs__Tereza_Valentova__Cuartos_de_Final____HD_____05_00_1">
-    <display-name>Evento | ▫ Bad Homburg Open ▫ T vs jana Maria vs. Tereza Valentova (Cuartos de Final) ▫ HD ▫ | 05:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Mallorca_Championships___Toby_Samuel_vs_Juan_Manuel_Cer_ndolo__Cuartos_de_Final____HD_____04_00_1">
-    <display-name>Evento | ▫ Mallorca Championships ▫ Toby Samuel vs Juan Manuel Cerúndolo (Cuartos de Final) ▫ HD ▫ | 04:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Travelers_Championship___Fe_vs_ured_Groups__Primera_Ronda____HD_____09_30_1">
     <display-name>Evento | ▫ Travelers Championship ▫ Fe vs ured Groups (Primera Ronda) ▫ HD ▫ | 09:30</display-name>
   </channel>
@@ -125105,23 +125099,11 @@
   <channel id="EVENTOS_VIP__Evento_____Travelers_Championship___Fe_vs_ured_Group_1__Primera_Ronda____HD_____14_00_1">
     <display-name>Evento | ▫ Travelers Championship ▫ Fe vs ured Group 1 (Primera Ronda) ▫ HD ▫ | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL___China_vs_B_lgica___HD_____09_30_1">
-    <display-name>Evento | ▫ Men's VNL ▫ China vs Bélgica ▫ HD ▫ | 09:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL___Ucrania_vs_Italia___HD_____09_30_1">
-    <display-name>Evento | ▫ Men's VNL ▫ Ucrania vs Italia ▫ HD ▫ | 09:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL___Ir_n_vs_Estados_Unidos___HD_____09_30_1">
-    <display-name>Evento | ▫ Men's VNL ▫ Irán vs Estados Unidos ▫ HD ▫ | 09:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Men_s_VNL___Polonia_vs_Turqu_a___HD_____10_00_1">
     <display-name>Evento | ▫ Men's VNL ▫ Polonia vs Turquía ▫ HD ▫ | 10:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Men_s_VNL___Eslovenia_vs_Bulgaria___HD_____10_00_1">
     <display-name>Evento | ▫ Men's VNL ▫ Eslovenia vs Bulgaria ▫ HD ▫ | 10:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL___Francia_vs_Cuba___HD_____10_00_1">
-    <display-name>Evento | ▫ Men's VNL ▫ Francia vs Cuba ▫ HD ▫ | 10:00</display-name>
   </channel>
   <programme start="20260625060000" stop="20260625171000" channel="EVENTOS_VIP__Evento_____MLB___Kansas_City_Royals_vs_Tampa_Bay_Rays___HD_____11_10_1">
     <title>Próximamente | 11:10 | ▫ MLB ▫ Kansas City Royals vs Tampa Bay Rays ▫ HD ▫</title>
@@ -125312,24 +125294,6 @@
   <programme start="20260626033000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Copa_Chile____ublense_vs_Universidad_de_Concepci_n___HD_____18_30_1">
     <title>Finalizado | ▫ Copa Chile ▫ Ñublense vs Universidad de Concepción ▫ HD ▫</title>
   </programme>
-  <programme start="20260625060000" stop="20260625110000" channel="EVENTOS_VIP__Evento_____Bad_Homburg_Open___T_vs_jana_Maria_vs__Tereza_Valentova__Cuartos_de_Final____HD_____05_00_1">
-    <title>Próximamente | 05:00 | ▫ Bad Homburg Open ▫ T vs jana Maria vs. Tereza Valentova (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625110000" stop="20260625140000" channel="EVENTOS_VIP__Evento_____Bad_Homburg_Open___T_vs_jana_Maria_vs__Tereza_Valentova__Cuartos_de_Final____HD_____05_00_1">
-    <title>⌾ En vivo | 05:00 | ▫ Bad Homburg Open ▫ T vs jana Maria vs. Tereza Valentova (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625140000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Bad_Homburg_Open___T_vs_jana_Maria_vs__Tereza_Valentova__Cuartos_de_Final____HD_____05_00_1">
-    <title>Finalizado | ▫ Bad Homburg Open ▫ T vs jana Maria vs. Tereza Valentova (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625060000" stop="20260625100000" channel="EVENTOS_VIP__Evento_____Mallorca_Championships___Toby_Samuel_vs_Juan_Manuel_Cer_ndolo__Cuartos_de_Final____HD_____04_00_1">
-    <title>Próximamente | 04:00 | ▫ Mallorca Championships ▫ Toby Samuel vs Juan Manuel Cerúndolo (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625100000" stop="20260625130000" channel="EVENTOS_VIP__Evento_____Mallorca_Championships___Toby_Samuel_vs_Juan_Manuel_Cer_ndolo__Cuartos_de_Final____HD_____04_00_1">
-    <title>⌾ En vivo | 04:00 | ▫ Mallorca Championships ▫ Toby Samuel vs Juan Manuel Cerúndolo (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625130000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Mallorca_Championships___Toby_Samuel_vs_Juan_Manuel_Cer_ndolo__Cuartos_de_Final____HD_____04_00_1">
-    <title>Finalizado | ▫ Mallorca Championships ▫ Toby Samuel vs Juan Manuel Cerúndolo (Cuartos de Final) ▫ HD ▫</title>
-  </programme>
   <programme start="20260625060000" stop="20260625153000" channel="EVENTOS_VIP__Evento_____Travelers_Championship___Fe_vs_ured_Groups__Primera_Ronda____HD_____09_30_1">
     <title>Próximamente | 09:30 | ▫ Travelers Championship ▫ Fe vs ured Groups (Primera Ronda) ▫ HD ▫</title>
   </programme>
@@ -125366,33 +125330,6 @@
   <programme start="20260625230000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Travelers_Championship___Fe_vs_ured_Group_1__Primera_Ronda____HD_____14_00_1">
     <title>Finalizado | ▫ Travelers Championship ▫ Fe vs ured Group 1 (Primera Ronda) ▫ HD ▫</title>
   </programme>
-  <programme start="20260625060000" stop="20260625153000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___China_vs_B_lgica___HD_____09_30_1">
-    <title>Próximamente | 09:30 | ▫ Men's VNL ▫ China vs Bélgica ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625153000" stop="20260625183000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___China_vs_B_lgica___HD_____09_30_1">
-    <title>⌾ En vivo | 09:30 | ▫ Men's VNL ▫ China vs Bélgica ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625183000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Men_s_VNL___China_vs_B_lgica___HD_____09_30_1">
-    <title>Finalizado | ▫ Men's VNL ▫ China vs Bélgica ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625060000" stop="20260625153000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Ucrania_vs_Italia___HD_____09_30_1">
-    <title>Próximamente | 09:30 | ▫ Men's VNL ▫ Ucrania vs Italia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625153000" stop="20260625183000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Ucrania_vs_Italia___HD_____09_30_1">
-    <title>⌾ En vivo | 09:30 | ▫ Men's VNL ▫ Ucrania vs Italia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625183000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Ucrania_vs_Italia___HD_____09_30_1">
-    <title>Finalizado | ▫ Men's VNL ▫ Ucrania vs Italia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625060000" stop="20260625153000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Ir_n_vs_Estados_Unidos___HD_____09_30_1">
-    <title>Próximamente | 09:30 | ▫ Men's VNL ▫ Irán vs Estados Unidos ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625153000" stop="20260625183000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Ir_n_vs_Estados_Unidos___HD_____09_30_1">
-    <title>⌾ En vivo | 09:30 | ▫ Men's VNL ▫ Irán vs Estados Unidos ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625183000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Ir_n_vs_Estados_Unidos___HD_____09_30_1">
-    <title>Finalizado | ▫ Men's VNL ▫ Irán vs Estados Unidos ▫ HD ▫</title>
-  </programme>
   <programme start="20260625060000" stop="20260625160000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Polonia_vs_Turqu_a___HD_____10_00_1">
     <title>Próximamente | 10:00 | ▫ Men's VNL ▫ Polonia vs Turquía ▫ HD ▫</title>
   </programme>
@@ -125410,15 +125347,6 @@
   </programme>
   <programme start="20260625190000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Eslovenia_vs_Bulgaria___HD_____10_00_1">
     <title>Finalizado | ▫ Men's VNL ▫ Eslovenia vs Bulgaria ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625060000" stop="20260625160000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Francia_vs_Cuba___HD_____10_00_1">
-    <title>Próximamente | 10:00 | ▫ Men's VNL ▫ Francia vs Cuba ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625160000" stop="20260625190000" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Francia_vs_Cuba___HD_____10_00_1">
-    <title>⌾ En vivo | 10:00 | ▫ Men's VNL ▫ Francia vs Cuba ▫ HD ▫</title>
-  </programme>
-  <programme start="20260625190000" stop="20260626055959" channel="EVENTOS_VIP__Evento_____Men_s_VNL___Francia_vs_Cuba___HD_____10_00_1">
-    <title>Finalizado | ▫ Men's VNL ▫ Francia vs Cuba ▫ HD ▫</title>
   </programme>
 </tv>
 
