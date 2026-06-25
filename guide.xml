@@ -125114,30 +125114,6 @@
   <channel id="EVENTOS_VIP__Evento_____USL_League_One___Spokane_Velocity_FC_vs_Westchester_SC___HD_____20_00_1">
     <display-name>Evento | ▫ USL League One ▫ Spokane Velocity FC vs Westchester SC ▫ HD ▫ | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Bulgaria_vs_Italia___HD_____06_00_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Bulgaria vs Italia ▫ HD ▫ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Serbia_vs_Jap_n___HD_____06_00_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Serbia vs Japón ▫ HD ▫ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Ucrania_vs_Brasil___HD_____06_00_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Ucrania vs Brasil ▫ HD ▫ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Argentina_vs_Alemania___HD_____09_30_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Argentina vs Alemania ▫ HD ▫ | 09:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Cuba_vs_Estados_Unidos___HD_____10_00_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Cuba vs Estados Unidos ▫ HD ▫ | 10:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Polonia_vs_B_lgica___HD_____13_00_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Polonia vs Bélgica ▫ HD ▫ | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Eslovenia_vs_Canad____HD_____13_30_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Eslovenia vs Canadá ▫ HD ▫ | 13:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Francia_vs_Ir_n___HD_____13_30_1">
-    <display-name>Evento | ▫ Men's VNL 2026 ▫ Francia vs Irán ▫ HD ▫ | 13:30</display-name>
-  </channel>
   <programme start="20260624000000 -0600" stop="20260624111000 -0600" channel="EVENTOS_VIP__Evento_____MLB___Texas_Rangers_vs_Miami_Marlins___HD_____11_10_1">
     <title>Próximamente | 11:10 | ▫ MLB ▫ Texas Rangers vs Miami Marlins ▫ HD ▫</title>
   </programme>
@@ -125407,78 +125383,6 @@
   </programme>
   <programme start="20260624230000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____USL_League_One___Spokane_Velocity_FC_vs_Westchester_SC___HD_____20_00_1">
     <title>Finalizado | ▫ USL League One ▫ Spokane Velocity FC vs Westchester SC ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624060000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Bulgaria_vs_Italia___HD_____06_00_1">
-    <title>Próximamente | 06:00 | ▫ Men's VNL 2026 ▫ Bulgaria vs Italia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624060000 -0600" stop="20260624090000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Bulgaria_vs_Italia___HD_____06_00_1">
-    <title>⌾ En vivo | 06:00 | ▫ Men's VNL 2026 ▫ Bulgaria vs Italia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624090000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Bulgaria_vs_Italia___HD_____06_00_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Bulgaria vs Italia ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624060000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Serbia_vs_Jap_n___HD_____06_00_1">
-    <title>Próximamente | 06:00 | ▫ Men's VNL 2026 ▫ Serbia vs Japón ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624060000 -0600" stop="20260624090000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Serbia_vs_Jap_n___HD_____06_00_1">
-    <title>⌾ En vivo | 06:00 | ▫ Men's VNL 2026 ▫ Serbia vs Japón ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624090000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Serbia_vs_Jap_n___HD_____06_00_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Serbia vs Japón ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624060000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Ucrania_vs_Brasil___HD_____06_00_1">
-    <title>Próximamente | 06:00 | ▫ Men's VNL 2026 ▫ Ucrania vs Brasil ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624060000 -0600" stop="20260624090000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Ucrania_vs_Brasil___HD_____06_00_1">
-    <title>⌾ En vivo | 06:00 | ▫ Men's VNL 2026 ▫ Ucrania vs Brasil ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624090000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Ucrania_vs_Brasil___HD_____06_00_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Ucrania vs Brasil ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624093000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Argentina_vs_Alemania___HD_____09_30_1">
-    <title>Próximamente | 09:30 | ▫ Men's VNL 2026 ▫ Argentina vs Alemania ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624093000 -0600" stop="20260624123000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Argentina_vs_Alemania___HD_____09_30_1">
-    <title>⌾ En vivo | 09:30 | ▫ Men's VNL 2026 ▫ Argentina vs Alemania ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624123000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Argentina_vs_Alemania___HD_____09_30_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Argentina vs Alemania ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624100000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Cuba_vs_Estados_Unidos___HD_____10_00_1">
-    <title>Próximamente | 10:00 | ▫ Men's VNL 2026 ▫ Cuba vs Estados Unidos ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624100000 -0600" stop="20260624130000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Cuba_vs_Estados_Unidos___HD_____10_00_1">
-    <title>⌾ En vivo | 10:00 | ▫ Men's VNL 2026 ▫ Cuba vs Estados Unidos ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624130000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Cuba_vs_Estados_Unidos___HD_____10_00_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Cuba vs Estados Unidos ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624130000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Polonia_vs_B_lgica___HD_____13_00_1">
-    <title>Próximamente | 13:00 | ▫ Men's VNL 2026 ▫ Polonia vs Bélgica ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624130000 -0600" stop="20260624160000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Polonia_vs_B_lgica___HD_____13_00_1">
-    <title>⌾ En vivo | 13:00 | ▫ Men's VNL 2026 ▫ Polonia vs Bélgica ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624160000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Polonia_vs_B_lgica___HD_____13_00_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Polonia vs Bélgica ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624133000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Eslovenia_vs_Canad____HD_____13_30_1">
-    <title>Próximamente | 13:30 | ▫ Men's VNL 2026 ▫ Eslovenia vs Canadá ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624133000 -0600" stop="20260624163000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Eslovenia_vs_Canad____HD_____13_30_1">
-    <title>⌾ En vivo | 13:30 | ▫ Men's VNL 2026 ▫ Eslovenia vs Canadá ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624163000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Eslovenia_vs_Canad____HD_____13_30_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Eslovenia vs Canadá ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624000000 -0600" stop="20260624133000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Francia_vs_Ir_n___HD_____13_30_1">
-    <title>Próximamente | 13:30 | ▫ Men's VNL 2026 ▫ Francia vs Irán ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624133000 -0600" stop="20260624163000 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Francia_vs_Ir_n___HD_____13_30_1">
-    <title>⌾ En vivo | 13:30 | ▫ Men's VNL 2026 ▫ Francia vs Irán ▫ HD ▫</title>
-  </programme>
-  <programme start="20260624163000 -0600" stop="20260624235959 -0600" channel="EVENTOS_VIP__Evento_____Men_s_VNL_2026___Francia_vs_Ir_n___HD_____13_30_1">
-    <title>Finalizado | ▫ Men's VNL 2026 ▫ Francia vs Irán ▫ HD ▫</title>
   </programme>
 </tv>
 
