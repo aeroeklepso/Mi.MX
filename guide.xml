@@ -125630,9 +125630,6 @@
   <channel id="EVENTOS_VIP__Evento_____Boxing___Padraig_McCrory_vs_Ondrej_Budera___HD_____13_00_1">
     <display-name>Evento | ▫ Boxing ▫ Padraig McCrory vs Ondrej Budera ▫ HD ▫ | 13:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_P___Nuno_Borges_vs__Ethan_Quinn__Semifinals____HD_____06_00_1">
-    <display-name>Evento | ▫ vs P ▫ Nuno Borges vs. Ethan Quinn (Semifinals) ▫ HD ▫ | 06:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____vs_P___Fabian_Marozsan_vs__Alejandro_Davidovich_Fokina__Semifinal____HD_____10_30_1">
     <display-name>Evento | ▫ vs P ▫ Fabian Marozsan vs. Alejandro Davidovich Fokina (Semifinal) ▫ HD ▫ | 10:30</display-name>
   </channel>
@@ -125818,15 +125815,6 @@
   </programme>
   <programme start="20260626160000 -0600" stop="20260626235959 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Padraig_McCrory_vs_Ondrej_Budera___HD_____13_00_1">
     <title>Finalizado | ▫ Boxing ▫ Padraig McCrory vs Ondrej Budera ▫ HD ▫</title>
-  </programme>
-  <programme start="20260626000000 -0600" stop="20260626060000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Nuno_Borges_vs__Ethan_Quinn__Semifinals____HD_____06_00_1">
-    <title>Próximamente | 06:00 | ▫ vs P ▫ Nuno Borges vs. Ethan Quinn (Semifinals) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260626060000 -0600" stop="20260626090000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Nuno_Borges_vs__Ethan_Quinn__Semifinals____HD_____06_00_1">
-    <title>⌾ En vivo | 06:00 | ▫ vs P ▫ Nuno Borges vs. Ethan Quinn (Semifinals) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260626090000 -0600" stop="20260626235959 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Nuno_Borges_vs__Ethan_Quinn__Semifinals____HD_____06_00_1">
-    <title>Finalizado | ▫ vs P ▫ Nuno Borges vs. Ethan Quinn (Semifinals) ▫ HD ▫</title>
   </programme>
   <programme start="20260626000000 -0600" stop="20260626103000 -0600" channel="EVENTOS_VIP__Evento_____vs_P___Fabian_Marozsan_vs__Alejandro_Davidovich_Fokina__Semifinal____HD_____10_30_1">
     <title>Próximamente | 10:30 | ▫ vs P ▫ Fabian Marozsan vs. Alejandro Davidovich Fokina (Semifinal) ▫ HD ▫</title>
