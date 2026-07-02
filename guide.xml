@@ -127238,9 +127238,6 @@
   <channel id="EVENTOS_VIP__Evento_____Copa_Chile___Universidad_Chile_vs_Uni_n_La_Calera___HD_____19_30_1">
     <display-name>Evento | ▫ Copa Chile ▫ Universidad Chile vs Unión La Calera ▫ HD ▫ | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____USL_League_One___Charlotte_Independence_vs_Corpus_Christi_FC___HD_____16_30_1">
-    <display-name>Evento | ▫ USL League One ▫ Charlotte Independence vs Corpus Christi FC ▫ HD ▫ | 16:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____USL_League_One___Ch_vs_tanooga_Red_Wolves_SC_vs__Westchester_SC___HD_____18_00_1">
     <display-name>Evento | ▫ USL League One ▫ Ch vs tanooga Red Wolves SC vs. Westchester SC ▫ HD ▫ | 18:00</display-name>
   </channel>
@@ -127483,15 +127480,6 @@
   </programme>
   <programme start="20260701223000 -0600" stop="20260701235959 -0600" channel="EVENTOS_VIP__Evento_____Copa_Chile___Universidad_Chile_vs_Uni_n_La_Calera___HD_____19_30_1">
     <title>Finalizado | ▫ Copa Chile ▫ Universidad Chile vs Unión La Calera ▫ HD ▫</title>
-  </programme>
-  <programme start="20260701000000 -0600" stop="20260701163000 -0600" channel="EVENTOS_VIP__Evento_____USL_League_One___Charlotte_Independence_vs_Corpus_Christi_FC___HD_____16_30_1">
-    <title>Próximamente | 16:30 | ▫ USL League One ▫ Charlotte Independence vs Corpus Christi FC ▫ HD ▫</title>
-  </programme>
-  <programme start="20260701163000 -0600" stop="20260701193000 -0600" channel="EVENTOS_VIP__Evento_____USL_League_One___Charlotte_Independence_vs_Corpus_Christi_FC___HD_____16_30_1">
-    <title>⌾ En vivo | 16:30 | ▫ USL League One ▫ Charlotte Independence vs Corpus Christi FC ▫ HD ▫</title>
-  </programme>
-  <programme start="20260701193000 -0600" stop="20260701235959 -0600" channel="EVENTOS_VIP__Evento_____USL_League_One___Charlotte_Independence_vs_Corpus_Christi_FC___HD_____16_30_1">
-    <title>Finalizado | ▫ USL League One ▫ Charlotte Independence vs Corpus Christi FC ▫ HD ▫</title>
   </programme>
   <programme start="20260701000000 -0600" stop="20260701180000 -0600" channel="EVENTOS_VIP__Evento_____USL_League_One___Ch_vs_tanooga_Red_Wolves_SC_vs__Westchester_SC___HD_____18_00_1">
     <title>Próximamente | 18:00 | ▫ USL League One ▫ Ch vs tanooga Red Wolves SC vs. Westchester SC ▫ HD ▫</title>
