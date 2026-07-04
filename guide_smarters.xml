@@ -122366,9 +122366,6 @@
     <desc>Veinte concursantes llegan a un castillo en Escocia, para jugar el máximo juego de misterio y asesinatos. ¿Quién ganará el gran premio?</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____MLB___St__Louis_Cardinals_vs_Chicago_Cubs___HD_____15_05_1">
-    <display-name>Evento | ▫ MLB ▫ St. Louis Cardinals vs Chicago Cubs ▫ HD ▫ | 15:05</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____17_45_1">
     <display-name>Evento | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫ | 17:45</display-name>
   </channel>
@@ -122492,15 +122489,9 @@
   <channel id="EVENTOS_VIP__Evento_____USL_League_One___Sarasota_Paradise_vs_Richmond_Kickers___HD_____19_00_1">
     <display-name>Evento | ▫ USL League One ▫ Sarasota Paradise vs Richmond Kickers ▫ HD ▫ | 19:00</display-name>
   </channel>
-  <programme start="20260703060000" stop="20260703210500" channel="EVENTOS_VIP__Evento_____MLB___St__Louis_Cardinals_vs_Chicago_Cubs___HD_____15_05_1">
-    <title>Próximamente | 15:05 | ▫ MLB ▫ St. Louis Cardinals vs Chicago Cubs ▫ HD ▫</title>
-  </programme>
-  <programme start="20260703210500" stop="20260704000500" channel="EVENTOS_VIP__Evento_____MLB___St__Louis_Cardinals_vs_Chicago_Cubs___HD_____15_05_1">
-    <title>⌾ En vivo | 15:05 | ▫ MLB ▫ St. Louis Cardinals vs Chicago Cubs ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000500" stop="20260704055959" channel="EVENTOS_VIP__Evento_____MLB___St__Louis_Cardinals_vs_Chicago_Cubs___HD_____15_05_1">
-    <title>Finalizado | ▫ MLB ▫ St. Louis Cardinals vs Chicago Cubs ▫ HD ▫</title>
-  </programme>
+  <channel id="EVENTOS_VIP__Evento_____Basket___Clasif_Mundial_Dominican_Republic_vs_United_States___19_00_1">
+    <display-name>Evento | - Basket - Clasif Mundial Dominican Republic vs United States | 19:00</display-name>
+  </channel>
   <programme start="20260703060000" stop="20260703234500" channel="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____17_45_1">
     <title>Próximamente | 17:45 | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫</title>
   </programme>
@@ -122869,6 +122860,15 @@
   </programme>
   <programme start="20260704040000" stop="20260704055959" channel="EVENTOS_VIP__Evento_____USL_League_One___Sarasota_Paradise_vs_Richmond_Kickers___HD_____19_00_1">
     <title>Finalizado | ▫ USL League One ▫ Sarasota Paradise vs Richmond Kickers ▫ HD ▫</title>
+  </programme>
+  <programme start="20260703060000" stop="20260704010000" channel="EVENTOS_VIP__Evento_____Basket___Clasif_Mundial_Dominican_Republic_vs_United_States___19_00_1">
+    <title>Próximamente | 19:00 | - Basket - Clasif Mundial Dominican Republic vs United States</title>
+  </programme>
+  <programme start="20260704010000" stop="20260704040000" channel="EVENTOS_VIP__Evento_____Basket___Clasif_Mundial_Dominican_Republic_vs_United_States___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Basket - Clasif Mundial Dominican Republic vs United States</title>
+  </programme>
+  <programme start="20260704040000" stop="20260704055959" channel="EVENTOS_VIP__Evento_____Basket___Clasif_Mundial_Dominican_Republic_vs_United_States___19_00_1">
+    <title>Finalizado | - Basket - Clasif Mundial Dominican Republic vs United States</title>
   </programme>
 </tv>
 
