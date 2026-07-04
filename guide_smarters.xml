@@ -122555,6 +122555,12 @@
   <channel id="EVENTOS_VIP__Evento_____USL_Championship___Las_Vegas_Lights_FC_vs_El_Paso_Locomotive_FC___HD_____23_30_1">
     <display-name>Evento | ▫ USL Championship ▫ Las Vegas Lights FC vs El Paso Locomotive FC ▫ HD ▫ | 23:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___12_00_1">
+    <display-name>Evento | - Serie A Ecuador - Libertad vs Leones del Norte | 12:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
+    <display-name>Evento | - Serie A de Ecuador - Barcelona vs D. Cuenca | 19:00</display-name>
+  </channel>
   <programme start="20260704060000" stop="20260704160500" channel="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____10_05_1">
     <title>Próximamente | 10:05 | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫</title>
   </programme>
@@ -123121,6 +123127,24 @@
   </programme>
   <programme start="20260705083000" stop="20260705055959" channel="EVENTOS_VIP__Evento_____USL_Championship___Las_Vegas_Lights_FC_vs_El_Paso_Locomotive_FC___HD_____23_30_1">
     <title>Finalizado | ▫ USL Championship ▫ Las Vegas Lights FC vs El Paso Locomotive FC ▫ HD ▫</title>
+  </programme>
+  <programme start="20260704060000" stop="20260704180000" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___12_00_1">
+    <title>Próximamente | 12:00 | - Serie A Ecuador - Libertad vs Leones del Norte</title>
+  </programme>
+  <programme start="20260704180000" stop="20260704210000" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___12_00_1">
+    <title>⌾ En vivo | 12:00 | - Serie A Ecuador - Libertad vs Leones del Norte</title>
+  </programme>
+  <programme start="20260704210000" stop="20260705055959" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___12_00_1">
+    <title>Finalizado | - Serie A Ecuador - Libertad vs Leones del Norte</title>
+  </programme>
+  <programme start="20260704060000" stop="20260705010000" channel="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
+    <title>Próximamente | 19:00 | - Serie A de Ecuador - Barcelona vs D. Cuenca</title>
+  </programme>
+  <programme start="20260705010000" stop="20260705040000" channel="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Serie A de Ecuador - Barcelona vs D. Cuenca</title>
+  </programme>
+  <programme start="20260705040000" stop="20260705055959" channel="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
+    <title>Finalizado | - Serie A de Ecuador - Barcelona vs D. Cuenca</title>
   </programme>
 </tv>
 
