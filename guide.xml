@@ -121100,12 +121100,6 @@
     <desc>El próximo asesinato sorprende a todos los participantes. Mientras un jugador es desterrado, otro hace un drástico descubrimiento. Las campanas suenan para ganar dinero para el pozo de los premios.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____10_05_1">
-    <display-name>Evento | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫ | 10:05</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_New_York_Yankees___HD_____12_35_1">
-    <display-name>Evento | ▫ MLB ▫ Minnesota Twins vs New York Yankees ▫ HD ▫ | 12:35</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____MLB___Detroit_Tigers_vs_Texas_Rangers___HD_____15_05_1">
     <display-name>Evento | ▫ MLB ▫ Detroit Tigers vs Texas Rangers ▫ HD ▫ | 15:05</display-name>
   </channel>
@@ -121148,9 +121142,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Dorados_de_Chihuahua___HD_____15_00_1">
     <display-name>Evento | ▫ LMB ▫ Charros de Jalisco vs Dorados de Chihuahua ▫ HD ▫ | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Dorados_de_Chihuahua___HD_____15_05_1">
-    <display-name>Evento | ▫ LMB ▫ Charros de Jalisco vs Dorados de Chihuahua ▫ HD ▫ | 15:05</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____LMB___Diablos_Rojos_del_M_xico_vs_Piratas_de_Campeche___HD_____17_00_1">
     <display-name>Evento | ▫ LMB ▫ Diablos Rojos del México vs Piratas de Campeche ▫ HD ▫ | 17:00</display-name>
   </channel>
@@ -121181,26 +121172,14 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Toros_de_Tijuana_vs_Caliente_de_Durango___HD_____20_10_1">
     <display-name>Evento | ▫ LMB ▫ Toros de Tijuana vs Caliente de Durango ▫ HD ▫ | 20:10</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____NBA_Summer_League___Memphis_Grizzlies_vs_Oklahoma_City_Thunder___HD_____14_00_1">
-    <display-name>Evento | ▫ NBA Summer League ▫ Memphis Grizzlies vs Oklahoma City Thunder ▫ HD ▫ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____NBA_Summer_League___Milwaukee_Bucks_vs_Golden_State_Warriors___HD_____14_00_1">
-    <display-name>Evento | ▫ NBA Summer League ▫ Milwaukee Bucks vs Golden State Warriors ▫ HD ▫ | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____NBA_Summer_League___vs_lanta_Hawks_vs__Utah_Jazz___HD_____16_00_1">
     <display-name>Evento | ▫ NBA Summer League ▫ vs lanta Hawks vs. Utah Jazz ▫ HD ▫ | 16:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____NBA_Summer_League___Brooklyn_Nets_vs_Sacramento_Kings___HD_____16_00_1">
     <display-name>Evento | ▫ NBA Summer League ▫ Brooklyn Nets vs Sacramento Kings ▫ HD ▫ | 16:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____WNBA___Golden_St_vs_e_Valkyries_vs__Atlanta_Dream___HD_____12_00_1">
-    <display-name>Evento | ▫ WNBA ▫ Golden St vs e Valkyries vs. Atlanta Dream ▫ HD ▫ | 12:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____WNBA___Portland_Fire_vs_Seattle_Storm___HD_____20_00_1">
     <display-name>Evento | ▫ WNBA ▫ Portland Fire vs Seattle Storm ▫ HD ▫ | 20:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____MMA___Toby_Tsang_vs_Mashin_Machine___HD_____02_15_1">
-    <display-name>Evento | ▫ MMA ▫ Toby Tsang vs Mashin Machine ▫ HD ▫ | 02:15</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Boxing___Abdullah_Mason_vs_Albert_Bell___HD_____18_00_1">
     <display-name>Evento | ▫ Boxing ▫ Abdullah Mason vs Albert Bell ▫ HD ▫ | 18:00</display-name>
@@ -121208,17 +121187,8 @@
   <channel id="EVENTOS_VIP__Evento_____Boxing___Albert_Bell_vs_Abdullah_Mason___HD_____21_00_1">
     <display-name>Evento | ▫ Boxing ▫ Albert Bell vs Abdullah Mason ▫ HD ▫ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Rentistas_vs_Paysand____HD_____13_45_1">
-    <display-name>Evento | ▫ Segunda División ▫ Rentistas vs Paysandú ▫ HD ▫ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Plaza_Colonia_vs_La_Luz___HD_____16_45_1">
-    <display-name>Evento | ▫ Segunda División ▫ Plaza Colonia vs La Luz ▫ HD ▫ | 16:45</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Oriental_vs_River_Plate_Uruguay___HD_____19_30_1">
     <display-name>Evento | ▫ Segunda División ▫ Oriental vs River Plate Uruguay ▫ HD ▫ | 19:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___HD_____14_00_1">
-    <display-name>Evento | ▫ Serie A Ecuador ▫ Libertad vs Leones del Norte ▫ HD ▫ | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Barcelona_vs_Deportivo_Cuenca___HD_____19_00_1">
     <display-name>Evento | ▫ Serie A Ecuador ▫ Barcelona vs Deportivo Cuenca ▫ HD ▫ | 19:00</display-name>
@@ -121234,27 +121204,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Primera_Divisi_n_Chile___Universidad_C_vs__lica_vs__Copiap____HD_____19_30_1">
     <display-name>Evento | ▫ Primera División Chile ▫ Universidad C vs ólica vs. Copiapó ▫ HD ▫ | 19:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Wimbledon___A__De_Minaur_vs_Z__Svajda__En_espa_ol____HD_____07_00_1">
-    <display-name>Evento | ▫ Wimbledon ▫ A. De Minaur vs Z. Svajda (En español) ▫ HD ▫ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Holes__3__12__14____16__Tercera_Ronda____HD_____09_15_1">
-    <display-name>Evento | ▫ John Deere Classic ▫ Fe vs ured Holes #3 #12 #14 &amp; #16 (Tercera Ronda) ▫ HD ▫ | 09:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Groups__Tercera_Ronda____HD_____09_30_1">
-    <display-name>Evento | ▫ John Deere Classic ▫ Fe vs ured Groups (Tercera Ronda) ▫ HD ▫ | 09:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_2__Tercera_Ronda____HD_____09_45_1">
-    <display-name>Evento | ▫ John Deere Classic ▫ Fe vs ured Group 2 (Tercera Ronda) ▫ HD ▫ | 09:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_1__Tercera_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ John Deere Classic ▫ Fe vs ured Group 1 (Tercera Ronda) ▫ HD ▫ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__14__Tercera_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ John Deere Classic ▫ Fe vs ured Hole #14 (Tercera Ronda) ▫ HD ▫ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__16__Tercera_Ronda____HD_____14_00_1">
-    <display-name>Evento | ▫ John Deere Classic ▫ Fe vs ured Hole #16 (Tercera Ronda) ▫ HD ▫ | 14:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____USL_Championship___Pittsburgh_Riverhounds_SC_vs_Brooklyn_FC___HD_____20_00_1">
     <display-name>Evento | ▫ USL Championship ▫ Pittsburgh Riverhounds SC vs Brooklyn FC ▫ HD ▫ | 20:00</display-name>
@@ -121289,27 +121238,6 @@
   <channel id="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___12_00_1">
     <display-name>Evento | - Serie A Ecuador - Libertad vs Leones del Norte | 12:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
-    <display-name>Evento | - Serie A de Ecuador - Barcelona vs D. Cuenca | 19:00</display-name>
-  </channel>
-  <programme start="20260704000000 -0600" stop="20260704100500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____10_05_1">
-    <title>Próximamente | 10:05 | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704100500 -0600" stop="20260704130500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____10_05_1">
-    <title>⌾ En vivo | 10:05 | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704130500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Pittsburgh_Pir_vs_es_vs__Washington_Nationals___HD_____10_05_1">
-    <title>Finalizado | ▫ MLB ▫ Pittsburgh Pir vs es vs. Washington Nationals ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704123500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_New_York_Yankees___HD_____12_35_1">
-    <title>Próximamente | 12:35 | ▫ MLB ▫ Minnesota Twins vs New York Yankees ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704123500 -0600" stop="20260704153500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_New_York_Yankees___HD_____12_35_1">
-    <title>⌾ En vivo | 12:35 | ▫ MLB ▫ Minnesota Twins vs New York Yankees ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704153500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____MLB___Minnesota_Twins_vs_New_York_Yankees___HD_____12_35_1">
-    <title>Finalizado | ▫ MLB ▫ Minnesota Twins vs New York Yankees ▫ HD ▫</title>
-  </programme>
   <programme start="20260704000000 -0600" stop="20260704150500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Detroit_Tigers_vs_Texas_Rangers___HD_____15_05_1">
     <title>Próximamente | 15:05 | ▫ MLB ▫ Detroit Tigers vs Texas Rangers ▫ HD ▫</title>
   </programme>
@@ -121436,15 +121364,6 @@
   <programme start="20260704180000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Dorados_de_Chihuahua___HD_____15_00_1">
     <title>Finalizado | ▫ LMB ▫ Charros de Jalisco vs Dorados de Chihuahua ▫ HD ▫</title>
   </programme>
-  <programme start="20260704000000 -0600" stop="20260704150500 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Dorados_de_Chihuahua___HD_____15_05_1">
-    <title>Próximamente | 15:05 | ▫ LMB ▫ Charros de Jalisco vs Dorados de Chihuahua ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704150500 -0600" stop="20260704180500 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Dorados_de_Chihuahua___HD_____15_05_1">
-    <title>⌾ En vivo | 15:05 | ▫ LMB ▫ Charros de Jalisco vs Dorados de Chihuahua ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704180500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Charros_de_Jalisco_vs_Dorados_de_Chihuahua___HD_____15_05_1">
-    <title>Finalizado | ▫ LMB ▫ Charros de Jalisco vs Dorados de Chihuahua ▫ HD ▫</title>
-  </programme>
   <programme start="20260704000000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____LMB___Diablos_Rojos_del_M_xico_vs_Piratas_de_Campeche___HD_____17_00_1">
     <title>Próximamente | 17:00 | ▫ LMB ▫ Diablos Rojos del México vs Piratas de Campeche ▫ HD ▫</title>
   </programme>
@@ -121535,24 +121454,6 @@
   <programme start="20260704231000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Toros_de_Tijuana_vs_Caliente_de_Durango___HD_____20_10_1">
     <title>Finalizado | ▫ LMB ▫ Toros de Tijuana vs Caliente de Durango ▫ HD ▫</title>
   </programme>
-  <programme start="20260704000000 -0600" stop="20260704140000 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Memphis_Grizzlies_vs_Oklahoma_City_Thunder___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ NBA Summer League ▫ Memphis Grizzlies vs Oklahoma City Thunder ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704140000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Memphis_Grizzlies_vs_Oklahoma_City_Thunder___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ NBA Summer League ▫ Memphis Grizzlies vs Oklahoma City Thunder ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704170000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Memphis_Grizzlies_vs_Oklahoma_City_Thunder___HD_____14_00_1">
-    <title>Finalizado | ▫ NBA Summer League ▫ Memphis Grizzlies vs Oklahoma City Thunder ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704140000 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Milwaukee_Bucks_vs_Golden_State_Warriors___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ NBA Summer League ▫ Milwaukee Bucks vs Golden State Warriors ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704140000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Milwaukee_Bucks_vs_Golden_State_Warriors___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ NBA Summer League ▫ Milwaukee Bucks vs Golden State Warriors ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704170000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Milwaukee_Bucks_vs_Golden_State_Warriors___HD_____14_00_1">
-    <title>Finalizado | ▫ NBA Summer League ▫ Milwaukee Bucks vs Golden State Warriors ▫ HD ▫</title>
-  </programme>
   <programme start="20260704000000 -0600" stop="20260704160000 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___vs_lanta_Hawks_vs__Utah_Jazz___HD_____16_00_1">
     <title>Próximamente | 16:00 | ▫ NBA Summer League ▫ vs lanta Hawks vs. Utah Jazz ▫ HD ▫</title>
   </programme>
@@ -121571,15 +121472,6 @@
   <programme start="20260704190000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___Brooklyn_Nets_vs_Sacramento_Kings___HD_____16_00_1">
     <title>Finalizado | ▫ NBA Summer League ▫ Brooklyn Nets vs Sacramento Kings ▫ HD ▫</title>
   </programme>
-  <programme start="20260704000000 -0600" stop="20260704120000 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Golden_St_vs_e_Valkyries_vs__Atlanta_Dream___HD_____12_00_1">
-    <title>Próximamente | 12:00 | ▫ WNBA ▫ Golden St vs e Valkyries vs. Atlanta Dream ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704120000 -0600" stop="20260704150000 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Golden_St_vs_e_Valkyries_vs__Atlanta_Dream___HD_____12_00_1">
-    <title>⌾ En vivo | 12:00 | ▫ WNBA ▫ Golden St vs e Valkyries vs. Atlanta Dream ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704150000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Golden_St_vs_e_Valkyries_vs__Atlanta_Dream___HD_____12_00_1">
-    <title>Finalizado | ▫ WNBA ▫ Golden St vs e Valkyries vs. Atlanta Dream ▫ HD ▫</title>
-  </programme>
   <programme start="20260704000000 -0600" stop="20260704200000 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Portland_Fire_vs_Seattle_Storm___HD_____20_00_1">
     <title>Próximamente | 20:00 | ▫ WNBA ▫ Portland Fire vs Seattle Storm ▫ HD ▫</title>
   </programme>
@@ -121588,15 +121480,6 @@
   </programme>
   <programme start="20260704230000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____WNBA___Portland_Fire_vs_Seattle_Storm___HD_____20_00_1">
     <title>Finalizado | ▫ WNBA ▫ Portland Fire vs Seattle Storm ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704021500 -0600" channel="EVENTOS_VIP__Evento_____MMA___Toby_Tsang_vs_Mashin_Machine___HD_____02_15_1">
-    <title>Próximamente | 02:15 | ▫ MMA ▫ Toby Tsang vs Mashin Machine ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704021500 -0600" stop="20260704051500 -0600" channel="EVENTOS_VIP__Evento_____MMA___Toby_Tsang_vs_Mashin_Machine___HD_____02_15_1">
-    <title>⌾ En vivo | 02:15 | ▫ MMA ▫ Toby Tsang vs Mashin Machine ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704051500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____MMA___Toby_Tsang_vs_Mashin_Machine___HD_____02_15_1">
-    <title>Finalizado | ▫ MMA ▫ Toby Tsang vs Mashin Machine ▫ HD ▫</title>
   </programme>
   <programme start="20260704000000 -0600" stop="20260704180000 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Abdullah_Mason_vs_Albert_Bell___HD_____18_00_1">
     <title>Próximamente | 18:00 | ▫ Boxing ▫ Abdullah Mason vs Albert Bell ▫ HD ▫</title>
@@ -121616,24 +121499,6 @@
   <programme start="20260705000000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Boxing___Albert_Bell_vs_Abdullah_Mason___HD_____21_00_1">
     <title>Finalizado | ▫ Boxing ▫ Albert Bell vs Abdullah Mason ▫ HD ▫</title>
   </programme>
-  <programme start="20260704000000 -0600" stop="20260704134500 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Rentistas_vs_Paysand____HD_____13_45_1">
-    <title>Próximamente | 13:45 | ▫ Segunda División ▫ Rentistas vs Paysandú ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704134500 -0600" stop="20260704164500 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Rentistas_vs_Paysand____HD_____13_45_1">
-    <title>⌾ En vivo | 13:45 | ▫ Segunda División ▫ Rentistas vs Paysandú ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704164500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Rentistas_vs_Paysand____HD_____13_45_1">
-    <title>Finalizado | ▫ Segunda División ▫ Rentistas vs Paysandú ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704164500 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Plaza_Colonia_vs_La_Luz___HD_____16_45_1">
-    <title>Próximamente | 16:45 | ▫ Segunda División ▫ Plaza Colonia vs La Luz ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704164500 -0600" stop="20260704194500 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Plaza_Colonia_vs_La_Luz___HD_____16_45_1">
-    <title>⌾ En vivo | 16:45 | ▫ Segunda División ▫ Plaza Colonia vs La Luz ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704194500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Plaza_Colonia_vs_La_Luz___HD_____16_45_1">
-    <title>Finalizado | ▫ Segunda División ▫ Plaza Colonia vs La Luz ▫ HD ▫</title>
-  </programme>
   <programme start="20260704000000 -0600" stop="20260704193000 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Oriental_vs_River_Plate_Uruguay___HD_____19_30_1">
     <title>Próximamente | 19:30 | ▫ Segunda División ▫ Oriental vs River Plate Uruguay ▫ HD ▫</title>
   </programme>
@@ -121642,15 +121507,6 @@
   </programme>
   <programme start="20260704223000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Segunda_Divisi_n___Oriental_vs_River_Plate_Uruguay___HD_____19_30_1">
     <title>Finalizado | ▫ Segunda División ▫ Oriental vs River Plate Uruguay ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704140000 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ Serie A Ecuador ▫ Libertad vs Leones del Norte ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704140000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ Serie A Ecuador ▫ Libertad vs Leones del Norte ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704170000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___HD_____14_00_1">
-    <title>Finalizado | ▫ Serie A Ecuador ▫ Libertad vs Leones del Norte ▫ HD ▫</title>
   </programme>
   <programme start="20260704000000 -0600" stop="20260704190000 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Barcelona_vs_Deportivo_Cuenca___HD_____19_00_1">
     <title>Próximamente | 19:00 | ▫ Serie A Ecuador ▫ Barcelona vs Deportivo Cuenca ▫ HD ▫</title>
@@ -121696,69 +121552,6 @@
   </programme>
   <programme start="20260704223000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_Divisi_n_Chile___Universidad_C_vs__lica_vs__Copiap____HD_____19_30_1">
     <title>Finalizado | ▫ Primera División Chile ▫ Universidad C vs ólica vs. Copiapó ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704070000 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___A__De_Minaur_vs_Z__Svajda__En_espa_ol____HD_____07_00_1">
-    <title>Próximamente | 07:00 | ▫ Wimbledon ▫ A. De Minaur vs Z. Svajda (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704070000 -0600" stop="20260704100000 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___A__De_Minaur_vs_Z__Svajda__En_espa_ol____HD_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ▫ Wimbledon ▫ A. De Minaur vs Z. Svajda (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704100000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___A__De_Minaur_vs_Z__Svajda__En_espa_ol____HD_____07_00_1">
-    <title>Finalizado | ▫ Wimbledon ▫ A. De Minaur vs Z. Svajda (En español) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704091500 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Holes__3__12__14____16__Tercera_Ronda____HD_____09_15_1">
-    <title>Próximamente | 09:15 | ▫ John Deere Classic ▫ Fe vs ured Holes #3 #12 #14 &amp; #16 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704091500 -0600" stop="20260704121500 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Holes__3__12__14____16__Tercera_Ronda____HD_____09_15_1">
-    <title>⌾ En vivo | 09:15 | ▫ John Deere Classic ▫ Fe vs ured Holes #3 #12 #14 &amp; #16 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704121500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Holes__3__12__14____16__Tercera_Ronda____HD_____09_15_1">
-    <title>Finalizado | ▫ John Deere Classic ▫ Fe vs ured Holes #3 #12 #14 &amp; #16 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704093000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Groups__Tercera_Ronda____HD_____09_30_1">
-    <title>Próximamente | 09:30 | ▫ John Deere Classic ▫ Fe vs ured Groups (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704093000 -0600" stop="20260704123000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Groups__Tercera_Ronda____HD_____09_30_1">
-    <title>⌾ En vivo | 09:30 | ▫ John Deere Classic ▫ Fe vs ured Groups (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704123000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Groups__Tercera_Ronda____HD_____09_30_1">
-    <title>Finalizado | ▫ John Deere Classic ▫ Fe vs ured Groups (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704094500 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_2__Tercera_Ronda____HD_____09_45_1">
-    <title>Próximamente | 09:45 | ▫ John Deere Classic ▫ Fe vs ured Group 2 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704094500 -0600" stop="20260704124500 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_2__Tercera_Ronda____HD_____09_45_1">
-    <title>⌾ En vivo | 09:45 | ▫ John Deere Classic ▫ Fe vs ured Group 2 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704124500 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_2__Tercera_Ronda____HD_____09_45_1">
-    <title>Finalizado | ▫ John Deere Classic ▫ Fe vs ured Group 2 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704140000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_1__Tercera_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ John Deere Classic ▫ Fe vs ured Group 1 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704140000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_1__Tercera_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ John Deere Classic ▫ Fe vs ured Group 1 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704170000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Group_1__Tercera_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ John Deere Classic ▫ Fe vs ured Group 1 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704140000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__14__Tercera_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ John Deere Classic ▫ Fe vs ured Hole #14 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704140000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__14__Tercera_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ John Deere Classic ▫ Fe vs ured Hole #14 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704170000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__14__Tercera_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ John Deere Classic ▫ Fe vs ured Hole #14 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704140000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__16__Tercera_Ronda____HD_____14_00_1">
-    <title>Próximamente | 14:00 | ▫ John Deere Classic ▫ Fe vs ured Hole #16 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704140000 -0600" stop="20260704170000 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__16__Tercera_Ronda____HD_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ▫ John Deere Classic ▫ Fe vs ured Hole #16 (Tercera Ronda) ▫ HD ▫</title>
-  </programme>
-  <programme start="20260704170000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____John_Deere_Classic___Fe_vs_ured_Hole__16__Tercera_Ronda____HD_____14_00_1">
-    <title>Finalizado | ▫ John Deere Classic ▫ Fe vs ured Hole #16 (Tercera Ronda) ▫ HD ▫</title>
   </programme>
   <programme start="20260704000000 -0600" stop="20260704200000 -0600" channel="EVENTOS_VIP__Evento_____USL_Championship___Pittsburgh_Riverhounds_SC_vs_Brooklyn_FC___HD_____20_00_1">
     <title>Próximamente | 20:00 | ▫ USL Championship ▫ Pittsburgh Riverhounds SC vs Brooklyn FC ▫ HD ▫</title>
@@ -121858,15 +121651,6 @@
   </programme>
   <programme start="20260704150000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_Ecuador___Libertad_vs_Leones_del_Norte___12_00_1">
     <title>Finalizado | - Serie A Ecuador - Libertad vs Leones del Norte</title>
-  </programme>
-  <programme start="20260704000000 -0600" stop="20260704190000 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
-    <title>Próximamente | 19:00 | - Serie A de Ecuador - Barcelona vs D. Cuenca</title>
-  </programme>
-  <programme start="20260704190000 -0600" stop="20260704220000 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
-    <title>⌾ En vivo | 19:00 | - Serie A de Ecuador - Barcelona vs D. Cuenca</title>
-  </programme>
-  <programme start="20260704220000 -0600" stop="20260704235959 -0600" channel="EVENTOS_VIP__Evento_____Serie_A_de_Ecuador___Barcelona_vs_D__Cuenca___19_00_1">
-    <title>Finalizado | - Serie A de Ecuador - Barcelona vs D. Cuenca</title>
   </programme>
 </tv>
 
