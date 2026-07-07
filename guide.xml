@@ -125585,6 +125585,9 @@
   <channel id="EVENTOS_VIP__Evento_____Liga_Pro___Aucas_vs_Guayaquil_City___HD_____19_00_1">
     <display-name>Evento | ▫ Liga Pro ▫ Aucas vs Guayaquil City ▫ HD ▫ | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Wimbledon___Djokovic_vs_Auger_aliassime___00_00_1">
+    <display-name>Evento | Wimbledon - Djokovic vs Auger aliassime | 00:00</display-name>
+  </channel>
   <programme start="20260707000000 -0600" stop="20260707180000 -0600" channel="EVENTOS_VIP__Evento_____NBA_Summer_League___vs_lanta_Hawks_vs__Memphis_Grizzlies___HD_____18_00_1">
     <title>Próximamente | 18:00 | ▫ NBA Summer League ▫ vs lanta Hawks vs. Memphis Grizzlies ▫ HD ▫</title>
   </programme>
@@ -125881,6 +125884,15 @@
   </programme>
   <programme start="20260707220000 -0600" stop="20260707235959 -0600" channel="EVENTOS_VIP__Evento_____Liga_Pro___Aucas_vs_Guayaquil_City___HD_____19_00_1">
     <title>Finalizado | ▫ Liga Pro ▫ Aucas vs Guayaquil City ▫ HD ▫</title>
+  </programme>
+  <programme start="20260707000000 -0600" stop="20260707000000 -0600" channel="EVENTOS_VIP__Evento___Wimbledon___Djokovic_vs_Auger_aliassime___00_00_1">
+    <title>Próximamente | 00:00 | Wimbledon - Djokovic vs Auger aliassime</title>
+  </programme>
+  <programme start="20260707000000 -0600" stop="20260707030000 -0600" channel="EVENTOS_VIP__Evento___Wimbledon___Djokovic_vs_Auger_aliassime___00_00_1">
+    <title>⌾ En vivo | 00:00 | Wimbledon - Djokovic vs Auger aliassime</title>
+  </programme>
+  <programme start="20260707030000 -0600" stop="20260707235959 -0600" channel="EVENTOS_VIP__Evento___Wimbledon___Djokovic_vs_Auger_aliassime___00_00_1">
+    <title>Finalizado | Wimbledon - Djokovic vs Auger aliassime</title>
   </programme>
 </tv>
 
