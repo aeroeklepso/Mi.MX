@@ -127556,12 +127556,6 @@
   <channel id="EVENTOS_VIP__Evento_____LMB___Saraperos_de_Saltillo_vs_Caliente_de_Durango___HD_____20_30_1">
     <display-name>Evento | ▫ LMB ▫ Saraperos de Saltillo vs Caliente de Durango ▫ HD ▫ | 20:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Wimbledon___Daniel_Caverzaschi_vs_Gustavo_Fernandez___HD_____06_30_1">
-    <display-name>Evento | ▫ Wimbledon ▫ Daniel Caverzaschi vs Gustavo Fernandez ▫ HD ▫ | 06:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Wimbledon___Ziying_Wang_vs_Angelica_Bernal___HD_____09_30_1">
-    <display-name>Evento | ▫ Wimbledon ▫ Ziying Wang vs Angelica Bernal ▫ HD ▫ | 09:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Liga_Pro___Aucas_vs_Guayaquil_City___HD_____19_00_1">
     <display-name>Evento | ▫ Liga Pro ▫ Aucas vs Guayaquil City ▫ HD ▫ | 19:00</display-name>
   </channel>
@@ -127837,24 +127831,6 @@
   </programme>
   <programme start="20260707233000 -0600" stop="20260707235959 -0600" channel="EVENTOS_VIP__Evento_____LMB___Saraperos_de_Saltillo_vs_Caliente_de_Durango___HD_____20_30_1">
     <title>Finalizado | ▫ LMB ▫ Saraperos de Saltillo vs Caliente de Durango ▫ HD ▫</title>
-  </programme>
-  <programme start="20260707000000 -0600" stop="20260707063000 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___Daniel_Caverzaschi_vs_Gustavo_Fernandez___HD_____06_30_1">
-    <title>Próximamente | 06:30 | ▫ Wimbledon ▫ Daniel Caverzaschi vs Gustavo Fernandez ▫ HD ▫</title>
-  </programme>
-  <programme start="20260707063000 -0600" stop="20260707093000 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___Daniel_Caverzaschi_vs_Gustavo_Fernandez___HD_____06_30_1">
-    <title>⌾ En vivo | 06:30 | ▫ Wimbledon ▫ Daniel Caverzaschi vs Gustavo Fernandez ▫ HD ▫</title>
-  </programme>
-  <programme start="20260707093000 -0600" stop="20260707235959 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___Daniel_Caverzaschi_vs_Gustavo_Fernandez___HD_____06_30_1">
-    <title>Finalizado | ▫ Wimbledon ▫ Daniel Caverzaschi vs Gustavo Fernandez ▫ HD ▫</title>
-  </programme>
-  <programme start="20260707000000 -0600" stop="20260707093000 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___Ziying_Wang_vs_Angelica_Bernal___HD_____09_30_1">
-    <title>Próximamente | 09:30 | ▫ Wimbledon ▫ Ziying Wang vs Angelica Bernal ▫ HD ▫</title>
-  </programme>
-  <programme start="20260707093000 -0600" stop="20260707123000 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___Ziying_Wang_vs_Angelica_Bernal___HD_____09_30_1">
-    <title>⌾ En vivo | 09:30 | ▫ Wimbledon ▫ Ziying Wang vs Angelica Bernal ▫ HD ▫</title>
-  </programme>
-  <programme start="20260707123000 -0600" stop="20260707235959 -0600" channel="EVENTOS_VIP__Evento_____Wimbledon___Ziying_Wang_vs_Angelica_Bernal___HD_____09_30_1">
-    <title>Finalizado | ▫ Wimbledon ▫ Ziying Wang vs Angelica Bernal ▫ HD ▫</title>
   </programme>
   <programme start="20260707000000 -0600" stop="20260707190000 -0600" channel="EVENTOS_VIP__Evento_____Liga_Pro___Aucas_vs_Guayaquil_City___HD_____19_00_1">
     <title>Próximamente | 19:00 | ▫ Liga Pro ▫ Aucas vs Guayaquil City ▫ HD ▫</title>
