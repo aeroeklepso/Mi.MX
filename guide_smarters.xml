@@ -124748,6 +124748,9 @@
   <channel id="EVENTOS_VIP__Evento___LEONES_DEL_NORTE_vs_U__CATOLICA___00_00_1">
     <display-name>Evento | LEONES DEL NORTE vs U. CATOLICA | 00:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___LIGAECUABET_TECNICO_UNIVERSITARIO_vs_MACARA___00_00_1">
+    <display-name>Evento | LIGAECUABET TECNICO UNIVERSITARIO vs MACARA | 00:00</display-name>
+  </channel>
   <programme start="20260710060000" stop="20260710234000" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Pittsburgh_Pirates___HD_____17_40_1">
     <title>Próximamente | 17:40 | ▫ MLB ▫ Milwaukee Brewers vs Pittsburgh Pirates ▫ HD ▫</title>
   </programme>
@@ -125107,6 +125110,15 @@
   </programme>
   <programme start="20260710090000" stop="20260711055959" channel="EVENTOS_VIP__Evento___LEONES_DEL_NORTE_vs_U__CATOLICA___00_00_1">
     <title>Finalizado | LEONES DEL NORTE vs U. CATOLICA</title>
+  </programme>
+  <programme start="20260710060000" stop="20260710060000" channel="EVENTOS_VIP__Evento___LIGAECUABET_TECNICO_UNIVERSITARIO_vs_MACARA___00_00_1">
+    <title>Próximamente | 00:00 | LIGAECUABET TECNICO UNIVERSITARIO vs MACARA</title>
+  </programme>
+  <programme start="20260710060000" stop="20260710090000" channel="EVENTOS_VIP__Evento___LIGAECUABET_TECNICO_UNIVERSITARIO_vs_MACARA___00_00_1">
+    <title>⌾ En vivo | 00:00 | LIGAECUABET TECNICO UNIVERSITARIO vs MACARA</title>
+  </programme>
+  <programme start="20260710090000" stop="20260711055959" channel="EVENTOS_VIP__Evento___LIGAECUABET_TECNICO_UNIVERSITARIO_vs_MACARA___00_00_1">
+    <title>Finalizado | LIGAECUABET TECNICO UNIVERSITARIO vs MACARA</title>
   </programme>
 </tv>
 
