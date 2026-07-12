@@ -123779,6 +123779,18 @@
   <channel id="EVENTOS_VIP__Evento_____NASCAR_Cup_Series___Quaker_St_vs_e_400___Race___HD_____18_00_1">
     <display-name>Evento | ▫ NASCAR Cup Series ▫ Quaker St vs e 400 - Race ▫ HD ▫ | 18:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_1">
+    <display-name>Evento | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC | 12:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_2">
+    <display-name>Evento | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC | 12:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___LigaPro_EC_____Deportivo_Cuenca_vs_Aucas___14_00_1">
+    <display-name>Evento | LigaPro EC ᴾᵖᵛ Deportivo Cuenca vs Aucas | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___LigaPro_EC_____Emelec_vs_Barcelona_SC___18_00_1">
+    <display-name>Evento | LigaPro EC ᴾᵖᵛ Emelec vs Barcelona SC | 18:00</display-name>
+  </channel>
   <programme start="20260712000000 -0600" stop="20260712111500 -0600" channel="EVENTOS_VIP__Evento_____MLB___Milwaukee_Brewers_vs_Pittsburgh_Pirates___HD_____11_15_1">
     <title>Próximamente | 11:15 | ▫ MLB ▫ Milwaukee Brewers vs Pittsburgh Pirates ▫ HD ▫</title>
   </programme>
@@ -124327,6 +124339,42 @@
   </programme>
   <programme start="20260712210000 -0600" stop="20260712235959 -0600" channel="EVENTOS_VIP__Evento_____NASCAR_Cup_Series___Quaker_St_vs_e_400___Race___HD_____18_00_1">
     <title>Finalizado | ▫ NASCAR Cup Series ▫ Quaker St vs e 400 - Race ▫ HD ▫</title>
+  </programme>
+  <programme start="20260712000000 -0600" stop="20260712120000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_1">
+    <title>Próximamente | 12:00 | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC</title>
+  </programme>
+  <programme start="20260712120000 -0600" stop="20260712150000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_1">
+    <title>⌾ En vivo | 12:00 | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC</title>
+  </programme>
+  <programme start="20260712150000 -0600" stop="20260712235959 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_1">
+    <title>Finalizado | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC</title>
+  </programme>
+  <programme start="20260712000000 -0600" stop="20260712120000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_2">
+    <title>Próximamente | 12:00 | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC</title>
+  </programme>
+  <programme start="20260712120000 -0600" stop="20260712150000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_2">
+    <title>⌾ En vivo | 12:00 | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC</title>
+  </programme>
+  <programme start="20260712150000 -0600" stop="20260712235959 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Libertad_FC___12_00_2">
+    <title>Finalizado | LigaPro EC ᴾᵖᵛ LDU Quito vs Libertad FC</title>
+  </programme>
+  <programme start="20260712000000 -0600" stop="20260712140000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Deportivo_Cuenca_vs_Aucas___14_00_1">
+    <title>Próximamente | 14:00 | LigaPro EC ᴾᵖᵛ Deportivo Cuenca vs Aucas</title>
+  </programme>
+  <programme start="20260712140000 -0600" stop="20260712170000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Deportivo_Cuenca_vs_Aucas___14_00_1">
+    <title>⌾ En vivo | 14:00 | LigaPro EC ᴾᵖᵛ Deportivo Cuenca vs Aucas</title>
+  </programme>
+  <programme start="20260712170000 -0600" stop="20260712235959 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Deportivo_Cuenca_vs_Aucas___14_00_1">
+    <title>Finalizado | LigaPro EC ᴾᵖᵛ Deportivo Cuenca vs Aucas</title>
+  </programme>
+  <programme start="20260712000000 -0600" stop="20260712180000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Emelec_vs_Barcelona_SC___18_00_1">
+    <title>Próximamente | 18:00 | LigaPro EC ᴾᵖᵛ Emelec vs Barcelona SC</title>
+  </programme>
+  <programme start="20260712180000 -0600" stop="20260712210000 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Emelec_vs_Barcelona_SC___18_00_1">
+    <title>⌾ En vivo | 18:00 | LigaPro EC ᴾᵖᵛ Emelec vs Barcelona SC</title>
+  </programme>
+  <programme start="20260712210000 -0600" stop="20260712235959 -0600" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Emelec_vs_Barcelona_SC___18_00_1">
+    <title>Finalizado | LigaPro EC ᴾᵖᵛ Emelec vs Barcelona SC</title>
   </programme>
 </tv>
 
