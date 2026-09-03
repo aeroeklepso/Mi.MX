@@ -126250,9 +126250,6 @@
   <channel id="EVENTOS_VIP__Evento_____Primera_HN___Olimpia_vs_Platense___HD_____20_00_1">
     <display-name>Evento | ▫ Primera HN ▫ Olimpia vs Platense ▫ HD ▫ | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____N_vs_ional_Provincial___Taranaki_vs__Auckland___HD______02_05_1">
-    <display-name>Evento | ▫ N vs ional Provincial ▫ Taranaki vs. Auckland ▫ HD ▫▫ | 02:05</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Women_s_EuroVolley___Polonia_vs_Pa_ses_Bajos___HD______08_55_1">
     <display-name>Evento | ▫ Women's EuroVolley ▫ Polonia vs Países Bajos ▫ HD ▫▫ | 08:55</display-name>
   </channel>
@@ -126555,15 +126552,6 @@
   </programme>
   <programme start="20260903230000 -0600" stop="20260903235959 -0600" channel="EVENTOS_VIP__Evento_____Primera_HN___Olimpia_vs_Platense___HD_____20_00_1">
     <title>Finalizado | ▫ Primera HN ▫ Olimpia vs Platense ▫ HD ▫</title>
-  </programme>
-  <programme start="20260903000000 -0600" stop="20260903020500 -0600" channel="EVENTOS_VIP__Evento_____N_vs_ional_Provincial___Taranaki_vs__Auckland___HD______02_05_1">
-    <title>Próximamente | 02:05 | ▫ N vs ional Provincial ▫ Taranaki vs. Auckland ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260903020500 -0600" stop="20260903050500 -0600" channel="EVENTOS_VIP__Evento_____N_vs_ional_Provincial___Taranaki_vs__Auckland___HD______02_05_1">
-    <title>⌾ En vivo | 02:05 | ▫ N vs ional Provincial ▫ Taranaki vs. Auckland ▫ HD ▫▫</title>
-  </programme>
-  <programme start="20260903050500 -0600" stop="20260903235959 -0600" channel="EVENTOS_VIP__Evento_____N_vs_ional_Provincial___Taranaki_vs__Auckland___HD______02_05_1">
-    <title>Finalizado | ▫ N vs ional Provincial ▫ Taranaki vs. Auckland ▫ HD ▫▫</title>
   </programme>
   <programme start="20260903000000 -0600" stop="20260903085500 -0600" channel="EVENTOS_VIP__Evento_____Women_s_EuroVolley___Polonia_vs_Pa_ses_Bajos___HD______08_55_1">
     <title>Próximamente | 08:55 | ▫ Women's EuroVolley ▫ Polonia vs Países Bajos ▫ HD ▫▫</title>
