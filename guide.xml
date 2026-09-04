@@ -123280,6 +123280,9 @@
   <channel id="EVENTOS_VIP__Evento_____F_tbol_Americano_NCAA___Liberty_vs_Liberty_North__High_School____HD______20_00_1">
     <display-name>Evento | ▫ Fútbol Americano NCAA ▫ Liberty vs Liberty North (High School) ▫ HD ▫▫ | 20:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___ESPA_A_vs_ALEMANIA___00_00_1">
+    <display-name>Evento | ESPAÑA vs ALEMANIA | 00:00</display-name>
+  </channel>
   <programme start="20260904000000 -0600" stop="20260904174000 -0600" channel="EVENTOS_VIP__Evento_____MLB___vs_lanta_Braves_vs__Philadelphia_Phillies__espanol____HD_____17_40_1">
     <title>Próximamente | 17:40 | ▫ MLB ▫ vs lanta Braves vs. Philadelphia Phillies (espanol) ▫ HD ▫</title>
   </programme>
@@ -123981,6 +123984,15 @@
   </programme>
   <programme start="20260904230000 -0600" stop="20260904235959 -0600" channel="EVENTOS_VIP__Evento_____F_tbol_Americano_NCAA___Liberty_vs_Liberty_North__High_School____HD______20_00_1">
     <title>Finalizado | ▫ Fútbol Americano NCAA ▫ Liberty vs Liberty North (High School) ▫ HD ▫▫</title>
+  </programme>
+  <programme start="20260904000000 -0600" stop="20260904000000 -0600" channel="EVENTOS_VIP__Evento___ESPA_A_vs_ALEMANIA___00_00_1">
+    <title>Próximamente | 00:00 | ESPAÑA vs ALEMANIA</title>
+  </programme>
+  <programme start="20260904000000 -0600" stop="20260904030000 -0600" channel="EVENTOS_VIP__Evento___ESPA_A_vs_ALEMANIA___00_00_1">
+    <title>⌾ En vivo | 00:00 | ESPAÑA vs ALEMANIA</title>
+  </programme>
+  <programme start="20260904030000 -0600" stop="20260904235959 -0600" channel="EVENTOS_VIP__Evento___ESPA_A_vs_ALEMANIA___00_00_1">
+    <title>Finalizado | ESPAÑA vs ALEMANIA</title>
   </programme>
 </tv>
 
