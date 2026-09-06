@@ -126505,6 +126505,15 @@
   <channel id="EVENTOS_VIP__Evento_____Mitre_vs_Hurling___Hockey_Femenino______13_30_1">
     <display-name>Evento | ◘ Mitre vs Hurling ◘ Hockey Femenino ◘◘ | 13:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Universidad_Cat_lica___16_00_1">
+    <display-name>Evento | - Ecuador - Delfin vs Universidad Católica | 16:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Aucas_vs_Barcelona___19_00_1">
+    <display-name>Evento | - Ecuador - Aucas vs Barcelona | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_Libertad___19_00_1">
+    <display-name>Evento | - Ecuador - Deportivo Cuenca vs Libertad | 19:00</display-name>
+  </channel>
   <programme start="20260906000000 -0600" stop="20260906111000 -0600" channel="EVENTOS_VIP__Evento_____Milwaukee_Brewers_vs_Cincinnati_Reds___MLB_____11_10_1">
     <title>Próximamente | 11:10 | ◘ Milwaukee Brewers vs Cincinnati Reds ◘ MLB ◘</title>
   </programme>
@@ -127647,6 +127656,33 @@
   </programme>
   <programme start="20260906163000 -0600" stop="20260906235959 -0600" channel="EVENTOS_VIP__Evento_____Mitre_vs_Hurling___Hockey_Femenino______13_30_1">
     <title>Finalizado | ◘ Mitre vs Hurling ◘ Hockey Femenino ◘◘</title>
+  </programme>
+  <programme start="20260906000000 -0600" stop="20260906160000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Universidad_Cat_lica___16_00_1">
+    <title>Próximamente | 16:00 | - Ecuador - Delfin vs Universidad Católica</title>
+  </programme>
+  <programme start="20260906160000 -0600" stop="20260906190000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Universidad_Cat_lica___16_00_1">
+    <title>⌾ En vivo | 16:00 | - Ecuador - Delfin vs Universidad Católica</title>
+  </programme>
+  <programme start="20260906190000 -0600" stop="20260906235959 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Universidad_Cat_lica___16_00_1">
+    <title>Finalizado | - Ecuador - Delfin vs Universidad Católica</title>
+  </programme>
+  <programme start="20260906000000 -0600" stop="20260906190000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Aucas_vs_Barcelona___19_00_1">
+    <title>Próximamente | 19:00 | - Ecuador - Aucas vs Barcelona</title>
+  </programme>
+  <programme start="20260906190000 -0600" stop="20260906220000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Aucas_vs_Barcelona___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Ecuador - Aucas vs Barcelona</title>
+  </programme>
+  <programme start="20260906220000 -0600" stop="20260906235959 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Aucas_vs_Barcelona___19_00_1">
+    <title>Finalizado | - Ecuador - Aucas vs Barcelona</title>
+  </programme>
+  <programme start="20260906000000 -0600" stop="20260906190000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_Libertad___19_00_1">
+    <title>Próximamente | 19:00 | - Ecuador - Deportivo Cuenca vs Libertad</title>
+  </programme>
+  <programme start="20260906190000 -0600" stop="20260906220000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_Libertad___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Ecuador - Deportivo Cuenca vs Libertad</title>
+  </programme>
+  <programme start="20260906220000 -0600" stop="20260906235959 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_Libertad___19_00_1">
+    <title>Finalizado | - Ecuador - Deportivo Cuenca vs Libertad</title>
   </programme>
 </tv>
 
