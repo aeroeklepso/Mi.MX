@@ -126445,6 +126445,15 @@
   <channel id="EVENTOS_VIP__Evento_____HFX_Wanderers_vs_Cavalry___Canadian_Premier_League_____14_00_1">
     <display-name>Evento | ◘ HFX Wanderers vs Cavalry ◘ Canadian Premier League ◘ | 14:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Emelec_vs_Manta___19_00_1">
+    <display-name>Evento | - Ecuador - Emelec vs Manta | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Mushuc_Runa_vs_Leones_del_Norte___19_00_1">
+    <display-name>Evento | - Ecuador - Mushuc Runa vs Leones del Norte | 19:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Orense_vs_Guayaquil_City___19_00_1">
+    <display-name>Evento | - Ecuador - Orense vs Guayaquil City | 19:00</display-name>
+  </channel>
   <programme start="20260907060000" stop="20260907180500" channel="EVENTOS_VIP__Evento_____vs_lanta_Braves_vs__Philadelphia_PhilliEN___MLB_____12_05_1">
     <title>Próximamente | 12:05 | ◘ vs lanta Braves vs. Philadelphia PhilliEN ◘ MLB ◘</title>
   </programme>
@@ -126903,6 +126912,33 @@
   </programme>
   <programme start="20260907230000" stop="20260908055959" channel="EVENTOS_VIP__Evento_____HFX_Wanderers_vs_Cavalry___Canadian_Premier_League_____14_00_1">
     <title>Finalizado | ◘ HFX Wanderers vs Cavalry ◘ Canadian Premier League ◘</title>
+  </programme>
+  <programme start="20260907060000" stop="20260908010000" channel="EVENTOS_VIP__Evento_____Ecuador___Emelec_vs_Manta___19_00_1">
+    <title>Próximamente | 19:00 | - Ecuador - Emelec vs Manta</title>
+  </programme>
+  <programme start="20260908010000" stop="20260908040000" channel="EVENTOS_VIP__Evento_____Ecuador___Emelec_vs_Manta___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Ecuador - Emelec vs Manta</title>
+  </programme>
+  <programme start="20260908040000" stop="20260908055959" channel="EVENTOS_VIP__Evento_____Ecuador___Emelec_vs_Manta___19_00_1">
+    <title>Finalizado | - Ecuador - Emelec vs Manta</title>
+  </programme>
+  <programme start="20260907060000" stop="20260908010000" channel="EVENTOS_VIP__Evento_____Ecuador___Mushuc_Runa_vs_Leones_del_Norte___19_00_1">
+    <title>Próximamente | 19:00 | - Ecuador - Mushuc Runa vs Leones del Norte</title>
+  </programme>
+  <programme start="20260908010000" stop="20260908040000" channel="EVENTOS_VIP__Evento_____Ecuador___Mushuc_Runa_vs_Leones_del_Norte___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Ecuador - Mushuc Runa vs Leones del Norte</title>
+  </programme>
+  <programme start="20260908040000" stop="20260908055959" channel="EVENTOS_VIP__Evento_____Ecuador___Mushuc_Runa_vs_Leones_del_Norte___19_00_1">
+    <title>Finalizado | - Ecuador - Mushuc Runa vs Leones del Norte</title>
+  </programme>
+  <programme start="20260907060000" stop="20260908010000" channel="EVENTOS_VIP__Evento_____Ecuador___Orense_vs_Guayaquil_City___19_00_1">
+    <title>Próximamente | 19:00 | - Ecuador - Orense vs Guayaquil City</title>
+  </programme>
+  <programme start="20260908010000" stop="20260908040000" channel="EVENTOS_VIP__Evento_____Ecuador___Orense_vs_Guayaquil_City___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Ecuador - Orense vs Guayaquil City</title>
+  </programme>
+  <programme start="20260908040000" stop="20260908055959" channel="EVENTOS_VIP__Evento_____Ecuador___Orense_vs_Guayaquil_City___19_00_1">
+    <title>Finalizado | - Ecuador - Orense vs Guayaquil City</title>
   </programme>
 </tv>
 
