@@ -123700,53 +123700,5 @@
     <desc>Todd está ansioso por conocer a la nueva novia de Chase y Grayson decide que quiere ser un cazador de tormentas.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup______22_00_1">
-    <display-name>Evento | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘ | 22:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup____SD___22_00_1">
-    <display-name>Evento | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘ SD | 22:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Xelaj__vs_Cob_n_Imperial___Liga_GT_____21_00_1">
-    <display-name>Evento | ◘ Xelajú vs Cobán Imperial ◘ Liga GT ◘ | 21:00</display-name>
-  </channel>
-  <channel id="Evento_LigaMX__LigaMX_____Pumas_UNAM_vs_Le_n___Liga_MX_____21_05_1">
-    <display-name>LigaMX | ◘ Pumas UNAM vs León ◘ Liga MX ◘ | 21:05</display-name>
-  </channel>
-  <programme start="20260910000000 -0600" stop="20260910220000 -0600" channel="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup______22_00_1">
-    <title>Próximamente | 22:00 | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘</title>
-  </programme>
-  <programme start="20260910220000 -0600" stop="20260911010000 -0600" channel="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup______22_00_1">
-    <title>⌾ En vivo | 22:00 | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘</title>
-  </programme>
-  <programme start="20260911010000 -0600" stop="20260910235959 -0600" channel="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup______22_00_1">
-    <title>Finalizado | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘</title>
-  </programme>
-  <programme start="20260910000000 -0600" stop="20260910220000 -0600" channel="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup____SD___22_00_1">
-    <title>Próximamente | 22:00 | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘ SD</title>
-  </programme>
-  <programme start="20260910220000 -0600" stop="20260911010000 -0600" channel="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup____SD___22_00_1">
-    <title>⌾ En vivo | 22:00 | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘ SD</title>
-  </programme>
-  <programme start="20260911010000 -0600" stop="20260910235959 -0600" channel="EVENTOS_VIP__Evento_____Luis__ngel_Firpo_vs_CD_Olimpia___Concacaf_Central_American_Cup____SD___22_00_1">
-    <title>Finalizado | ◘ Luis Ángel Firpo vs CD Olimpia ◘ Concacaf Central American Cup ◘◘ SD</title>
-  </programme>
-  <programme start="20260910000000 -0600" stop="20260910210000 -0600" channel="EVENTOS_VIP__Evento_____Xelaj__vs_Cob_n_Imperial___Liga_GT_____21_00_1">
-    <title>Próximamente | 21:00 | ◘ Xelajú vs Cobán Imperial ◘ Liga GT ◘</title>
-  </programme>
-  <programme start="20260910210000 -0600" stop="20260911000000 -0600" channel="EVENTOS_VIP__Evento_____Xelaj__vs_Cob_n_Imperial___Liga_GT_____21_00_1">
-    <title>⌾ En vivo | 21:00 | ◘ Xelajú vs Cobán Imperial ◘ Liga GT ◘</title>
-  </programme>
-  <programme start="20260911000000 -0600" stop="20260910235959 -0600" channel="EVENTOS_VIP__Evento_____Xelaj__vs_Cob_n_Imperial___Liga_GT_____21_00_1">
-    <title>Finalizado | ◘ Xelajú vs Cobán Imperial ◘ Liga GT ◘</title>
-  </programme>
-  <programme start="20260910000000 -0600" stop="20260910210500 -0600" channel="Evento_LigaMX__LigaMX_____Pumas_UNAM_vs_Le_n___Liga_MX_____21_05_1">
-    <title>Próximamente | 21:05 | ◘ Pumas UNAM vs León ◘ Liga MX ◘</title>
-  </programme>
-  <programme start="20260910210500 -0600" stop="20260911000500 -0600" channel="Evento_LigaMX__LigaMX_____Pumas_UNAM_vs_Le_n___Liga_MX_____21_05_1">
-    <title>⌾ En vivo | 21:05 | ◘ Pumas UNAM vs León ◘ Liga MX ◘</title>
-  </programme>
-  <programme start="20260911000500 -0600" stop="20260910235959 -0600" channel="Evento_LigaMX__LigaMX_____Pumas_UNAM_vs_Le_n___Liga_MX_____21_05_1">
-    <title>Finalizado | ◘ Pumas UNAM vs León ◘ Liga MX ◘</title>
-  </programme>
 </tv>
 
