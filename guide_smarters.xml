@@ -123835,17 +123835,11 @@
   <channel id="EVENTOS_VIP__Evento_____Estrella_Roja_vs_Platense___Liga_HN_____20_30_1">
     <display-name>Evento | ◘ Estrella Roja vs Platense ◘ Liga HN ◘ | 20:30</display-name>
   </channel>
-  <channel id="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Tanzania_U20_vs_Canada_U20___Copa_Mundial_Femenina_Sub_20_____07_00_1">
-    <display-name>FIFA Mundial Sub-20 | ◘ Tanzania U20 vs Canada U20 ◘ Copa Mundial Femenina Sub-20 ◘ | 07:00</display-name>
-  </channel>
   <channel id="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____England_U20_vs_Brazil_U20___Copa_Mundial_Femenina_Sub_20_____07_00_1">
     <display-name>FIFA Mundial Sub-20 | ◘ England U20 vs Brazil U20 ◘ Copa Mundial Femenina Sub-20 ◘ | 07:00</display-name>
   </channel>
   <channel id="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Argentina_U20_vs_Mexico_U20___Copa_Mundial_Femenina_Sub_20_____10_00_1">
     <display-name>FIFA Mundial Sub-20 | ◘ Argentina U20 vs Mexico U20 ◘ Copa Mundial Femenina Sub-20 ◘ | 10:00</display-name>
-  </channel>
-  <channel id="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Benin_U20_vs_Poland_U20___Copa_Mundial_Femenina_Sub_20_____10_00_1">
-    <display-name>FIFA Mundial Sub-20 | ◘ Benin U20 vs Poland U20 ◘ Copa Mundial Femenina Sub-20 ◘ | 10:00</display-name>
   </channel>
   <channel id="Evento_LigaMX__LigaMX_____Necaxa_vs_Puebla___Liga_MX_____19_00_1">
     <display-name>LigaMX | ◘ Necaxa vs Puebla ◘ Liga MX ◘ | 19:00</display-name>
@@ -124324,15 +124318,6 @@
   <programme start="20260912053000" stop="20260912055959" channel="EVENTOS_VIP__Evento_____Estrella_Roja_vs_Platense___Liga_HN_____20_30_1">
     <title>Finalizado | ◘ Estrella Roja vs Platense ◘ Liga HN ◘</title>
   </programme>
-  <programme start="20260911060000" stop="20260911130000" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Tanzania_U20_vs_Canada_U20___Copa_Mundial_Femenina_Sub_20_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ Tanzania U20 vs Canada U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
-  </programme>
-  <programme start="20260911130000" stop="20260911160000" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Tanzania_U20_vs_Canada_U20___Copa_Mundial_Femenina_Sub_20_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Tanzania U20 vs Canada U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
-  </programme>
-  <programme start="20260911160000" stop="20260912055959" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Tanzania_U20_vs_Canada_U20___Copa_Mundial_Femenina_Sub_20_____07_00_1">
-    <title>Finalizado | ◘ Tanzania U20 vs Canada U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
-  </programme>
   <programme start="20260911060000" stop="20260911130000" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____England_U20_vs_Brazil_U20___Copa_Mundial_Femenina_Sub_20_____07_00_1">
     <title>Próximamente | 07:00 | ◘ England U20 vs Brazil U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
   </programme>
@@ -124350,15 +124335,6 @@
   </programme>
   <programme start="20260911190000" stop="20260912055959" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Argentina_U20_vs_Mexico_U20___Copa_Mundial_Femenina_Sub_20_____10_00_1">
     <title>Finalizado | ◘ Argentina U20 vs Mexico U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
-  </programme>
-  <programme start="20260911060000" stop="20260911160000" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Benin_U20_vs_Poland_U20___Copa_Mundial_Femenina_Sub_20_____10_00_1">
-    <title>Próximamente | 10:00 | ◘ Benin U20 vs Poland U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
-  </programme>
-  <programme start="20260911160000" stop="20260911190000" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Benin_U20_vs_Poland_U20___Copa_Mundial_Femenina_Sub_20_____10_00_1">
-    <title>⌾ En vivo | 10:00 | ◘ Benin U20 vs Poland U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
-  </programme>
-  <programme start="20260911190000" stop="20260912055959" channel="Evento_FIFA_Mundial_Sub_20__FIFA_Mundial_Sub_20_____Benin_U20_vs_Poland_U20___Copa_Mundial_Femenina_Sub_20_____10_00_1">
-    <title>Finalizado | ◘ Benin U20 vs Poland U20 ◘ Copa Mundial Femenina Sub-20 ◘</title>
   </programme>
   <programme start="20260911060000" stop="20260912010000" channel="Evento_LigaMX__LigaMX_____Necaxa_vs_Puebla___Liga_MX_____19_00_1">
     <title>Próximamente | 19:00 | ◘ Necaxa vs Puebla ◘ Liga MX ◘</title>
