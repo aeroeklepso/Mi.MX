@@ -125584,6 +125584,9 @@
   <channel id="EVENTOS_VIP__Evento_____Ecuador___LDU_Quito_vs_Deportivo_Cuenca___19_00_1">
     <display-name>Evento | - Ecuador - LDU Quito vs Deportivo Cuenca | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___NFL_Semana1___vs_lanta_Falcons_at_Pittsburgh_Steelers_13_00_ET___13_00_1">
+    <display-name>Evento | NFL Semana1 - vs lanta Falcons at Pittsburgh Steelers 13:00 ET | 13:00</display-name>
+  </channel>
   <programme start="20260912060000" stop="20260912210500" channel="EVENTOS_VIP__Evento_____Los_Angeles_Angels_vs_Washington_Nationals___MLB_____15_05_1">
     <title>Próximamente | 15:05 | ◘ Los Angeles Angels vs Washington Nationals ◘ MLB ◘</title>
   </programme>
@@ -126321,6 +126324,15 @@
   </programme>
   <programme start="20260913040000" stop="20260913055959" channel="EVENTOS_VIP__Evento_____Ecuador___LDU_Quito_vs_Deportivo_Cuenca___19_00_1">
     <title>Finalizado | - Ecuador - LDU Quito vs Deportivo Cuenca</title>
+  </programme>
+  <programme start="20260912060000" stop="20260912190000" channel="EVENTOS_VIP__Evento___NFL_Semana1___vs_lanta_Falcons_at_Pittsburgh_Steelers_13_00_ET___13_00_1">
+    <title>Próximamente | 13:00 | NFL Semana1 - vs lanta Falcons at Pittsburgh Steelers 13:00 ET</title>
+  </programme>
+  <programme start="20260912190000" stop="20260912220000" channel="EVENTOS_VIP__Evento___NFL_Semana1___vs_lanta_Falcons_at_Pittsburgh_Steelers_13_00_ET___13_00_1">
+    <title>⌾ En vivo | 13:00 | NFL Semana1 - vs lanta Falcons at Pittsburgh Steelers 13:00 ET</title>
+  </programme>
+  <programme start="20260912220000" stop="20260913055959" channel="EVENTOS_VIP__Evento___NFL_Semana1___vs_lanta_Falcons_at_Pittsburgh_Steelers_13_00_ET___13_00_1">
+    <title>Finalizado | NFL Semana1 - vs lanta Falcons at Pittsburgh Steelers 13:00 ET</title>
   </programme>
 </tv>
 
