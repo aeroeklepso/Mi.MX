@@ -125737,6 +125737,18 @@
   <channel id="Evento_MLS__MLS_____San_Diego_vs_Philadelphia_Union___MLS_____19_00_1">
     <display-name>MLS | ◘ San Diego vs Philadelphia Union ◘ MLS ◘ | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Leones_del_Norte_vs_T_cnico_Universitario___13_00_1">
+    <display-name>Evento | - Ecuador - Leones del Norte vs Técnico Universitario | 13:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Macar__vs_Emelec___15_30_1">
+    <display-name>Evento | - Ecuador - Macará vs Emelec | 15:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Barcelona_vs_Delfin___18_00_1">
+    <display-name>Evento | - Ecuador - Barcelona vs Delfin | 18:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Independiente_del_Valle___18_00_1">
+    <display-name>Evento | - Ecuador - Libertad vs Independiente del Valle | 18:00</display-name>
+  </channel>
   <programme start="20260913060000" stop="20260913190000" channel="EVENTOS_VIP__Evento___NFL_Semana1___vs_lanta_Falcons_at_Pittsburgh_Steelers_13_00_ET___13_00_1">
     <title>Próximamente | 13:00 | NFL Semana1 - vs lanta Falcons at Pittsburgh Steelers 13:00 ET</title>
   </programme>
@@ -126933,6 +126945,42 @@
   </programme>
   <programme start="20260914040000" stop="20260914055959" channel="Evento_MLS__MLS_____San_Diego_vs_Philadelphia_Union___MLS_____19_00_1">
     <title>Finalizado | ◘ San Diego vs Philadelphia Union ◘ MLS ◘</title>
+  </programme>
+  <programme start="20260913060000" stop="20260913190000" channel="EVENTOS_VIP__Evento_____Ecuador___Leones_del_Norte_vs_T_cnico_Universitario___13_00_1">
+    <title>Próximamente | 13:00 | - Ecuador - Leones del Norte vs Técnico Universitario</title>
+  </programme>
+  <programme start="20260913190000" stop="20260913220000" channel="EVENTOS_VIP__Evento_____Ecuador___Leones_del_Norte_vs_T_cnico_Universitario___13_00_1">
+    <title>⌾ En vivo | 13:00 | - Ecuador - Leones del Norte vs Técnico Universitario</title>
+  </programme>
+  <programme start="20260913220000" stop="20260914055959" channel="EVENTOS_VIP__Evento_____Ecuador___Leones_del_Norte_vs_T_cnico_Universitario___13_00_1">
+    <title>Finalizado | - Ecuador - Leones del Norte vs Técnico Universitario</title>
+  </programme>
+  <programme start="20260913060000" stop="20260913213000" channel="EVENTOS_VIP__Evento_____Ecuador___Macar__vs_Emelec___15_30_1">
+    <title>Próximamente | 15:30 | - Ecuador - Macará vs Emelec</title>
+  </programme>
+  <programme start="20260913213000" stop="20260914003000" channel="EVENTOS_VIP__Evento_____Ecuador___Macar__vs_Emelec___15_30_1">
+    <title>⌾ En vivo | 15:30 | - Ecuador - Macará vs Emelec</title>
+  </programme>
+  <programme start="20260914003000" stop="20260914055959" channel="EVENTOS_VIP__Evento_____Ecuador___Macar__vs_Emelec___15_30_1">
+    <title>Finalizado | - Ecuador - Macará vs Emelec</title>
+  </programme>
+  <programme start="20260913060000" stop="20260914000000" channel="EVENTOS_VIP__Evento_____Ecuador___Barcelona_vs_Delfin___18_00_1">
+    <title>Próximamente | 18:00 | - Ecuador - Barcelona vs Delfin</title>
+  </programme>
+  <programme start="20260914000000" stop="20260914030000" channel="EVENTOS_VIP__Evento_____Ecuador___Barcelona_vs_Delfin___18_00_1">
+    <title>⌾ En vivo | 18:00 | - Ecuador - Barcelona vs Delfin</title>
+  </programme>
+  <programme start="20260914030000" stop="20260914055959" channel="EVENTOS_VIP__Evento_____Ecuador___Barcelona_vs_Delfin___18_00_1">
+    <title>Finalizado | - Ecuador - Barcelona vs Delfin</title>
+  </programme>
+  <programme start="20260913060000" stop="20260914000000" channel="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Independiente_del_Valle___18_00_1">
+    <title>Próximamente | 18:00 | - Ecuador - Libertad vs Independiente del Valle</title>
+  </programme>
+  <programme start="20260914000000" stop="20260914030000" channel="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Independiente_del_Valle___18_00_1">
+    <title>⌾ En vivo | 18:00 | - Ecuador - Libertad vs Independiente del Valle</title>
+  </programme>
+  <programme start="20260914030000" stop="20260914055959" channel="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Independiente_del_Valle___18_00_1">
+    <title>Finalizado | - Ecuador - Libertad vs Independiente del Valle</title>
   </programme>
 </tv>
 
