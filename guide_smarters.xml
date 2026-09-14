@@ -127264,18 +127264,6 @@
   <channel id="EVENTOS_VIP__Evento_____Leeds_United_vs_Newcastle_United___Premier_League_____14_00_1">
     <display-name>Evento | ◘ Leeds United vs Newcastle United ◘ Premier League ◘ | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A______11_20_1">
-    <display-name>Evento | ◘ Como vs Parma ◘ Serie A ◘◘ | 11:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A____SD___11_20_1">
-    <display-name>Evento | ◘ Como vs Parma ◘ Serie A ◘◘ SD | 11:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A______11_20_1">
-    <display-name>Evento | ◘ Torino vs Roma ◘ Serie A ◘◘ | 11:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A____SD___11_20_1">
-    <display-name>Evento | ◘ Torino vs Roma ◘ Serie A ◘◘ SD | 11:20</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Inter_vs_Udinese___Serie_A______13_30_1">
     <display-name>Evento | ◘ Inter vs Udinese ◘ Serie A ◘◘ | 13:30</display-name>
   </channel>
@@ -127293,9 +127281,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Al_Ahli_Saudi__KSA__vs_Pakhtaktor__UZB____AFC_Champions_League____SD___13_00_1">
     <display-name>Evento | ◘ Al Ahli Saudi (KSA) vs Pakhtaktor (UZB) ◘ AFC Champions League ◘◘ SD | 13:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Gaziantep_FK_vs_Fenerbah_e___Super_Lig_____12_00_1">
-    <display-name>Evento | ◘ Gaziantep FK vs Fenerbahçe ◘ Super Lig ◘ | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Deportes_Santa_Cruz_vs_Recoleta___Primera_B_Chile_____16_00_1">
     <display-name>Evento | ◘ Deportes Santa Cruz vs Recoleta ◘ Primera B Chile ◘ | 16:00</display-name>
@@ -127510,42 +127495,6 @@
   <programme start="20260914230000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Leeds_United_vs_Newcastle_United___Premier_League_____14_00_1">
     <title>Finalizado | ◘ Leeds United vs Newcastle United ◘ Premier League ◘</title>
   </programme>
-  <programme start="20260914060000" stop="20260914172000" channel="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A______11_20_1">
-    <title>Próximamente | 11:20 | ◘ Como vs Parma ◘ Serie A ◘◘</title>
-  </programme>
-  <programme start="20260914172000" stop="20260914202000" channel="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A______11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Como vs Parma ◘ Serie A ◘◘</title>
-  </programme>
-  <programme start="20260914202000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A______11_20_1">
-    <title>Finalizado | ◘ Como vs Parma ◘ Serie A ◘◘</title>
-  </programme>
-  <programme start="20260914060000" stop="20260914172000" channel="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A____SD___11_20_1">
-    <title>Próximamente | 11:20 | ◘ Como vs Parma ◘ Serie A ◘◘ SD</title>
-  </programme>
-  <programme start="20260914172000" stop="20260914202000" channel="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A____SD___11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Como vs Parma ◘ Serie A ◘◘ SD</title>
-  </programme>
-  <programme start="20260914202000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Como_vs_Parma___Serie_A____SD___11_20_1">
-    <title>Finalizado | ◘ Como vs Parma ◘ Serie A ◘◘ SD</title>
-  </programme>
-  <programme start="20260914060000" stop="20260914172000" channel="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A______11_20_1">
-    <title>Próximamente | 11:20 | ◘ Torino vs Roma ◘ Serie A ◘◘</title>
-  </programme>
-  <programme start="20260914172000" stop="20260914202000" channel="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A______11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Torino vs Roma ◘ Serie A ◘◘</title>
-  </programme>
-  <programme start="20260914202000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A______11_20_1">
-    <title>Finalizado | ◘ Torino vs Roma ◘ Serie A ◘◘</title>
-  </programme>
-  <programme start="20260914060000" stop="20260914172000" channel="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A____SD___11_20_1">
-    <title>Próximamente | 11:20 | ◘ Torino vs Roma ◘ Serie A ◘◘ SD</title>
-  </programme>
-  <programme start="20260914172000" stop="20260914202000" channel="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A____SD___11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Torino vs Roma ◘ Serie A ◘◘ SD</title>
-  </programme>
-  <programme start="20260914202000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Torino_vs_Roma___Serie_A____SD___11_20_1">
-    <title>Finalizado | ◘ Torino vs Roma ◘ Serie A ◘◘ SD</title>
-  </programme>
   <programme start="20260914060000" stop="20260914193000" channel="EVENTOS_VIP__Evento_____Inter_vs_Udinese___Serie_A______13_30_1">
     <title>Próximamente | 13:30 | ◘ Inter vs Udinese ◘ Serie A ◘◘</title>
   </programme>
@@ -127599,15 +127548,6 @@
   </programme>
   <programme start="20260914220000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Al_Ahli_Saudi__KSA__vs_Pakhtaktor__UZB____AFC_Champions_League____SD___13_00_1">
     <title>Finalizado | ◘ Al Ahli Saudi (KSA) vs Pakhtaktor (UZB) ◘ AFC Champions League ◘◘ SD</title>
-  </programme>
-  <programme start="20260914060000" stop="20260914180000" channel="EVENTOS_VIP__Evento_____Gaziantep_FK_vs_Fenerbah_e___Super_Lig_____12_00_1">
-    <title>Próximamente | 12:00 | ◘ Gaziantep FK vs Fenerbahçe ◘ Super Lig ◘</title>
-  </programme>
-  <programme start="20260914180000" stop="20260914210000" channel="EVENTOS_VIP__Evento_____Gaziantep_FK_vs_Fenerbah_e___Super_Lig_____12_00_1">
-    <title>⌾ En vivo | 12:00 | ◘ Gaziantep FK vs Fenerbahçe ◘ Super Lig ◘</title>
-  </programme>
-  <programme start="20260914210000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Gaziantep_FK_vs_Fenerbah_e___Super_Lig_____12_00_1">
-    <title>Finalizado | ◘ Gaziantep FK vs Fenerbahçe ◘ Super Lig ◘</title>
   </programme>
   <programme start="20260914060000" stop="20260914220000" channel="EVENTOS_VIP__Evento_____Deportes_Santa_Cruz_vs_Recoleta___Primera_B_Chile_____16_00_1">
     <title>Próximamente | 16:00 | ◘ Deportes Santa Cruz vs Recoleta ◘ Primera B Chile ◘</title>
