@@ -129253,6 +129253,9 @@
   <channel id="Evento_LigaMX__LigaMX_____Pachuca_vs_Le_n___Liga_MX_Femenil_____19_00_1">
     <display-name>LigaMX | ◘ Pachuca vs León ◘ Liga MX Femenil ◘ | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Orense___19_00_1">
+    <display-name>Evento | - Ecuador - Universidad C vs ólica vs Orense | 19:00</display-name>
+  </channel>
   <programme start="20260914060000" stop="20260915021500" channel="EVENTOS_VIP__Evento___NFL_Semana1___Dever_Broncos_vs_Kansas_City_Chief_20_15_ET___20_15_1">
     <title>Próximamente | 20:15 | NFL Semana1 - Dever Broncos vs Kansas City Chief 20:15 ET</title>
   </programme>
@@ -129621,6 +129624,15 @@
   </programme>
   <programme start="20260915040000" stop="20260915055959" channel="Evento_LigaMX__LigaMX_____Pachuca_vs_Le_n___Liga_MX_Femenil_____19_00_1">
     <title>Finalizado | ◘ Pachuca vs León ◘ Liga MX Femenil ◘</title>
+  </programme>
+  <programme start="20260914060000" stop="20260915010000" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Orense___19_00_1">
+    <title>Próximamente | 19:00 | - Ecuador - Universidad C vs ólica vs Orense</title>
+  </programme>
+  <programme start="20260915010000" stop="20260915040000" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Orense___19_00_1">
+    <title>⌾ En vivo | 19:00 | - Ecuador - Universidad C vs ólica vs Orense</title>
+  </programme>
+  <programme start="20260915040000" stop="20260915055959" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Orense___19_00_1">
+    <title>Finalizado | - Ecuador - Universidad C vs ólica vs Orense</title>
   </programme>
 </tv>
 
