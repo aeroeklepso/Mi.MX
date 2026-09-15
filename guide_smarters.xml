@@ -129325,6 +129325,12 @@
   <channel id="EVENTOS_VIP__Evento_____Miami_Marlins_vs_Arizona_Diamondbacks___MLB_____20_40_1">
     <display-name>Evento | ◘ Miami Marlins vs Arizona Diamondbacks ◘ MLB ◘ | 20:40</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB______20_30_1">
+    <display-name>Evento | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘ | 20:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB____SD___20_30_1">
+    <display-name>Evento | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘ SD | 20:30</display-name>
+  </channel>
   <programme start="20260915060000" stop="20260916010000" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Orense___19_00_1">
     <title>Próximamente | 19:00 | - Ecuador - Universidad C vs ólica vs Orense</title>
   </programme>
@@ -129909,6 +129915,24 @@
   </programme>
   <programme start="20260916054000" stop="20260916055959" channel="EVENTOS_VIP__Evento_____Miami_Marlins_vs_Arizona_Diamondbacks___MLB_____20_40_1">
     <title>Finalizado | ◘ Miami Marlins vs Arizona Diamondbacks ◘ MLB ◘</title>
+  </programme>
+  <programme start="20260915060000" stop="20260916023000" channel="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB______20_30_1">
+    <title>Próximamente | 20:30 | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘</title>
+  </programme>
+  <programme start="20260916023000" stop="20260916053000" channel="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB______20_30_1">
+    <title>⌾ En vivo | 20:30 | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘</title>
+  </programme>
+  <programme start="20260916053000" stop="20260916055959" channel="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB______20_30_1">
+    <title>Finalizado | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘</title>
+  </programme>
+  <programme start="20260915060000" stop="20260916023000" channel="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB____SD___20_30_1">
+    <title>Próximamente | 20:30 | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘ SD</title>
+  </programme>
+  <programme start="20260916023000" stop="20260916053000" channel="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB____SD___20_30_1">
+    <title>⌾ En vivo | 20:30 | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘ SD</title>
+  </programme>
+  <programme start="20260916053000" stop="20260916055959" channel="EVENTOS_VIP__Evento_____Toros_de_Tijuana_vs_Olmecas_de_Tabasco___LMB____SD___20_30_1">
+    <title>Finalizado | ◘ Toros de Tijuana vs Olmecas de Tabasco ◘ LMB ◘◘ SD</title>
   </programme>
 </tv>
 
