@@ -126655,6 +126655,9 @@
   <channel id="EVENTOS_VIP__Evento_____Loyola_Marymount_vs_Cal_State_Fullerton___NCAA______21_00_1">
     <display-name>Evento | ◘ Loyola Marymount vs Cal State Fullerton ◘ NCAA ◘◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Sunderlan_vs_Az_Alkmaar___00_00_1">
+    <display-name>Evento | Sunderlan vs Az Alkmaar | 00:00</display-name>
+  </channel>
   <programme start="20260916000000 -0600" stop="20260916121000 -0600" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____12_10_1">
     <title>Próximamente | 12:10 | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘</title>
   </programme>
@@ -127275,6 +127278,15 @@
   </programme>
   <programme start="20260917000000 -0600" stop="20260916235959 -0600" channel="EVENTOS_VIP__Evento_____Loyola_Marymount_vs_Cal_State_Fullerton___NCAA______21_00_1">
     <title>Finalizado | ◘ Loyola Marymount vs Cal State Fullerton ◘ NCAA ◘◘</title>
+  </programme>
+  <programme start="20260916000000 -0600" stop="20260916000000 -0600" channel="EVENTOS_VIP__Evento___Sunderlan_vs_Az_Alkmaar___00_00_1">
+    <title>Próximamente | 00:00 | Sunderlan vs Az Alkmaar</title>
+  </programme>
+  <programme start="20260916000000 -0600" stop="20260916030000 -0600" channel="EVENTOS_VIP__Evento___Sunderlan_vs_Az_Alkmaar___00_00_1">
+    <title>⌾ En vivo | 00:00 | Sunderlan vs Az Alkmaar</title>
+  </programme>
+  <programme start="20260916030000 -0600" stop="20260916235959 -0600" channel="EVENTOS_VIP__Evento___Sunderlan_vs_Az_Alkmaar___00_00_1">
+    <title>Finalizado | Sunderlan vs Az Alkmaar</title>
   </programme>
 </tv>
 
