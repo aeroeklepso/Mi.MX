@@ -128614,20 +128614,11 @@
   <channel id="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_Union_Berlin___Bundesliga___SD___13_30_1">
     <display-name>Evento | ◘ Bayern München vs Union Berlin ◘ Bundesliga ◘ SD | 13:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Greuther_Fuerth_vs_1__FC_Magdeburg___2__Bundesliga______11_20_1">
-    <display-name>Evento | ◘ Greuther Fuerth vs 1. FC Magdeburg ◘ 2. Bundesliga ◘◘ | 11:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Wolfsburg_vs_SV_Darmstadt_98___2__Bundesliga______11_20_1">
-    <display-name>Evento | ◘ Wolfsburg vs SV Darmstadt 98 ◘ 2. Bundesliga ◘◘ | 11:20</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Albacete_vs_C_rdoba___Liga_Hypermotion_____13_30_1">
     <display-name>Evento | ◘ Albacete vs Córdoba ◘ Liga Hypermotion ◘ | 13:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Bristol_City_vs_Watford___Championship______13_50_1">
     <display-name>Evento | ◘ Bristol City vs Watford ◘ Championship ◘◘ | 13:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Kasimpasa_vs_Konyaspor___S_per_Lig______11_50_1">
-    <display-name>Evento | ◘ Kasimpasa vs Konyaspor ◘ Süper Lig ◘◘ | 11:50</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Groningen_vs_PEC_Zwolle___Eredivisie_____13_00_1">
     <display-name>Evento | ◘ Groningen vs PEC Zwolle ◘ Eredivisie ◘ | 13:00</display-name>
@@ -128683,9 +128674,6 @@
   <channel id="EVENTOS_VIP__Evento_____Bay_of_Plenty_vs_Hawke_s_Bay___Rugby______21_00_1">
     <display-name>Evento | ◘ Bay of Plenty vs Hawke's Bay ◘ Rugby ◘◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Tasman_vs_Auckland___Rugby______02_05_1">
-    <display-name>Evento | ◘ Tasman vs Auckland ◘ Rugby ◘◘ | 02:05</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Nadia_Podoroska_vs_Suzan_Lamens___WTA______17_00_1">
     <display-name>Evento | ◘ Nadia Podoroska vs Suzan Lamens ◘ WTA ◘◘ | 17:00</display-name>
   </channel>
@@ -128731,11 +128719,11 @@
   <channel id="EVENTOS_VIP__Evento_____Old_Dominion_vs_UL_Monroe___F_tbol_Femenino_NCAA______19_00_1">
     <display-name>Evento | ◘ Old Dominion vs UL Monroe ◘ Fútbol Femenino NCAA ◘◘ | 19:00</display-name>
   </channel>
-  <channel id="Evento_01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf_____01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf________2026_BMW_PGA_Championship__Fe_vs_ured_Groups___Golf______00_30_1">
-    <display-name>01:30 ◘ 2026 BMW PGA Championship: Featured Groups ◘ Golf ◘◘ | ◘ 2026 BMW PGA Championship: Fe vs ured Groups ◘ Golf ◘◘ | 00:30</display-name>
-  </channel>
   <channel id="Evento_06_30___Biltmore_Championship_Asheville__Featured_Groups___Golf_____06_30___Biltmore_Championship_Asheville__Featured_Groups___Golf________Biltmore_Championship_Asheville__Fe_vs_ured_Groups___Golf______05_30_1">
     <display-name>06:30 ◘ Biltmore Championship Asheville: Featured Groups ◘ Golf ◘◘ | ◘ Biltmore Championship Asheville: Fe vs ured Groups ◘ Golf ◘◘ | 05:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Aucas_vs_Macar____19_30_1">
+    <display-name>Evento | Aucas vs Macará | 19:30</display-name>
   </channel>
   <programme start="20260918060000" stop="20260918234000" channel="EVENTOS_VIP__Evento_____Chicago_Cubs_vs_Cincinnati_Reds___MLB_____17_40_1">
     <title>Próximamente | 17:40 | ◘ Chicago Cubs vs Cincinnati Reds ◘ MLB ◘</title>
@@ -129025,24 +129013,6 @@
   <programme start="20260918223000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_Union_Berlin___Bundesliga___SD___13_30_1">
     <title>Finalizado | ◘ Bayern München vs Union Berlin ◘ Bundesliga ◘ SD</title>
   </programme>
-  <programme start="20260918060000" stop="20260918172000" channel="EVENTOS_VIP__Evento_____Greuther_Fuerth_vs_1__FC_Magdeburg___2__Bundesliga______11_20_1">
-    <title>Próximamente | 11:20 | ◘ Greuther Fuerth vs 1. FC Magdeburg ◘ 2. Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20260918172000" stop="20260918202000" channel="EVENTOS_VIP__Evento_____Greuther_Fuerth_vs_1__FC_Magdeburg___2__Bundesliga______11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Greuther Fuerth vs 1. FC Magdeburg ◘ 2. Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20260918202000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Greuther_Fuerth_vs_1__FC_Magdeburg___2__Bundesliga______11_20_1">
-    <title>Finalizado | ◘ Greuther Fuerth vs 1. FC Magdeburg ◘ 2. Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20260918060000" stop="20260918172000" channel="EVENTOS_VIP__Evento_____Wolfsburg_vs_SV_Darmstadt_98___2__Bundesliga______11_20_1">
-    <title>Próximamente | 11:20 | ◘ Wolfsburg vs SV Darmstadt 98 ◘ 2. Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20260918172000" stop="20260918202000" channel="EVENTOS_VIP__Evento_____Wolfsburg_vs_SV_Darmstadt_98___2__Bundesliga______11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Wolfsburg vs SV Darmstadt 98 ◘ 2. Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20260918202000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Wolfsburg_vs_SV_Darmstadt_98___2__Bundesliga______11_20_1">
-    <title>Finalizado | ◘ Wolfsburg vs SV Darmstadt 98 ◘ 2. Bundesliga ◘◘</title>
-  </programme>
   <programme start="20260918060000" stop="20260918193000" channel="EVENTOS_VIP__Evento_____Albacete_vs_C_rdoba___Liga_Hypermotion_____13_30_1">
     <title>Próximamente | 13:30 | ◘ Albacete vs Córdoba ◘ Liga Hypermotion ◘</title>
   </programme>
@@ -129060,15 +129030,6 @@
   </programme>
   <programme start="20260918225000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Bristol_City_vs_Watford___Championship______13_50_1">
     <title>Finalizado | ◘ Bristol City vs Watford ◘ Championship ◘◘</title>
-  </programme>
-  <programme start="20260918060000" stop="20260918175000" channel="EVENTOS_VIP__Evento_____Kasimpasa_vs_Konyaspor___S_per_Lig______11_50_1">
-    <title>Próximamente | 11:50 | ◘ Kasimpasa vs Konyaspor ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20260918175000" stop="20260918205000" channel="EVENTOS_VIP__Evento_____Kasimpasa_vs_Konyaspor___S_per_Lig______11_50_1">
-    <title>⌾ En vivo | 11:50 | ◘ Kasimpasa vs Konyaspor ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20260918205000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Kasimpasa_vs_Konyaspor___S_per_Lig______11_50_1">
-    <title>Finalizado | ◘ Kasimpasa vs Konyaspor ◘ Süper Lig ◘◘</title>
   </programme>
   <programme start="20260918060000" stop="20260918190000" channel="EVENTOS_VIP__Evento_____Groningen_vs_PEC_Zwolle___Eredivisie_____13_00_1">
     <title>Próximamente | 13:00 | ◘ Groningen vs PEC Zwolle ◘ Eredivisie ◘</title>
@@ -129232,15 +129193,6 @@
   <programme start="20260919060000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Bay_of_Plenty_vs_Hawke_s_Bay___Rugby______21_00_1">
     <title>Finalizado | ◘ Bay of Plenty vs Hawke's Bay ◘ Rugby ◘◘</title>
   </programme>
-  <programme start="20260918060000" stop="20260918080500" channel="EVENTOS_VIP__Evento_____Tasman_vs_Auckland___Rugby______02_05_1">
-    <title>Próximamente | 02:05 | ◘ Tasman vs Auckland ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20260918080500" stop="20260918110500" channel="EVENTOS_VIP__Evento_____Tasman_vs_Auckland___Rugby______02_05_1">
-    <title>⌾ En vivo | 02:05 | ◘ Tasman vs Auckland ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20260918110500" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Tasman_vs_Auckland___Rugby______02_05_1">
-    <title>Finalizado | ◘ Tasman vs Auckland ◘ Rugby ◘◘</title>
-  </programme>
   <programme start="20260918060000" stop="20260918230000" channel="EVENTOS_VIP__Evento_____Nadia_Podoroska_vs_Suzan_Lamens___WTA______17_00_1">
     <title>Próximamente | 17:00 | ◘ Nadia Podoroska vs Suzan Lamens ◘ WTA ◘◘</title>
   </programme>
@@ -129376,15 +129328,6 @@
   <programme start="20260919040000" stop="20260919055959" channel="EVENTOS_VIP__Evento_____Old_Dominion_vs_UL_Monroe___F_tbol_Femenino_NCAA______19_00_1">
     <title>Finalizado | ◘ Old Dominion vs UL Monroe ◘ Fútbol Femenino NCAA ◘◘</title>
   </programme>
-  <programme start="20260918060000" stop="20260918073000" channel="Evento_01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf_____01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf________2026_BMW_PGA_Championship__Fe_vs_ured_Groups___Golf______00_30_1">
-    <title>Próximamente | 01:30 | ◘ 2026 BMW PGA Championship: Fe vs ured Groups ◘ Golf ◘◘</title>
-  </programme>
-  <programme start="20260918073000" stop="20260918103000" channel="Evento_01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf_____01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf________2026_BMW_PGA_Championship__Fe_vs_ured_Groups___Golf______00_30_1">
-    <title>⌾ En vivo | 01:30 | ◘ 2026 BMW PGA Championship: Fe vs ured Groups ◘ Golf ◘◘</title>
-  </programme>
-  <programme start="20260918103000" stop="20260919055959" channel="Evento_01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf_____01_30___2026_BMW_PGA_Championship__Featured_Groups___Golf________2026_BMW_PGA_Championship__Fe_vs_ured_Groups___Golf______00_30_1">
-    <title>Finalizado | ◘ 2026 BMW PGA Championship: Fe vs ured Groups ◘ Golf ◘◘</title>
-  </programme>
   <programme start="20260918060000" stop="20260918123000" channel="Evento_06_30___Biltmore_Championship_Asheville__Featured_Groups___Golf_____06_30___Biltmore_Championship_Asheville__Featured_Groups___Golf________Biltmore_Championship_Asheville__Fe_vs_ured_Groups___Golf______05_30_1">
     <title>Próximamente | 06:30 | ◘ Biltmore Championship Asheville: Fe vs ured Groups ◘ Golf ◘◘</title>
   </programme>
@@ -129393,6 +129336,15 @@
   </programme>
   <programme start="20260918153000" stop="20260919055959" channel="Evento_06_30___Biltmore_Championship_Asheville__Featured_Groups___Golf_____06_30___Biltmore_Championship_Asheville__Featured_Groups___Golf________Biltmore_Championship_Asheville__Fe_vs_ured_Groups___Golf______05_30_1">
     <title>Finalizado | ◘ Biltmore Championship Asheville: Fe vs ured Groups ◘ Golf ◘◘</title>
+  </programme>
+  <programme start="20260918060000" stop="20260919013000" channel="EVENTOS_VIP__Evento___Aucas_vs_Macar____19_30_1">
+    <title>Próximamente | 19:30 | Aucas vs Macará</title>
+  </programme>
+  <programme start="20260919013000" stop="20260919043000" channel="EVENTOS_VIP__Evento___Aucas_vs_Macar____19_30_1">
+    <title>⌾ En vivo | 19:30 | Aucas vs Macará</title>
+  </programme>
+  <programme start="20260919043000" stop="20260919055959" channel="EVENTOS_VIP__Evento___Aucas_vs_Macar____19_30_1">
+    <title>Finalizado | Aucas vs Macará</title>
   </programme>
 </tv>
 
