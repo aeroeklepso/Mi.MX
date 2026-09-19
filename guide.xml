@@ -124534,6 +124534,9 @@
   <channel id="Evento_03_00___2026_BMW_PGA_Championship__Featured_Groups___Golf_____03_00___2026_BMW_PGA_Championship__Featured_Groups___Golf________2026_BMW_PGA_Championship__Fe_vs_ured_Groups___Golf______02_00_1">
     <display-name>03:00 ◘ 2026 BMW PGA Championship: Featured Groups ◘ Golf ◘◘ | ◘ 2026 BMW PGA Championship: Fe vs ured Groups ◘ Golf ◘◘ | 02:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____COPA_DAVIS___CHILE_vs_ESPA_A___11_00_1">
+    <display-name>Evento | - COPA DAVIS - CHILE vs ESPAÑA | 11:00</display-name>
+  </channel>
   <programme start="20260919000000 -0600" stop="20260919131000 -0600" channel="EVENTOS_VIP__Evento_____Detroit_Tigers_vs_Chicago_White_Sox___MLB_____13_10_1">
     <title>Próximamente | 13:10 | ◘ Detroit Tigers vs Chicago White Sox ◘ MLB ◘</title>
   </programme>
@@ -126495,6 +126498,15 @@
   </programme>
   <programme start="20260919060000 -0600" stop="20260919235959 -0600" channel="Evento_03_00___2026_BMW_PGA_Championship__Featured_Groups___Golf_____03_00___2026_BMW_PGA_Championship__Featured_Groups___Golf________2026_BMW_PGA_Championship__Fe_vs_ured_Groups___Golf______02_00_1">
     <title>Finalizado | ◘ 2026 BMW PGA Championship: Fe vs ured Groups ◘ Golf ◘◘</title>
+  </programme>
+  <programme start="20260919000000 -0600" stop="20260919110000 -0600" channel="EVENTOS_VIP__Evento_____COPA_DAVIS___CHILE_vs_ESPA_A___11_00_1">
+    <title>Próximamente | 11:00 | - COPA DAVIS - CHILE vs ESPAÑA</title>
+  </programme>
+  <programme start="20260919110000 -0600" stop="20260919140000 -0600" channel="EVENTOS_VIP__Evento_____COPA_DAVIS___CHILE_vs_ESPA_A___11_00_1">
+    <title>⌾ En vivo | 11:00 | - COPA DAVIS - CHILE vs ESPAÑA</title>
+  </programme>
+  <programme start="20260919140000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____COPA_DAVIS___CHILE_vs_ESPA_A___11_00_1">
+    <title>Finalizado | - COPA DAVIS - CHILE vs ESPAÑA</title>
   </programme>
 </tv>
 
