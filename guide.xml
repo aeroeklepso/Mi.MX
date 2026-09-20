@@ -124918,17 +124918,11 @@
     <desc>Las batallas continúan mientras los entrenadores preparan a sus artistas para enfrentarse en duelos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Detroit_Tigers_vs_Chicago_White_Sox___MLB_____13_10_1">
-    <display-name>Evento | ◘ Detroit Tigers vs Chicago White Sox ◘ MLB ◘ | 13:10</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Milwaukee_Brewers_vs_Baltimore_Orioles___MLB_____15_05_1">
     <display-name>Evento | ◘ Milwaukee Brewers vs Baltimore Orioles ◘ MLB ◘ | 15:05</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Boston_Red_Sox_vs_Tampa_Bay_Rays___MLB_____15_10_1">
     <display-name>Evento | ◘ Boston Red Sox vs Tampa Bay Rays ◘ MLB ◘ | 15:10</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Philadelphia_Phillies_vs_New_York_Mets___MLB_____15_10_1">
-    <display-name>Evento | ◘ Philadelphia Phillies vs New York Mets ◘ MLB ◘ | 15:10</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____vs_hletics_vs__Cleveland_Guardians___MLB_____17_10_1">
     <display-name>Evento | ◘ vs hletics vs. Cleveland Guardians ◘ MLB ◘ | 17:10</display-name>
@@ -124983,9 +124977,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Vancouver_Canucks_vs_Seattle_Kraken___NHL_____20_00_1">
     <display-name>Evento | ◘ Vancouver Canucks vs Seattle Kraken ◘ NHL ◘ | 20:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Phoenix_Mercury_vs_Dallas_Wings___WNBA_____12_00_1">
-    <display-name>Evento | ◘ Phoenix Mercury vs Dallas Wings ◘ WNBA ◘ | 12:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Chicago_Sky_vs_Atlanta_Dream___WNBA_____18_00_1">
     <display-name>Evento | ◘ Chicago Sky vs Atlanta Dream ◘ WNBA ◘ | 18:00</display-name>
@@ -125059,38 +125050,14 @@
   <channel id="Evento_MLS__MLS_____Portland_Timbers_vs_Atlanta_United___MLS___English___20_30_1">
     <display-name>MLS | ◘ Portland Timbers vs Atlanta United ◘ MLS ◘ English | 20:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga_____14_00_1">
-    <display-name>Evento | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___FHD___14_00_1">
-    <display-name>Evento | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ FHD | 14:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___SD___14_00_1">
     <display-name>Evento | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ SD | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Venezia_vs_Lazio___Serie_A_____13_45_1">
-    <display-name>Evento | ◘ Venezia vs Lazio ◘ Serie A ◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Argentina__F__vs_Venezuela__F____CONMEBOL_Sub20_Futsal_____17_30_1">
-    <display-name>Evento | ◘ Argentina (F) vs Venezuela (F) ◘ CONMEBOL Sub20 Futsal ◘ | 17:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Sporting_CP_vs_Arouca___Primeira_Liga_____14_30_1">
-    <display-name>Evento | ◘ Sporting CP vs Arouca ◘ Primeira Liga ◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Deportivo_Maldonado_vs_Cerro_Largo___Primera_Uruguay______16_00_1">
-    <display-name>Evento | ◘ Deportivo Maldonado vs Cerro Largo ◘ Primera Uruguay ◘◘ | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____La_Luz_vs_Atenas___Segunda_Uruguay______16_45_1">
-    <display-name>Evento | ◘ La Luz vs Atenas ◘ Segunda Uruguay ◘◘ | 16:45</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina______17_00_1">
     <display-name>Evento | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ | 17:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina____SD___17_00_1">
     <display-name>Evento | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ SD | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina____FHD___17_00_1">
-    <display-name>Evento | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ FHD | 17:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Uni_n_Santa_Fe_vs_Independiente___Primera_Argentina_____14_45_1">
     <display-name>Evento | ◘ Unión Santa Fe vs Independiente ◘ Primera Argentina ◘ | 14:45</display-name>
@@ -125106,12 +125073,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Melgar_vs_Sport_Boys___Primera_Peru_____20_15_1">
     <display-name>Evento | ◘ Melgar vs Sport Boys ◘ Primera Peru ◘ | 20:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Millonarios_vs_Boyac__Chic____Liga_Betplay_____14_00_1">
-    <display-name>Evento | ◘ Millonarios vs Boyacá Chicó ◘ Liga Betplay ◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alianza_vs_Santa_Fe___Liga_Betplay_____16_05_1">
-    <display-name>Evento | ◘ Alianza vs Santa Fe ◘ Liga Betplay ◘ | 16:05</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Deportivo_Cali_vs_C_cuta_Deportivo___Liga_Betplay_____18_10_1">
     <display-name>Evento | ◘ Deportivo Cali vs Cúcuta Deportivo ◘ Liga Betplay ◘ | 18:10</display-name>
@@ -125158,9 +125119,6 @@
   <channel id="EVENTOS_VIP__Evento_____Inter_vs_Isidro_Metap_n___Primera_Salvador_____18_00_1">
     <display-name>Evento | ◘ Inter vs Isidro Metapán ◘ Primera Salvador ◘ | 18:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olancho___Liga_HN_____16_00_1">
-    <display-name>Evento | ◘ Policía Nacional vs Olancho ◘ Liga HN ◘ | 16:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Real_Espa_a_vs_Motagua___Liga_HN_____20_30_1">
     <display-name>Evento | ◘ Real España vs Motagua ◘ Liga HN ◘ | 20:30</display-name>
   </channel>
@@ -125176,9 +125134,6 @@
   <channel id="Evento_LigaMX__LigaMX_____Tijuana_vs_Guadalajara___Liga_MX_Femenil_____17_06_1">
     <display-name>LigaMX | ◘ Tijuana vs Guadalajara ◘ Liga MX Femenil ◘ | 17:06</display-name>
   </channel>
-  <channel id="Evento_LigaMX__LigaMX_____vs_l_tico_de_San_Luis_vs__Necaxa___Liga_MX______16_50_1">
-    <display-name>LigaMX | ◘ vs lético de San Luis vs. Necaxa ◘ Liga MX ◘◘ | 16:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____vs_l_tico_Morelia_vs__Leones_Negros_UdeG___Liga_de_Expansi_n_MX_____20_00_1">
     <display-name>Evento | ◘ vs lético Morelia vs. Leones Negros UdeG ◘ Liga de Expansión MX ◘ | 20:00</display-name>
   </channel>
@@ -125193,9 +125148,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Pacific_FC_vs_Vancouver_FC___Canadian_Premier_League_____19_00_1">
     <display-name>Evento | ◘ Pacific FC vs Vancouver FC ◘ Canadian Premier League ◘ | 19:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Richmond_Kickers_vs_Charlotte_Independence___USL_League_One______17_00_1">
-    <display-name>Evento | ◘ Richmond Kickers vs Charlotte Independence ◘ USL League One ◘◘ | 17:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Ch_vs_tanooga_Red_Wolves_SC_vs__Portland_Hearts_of_Pine___USL_League_One______18_00_1">
     <display-name>Evento | ◘ Ch vs tanooga Red Wolves SC vs. Portland Hearts of Pine ◘ USL League One ◘◘ | 18:00</display-name>
@@ -125242,15 +125194,6 @@
   <channel id="EVENTOS_VIP__Evento_____Phoenix_Rising_FC_vs_El_Paso_Locomotive_FC___USL_Championship______21_00_1">
     <display-name>Evento | ◘ Phoenix Rising FC vs El Paso Locomotive FC ◘ USL Championship ◘◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Lafayette_vs_Colgate___F_tbol_Femenino_NCAA______16_00_1">
-    <display-name>Evento | ◘ Lafayette vs Colgate ◘ Fútbol Femenino NCAA ◘◘ | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Army_vs_Lehigh___F_tbol_Femenino_NCAA______17_00_1">
-    <display-name>Evento | ◘ Army vs Lehigh ◘ Fútbol Femenino NCAA ◘◘ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Massachusetts_vs_Yale___F_tbol_Femenino_NCAA______17_00_1">
-    <display-name>Evento | ◘ Massachusetts vs Yale ◘ Fútbol Femenino NCAA ◘◘ | 17:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento______18_Vermont_vs_Dartmouth___F_tbol_Femenino_NCAA______18_00_1">
     <display-name>Evento | ◘ #18 Vermont vs Dartmouth ◘ Fútbol Femenino NCAA ◘◘ | 18:00</display-name>
   </channel>
@@ -125272,45 +125215,6 @@
   <channel id="EVENTOS_VIP__Evento_____Weber_St_vs_e_vs__Utah_Valley___F_tbol_Femenino_NCAA______20_00_1">
     <display-name>Evento | ◘ Weber St vs e vs. Utah Valley ◘ Fútbol Femenino NCAA ◘◘ | 20:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Central_Connecticut_vs_Montana_State___NCAA_F_tbol_Americano______14_00_1">
-    <display-name>Evento | ◘ Central Connecticut vs Montana State ◘ NCAA Fútbol Americano ◘◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento______16_SMU_vs__23_Louisville___NCAA_F_tbol_Americano______14_30_1">
-    <display-name>Evento | ◘ #16 SMU vs #23 Louisville ◘ NCAA Fútbol Americano ◘◘ | 14:30</display-name>
-  </channel>
-  <channel id="Evento_En_Espa_ol___NCAA_F_tbol_Americano_____En_Espa_ol___NCAA_F_tbol_Americano________Florida_St_vs_e_vs___10_Alabama___13_30_1">
-    <display-name>En Español ◘ NCAA Fútbol Americano ◘◘ | ◘ Florida St vs e vs. #10 Alabama | 13:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Georgetown_vs_Richmond___NCAA_F_tbol_Americano______14_30_1">
-    <display-name>Evento | ◘ Georgetown vs Richmond ◘ NCAA Fútbol Americano ◘◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Kentucky_vs__9_Texas_A_M___NCAA_F_tbol_Americano______14_30_1">
-    <display-name>Evento | ◘ Kentucky vs #9 Texas A&amp;M ◘ NCAA Fútbol Americano ◘◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Miami_vs_Cincinnati___NCAA_F_tbol_Americano______14_30_1">
-    <display-name>Evento | ◘ Miami vs Cincinnati ◘ NCAA Fútbol Americano ◘◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Stonehill_vs_Massachusetts___NCAA_F_tbol_Americano______14_30_1">
-    <display-name>Evento | ◘ Stonehill vs Massachusetts ◘ NCAA Fútbol Americano ◘◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Wagner_vs_California___NCAA_F_tbol_Americano______14_30_1">
-    <display-name>Evento | ◘ Wagner vs California ◘ NCAA Fútbol Americano ◘◘ | 14:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Abilene_Christian_vs_Idaho___NCAA_F_tbol_Americano______15_00_1">
-    <display-name>Evento | ◘ Abilene Christian vs Idaho ◘ NCAA Fútbol Americano ◘◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Louisiana_Tech_vs_Baylor___NCAA_F_tbol_Americano______15_00_1">
-    <display-name>Evento | ◘ Louisiana Tech vs Baylor ◘ NCAA Fútbol Americano ◘◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Stanford_vs_Duke___NCAA_F_tbol_Americano______15_00_1">
-    <display-name>Evento | ◘ Stanford vs Duke ◘ NCAA Fútbol Americano ◘◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Mississippi_St_vs_e_vs__South_Carolina___NCAA_F_tbol_Americano______15_15_1">
-    <display-name>Evento | ◘ Mississippi St vs e vs. South Carolina ◘ NCAA Fútbol Americano ◘◘ | 15:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SE_Louisiana_vs_UL_Monroe___NCAA_F_tbol_Americano______15_30_1">
-    <display-name>Evento | ◘ SE Louisiana vs UL Monroe ◘ NCAA Fútbol Americano ◘◘ | 15:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Charlotte_vs_App_State___NCAA_F_tbol_Americano______17_00_1">
     <display-name>Evento | ◘ Charlotte vs App State ◘ NCAA Fútbol Americano ◘◘ | 17:00</display-name>
   </channel>
@@ -125329,15 +125233,6 @@
   <channel id="EVENTOS_VIP__Evento______LIGA_PRO_Ecuador___Emelec_vs_Libertad___19_00_1">
     <display-name>Evento | -  LIGA PRO Ecuador - Emelec vs Libertad | 19:00</display-name>
   </channel>
-  <programme start="20260919000000 -0600" stop="20260919131000 -0600" channel="EVENTOS_VIP__Evento_____Detroit_Tigers_vs_Chicago_White_Sox___MLB_____13_10_1">
-    <title>Próximamente | 13:10 | ◘ Detroit Tigers vs Chicago White Sox ◘ MLB ◘</title>
-  </programme>
-  <programme start="20260919131000 -0600" stop="20260919161000 -0600" channel="EVENTOS_VIP__Evento_____Detroit_Tigers_vs_Chicago_White_Sox___MLB_____13_10_1">
-    <title>⌾ En vivo | 13:10 | ◘ Detroit Tigers vs Chicago White Sox ◘ MLB ◘</title>
-  </programme>
-  <programme start="20260919161000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Detroit_Tigers_vs_Chicago_White_Sox___MLB_____13_10_1">
-    <title>Finalizado | ◘ Detroit Tigers vs Chicago White Sox ◘ MLB ◘</title>
-  </programme>
   <programme start="20260919000000 -0600" stop="20260919150500 -0600" channel="EVENTOS_VIP__Evento_____Milwaukee_Brewers_vs_Baltimore_Orioles___MLB_____15_05_1">
     <title>Próximamente | 15:05 | ◘ Milwaukee Brewers vs Baltimore Orioles ◘ MLB ◘</title>
   </programme>
@@ -125355,15 +125250,6 @@
   </programme>
   <programme start="20260919181000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Boston_Red_Sox_vs_Tampa_Bay_Rays___MLB_____15_10_1">
     <title>Finalizado | ◘ Boston Red Sox vs Tampa Bay Rays ◘ MLB ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919151000 -0600" channel="EVENTOS_VIP__Evento_____Philadelphia_Phillies_vs_New_York_Mets___MLB_____15_10_1">
-    <title>Próximamente | 15:10 | ◘ Philadelphia Phillies vs New York Mets ◘ MLB ◘</title>
-  </programme>
-  <programme start="20260919151000 -0600" stop="20260919181000 -0600" channel="EVENTOS_VIP__Evento_____Philadelphia_Phillies_vs_New_York_Mets___MLB_____15_10_1">
-    <title>⌾ En vivo | 15:10 | ◘ Philadelphia Phillies vs New York Mets ◘ MLB ◘</title>
-  </programme>
-  <programme start="20260919181000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Philadelphia_Phillies_vs_New_York_Mets___MLB_____15_10_1">
-    <title>Finalizado | ◘ Philadelphia Phillies vs New York Mets ◘ MLB ◘</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919171000 -0600" channel="EVENTOS_VIP__Evento_____vs_hletics_vs__Cleveland_Guardians___MLB_____17_10_1">
     <title>Próximamente | 17:10 | ◘ vs hletics vs. Cleveland Guardians ◘ MLB ◘</title>
@@ -125526,15 +125412,6 @@
   </programme>
   <programme start="20260919230000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Vancouver_Canucks_vs_Seattle_Kraken___NHL_____20_00_1">
     <title>Finalizado | ◘ Vancouver Canucks vs Seattle Kraken ◘ NHL ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919120000 -0600" channel="EVENTOS_VIP__Evento_____Phoenix_Mercury_vs_Dallas_Wings___WNBA_____12_00_1">
-    <title>Próximamente | 12:00 | ◘ Phoenix Mercury vs Dallas Wings ◘ WNBA ◘</title>
-  </programme>
-  <programme start="20260919120000 -0600" stop="20260919150000 -0600" channel="EVENTOS_VIP__Evento_____Phoenix_Mercury_vs_Dallas_Wings___WNBA_____12_00_1">
-    <title>⌾ En vivo | 12:00 | ◘ Phoenix Mercury vs Dallas Wings ◘ WNBA ◘</title>
-  </programme>
-  <programme start="20260919150000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Phoenix_Mercury_vs_Dallas_Wings___WNBA_____12_00_1">
-    <title>Finalizado | ◘ Phoenix Mercury vs Dallas Wings ◘ WNBA ◘</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919180000 -0600" channel="EVENTOS_VIP__Evento_____Chicago_Sky_vs_Atlanta_Dream___WNBA_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Chicago Sky vs Atlanta Dream ◘ WNBA ◘</title>
@@ -125752,24 +125629,6 @@
   <programme start="20260919233000 -0600" stop="20260919235959 -0600" channel="Evento_MLS__MLS_____Portland_Timbers_vs_Atlanta_United___MLS___English___20_30_1">
     <title>Finalizado | ◘ Portland Timbers vs Atlanta United ◘ MLS ◘ English</title>
   </programme>
-  <programme start="20260919000000 -0600" stop="20260919140000 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga_____14_00_1">
-    <title>Próximamente | 14:00 | ◘ Sevilla vs Barcelona ◘ LaLiga ◘</title>
-  </programme>
-  <programme start="20260919140000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ◘ Sevilla vs Barcelona ◘ LaLiga ◘</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga_____14_00_1">
-    <title>Finalizado | ◘ Sevilla vs Barcelona ◘ LaLiga ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919140000 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___FHD___14_00_1">
-    <title>Próximamente | 14:00 | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ FHD</title>
-  </programme>
-  <programme start="20260919140000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___FHD___14_00_1">
-    <title>⌾ En vivo | 14:00 | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ FHD</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___FHD___14_00_1">
-    <title>Finalizado | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ FHD</title>
-  </programme>
   <programme start="20260919000000 -0600" stop="20260919140000 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___SD___14_00_1">
     <title>Próximamente | 14:00 | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ SD</title>
   </programme>
@@ -125778,51 +125637,6 @@
   </programme>
   <programme start="20260919170000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Sevilla_vs_Barcelona___LaLiga___SD___14_00_1">
     <title>Finalizado | ◘ Sevilla vs Barcelona ◘ LaLiga ◘ SD</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919134500 -0600" channel="EVENTOS_VIP__Evento_____Venezia_vs_Lazio___Serie_A_____13_45_1">
-    <title>Próximamente | 13:45 | ◘ Venezia vs Lazio ◘ Serie A ◘</title>
-  </programme>
-  <programme start="20260919134500 -0600" stop="20260919164500 -0600" channel="EVENTOS_VIP__Evento_____Venezia_vs_Lazio___Serie_A_____13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Venezia vs Lazio ◘ Serie A ◘</title>
-  </programme>
-  <programme start="20260919164500 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Venezia_vs_Lazio___Serie_A_____13_45_1">
-    <title>Finalizado | ◘ Venezia vs Lazio ◘ Serie A ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Argentina__F__vs_Venezuela__F____CONMEBOL_Sub20_Futsal_____17_30_1">
-    <title>Próximamente | 17:30 | ◘ Argentina (F) vs Venezuela (F) ◘ CONMEBOL Sub20 Futsal ◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919203000 -0600" channel="EVENTOS_VIP__Evento_____Argentina__F__vs_Venezuela__F____CONMEBOL_Sub20_Futsal_____17_30_1">
-    <title>⌾ En vivo | 17:30 | ◘ Argentina (F) vs Venezuela (F) ◘ CONMEBOL Sub20 Futsal ◘</title>
-  </programme>
-  <programme start="20260919203000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Argentina__F__vs_Venezuela__F____CONMEBOL_Sub20_Futsal_____17_30_1">
-    <title>Finalizado | ◘ Argentina (F) vs Venezuela (F) ◘ CONMEBOL Sub20 Futsal ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento_____Sporting_CP_vs_Arouca___Primeira_Liga_____14_30_1">
-    <title>Próximamente | 14:30 | ◘ Sporting CP vs Arouca ◘ Primeira Liga ◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Sporting_CP_vs_Arouca___Primeira_Liga_____14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Sporting CP vs Arouca ◘ Primeira Liga ◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Sporting_CP_vs_Arouca___Primeira_Liga_____14_30_1">
-    <title>Finalizado | ◘ Sporting CP vs Arouca ◘ Primeira Liga ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919160000 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Maldonado_vs_Cerro_Largo___Primera_Uruguay______16_00_1">
-    <title>Próximamente | 16:00 | ◘ Deportivo Maldonado vs Cerro Largo ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20260919160000 -0600" stop="20260919190000 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Maldonado_vs_Cerro_Largo___Primera_Uruguay______16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Deportivo Maldonado vs Cerro Largo ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20260919190000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Maldonado_vs_Cerro_Largo___Primera_Uruguay______16_00_1">
-    <title>Finalizado | ◘ Deportivo Maldonado vs Cerro Largo ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919164500 -0600" channel="EVENTOS_VIP__Evento_____La_Luz_vs_Atenas___Segunda_Uruguay______16_45_1">
-    <title>Próximamente | 16:45 | ◘ La Luz vs Atenas ◘ Segunda Uruguay ◘◘</title>
-  </programme>
-  <programme start="20260919164500 -0600" stop="20260919194500 -0600" channel="EVENTOS_VIP__Evento_____La_Luz_vs_Atenas___Segunda_Uruguay______16_45_1">
-    <title>⌾ En vivo | 16:45 | ◘ La Luz vs Atenas ◘ Segunda Uruguay ◘◘</title>
-  </programme>
-  <programme start="20260919194500 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____La_Luz_vs_Atenas___Segunda_Uruguay______16_45_1">
-    <title>Finalizado | ◘ La Luz vs Atenas ◘ Segunda Uruguay ◘◘</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina______17_00_1">
     <title>Próximamente | 17:00 | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘</title>
@@ -125841,15 +125655,6 @@
   </programme>
   <programme start="20260919200000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina____SD___17_00_1">
     <title>Finalizado | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ SD</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina____FHD___17_00_1">
-    <title>Próximamente | 17:00 | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ FHD</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919200000 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina____FHD___17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ FHD</title>
-  </programme>
-  <programme start="20260919200000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Hurac_n___Primera_Argentina____FHD___17_00_1">
-    <title>Finalizado | ◘ River Pl vs e vs. Huracán ◘ Primera Argentina ◘◘ FHD</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919144500 -0600" channel="EVENTOS_VIP__Evento_____Uni_n_Santa_Fe_vs_Independiente___Primera_Argentina_____14_45_1">
     <title>Próximamente | 14:45 | ◘ Unión Santa Fe vs Independiente ◘ Primera Argentina ◘</title>
@@ -125895,24 +125700,6 @@
   </programme>
   <programme start="20260919231500 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Melgar_vs_Sport_Boys___Primera_Peru_____20_15_1">
     <title>Finalizado | ◘ Melgar vs Sport Boys ◘ Primera Peru ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919140000 -0600" channel="EVENTOS_VIP__Evento_____Millonarios_vs_Boyac__Chic____Liga_Betplay_____14_00_1">
-    <title>Próximamente | 14:00 | ◘ Millonarios vs Boyacá Chicó ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20260919140000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Millonarios_vs_Boyac__Chic____Liga_Betplay_____14_00_1">
-    <title>⌾ En vivo | 14:00 | ◘ Millonarios vs Boyacá Chicó ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Millonarios_vs_Boyac__Chic____Liga_Betplay_____14_00_1">
-    <title>Finalizado | ◘ Millonarios vs Boyacá Chicó ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919160500 -0600" channel="EVENTOS_VIP__Evento_____Alianza_vs_Santa_Fe___Liga_Betplay_____16_05_1">
-    <title>Próximamente | 16:05 | ◘ Alianza vs Santa Fe ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20260919160500 -0600" stop="20260919190500 -0600" channel="EVENTOS_VIP__Evento_____Alianza_vs_Santa_Fe___Liga_Betplay_____16_05_1">
-    <title>⌾ En vivo | 16:05 | ◘ Alianza vs Santa Fe ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20260919190500 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Alianza_vs_Santa_Fe___Liga_Betplay_____16_05_1">
-    <title>Finalizado | ◘ Alianza vs Santa Fe ◘ Liga Betplay ◘</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919181000 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Cali_vs_C_cuta_Deportivo___Liga_Betplay_____18_10_1">
     <title>Próximamente | 18:10 | ◘ Deportivo Cali vs Cúcuta Deportivo ◘ Liga Betplay ◘</title>
@@ -126049,15 +125836,6 @@
   <programme start="20260919210000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Inter_vs_Isidro_Metap_n___Primera_Salvador_____18_00_1">
     <title>Finalizado | ◘ Inter vs Isidro Metapán ◘ Primera Salvador ◘</title>
   </programme>
-  <programme start="20260919000000 -0600" stop="20260919160000 -0600" channel="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olancho___Liga_HN_____16_00_1">
-    <title>Próximamente | 16:00 | ◘ Policía Nacional vs Olancho ◘ Liga HN ◘</title>
-  </programme>
-  <programme start="20260919160000 -0600" stop="20260919190000 -0600" channel="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olancho___Liga_HN_____16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Policía Nacional vs Olancho ◘ Liga HN ◘</title>
-  </programme>
-  <programme start="20260919190000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Polic_a_Nacional_vs_Olancho___Liga_HN_____16_00_1">
-    <title>Finalizado | ◘ Policía Nacional vs Olancho ◘ Liga HN ◘</title>
-  </programme>
   <programme start="20260919000000 -0600" stop="20260919203000 -0600" channel="EVENTOS_VIP__Evento_____Real_Espa_a_vs_Motagua___Liga_HN_____20_30_1">
     <title>Próximamente | 20:30 | ◘ Real España vs Motagua ◘ Liga HN ◘</title>
   </programme>
@@ -126103,15 +125881,6 @@
   <programme start="20260919200600 -0600" stop="20260919235959 -0600" channel="Evento_LigaMX__LigaMX_____Tijuana_vs_Guadalajara___Liga_MX_Femenil_____17_06_1">
     <title>Finalizado | ◘ Tijuana vs Guadalajara ◘ Liga MX Femenil ◘</title>
   </programme>
-  <programme start="20260919000000 -0600" stop="20260919165000 -0600" channel="Evento_LigaMX__LigaMX_____vs_l_tico_de_San_Luis_vs__Necaxa___Liga_MX______16_50_1">
-    <title>Próximamente | 16:50 | ◘ vs lético de San Luis vs. Necaxa ◘ Liga MX ◘◘</title>
-  </programme>
-  <programme start="20260919165000 -0600" stop="20260919195000 -0600" channel="Evento_LigaMX__LigaMX_____vs_l_tico_de_San_Luis_vs__Necaxa___Liga_MX______16_50_1">
-    <title>⌾ En vivo | 16:50 | ◘ vs lético de San Luis vs. Necaxa ◘ Liga MX ◘◘</title>
-  </programme>
-  <programme start="20260919195000 -0600" stop="20260919235959 -0600" channel="Evento_LigaMX__LigaMX_____vs_l_tico_de_San_Luis_vs__Necaxa___Liga_MX______16_50_1">
-    <title>Finalizado | ◘ vs lético de San Luis vs. Necaxa ◘ Liga MX ◘◘</title>
-  </programme>
   <programme start="20260919000000 -0600" stop="20260919200000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Morelia_vs__Leones_Negros_UdeG___Liga_de_Expansi_n_MX_____20_00_1">
     <title>Próximamente | 20:00 | ◘ vs lético Morelia vs. Leones Negros UdeG ◘ Liga de Expansión MX ◘</title>
   </programme>
@@ -126156,15 +125925,6 @@
   </programme>
   <programme start="20260919220000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Pacific_FC_vs_Vancouver_FC___Canadian_Premier_League_____19_00_1">
     <title>Finalizado | ◘ Pacific FC vs Vancouver FC ◘ Canadian Premier League ◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Richmond_Kickers_vs_Charlotte_Independence___USL_League_One______17_00_1">
-    <title>Próximamente | 17:00 | ◘ Richmond Kickers vs Charlotte Independence ◘ USL League One ◘◘</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919200000 -0600" channel="EVENTOS_VIP__Evento_____Richmond_Kickers_vs_Charlotte_Independence___USL_League_One______17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ Richmond Kickers vs Charlotte Independence ◘ USL League One ◘◘</title>
-  </programme>
-  <programme start="20260919200000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Richmond_Kickers_vs_Charlotte_Independence___USL_League_One______17_00_1">
-    <title>Finalizado | ◘ Richmond Kickers vs Charlotte Independence ◘ USL League One ◘◘</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919180000 -0600" channel="EVENTOS_VIP__Evento_____Ch_vs_tanooga_Red_Wolves_SC_vs__Portland_Hearts_of_Pine___USL_League_One______18_00_1">
     <title>Próximamente | 18:00 | ◘ Ch vs tanooga Red Wolves SC vs. Portland Hearts of Pine ◘ USL League One ◘◘</title>
@@ -126301,33 +126061,6 @@
   <programme start="20260920000000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Phoenix_Rising_FC_vs_El_Paso_Locomotive_FC___USL_Championship______21_00_1">
     <title>Finalizado | ◘ Phoenix Rising FC vs El Paso Locomotive FC ◘ USL Championship ◘◘</title>
   </programme>
-  <programme start="20260919000000 -0600" stop="20260919160000 -0600" channel="EVENTOS_VIP__Evento_____Lafayette_vs_Colgate___F_tbol_Femenino_NCAA______16_00_1">
-    <title>Próximamente | 16:00 | ◘ Lafayette vs Colgate ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919160000 -0600" stop="20260919190000 -0600" channel="EVENTOS_VIP__Evento_____Lafayette_vs_Colgate___F_tbol_Femenino_NCAA______16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Lafayette vs Colgate ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919190000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Lafayette_vs_Colgate___F_tbol_Femenino_NCAA______16_00_1">
-    <title>Finalizado | ◘ Lafayette vs Colgate ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Army_vs_Lehigh___F_tbol_Femenino_NCAA______17_00_1">
-    <title>Próximamente | 17:00 | ◘ Army vs Lehigh ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919200000 -0600" channel="EVENTOS_VIP__Evento_____Army_vs_Lehigh___F_tbol_Femenino_NCAA______17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ Army vs Lehigh ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919200000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Army_vs_Lehigh___F_tbol_Femenino_NCAA______17_00_1">
-    <title>Finalizado | ◘ Army vs Lehigh ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Massachusetts_vs_Yale___F_tbol_Femenino_NCAA______17_00_1">
-    <title>Próximamente | 17:00 | ◘ Massachusetts vs Yale ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919200000 -0600" channel="EVENTOS_VIP__Evento_____Massachusetts_vs_Yale___F_tbol_Femenino_NCAA______17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ Massachusetts vs Yale ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919200000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Massachusetts_vs_Yale___F_tbol_Femenino_NCAA______17_00_1">
-    <title>Finalizado | ◘ Massachusetts vs Yale ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
   <programme start="20260919000000 -0600" stop="20260919180000 -0600" channel="EVENTOS_VIP__Evento______18_Vermont_vs_Dartmouth___F_tbol_Femenino_NCAA______18_00_1">
     <title>Próximamente | 18:00 | ◘ #18 Vermont vs Dartmouth ◘ Fútbol Femenino NCAA ◘◘</title>
   </programme>
@@ -126390,123 +126123,6 @@
   </programme>
   <programme start="20260919230000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Weber_St_vs_e_vs__Utah_Valley___F_tbol_Femenino_NCAA______20_00_1">
     <title>Finalizado | ◘ Weber St vs e vs. Utah Valley ◘ Fútbol Femenino NCAA ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919140000 -0600" channel="EVENTOS_VIP__Evento_____Central_Connecticut_vs_Montana_State___NCAA_F_tbol_Americano______14_00_1">
-    <title>Próximamente | 14:00 | ◘ Central Connecticut vs Montana State ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919140000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Central_Connecticut_vs_Montana_State___NCAA_F_tbol_Americano______14_00_1">
-    <title>⌾ En vivo | 14:00 | ◘ Central Connecticut vs Montana State ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919170000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Central_Connecticut_vs_Montana_State___NCAA_F_tbol_Americano______14_00_1">
-    <title>Finalizado | ◘ Central Connecticut vs Montana State ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento______16_SMU_vs__23_Louisville___NCAA_F_tbol_Americano______14_30_1">
-    <title>Próximamente | 14:30 | ◘ #16 SMU vs #23 Louisville ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento______16_SMU_vs__23_Louisville___NCAA_F_tbol_Americano______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ #16 SMU vs #23 Louisville ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento______16_SMU_vs__23_Louisville___NCAA_F_tbol_Americano______14_30_1">
-    <title>Finalizado | ◘ #16 SMU vs #23 Louisville ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919133000 -0600" channel="Evento_En_Espa_ol___NCAA_F_tbol_Americano_____En_Espa_ol___NCAA_F_tbol_Americano________Florida_St_vs_e_vs___10_Alabama___13_30_1">
-    <title>Próximamente | 13:30 | ◘ Florida St vs e vs. #10 Alabama</title>
-  </programme>
-  <programme start="20260919133000 -0600" stop="20260919163000 -0600" channel="Evento_En_Espa_ol___NCAA_F_tbol_Americano_____En_Espa_ol___NCAA_F_tbol_Americano________Florida_St_vs_e_vs___10_Alabama___13_30_1">
-    <title>⌾ En vivo | 13:30 | ◘ Florida St vs e vs. #10 Alabama</title>
-  </programme>
-  <programme start="20260919163000 -0600" stop="20260919235959 -0600" channel="Evento_En_Espa_ol___NCAA_F_tbol_Americano_____En_Espa_ol___NCAA_F_tbol_Americano________Florida_St_vs_e_vs___10_Alabama___13_30_1">
-    <title>Finalizado | ◘ Florida St vs e vs. #10 Alabama</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento_____Georgetown_vs_Richmond___NCAA_F_tbol_Americano______14_30_1">
-    <title>Próximamente | 14:30 | ◘ Georgetown vs Richmond ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Georgetown_vs_Richmond___NCAA_F_tbol_Americano______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Georgetown vs Richmond ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Georgetown_vs_Richmond___NCAA_F_tbol_Americano______14_30_1">
-    <title>Finalizado | ◘ Georgetown vs Richmond ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento_____Kentucky_vs__9_Texas_A_M___NCAA_F_tbol_Americano______14_30_1">
-    <title>Próximamente | 14:30 | ◘ Kentucky vs #9 Texas A&amp;M ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Kentucky_vs__9_Texas_A_M___NCAA_F_tbol_Americano______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Kentucky vs #9 Texas A&amp;M ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Kentucky_vs__9_Texas_A_M___NCAA_F_tbol_Americano______14_30_1">
-    <title>Finalizado | ◘ Kentucky vs #9 Texas A&amp;M ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento_____Miami_vs_Cincinnati___NCAA_F_tbol_Americano______14_30_1">
-    <title>Próximamente | 14:30 | ◘ Miami vs Cincinnati ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Miami_vs_Cincinnati___NCAA_F_tbol_Americano______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Miami vs Cincinnati ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Miami_vs_Cincinnati___NCAA_F_tbol_Americano______14_30_1">
-    <title>Finalizado | ◘ Miami vs Cincinnati ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento_____Stonehill_vs_Massachusetts___NCAA_F_tbol_Americano______14_30_1">
-    <title>Próximamente | 14:30 | ◘ Stonehill vs Massachusetts ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Stonehill_vs_Massachusetts___NCAA_F_tbol_Americano______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Stonehill vs Massachusetts ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Stonehill_vs_Massachusetts___NCAA_F_tbol_Americano______14_30_1">
-    <title>Finalizado | ◘ Stonehill vs Massachusetts ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919143000 -0600" channel="EVENTOS_VIP__Evento_____Wagner_vs_California___NCAA_F_tbol_Americano______14_30_1">
-    <title>Próximamente | 14:30 | ◘ Wagner vs California ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919143000 -0600" stop="20260919173000 -0600" channel="EVENTOS_VIP__Evento_____Wagner_vs_California___NCAA_F_tbol_Americano______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ Wagner vs California ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919173000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Wagner_vs_California___NCAA_F_tbol_Americano______14_30_1">
-    <title>Finalizado | ◘ Wagner vs California ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919150000 -0600" channel="EVENTOS_VIP__Evento_____Abilene_Christian_vs_Idaho___NCAA_F_tbol_Americano______15_00_1">
-    <title>Próximamente | 15:00 | ◘ Abilene Christian vs Idaho ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919150000 -0600" stop="20260919180000 -0600" channel="EVENTOS_VIP__Evento_____Abilene_Christian_vs_Idaho___NCAA_F_tbol_Americano______15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Abilene Christian vs Idaho ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919180000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Abilene_Christian_vs_Idaho___NCAA_F_tbol_Americano______15_00_1">
-    <title>Finalizado | ◘ Abilene Christian vs Idaho ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919150000 -0600" channel="EVENTOS_VIP__Evento_____Louisiana_Tech_vs_Baylor___NCAA_F_tbol_Americano______15_00_1">
-    <title>Próximamente | 15:00 | ◘ Louisiana Tech vs Baylor ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919150000 -0600" stop="20260919180000 -0600" channel="EVENTOS_VIP__Evento_____Louisiana_Tech_vs_Baylor___NCAA_F_tbol_Americano______15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Louisiana Tech vs Baylor ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919180000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Louisiana_Tech_vs_Baylor___NCAA_F_tbol_Americano______15_00_1">
-    <title>Finalizado | ◘ Louisiana Tech vs Baylor ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919150000 -0600" channel="EVENTOS_VIP__Evento_____Stanford_vs_Duke___NCAA_F_tbol_Americano______15_00_1">
-    <title>Próximamente | 15:00 | ◘ Stanford vs Duke ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919150000 -0600" stop="20260919180000 -0600" channel="EVENTOS_VIP__Evento_____Stanford_vs_Duke___NCAA_F_tbol_Americano______15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Stanford vs Duke ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919180000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Stanford_vs_Duke___NCAA_F_tbol_Americano______15_00_1">
-    <title>Finalizado | ◘ Stanford vs Duke ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919151500 -0600" channel="EVENTOS_VIP__Evento_____Mississippi_St_vs_e_vs__South_Carolina___NCAA_F_tbol_Americano______15_15_1">
-    <title>Próximamente | 15:15 | ◘ Mississippi St vs e vs. South Carolina ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919151500 -0600" stop="20260919181500 -0600" channel="EVENTOS_VIP__Evento_____Mississippi_St_vs_e_vs__South_Carolina___NCAA_F_tbol_Americano______15_15_1">
-    <title>⌾ En vivo | 15:15 | ◘ Mississippi St vs e vs. South Carolina ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919181500 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____Mississippi_St_vs_e_vs__South_Carolina___NCAA_F_tbol_Americano______15_15_1">
-    <title>Finalizado | ◘ Mississippi St vs e vs. South Carolina ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919000000 -0600" stop="20260919153000 -0600" channel="EVENTOS_VIP__Evento_____SE_Louisiana_vs_UL_Monroe___NCAA_F_tbol_Americano______15_30_1">
-    <title>Próximamente | 15:30 | ◘ SE Louisiana vs UL Monroe ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919153000 -0600" stop="20260919183000 -0600" channel="EVENTOS_VIP__Evento_____SE_Louisiana_vs_UL_Monroe___NCAA_F_tbol_Americano______15_30_1">
-    <title>⌾ En vivo | 15:30 | ◘ SE Louisiana vs UL Monroe ◘ NCAA Fútbol Americano ◘◘</title>
-  </programme>
-  <programme start="20260919183000 -0600" stop="20260919235959 -0600" channel="EVENTOS_VIP__Evento_____SE_Louisiana_vs_UL_Monroe___NCAA_F_tbol_Americano______15_30_1">
-    <title>Finalizado | ◘ SE Louisiana vs UL Monroe ◘ NCAA Fútbol Americano ◘◘</title>
   </programme>
   <programme start="20260919000000 -0600" stop="20260919170000 -0600" channel="EVENTOS_VIP__Evento_____Charlotte_vs_App_State___NCAA_F_tbol_Americano______17_00_1">
     <title>Próximamente | 17:00 | ◘ Charlotte vs App State ◘ NCAA Fútbol Americano ◘◘</title>
