@@ -129823,6 +129823,12 @@
   <channel id="EVENTOS_VIP__Evento_____California_Baptist_vs_UC_Irvine___NCAA_Men_s_Soccer______20_00_1">
     <display-name>Evento | ◘ California Baptist vs UC Irvine ◘ NCAA Men's Soccer ◘◘ | 20:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Danubio_vs_Pe_arol___12_30_1">
+    <display-name>Evento | Danubio vs Peñarol | 12:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Torque_vs_Atenas___12_30_1">
+    <display-name>Evento | Torque vs Atenas | 12:30</display-name>
+  </channel>
   <programme start="20260924000000 -0600" stop="20260924211000 -0600" channel="EVENTOS_VIP__Evento_____Houston_Astros_vs_Seattle_Mariners___MLB_____21_10_1">
     <title>Próximamente | 21:10 | ◘ Houston Astros vs Seattle Mariners ◘ MLB ◘</title>
   </programme>
@@ -130533,6 +130539,24 @@
   </programme>
   <programme start="20260924230000 -0600" stop="20260924235959 -0600" channel="EVENTOS_VIP__Evento_____California_Baptist_vs_UC_Irvine___NCAA_Men_s_Soccer______20_00_1">
     <title>Finalizado | ◘ California Baptist vs UC Irvine ◘ NCAA Men's Soccer ◘◘</title>
+  </programme>
+  <programme start="20260924000000 -0600" stop="20260924123000 -0600" channel="EVENTOS_VIP__Evento___Danubio_vs_Pe_arol___12_30_1">
+    <title>Próximamente | 12:30 | Danubio vs Peñarol</title>
+  </programme>
+  <programme start="20260924123000 -0600" stop="20260924153000 -0600" channel="EVENTOS_VIP__Evento___Danubio_vs_Pe_arol___12_30_1">
+    <title>⌾ En vivo | 12:30 | Danubio vs Peñarol</title>
+  </programme>
+  <programme start="20260924153000 -0600" stop="20260924235959 -0600" channel="EVENTOS_VIP__Evento___Danubio_vs_Pe_arol___12_30_1">
+    <title>Finalizado | Danubio vs Peñarol</title>
+  </programme>
+  <programme start="20260924000000 -0600" stop="20260924123000 -0600" channel="EVENTOS_VIP__Evento___Torque_vs_Atenas___12_30_1">
+    <title>Próximamente | 12:30 | Torque vs Atenas</title>
+  </programme>
+  <programme start="20260924123000 -0600" stop="20260924153000 -0600" channel="EVENTOS_VIP__Evento___Torque_vs_Atenas___12_30_1">
+    <title>⌾ En vivo | 12:30 | Torque vs Atenas</title>
+  </programme>
+  <programme start="20260924153000 -0600" stop="20260924235959 -0600" channel="EVENTOS_VIP__Evento___Torque_vs_Atenas___12_30_1">
+    <title>Finalizado | Torque vs Atenas</title>
   </programme>
 </tv>
 
