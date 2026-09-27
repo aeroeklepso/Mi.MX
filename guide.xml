@@ -125971,15 +125971,6 @@
   <channel id="Evento_MLS__MLS_____Columbus_Crew_vs_Inter_Miami___MLS___English___17_00_1">
     <display-name>MLS | ◘ Columbus Crew vs Inter Miami ◘ MLS ◘ English | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___Lituania_vs__Azerbaiy_n______08_00_1">
-    <display-name>Evento | ◘ Austria vs Kosovo ◘ Lituania vs. Azerbaiyán ◘◘ | 08:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League______11_00_1">
-    <display-name>Evento | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘ | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League____FHD___11_00_1">
-    <display-name>Evento | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘ FHD | 11:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Dinamarca_vs_Gales___UEFA_Nations_League______11_00_1">
     <display-name>Evento | ◘ Dinamarca vs Gales ◘ UEFA Nations League ◘◘ | 11:00</display-name>
   </channel>
@@ -126471,33 +126462,6 @@
   </programme>
   <programme start="20260927200000 -0600" stop="20260927235959 -0600" channel="Evento_MLS__MLS_____Columbus_Crew_vs_Inter_Miami___MLS___English___17_00_1">
     <title>Finalizado | ◘ Columbus Crew vs Inter Miami ◘ MLS ◘ English</title>
-  </programme>
-  <programme start="20260927000000 -0600" stop="20260927080000 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___Lituania_vs__Azerbaiy_n______08_00_1">
-    <title>Próximamente | 08:00 | ◘ Austria vs Kosovo ◘ Lituania vs. Azerbaiyán ◘◘</title>
-  </programme>
-  <programme start="20260927080000 -0600" stop="20260927110000 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___Lituania_vs__Azerbaiy_n______08_00_1">
-    <title>⌾ En vivo | 08:00 | ◘ Austria vs Kosovo ◘ Lituania vs. Azerbaiyán ◘◘</title>
-  </programme>
-  <programme start="20260927110000 -0600" stop="20260927235959 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___Lituania_vs__Azerbaiy_n______08_00_1">
-    <title>Finalizado | ◘ Austria vs Kosovo ◘ Lituania vs. Azerbaiyán ◘◘</title>
-  </programme>
-  <programme start="20260927000000 -0600" stop="20260927110000 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League______11_00_1">
-    <title>Próximamente | 11:00 | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20260927110000 -0600" stop="20260927140000 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League______11_00_1">
-    <title>⌾ En vivo | 11:00 | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20260927140000 -0600" stop="20260927235959 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League______11_00_1">
-    <title>Finalizado | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20260927000000 -0600" stop="20260927110000 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League____FHD___11_00_1">
-    <title>Próximamente | 11:00 | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘ FHD</title>
-  </programme>
-  <programme start="20260927110000 -0600" stop="20260927140000 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League____FHD___11_00_1">
-    <title>⌾ En vivo | 11:00 | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘ FHD</title>
-  </programme>
-  <programme start="20260927140000 -0600" stop="20260927235959 -0600" channel="EVENTOS_VIP__Evento_____Austria_vs_Kosovo___UEFA_Nations_League____FHD___11_00_1">
-    <title>Finalizado | ◘ Austria vs Kosovo ◘ UEFA Nations League ◘◘ FHD</title>
   </programme>
   <programme start="20260927000000 -0600" stop="20260927110000 -0600" channel="EVENTOS_VIP__Evento_____Dinamarca_vs_Gales___UEFA_Nations_League______11_00_1">
     <title>Próximamente | 11:00 | ◘ Dinamarca vs Gales ◘ UEFA Nations League ◘◘</title>
