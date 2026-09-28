@@ -127465,6 +127465,9 @@
   <channel id="EVENTOS_VIP__Evento_____Bucknell_vs_Boston_University___NCAA_Men_s_Soccer______11_00_1">
     <display-name>Evento | ◘ Bucknell vs Boston University ◘ NCAA Men's Soccer ◘◘ | 11:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____AMISTOSO___Uruguay_vs_Corea_del_Sur___06_00_1">
+    <display-name>Evento | - AMISTOSO - Uruguay vs Corea del Sur | 06:00</display-name>
+  </channel>
   <programme start="20260928060000" stop="20260928170000" channel="EVENTOS_VIP__Evento_____Georgia_vs_Ucrania___UEFA_Nations_League_____11_00_1">
     <title>Próximamente | 11:00 | ◘ Georgia vs Ucrania ◘ UEFA Nations League ◘</title>
   </programme>
@@ -127779,6 +127782,15 @@
   </programme>
   <programme start="20260928200000" stop="20260929055959" channel="EVENTOS_VIP__Evento_____Bucknell_vs_Boston_University___NCAA_Men_s_Soccer______11_00_1">
     <title>Finalizado | ◘ Bucknell vs Boston University ◘ NCAA Men's Soccer ◘◘</title>
+  </programme>
+  <programme start="20260928060000" stop="20260928120000" channel="EVENTOS_VIP__Evento_____AMISTOSO___Uruguay_vs_Corea_del_Sur___06_00_1">
+    <title>Próximamente | 06:00 | - AMISTOSO - Uruguay vs Corea del Sur</title>
+  </programme>
+  <programme start="20260928120000" stop="20260928150000" channel="EVENTOS_VIP__Evento_____AMISTOSO___Uruguay_vs_Corea_del_Sur___06_00_1">
+    <title>⌾ En vivo | 06:00 | - AMISTOSO - Uruguay vs Corea del Sur</title>
+  </programme>
+  <programme start="20260928150000" stop="20260929055959" channel="EVENTOS_VIP__Evento_____AMISTOSO___Uruguay_vs_Corea_del_Sur___06_00_1">
+    <title>Finalizado | - AMISTOSO - Uruguay vs Corea del Sur</title>
   </programme>
 </tv>
 
