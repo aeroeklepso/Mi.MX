@@ -125890,12 +125890,6 @@
     <desc>Los 8 mejores artistas interpretan sus canciones frente a los coaches para obtener un lugar dentro de la gran final.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
-    <display-name>21:00 ◘ Kinoshita Group Japan Open ◘ ATP ◘◘ | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘ | 20:00</display-name>
-  </channel>
-  <channel id="Evento_22_00___China_Open___ATP_WTA_____22_00___China_Open___ATP_WTA________China_Open___vs_P_WTA______21_00_1">
-    <display-name>22:00 ◘ China Open ◘ ATP/WTA ◘◘ | ◘ China Open ◘ vs P/WTA ◘◘ | 21:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____12_00_1">
     <display-name>Evento | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘ | 12:00</display-name>
   </channel>
@@ -126196,6 +126190,9 @@
   <channel id="EVENTOS_VIP__Evento_____Portland_Thorns_vs_Boston_Legacy___NWSL_____19_45_1">
     <display-name>Evento | ◘ Portland Thorns vs Boston Legacy ◘ NWSL ◘ | 19:45</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Brasil_vs_India___00_00_1">
+    <display-name>Evento | Brasil vs India | 00:00</display-name>
+  </channel>
   <channel id="EVENTOS_VIP__Evento_____Waik_vs_o_vs__Tasman___Rugby______01_05_1">
     <display-name>Evento | ◘ Waik vs o vs. Tasman ◘ Rugby ◘◘ | 01:05</display-name>
   </channel>
@@ -126235,7 +126232,7 @@
   <channel id="EVENTOS_VIP__Evento_____Alexander_Zverev_vs_Juncheng_Shang___ATP______06_00_1">
     <display-name>Evento | ◘ Alexander Zverev vs Juncheng Shang ◘ ATP ◘◘ | 06:00</display-name>
   </channel>
-  <channel id="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_2">
+  <channel id="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
     <display-name>21:00 ◘ Kinoshita Group Japan Open ◘ ATP ◘◘ | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘ | 20:00</display-name>
   </channel>
   <channel id="Evento_21_00___Kinoshita_Group_Japan_Open___Kinoshita_Group_Arena___ATP_____21_00___Kinoshita_Group_Japan_Open___Kinoshita_Group_Arena___ATP________Kinoshita_Group_Japan_Open___Kinoshita_Group_Arena___vs_P______20_00_1">
@@ -126391,24 +126388,6 @@
   <channel id="EVENTOS_VIP__Evento_____UC_Irvine_vs_UC_Riverside___NCAA_F_tbol_Femenino______21_00_1">
     <display-name>Evento | ◘ UC Irvine vs UC Riverside ◘ NCAA Fútbol Femenino ◘◘ | 21:00</display-name>
   </channel>
-  <programme start="20261003060000" stop="20261004030000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
-    <title>Próximamente | 21:00 | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261004030000" stop="20261004060000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
-    <title>⌾ En vivo | 21:00 | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261004060000" stop="20261004055959" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
-    <title>Finalizado | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261003060000" stop="20261004040000" channel="Evento_22_00___China_Open___ATP_WTA_____22_00___China_Open___ATP_WTA________China_Open___vs_P_WTA______21_00_1">
-    <title>Próximamente | 22:00 | ◘ China Open ◘ vs P/WTA ◘◘</title>
-  </programme>
-  <programme start="20261004040000" stop="20261004070000" channel="Evento_22_00___China_Open___ATP_WTA_____22_00___China_Open___ATP_WTA________China_Open___vs_P_WTA______21_00_1">
-    <title>⌾ En vivo | 22:00 | ◘ China Open ◘ vs P/WTA ◘◘</title>
-  </programme>
-  <programme start="20261004070000" stop="20261004055959" channel="Evento_22_00___China_Open___ATP_WTA_____22_00___China_Open___ATP_WTA________China_Open___vs_P_WTA______21_00_1">
-    <title>Finalizado | ◘ China Open ◘ vs P/WTA ◘◘</title>
-  </programme>
   <programme start="20261003060000" stop="20261003180000" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____12_00_1">
     <title>Próximamente | 12:00 | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘</title>
   </programme>
@@ -127309,6 +127288,15 @@
   <programme start="20261004044500" stop="20261004055959" channel="EVENTOS_VIP__Evento_____Portland_Thorns_vs_Boston_Legacy___NWSL_____19_45_1">
     <title>Finalizado | ◘ Portland Thorns vs Boston Legacy ◘ NWSL ◘</title>
   </programme>
+  <programme start="20261003060000" stop="20261003060000" channel="EVENTOS_VIP__Evento___Brasil_vs_India___00_00_1">
+    <title>Próximamente | 00:00 | Brasil vs India</title>
+  </programme>
+  <programme start="20261003060000" stop="20261003090000" channel="EVENTOS_VIP__Evento___Brasil_vs_India___00_00_1">
+    <title>⌾ En vivo | 00:00 | Brasil vs India</title>
+  </programme>
+  <programme start="20261003090000" stop="20261004055959" channel="EVENTOS_VIP__Evento___Brasil_vs_India___00_00_1">
+    <title>Finalizado | Brasil vs India</title>
+  </programme>
   <programme start="20261003060000" stop="20261003070500" channel="EVENTOS_VIP__Evento_____Waik_vs_o_vs__Tasman___Rugby______01_05_1">
     <title>Próximamente | 01:05 | ◘ Waik vs o vs. Tasman ◘ Rugby ◘◘</title>
   </programme>
@@ -127426,13 +127414,13 @@
   <programme start="20261003150000" stop="20261004055959" channel="EVENTOS_VIP__Evento_____Alexander_Zverev_vs_Juncheng_Shang___ATP______06_00_1">
     <title>Finalizado | ◘ Alexander Zverev vs Juncheng Shang ◘ ATP ◘◘</title>
   </programme>
-  <programme start="20261003060000" stop="20261004030000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_2">
+  <programme start="20261003060000" stop="20261004030000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
     <title>Próximamente | 21:00 | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
   </programme>
-  <programme start="20261004030000" stop="20261004060000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_2">
+  <programme start="20261004030000" stop="20261004060000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
     <title>⌾ En vivo | 21:00 | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
   </programme>
-  <programme start="20261004060000" stop="20261004055959" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_2">
+  <programme start="20261004060000" stop="20261004055959" channel="Evento_21_00___Kinoshita_Group_Japan_Open___ATP_____21_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______20_00_1">
     <title>Finalizado | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
   </programme>
   <programme start="20261003060000" stop="20261004030000" channel="Evento_21_00___Kinoshita_Group_Japan_Open___Kinoshita_Group_Arena___ATP_____21_00___Kinoshita_Group_Japan_Open___Kinoshita_Group_Arena___ATP________Kinoshita_Group_Japan_Open___Kinoshita_Group_Arena___vs_P______20_00_1">
