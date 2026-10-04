@@ -125079,6 +125079,9 @@
   <channel id="EVENTOS_VIP__Evento_____Florida_Panthers_vs_Anaheim_Ducks___NHL______18_30_1">
     <display-name>Evento | ◘ Florida Panthers vs Anaheim Ducks ◘ NHL ◘◘ | 18:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___REAL_MADRID_vs_BARCELONA_LALIGA_FEMENIL___00_00_1">
+    <display-name>Evento | REAL MADRID vs BARCELONA LALIGA FEMENIL | 00:00</display-name>
+  </channel>
   <programme start="20261004000000 -0600" stop="20261004201500 -0600" channel="EVENTOS_VIP__Evento___NFL_Semana_4___Tennessee_vs_Baltimore_Ravens_20_15_ET___20_15_1">
     <title>Próximamente | 20:15 | NFL Semana 4 - Tennessee vs Baltimore Ravens 20:15 ET</title>
   </programme>
@@ -126113,6 +126116,15 @@
   </programme>
   <programme start="20261004213000 -0600" stop="20261004235959 -0600" channel="EVENTOS_VIP__Evento_____Florida_Panthers_vs_Anaheim_Ducks___NHL______18_30_1">
     <title>Finalizado | ◘ Florida Panthers vs Anaheim Ducks ◘ NHL ◘◘</title>
+  </programme>
+  <programme start="20261004000000 -0600" stop="20261004000000 -0600" channel="EVENTOS_VIP__Evento___REAL_MADRID_vs_BARCELONA_LALIGA_FEMENIL___00_00_1">
+    <title>Próximamente | 00:00 | REAL MADRID vs BARCELONA LALIGA FEMENIL</title>
+  </programme>
+  <programme start="20261004000000 -0600" stop="20261004030000 -0600" channel="EVENTOS_VIP__Evento___REAL_MADRID_vs_BARCELONA_LALIGA_FEMENIL___00_00_1">
+    <title>⌾ En vivo | 00:00 | REAL MADRID vs BARCELONA LALIGA FEMENIL</title>
+  </programme>
+  <programme start="20261004030000 -0600" stop="20261004235959 -0600" channel="EVENTOS_VIP__Evento___REAL_MADRID_vs_BARCELONA_LALIGA_FEMENIL___00_00_1">
+    <title>Finalizado | REAL MADRID vs BARCELONA LALIGA FEMENIL</title>
   </programme>
 </tv>
 
