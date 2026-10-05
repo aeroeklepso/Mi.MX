@@ -127953,6 +127953,9 @@
   <channel id="EVENTOS_VIP__Evento___valkyries_vs_aces___00_00_1">
     <display-name>Evento | valkyries vs aces | 00:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___BOX___VERA_vs_ALDO___00_00_1">
+    <display-name>Evento | BOX - VERA vs ALDO | 00:00</display-name>
+  </channel>
   <programme start="20261004060000" stop="20261005021500" channel="EVENTOS_VIP__Evento___NFL_Semana_4___Tennessee_vs_Baltimore_Ravens_20_15_ET___20_15_1">
     <title>Próximamente | 20:15 | NFL Semana 4 - Tennessee vs Baltimore Ravens 20:15 ET</title>
   </programme>
@@ -128915,6 +128918,15 @@
   </programme>
   <programme start="20261004090000" stop="20261005055959" channel="EVENTOS_VIP__Evento___valkyries_vs_aces___00_00_1">
     <title>Finalizado | valkyries vs aces</title>
+  </programme>
+  <programme start="20261004060000" stop="20261004060000" channel="EVENTOS_VIP__Evento___BOX___VERA_vs_ALDO___00_00_1">
+    <title>Próximamente | 00:00 | BOX - VERA vs ALDO</title>
+  </programme>
+  <programme start="20261004060000" stop="20261004090000" channel="EVENTOS_VIP__Evento___BOX___VERA_vs_ALDO___00_00_1">
+    <title>⌾ En vivo | 00:00 | BOX - VERA vs ALDO</title>
+  </programme>
+  <programme start="20261004090000" stop="20261005055959" channel="EVENTOS_VIP__Evento___BOX___VERA_vs_ALDO___00_00_1">
+    <title>Finalizado | BOX - VERA vs ALDO</title>
   </programme>
 </tv>
 
