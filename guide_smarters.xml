@@ -129240,12 +129240,6 @@
     <desc>Se da a conocer al ganador de la temporada. Invitados especiales, finalistas y entrenadores cantan juntos.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____16_00_1">
-    <display-name>Evento | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘ | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB____Spanish___16_00_1">
-    <display-name>Evento | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘◘ Spanish | 16:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____New_York_Yankees_vs_Tampa_Bay_Rays___MLB_____19_00_1">
     <display-name>Evento | ◘ New York Yankees vs Tampa Bay Rays ◘ MLB ◘ | 19:00</display-name>
   </channel>
@@ -129285,54 +129279,6 @@
   <channel id="EVENTOS_VIP__Evento_____vs_lanta_Falcons_vs__New_Orleans_Saints___NFL___Spanish___19_15_1">
     <display-name>Evento | ◘ vs lanta Falcons vs. New Orleans Saints ◘ NFL ◘ Spanish | 19:15</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Chipre_vs_Letonia___UEFA_Nations_League______11_00_1">
-    <display-name>Evento | ◘ Chipre vs Letonia ◘ UEFA Nations League ◘◘ | 11:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Rumania_vs_Suecia___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Rumania vs Suecia ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Italia_vs_Turqu_a___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Italia vs Turquía ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____FHD___13_45_1">
-    <display-name>Evento | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ FHD | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League______13_45_1">
-    <display-name>Evento | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘ | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League____SD___13_45_1">
-    <display-name>Evento | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘ SD | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____SD___13_45_1">
-    <display-name>Evento | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ SD | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League____SD___13_45_1">
-    <display-name>Evento | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘ SD | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League____SD___13_45_1">
-    <display-name>Evento | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘ SD | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League____SD___13_45_1">
-    <display-name>Evento | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘ SD | 13:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Guadalupe_vs_St__Luc_a___CONCACAF_Nations_League______14_00_1">
-    <display-name>Evento | ◘ Guadalupe vs St. Lucía ◘ CONCACAF Nations League ◘◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Cuba_vs_St__Kitts_and_Nevis___CONCACAF_Nations_League______16_00_1">
-    <display-name>Evento | ◘ Cuba vs St. Kitts and Nevis ◘ CONCACAF Nations League ◘◘ | 16:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Martinica_vs_El_Salvador___CONCACAF_Nations_League______17_00_1">
     <display-name>Evento | ◘ Martinica vs El Salvador ◘ CONCACAF Nations League ◘◘ | 17:00</display-name>
   </channel>
@@ -129348,9 +129294,6 @@
   <channel id="EVENTOS_VIP__Evento_____Honduras_vs_Jamaica___CONCACAF_Nations_League_____21_00_1">
     <display-name>Evento | ◘ Honduras vs Jamaica ◘ CONCACAF Nations League ◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Deportivo_Riestra_vs_Central_C_rdoba_SdE___Liga_Argentina_____14_45_1">
-    <display-name>Evento | ◘ Deportivo Riestra vs Central Córdoba SdE ◘ Liga Argentina ◘ | 14:45</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____vs__lez_Sarsfield_vs__Platense___Liga_Argentina_____17_00_1">
     <display-name>Evento | ◘ vs élez Sarsfield vs. Platense ◘ Liga Argentina ◘ | 17:00</display-name>
   </channel>
@@ -129363,48 +129306,6 @@
   <channel id="EVENTOS_VIP__Evento_____Medell_n_vs_Santa_Fe___Liga_Betplay_____19_00_1">
     <display-name>Evento | ◘ Medellín vs Santa Fe ◘ Liga Betplay ◘ | 19:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____C_rdoba_vs_Tenerife___LaLiga_SmartBank_____13_30_1">
-    <display-name>Evento | ◘ Córdoba vs Tenerife ◘ LaLiga SmartBank ◘ | 13:30</display-name>
-  </channel>
-  <channel id="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <display-name>00:00 ◘ Kinoshita Group Japan Open / Coliseum ◘ ATP ◘◘ | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘ | 23:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alex_de_Minaur_vs_Hubert_Hurkacz___ATP______02_00_1">
-    <display-name>Evento | ◘ Alex de Minaur vs Hubert Hurkacz ◘ ATP ◘◘ | 02:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Carlos_Alcaraz_vs_Jaume_Munar___ATP______02_00_1">
-    <display-name>Evento | ◘ Carlos Alcaraz vs Jaume Munar ◘ ATP ◘◘ | 02:00</display-name>
-  </channel>
-  <channel id="Evento_02_00___Kinoshita_Group_Japan_Open___ATP_____02_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______01_00_1">
-    <display-name>02:00 ◘ Kinoshita Group Japan Open ◘ ATP ◘◘ | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘ | 01:00</display-name>
-  </channel>
-  <channel id="Evento_04_00___China_Open___Brad_Drewett___ATP_____04_00___China_Open___Brad_Drewett___ATP________China_Open___Brad_Drewett___vs_P______03_00_1">
-    <display-name>04:00 ◘ China Open / Brad Drewett ◘ ATP ◘◘ | ◘ China Open / Brad Drewett ◘ vs P ◘◘ | 03:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_1">
-    <display-name>Evento | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_2">
-    <display-name>Evento | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘ | 06:00</display-name>
-  </channel>
-  <programme start="20261005060000" stop="20261005220000" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____16_00_1">
-    <title>Próximamente | 16:00 | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘</title>
-  </programme>
-  <programme start="20261005220000" stop="20261006010000" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘</title>
-  </programme>
-  <programme start="20261006010000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB_____16_00_1">
-    <title>Finalizado | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005220000" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB____Spanish___16_00_1">
-    <title>Próximamente | 16:00 | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘◘ Spanish</title>
-  </programme>
-  <programme start="20261005220000" stop="20261006010000" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB____Spanish___16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘◘ Spanish</title>
-  </programme>
-  <programme start="20261006010000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Chicago_White_Sox_vs_Cleveland_Guardians___MLB____Spanish___16_00_1">
-    <title>Finalizado | ◘ Chicago White Sox vs Cleveland Guardians ◘ MLB ◘◘ Spanish</title>
-  </programme>
   <programme start="20261005060000" stop="20261006010000" channel="EVENTOS_VIP__Evento_____New_York_Yankees_vs_Tampa_Bay_Rays___MLB_____19_00_1">
     <title>Próximamente | 19:00 | ◘ New York Yankees vs Tampa Bay Rays ◘ MLB ◘</title>
   </programme>
@@ -129522,150 +129423,6 @@
   <programme start="20261006041500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____vs_lanta_Falcons_vs__New_Orleans_Saints___NFL___Spanish___19_15_1">
     <title>Finalizado | ◘ vs lanta Falcons vs. New Orleans Saints ◘ NFL ◘ Spanish</title>
   </programme>
-  <programme start="20261005060000" stop="20261005170000" channel="EVENTOS_VIP__Evento_____Chipre_vs_Letonia___UEFA_Nations_League______11_00_1">
-    <title>Próximamente | 11:00 | ◘ Chipre vs Letonia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005170000" stop="20261005200000" channel="EVENTOS_VIP__Evento_____Chipre_vs_Letonia___UEFA_Nations_League______11_00_1">
-    <title>⌾ En vivo | 11:00 | ◘ Chipre vs Letonia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005200000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Chipre_vs_Letonia___UEFA_Nations_League______11_00_1">
-    <title>Finalizado | ◘ Chipre vs Letonia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Rumania_vs_Suecia___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Rumania vs Suecia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Rumania_vs_Suecia___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Rumania vs Suecia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Rumania_vs_Suecia___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Rumania vs Suecia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Italia_vs_Turqu_a___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Italia vs Turquía ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Italia_vs_Turqu_a___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Italia vs Turquía ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Italia_vs_Turqu_a___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Italia vs Turquía ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____FHD___13_45_1">
-    <title>Próximamente | 13:45 | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ FHD</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____FHD___13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ FHD</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____FHD___13_45_1">
-    <title>Finalizado | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ FHD</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League______13_45_1">
-    <title>Próximamente | 13:45 | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League______13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League______13_45_1">
-    <title>Finalizado | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League____SD___13_45_1">
-    <title>Próximamente | 13:45 | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League____SD___13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Bosnia_Herzegovina_vs_Polonia___UEFA_Nations_League____SD___13_45_1">
-    <title>Finalizado | ◘ Bosnia-Herzegovina vs Polonia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____SD___13_45_1">
-    <title>Próximamente | 13:45 | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____SD___13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Francia_vs_B_lgica___UEFA_Nations_League____SD___13_45_1">
-    <title>Finalizado | ◘ Francia vs Bélgica ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League____SD___13_45_1">
-    <title>Próximamente | 13:45 | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League____SD___13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Irlanda_del_Norte_vs_Georgia___UEFA_Nations_League____SD___13_45_1">
-    <title>Finalizado | ◘ Irlanda del Norte vs Georgia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League____SD___13_45_1">
-    <title>Próximamente | 13:45 | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League____SD___13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Montenegro_vs_Armenia___UEFA_Nations_League____SD___13_45_1">
-    <title>Finalizado | ◘ Montenegro vs Armenia ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005194500" channel="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League____SD___13_45_1">
-    <title>Próximamente | 13:45 | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005194500" stop="20261005224500" channel="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League____SD___13_45_1">
-    <title>⌾ En vivo | 13:45 | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005224500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Ucrania_vs_Hungria___UEFA_Nations_League____SD___13_45_1">
-    <title>Finalizado | ◘ Ucrania vs Hungria ◘ UEFA Nations League ◘◘ SD</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005200000" channel="EVENTOS_VIP__Evento_____Guadalupe_vs_St__Luc_a___CONCACAF_Nations_League______14_00_1">
-    <title>Próximamente | 14:00 | ◘ Guadalupe vs St. Lucía ◘ CONCACAF Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005200000" stop="20261005230000" channel="EVENTOS_VIP__Evento_____Guadalupe_vs_St__Luc_a___CONCACAF_Nations_League______14_00_1">
-    <title>⌾ En vivo | 14:00 | ◘ Guadalupe vs St. Lucía ◘ CONCACAF Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005230000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Guadalupe_vs_St__Luc_a___CONCACAF_Nations_League______14_00_1">
-    <title>Finalizado | ◘ Guadalupe vs St. Lucía ◘ CONCACAF Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005220000" channel="EVENTOS_VIP__Evento_____Cuba_vs_St__Kitts_and_Nevis___CONCACAF_Nations_League______16_00_1">
-    <title>Próximamente | 16:00 | ◘ Cuba vs St. Kitts and Nevis ◘ CONCACAF Nations League ◘◘</title>
-  </programme>
-  <programme start="20261005220000" stop="20261006010000" channel="EVENTOS_VIP__Evento_____Cuba_vs_St__Kitts_and_Nevis___CONCACAF_Nations_League______16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Cuba vs St. Kitts and Nevis ◘ CONCACAF Nations League ◘◘</title>
-  </programme>
-  <programme start="20261006010000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Cuba_vs_St__Kitts_and_Nevis___CONCACAF_Nations_League______16_00_1">
-    <title>Finalizado | ◘ Cuba vs St. Kitts and Nevis ◘ CONCACAF Nations League ◘◘</title>
-  </programme>
   <programme start="20261005060000" stop="20261005230000" channel="EVENTOS_VIP__Evento_____Martinica_vs_El_Salvador___CONCACAF_Nations_League______17_00_1">
     <title>Próximamente | 17:00 | ◘ Martinica vs El Salvador ◘ CONCACAF Nations League ◘◘</title>
   </programme>
@@ -129711,15 +129468,6 @@
   <programme start="20261006060000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Honduras_vs_Jamaica___CONCACAF_Nations_League_____21_00_1">
     <title>Finalizado | ◘ Honduras vs Jamaica ◘ CONCACAF Nations League ◘</title>
   </programme>
-  <programme start="20261005060000" stop="20261005204500" channel="EVENTOS_VIP__Evento_____Deportivo_Riestra_vs_Central_C_rdoba_SdE___Liga_Argentina_____14_45_1">
-    <title>Próximamente | 14:45 | ◘ Deportivo Riestra vs Central Córdoba SdE ◘ Liga Argentina ◘</title>
-  </programme>
-  <programme start="20261005204500" stop="20261005234500" channel="EVENTOS_VIP__Evento_____Deportivo_Riestra_vs_Central_C_rdoba_SdE___Liga_Argentina_____14_45_1">
-    <title>⌾ En vivo | 14:45 | ◘ Deportivo Riestra vs Central Córdoba SdE ◘ Liga Argentina ◘</title>
-  </programme>
-  <programme start="20261005234500" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Deportivo_Riestra_vs_Central_C_rdoba_SdE___Liga_Argentina_____14_45_1">
-    <title>Finalizado | ◘ Deportivo Riestra vs Central Córdoba SdE ◘ Liga Argentina ◘</title>
-  </programme>
   <programme start="20261005060000" stop="20261005230000" channel="EVENTOS_VIP__Evento_____vs__lez_Sarsfield_vs__Platense___Liga_Argentina_____17_00_1">
     <title>Próximamente | 17:00 | ◘ vs élez Sarsfield vs. Platense ◘ Liga Argentina ◘</title>
   </programme>
@@ -129755,78 +129503,6 @@
   </programme>
   <programme start="20261006040000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Medell_n_vs_Santa_Fe___Liga_Betplay_____19_00_1">
     <title>Finalizado | ◘ Medellín vs Santa Fe ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005193000" channel="EVENTOS_VIP__Evento_____C_rdoba_vs_Tenerife___LaLiga_SmartBank_____13_30_1">
-    <title>Próximamente | 13:30 | ◘ Córdoba vs Tenerife ◘ LaLiga SmartBank ◘</title>
-  </programme>
-  <programme start="20261005193000" stop="20261005223000" channel="EVENTOS_VIP__Evento_____C_rdoba_vs_Tenerife___LaLiga_SmartBank_____13_30_1">
-    <title>⌾ En vivo | 13:30 | ◘ Córdoba vs Tenerife ◘ LaLiga SmartBank ◘</title>
-  </programme>
-  <programme start="20261005223000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____C_rdoba_vs_Tenerife___LaLiga_SmartBank_____13_30_1">
-    <title>Finalizado | ◘ Córdoba vs Tenerife ◘ LaLiga SmartBank ◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005060000" channel="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005090000" channel="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005090000" stop="20261006055959" channel="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <title>Finalizado | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005080000" channel="EVENTOS_VIP__Evento_____Alex_de_Minaur_vs_Hubert_Hurkacz___ATP______02_00_1">
-    <title>Próximamente | 02:00 | ◘ Alex de Minaur vs Hubert Hurkacz ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005080000" stop="20261005110000" channel="EVENTOS_VIP__Evento_____Alex_de_Minaur_vs_Hubert_Hurkacz___ATP______02_00_1">
-    <title>⌾ En vivo | 02:00 | ◘ Alex de Minaur vs Hubert Hurkacz ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005110000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Alex_de_Minaur_vs_Hubert_Hurkacz___ATP______02_00_1">
-    <title>Finalizado | ◘ Alex de Minaur vs Hubert Hurkacz ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005080000" channel="EVENTOS_VIP__Evento_____Carlos_Alcaraz_vs_Jaume_Munar___ATP______02_00_1">
-    <title>Próximamente | 02:00 | ◘ Carlos Alcaraz vs Jaume Munar ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005080000" stop="20261005110000" channel="EVENTOS_VIP__Evento_____Carlos_Alcaraz_vs_Jaume_Munar___ATP______02_00_1">
-    <title>⌾ En vivo | 02:00 | ◘ Carlos Alcaraz vs Jaume Munar ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005110000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Carlos_Alcaraz_vs_Jaume_Munar___ATP______02_00_1">
-    <title>Finalizado | ◘ Carlos Alcaraz vs Jaume Munar ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005080000" channel="Evento_02_00___Kinoshita_Group_Japan_Open___ATP_____02_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______01_00_1">
-    <title>Próximamente | 02:00 | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005080000" stop="20261005110000" channel="Evento_02_00___Kinoshita_Group_Japan_Open___ATP_____02_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______01_00_1">
-    <title>⌾ En vivo | 02:00 | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005110000" stop="20261006055959" channel="Evento_02_00___Kinoshita_Group_Japan_Open___ATP_____02_00___Kinoshita_Group_Japan_Open___ATP________Kinoshita_Group_Japan_Open___vs_P______01_00_1">
-    <title>Finalizado | ◘ Kinoshita Group Japan Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005100000" channel="Evento_04_00___China_Open___Brad_Drewett___ATP_____04_00___China_Open___Brad_Drewett___ATP________China_Open___Brad_Drewett___vs_P______03_00_1">
-    <title>Próximamente | 04:00 | ◘ China Open / Brad Drewett ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005100000" stop="20261005130000" channel="Evento_04_00___China_Open___Brad_Drewett___ATP_____04_00___China_Open___Brad_Drewett___ATP________China_Open___Brad_Drewett___vs_P______03_00_1">
-    <title>⌾ En vivo | 04:00 | ◘ China Open / Brad Drewett ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005130000" stop="20261006055959" channel="Evento_04_00___China_Open___Brad_Drewett___ATP_____04_00___China_Open___Brad_Drewett___ATP________China_Open___Brad_Drewett___vs_P______03_00_1">
-    <title>Finalizado | ◘ China Open / Brad Drewett ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005120000" channel="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_1">
-    <title>Próximamente | 06:00 | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005120000" stop="20261005150000" channel="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005150000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_1">
-    <title>Finalizado | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005060000" stop="20261005120000" channel="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_2">
-    <title>Próximamente | 06:00 | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005120000" stop="20261005150000" channel="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_2">
-    <title>⌾ En vivo | 06:00 | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261005150000" stop="20261006055959" channel="EVENTOS_VIP__Evento_____Novak_Djokovic_vs_Daniil_Medvedev___ATP______06_00_2">
-    <title>Finalizado | ◘ Novak Djokovic vs Daniil Medvedev ◘ ATP ◘◘</title>
   </programme>
 </tv>
 
