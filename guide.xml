@@ -129297,9 +129297,6 @@
   <channel id="EVENTOS_VIP__Evento_____Chicago_Fire_vs_Vancouver_Whitecaps___Major_League_Soccer___English___19_30_1">
     <display-name>Evento | ◘ Chicago Fire vs Vancouver Whitecaps ◘ Major League Soccer ◘ English | 19:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Kazajist_n_vs_Islas_Faroe___UEFA_Nations_League______09_00_1">
-    <display-name>Evento | ◘ Kazajistán vs Islas Faroe ◘ UEFA Nations League ◘◘ | 09:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Ingl_vs_erra_vs__Rep_blica_Checa___UEFA_Nations_League____FHD___13_45_1">
     <display-name>Evento | ◘ Ingl vs erra vs. República Checa ◘ UEFA Nations League ◘◘ FHD | 13:45</display-name>
   </channel>
@@ -129369,15 +129366,6 @@
   <channel id="EVENTOS_VIP__Evento_____Guayana_Francesa_vs_Belice___CONCACAF_Nations_League______21_00_1">
     <display-name>Evento | ◘ Guayana Francesa vs Belice ◘ CONCACAF Nations League ◘◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional_____09_00_1">
-    <display-name>Evento | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ | 09:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___ESP__ESP____09_00_1">
-    <display-name>Evento | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ ESP [ESP] | 09:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___PORT___09_00_1">
-    <display-name>Evento | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ PORT | 09:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Argentina_vs_Ben_n___Amistoso_Internacional_____18_00_1">
     <display-name>Evento | ◘ Argentina vs Benín ◘ Amistoso Internacional ◘ | 18:00</display-name>
   </channel>
@@ -129416,12 +129404,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Ellerstina_I__Chapaleuf__Vista_vs_La_Zeta_Kazak___Grupo_A___Fecha__1______13_55_1">
     <display-name>Evento | ◘ Ellerstina-I. Chapaleufú Vista vs La Zeta Kazak ◘ Grupo A - Fecha #1 ◘◘ | 13:55</display-name>
-  </channel>
-  <channel id="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <display-name>00:00 ◘ Kinoshita Group Japan Open / Coliseum ◘ ATP ◘◘ | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘ | 23:00</display-name>
-  </channel>
-  <channel id="Evento_03_00___China_Open___Capital_Group_Diamond___ATP_____03_00___China_Open___Capital_Group_Diamond___ATP________China_Open___Capital_Group_Diamond___vs_P______02_00_1">
-    <display-name>03:00 ◘ China Open / Capital Group Diamond ◘ ATP ◘◘ | ◘ China Open / Capital Group Diamond ◘ vs P ◘◘ | 02:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Carlos_Alcaraz_vs_Jiri_Lehecka___ATP______04_00_1">
     <display-name>Evento | ◘ Carlos Alcaraz vs Jiri Lehecka ◘ ATP ◘◘ | 04:00</display-name>
@@ -129660,15 +129642,6 @@
   <programme start="20261006223000 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____Chicago_Fire_vs_Vancouver_Whitecaps___Major_League_Soccer___English___19_30_1">
     <title>Finalizado | ◘ Chicago Fire vs Vancouver Whitecaps ◘ Major League Soccer ◘ English</title>
   </programme>
-  <programme start="20261006000000 -0600" stop="20261006090000 -0600" channel="EVENTOS_VIP__Evento_____Kazajist_n_vs_Islas_Faroe___UEFA_Nations_League______09_00_1">
-    <title>Próximamente | 09:00 | ◘ Kazajistán vs Islas Faroe ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261006090000 -0600" stop="20261006120000 -0600" channel="EVENTOS_VIP__Evento_____Kazajist_n_vs_Islas_Faroe___UEFA_Nations_League______09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ Kazajistán vs Islas Faroe ◘ UEFA Nations League ◘◘</title>
-  </programme>
-  <programme start="20261006120000 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____Kazajist_n_vs_Islas_Faroe___UEFA_Nations_League______09_00_1">
-    <title>Finalizado | ◘ Kazajistán vs Islas Faroe ◘ UEFA Nations League ◘◘</title>
-  </programme>
   <programme start="20261006000000 -0600" stop="20261006134500 -0600" channel="EVENTOS_VIP__Evento_____Ingl_vs_erra_vs__Rep_blica_Checa___UEFA_Nations_League____FHD___13_45_1">
     <title>Próximamente | 13:45 | ◘ Ingl vs erra vs. República Checa ◘ UEFA Nations League ◘◘ FHD</title>
   </programme>
@@ -129876,33 +129849,6 @@
   <programme start="20261007000000 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____Guayana_Francesa_vs_Belice___CONCACAF_Nations_League______21_00_1">
     <title>Finalizado | ◘ Guayana Francesa vs Belice ◘ CONCACAF Nations League ◘◘</title>
   </programme>
-  <programme start="20261006000000 -0600" stop="20261006090000 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional_____09_00_1">
-    <title>Próximamente | 09:00 | ◘ India vs Uruguay ◘ Amistoso Internacional ◘</title>
-  </programme>
-  <programme start="20261006090000 -0600" stop="20261006120000 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional_____09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ India vs Uruguay ◘ Amistoso Internacional ◘</title>
-  </programme>
-  <programme start="20261006120000 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional_____09_00_1">
-    <title>Finalizado | ◘ India vs Uruguay ◘ Amistoso Internacional ◘</title>
-  </programme>
-  <programme start="20261006000000 -0600" stop="20261006090000 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___ESP__ESP____09_00_1">
-    <title>Próximamente | 09:00 | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ ESP [ESP]</title>
-  </programme>
-  <programme start="20261006090000 -0600" stop="20261006120000 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___ESP__ESP____09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ ESP [ESP]</title>
-  </programme>
-  <programme start="20261006120000 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___ESP__ESP____09_00_1">
-    <title>Finalizado | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ ESP [ESP]</title>
-  </programme>
-  <programme start="20261006000000 -0600" stop="20261006090000 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___PORT___09_00_1">
-    <title>Próximamente | 09:00 | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ PORT</title>
-  </programme>
-  <programme start="20261006090000 -0600" stop="20261006120000 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___PORT___09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ PORT</title>
-  </programme>
-  <programme start="20261006120000 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____India_vs_Uruguay___Amistoso_Internacional___PORT___09_00_1">
-    <title>Finalizado | ◘ India vs Uruguay ◘ Amistoso Internacional ◘ PORT</title>
-  </programme>
   <programme start="20261006000000 -0600" stop="20261006180000 -0600" channel="EVENTOS_VIP__Evento_____Argentina_vs_Ben_n___Amistoso_Internacional_____18_00_1">
     <title>Próximamente | 18:00 | ◘ Argentina vs Benín ◘ Amistoso Internacional ◘</title>
   </programme>
@@ -130019,24 +129965,6 @@
   </programme>
   <programme start="20261006165500 -0600" stop="20261006235959 -0600" channel="EVENTOS_VIP__Evento_____Ellerstina_I__Chapaleuf__Vista_vs_La_Zeta_Kazak___Grupo_A___Fecha__1______13_55_1">
     <title>Finalizado | ◘ Ellerstina-I. Chapaleufú Vista vs La Zeta Kazak ◘ Grupo A - Fecha #1 ◘◘</title>
-  </programme>
-  <programme start="20261006000000 -0600" stop="20261006000000 -0600" channel="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261006000000 -0600" stop="20261006030000 -0600" channel="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261006030000 -0600" stop="20261006235959 -0600" channel="Evento_00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP_____00_00___Kinoshita_Group_Japan_Open___Coliseum___ATP________Kinoshita_Group_Japan_Open___Coliseum___vs_P______23_00_1">
-    <title>Finalizado | ◘ Kinoshita Group Japan Open / Coliseum ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261006000000 -0600" stop="20261006030000 -0600" channel="Evento_03_00___China_Open___Capital_Group_Diamond___ATP_____03_00___China_Open___Capital_Group_Diamond___ATP________China_Open___Capital_Group_Diamond___vs_P______02_00_1">
-    <title>Próximamente | 03:00 | ◘ China Open / Capital Group Diamond ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261006030000 -0600" stop="20261006060000 -0600" channel="Evento_03_00___China_Open___Capital_Group_Diamond___ATP_____03_00___China_Open___Capital_Group_Diamond___ATP________China_Open___Capital_Group_Diamond___vs_P______02_00_1">
-    <title>⌾ En vivo | 03:00 | ◘ China Open / Capital Group Diamond ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261006060000 -0600" stop="20261006235959 -0600" channel="Evento_03_00___China_Open___Capital_Group_Diamond___ATP_____03_00___China_Open___Capital_Group_Diamond___ATP________China_Open___Capital_Group_Diamond___vs_P______02_00_1">
-    <title>Finalizado | ◘ China Open / Capital Group Diamond ◘ vs P ◘◘</title>
   </programme>
   <programme start="20261006000000 -0600" stop="20261006040000 -0600" channel="EVENTOS_VIP__Evento_____Carlos_Alcaraz_vs_Jiri_Lehecka___ATP______04_00_1">
     <title>Próximamente | 04:00 | ◘ Carlos Alcaraz vs Jiri Lehecka ◘ ATP ◘◘</title>
