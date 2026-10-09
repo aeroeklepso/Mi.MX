@@ -129678,26 +129678,11 @@
   <channel id="EVENTOS_VIP__Evento_____M_laga_vs_Espanyol___LaLiga____SD___14_00_1">
     <display-name>Evento | ◘ Málaga vs Espanyol ◘ LaLiga ◘◘ SD | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Al_Kholood_vs_Al_Quadisiya___Pro_League_____08_50_1">
-    <display-name>Evento | ◘ Al Kholood vs Al Quadisiya ◘ Pro League ◘ | 08:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Al_F_vs_eh_vs__Al_Ahli___Pro_League_____09_55_1">
-    <display-name>Evento | ◘ Al F vs eh vs. Al-Ahli ◘ Pro League ◘ | 09:55</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Al_Nassr_vs_Diriyah___Pro_League_____13_00_1">
     <display-name>Evento | ◘ Al Nassr vs Diriyah ◘ Pro League ◘ | 13:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____1__FC_Heidenheim_1846_vs_1__FC_Kaiserslautern___Bundesliga_2______11_20_1">
-    <display-name>Evento | ◘ 1. FC Heidenheim 1846 vs 1. FC Kaiserslautern ◘ Bundesliga 2 ◘◘ | 11:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Holstein_Kiel___Bundesliga_2______11_20_1">
-    <display-name>Evento | ◘ Eintracht Braunschweig vs Holstein Kiel ◘ Bundesliga 2 ◘◘ | 11:20</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Borussia_Dortmund_vs_Werder_Bremen___Bundesliga_____13_30_1">
     <display-name>Evento | ◘ Borussia Dortmund vs Werder Bremen ◘ Bundesliga ◘ | 13:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Gal_vs_asaray_vs__Kasimpasa___S_per_Lig______11_50_1">
-    <display-name>Evento | ◘ Gal vs asaray vs. Kasimpasa ◘ Süper Lig ◘◘ | 11:50</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Moreirense_vs_Gil_Vicente___Primeira_Liga_____12_45_1">
     <display-name>Evento | ◘ Moreirense vs Gil Vicente ◘ Primeira Liga ◘ | 12:45</display-name>
@@ -129765,9 +129750,6 @@
   <channel id="Evento_LigaMX__LigaMX_____Tigres_UANL_vs_Toluca___Liga_MX_____21_00_1">
     <display-name>LigaMX | ◘ Tigres UANL vs Toluca ◘ Liga MX ◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Northland_vs_Tasman___NPC______01_05_1">
-    <display-name>Evento | ◘ Northland vs Tasman ◘ NPC ◘◘ | 01:05</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____North_Harbour_vs_Taranaki___NPC______20_30_1">
     <display-name>Evento | ◘ North Harbour vs Taranaki ◘ NPC ◘◘ | 20:30</display-name>
   </channel>
@@ -129819,12 +129801,6 @@
   <channel id="Evento_23_00___Rolex_Shanghai_Masters___ATP_____23_00___Rolex_Shanghai_Masters___ATP________Rolex_Shanghai_Masters___vs_P______22_00_2">
     <display-name>23:00 ◘ Rolex Shanghai Masters ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters ◘ vs P ◘◘ | 22:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Qinwen_Zheng_vs_Elina_Svitolina___WTA______02_00_1">
-    <display-name>Evento | ◘ Qinwen Zheng vs Elina Svitolina ◘ WTA ◘◘ | 02:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Elise_Mertens_vs_Iga_Swiatek___WTA______06_00_1">
-    <display-name>Evento | ◘ Elise Mertens vs Iga Swiatek ◘ WTA ◘◘ | 06:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Kennesaw_St_vs_e_vs__Jacksonville_State___NCAA_Women_s_Soccer______15_00_1">
     <display-name>Evento | ◘ Kennesaw St vs e vs. Jacksonville State ◘ NCAA Women's Soccer ◘◘ | 15:00</display-name>
   </channel>
@@ -129857,6 +129833,12 @@
   </channel>
   <channel id="Evento_En_Espa_ol___NCAA_Football_____En_Espa_ol___NCAA_Football________Iowa_St_vs_e_vs___8_BYU___20_15_1">
     <display-name>En Español ◘ NCAA Football ◘◘ | ◘ Iowa St vs e vs. #8 BYU | 20:15</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Leones_del_Norte___13_00_1">
+    <display-name>Evento | - Ecuador - Libertad vs Leones del Norte | 13:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Mushuc_Runa___15_30_1">
+    <display-name>Evento | - Ecuador - Delfin vs Mushuc Runa | 15:30</display-name>
   </channel>
   <programme start="20261009060000" stop="20261009233000" channel="EVENTOS_VIP__Evento_____Pittsburgh_Penguins_vs_Columbus_Blue_Jackets___NHL______17_30_1">
     <title>Próximamente | 17:30 | ◘ Pittsburgh Penguins vs Columbus Blue Jackets ◘ NHL ◘◘</title>
@@ -129948,24 +129930,6 @@
   <programme start="20261009230000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____M_laga_vs_Espanyol___LaLiga____SD___14_00_1">
     <title>Finalizado | ◘ Málaga vs Espanyol ◘ LaLiga ◘◘ SD</title>
   </programme>
-  <programme start="20261009060000" stop="20261009145000" channel="EVENTOS_VIP__Evento_____Al_Kholood_vs_Al_Quadisiya___Pro_League_____08_50_1">
-    <title>Próximamente | 08:50 | ◘ Al Kholood vs Al Quadisiya ◘ Pro League ◘</title>
-  </programme>
-  <programme start="20261009145000" stop="20261009175000" channel="EVENTOS_VIP__Evento_____Al_Kholood_vs_Al_Quadisiya___Pro_League_____08_50_1">
-    <title>⌾ En vivo | 08:50 | ◘ Al Kholood vs Al Quadisiya ◘ Pro League ◘</title>
-  </programme>
-  <programme start="20261009175000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Al_Kholood_vs_Al_Quadisiya___Pro_League_____08_50_1">
-    <title>Finalizado | ◘ Al Kholood vs Al Quadisiya ◘ Pro League ◘</title>
-  </programme>
-  <programme start="20261009060000" stop="20261009155500" channel="EVENTOS_VIP__Evento_____Al_F_vs_eh_vs__Al_Ahli___Pro_League_____09_55_1">
-    <title>Próximamente | 09:55 | ◘ Al F vs eh vs. Al-Ahli ◘ Pro League ◘</title>
-  </programme>
-  <programme start="20261009155500" stop="20261009185500" channel="EVENTOS_VIP__Evento_____Al_F_vs_eh_vs__Al_Ahli___Pro_League_____09_55_1">
-    <title>⌾ En vivo | 09:55 | ◘ Al F vs eh vs. Al-Ahli ◘ Pro League ◘</title>
-  </programme>
-  <programme start="20261009185500" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Al_F_vs_eh_vs__Al_Ahli___Pro_League_____09_55_1">
-    <title>Finalizado | ◘ Al F vs eh vs. Al-Ahli ◘ Pro League ◘</title>
-  </programme>
   <programme start="20261009060000" stop="20261009190000" channel="EVENTOS_VIP__Evento_____Al_Nassr_vs_Diriyah___Pro_League_____13_00_1">
     <title>Próximamente | 13:00 | ◘ Al Nassr vs Diriyah ◘ Pro League ◘</title>
   </programme>
@@ -129975,24 +129939,6 @@
   <programme start="20261009220000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Al_Nassr_vs_Diriyah___Pro_League_____13_00_1">
     <title>Finalizado | ◘ Al Nassr vs Diriyah ◘ Pro League ◘</title>
   </programme>
-  <programme start="20261009060000" stop="20261009172000" channel="EVENTOS_VIP__Evento_____1__FC_Heidenheim_1846_vs_1__FC_Kaiserslautern___Bundesliga_2______11_20_1">
-    <title>Próximamente | 11:20 | ◘ 1. FC Heidenheim 1846 vs 1. FC Kaiserslautern ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261009172000" stop="20261009202000" channel="EVENTOS_VIP__Evento_____1__FC_Heidenheim_1846_vs_1__FC_Kaiserslautern___Bundesliga_2______11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ 1. FC Heidenheim 1846 vs 1. FC Kaiserslautern ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261009202000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____1__FC_Heidenheim_1846_vs_1__FC_Kaiserslautern___Bundesliga_2______11_20_1">
-    <title>Finalizado | ◘ 1. FC Heidenheim 1846 vs 1. FC Kaiserslautern ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261009060000" stop="20261009172000" channel="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Holstein_Kiel___Bundesliga_2______11_20_1">
-    <title>Próximamente | 11:20 | ◘ Eintracht Braunschweig vs Holstein Kiel ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261009172000" stop="20261009202000" channel="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Holstein_Kiel___Bundesliga_2______11_20_1">
-    <title>⌾ En vivo | 11:20 | ◘ Eintracht Braunschweig vs Holstein Kiel ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261009202000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Holstein_Kiel___Bundesliga_2______11_20_1">
-    <title>Finalizado | ◘ Eintracht Braunschweig vs Holstein Kiel ◘ Bundesliga 2 ◘◘</title>
-  </programme>
   <programme start="20261009060000" stop="20261009193000" channel="EVENTOS_VIP__Evento_____Borussia_Dortmund_vs_Werder_Bremen___Bundesliga_____13_30_1">
     <title>Próximamente | 13:30 | ◘ Borussia Dortmund vs Werder Bremen ◘ Bundesliga ◘</title>
   </programme>
@@ -130001,15 +129947,6 @@
   </programme>
   <programme start="20261009223000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Borussia_Dortmund_vs_Werder_Bremen___Bundesliga_____13_30_1">
     <title>Finalizado | ◘ Borussia Dortmund vs Werder Bremen ◘ Bundesliga ◘</title>
-  </programme>
-  <programme start="20261009060000" stop="20261009175000" channel="EVENTOS_VIP__Evento_____Gal_vs_asaray_vs__Kasimpasa___S_per_Lig______11_50_1">
-    <title>Próximamente | 11:50 | ◘ Gal vs asaray vs. Kasimpasa ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20261009175000" stop="20261009205000" channel="EVENTOS_VIP__Evento_____Gal_vs_asaray_vs__Kasimpasa___S_per_Lig______11_50_1">
-    <title>⌾ En vivo | 11:50 | ◘ Gal vs asaray vs. Kasimpasa ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20261009205000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Gal_vs_asaray_vs__Kasimpasa___S_per_Lig______11_50_1">
-    <title>Finalizado | ◘ Gal vs asaray vs. Kasimpasa ◘ Süper Lig ◘◘</title>
   </programme>
   <programme start="20261009060000" stop="20261009184500" channel="EVENTOS_VIP__Evento_____Moreirense_vs_Gil_Vicente___Primeira_Liga_____12_45_1">
     <title>Próximamente | 12:45 | ◘ Moreirense vs Gil Vicente ◘ Primeira Liga ◘</title>
@@ -130209,15 +130146,6 @@
   <programme start="20261010060000" stop="20261010055959" channel="Evento_LigaMX__LigaMX_____Tigres_UANL_vs_Toluca___Liga_MX_____21_00_1">
     <title>Finalizado | ◘ Tigres UANL vs Toluca ◘ Liga MX ◘</title>
   </programme>
-  <programme start="20261009060000" stop="20261009070500" channel="EVENTOS_VIP__Evento_____Northland_vs_Tasman___NPC______01_05_1">
-    <title>Próximamente | 01:05 | ◘ Northland vs Tasman ◘ NPC ◘◘</title>
-  </programme>
-  <programme start="20261009070500" stop="20261009100500" channel="EVENTOS_VIP__Evento_____Northland_vs_Tasman___NPC______01_05_1">
-    <title>⌾ En vivo | 01:05 | ◘ Northland vs Tasman ◘ NPC ◘◘</title>
-  </programme>
-  <programme start="20261009100500" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Northland_vs_Tasman___NPC______01_05_1">
-    <title>Finalizado | ◘ Northland vs Tasman ◘ NPC ◘◘</title>
-  </programme>
   <programme start="20261009060000" stop="20261010023000" channel="EVENTOS_VIP__Evento_____North_Harbour_vs_Taranaki___NPC______20_30_1">
     <title>Próximamente | 20:30 | ◘ North Harbour vs Taranaki ◘ NPC ◘◘</title>
   </programme>
@@ -130371,24 +130299,6 @@
   <programme start="20261010080000" stop="20261010055959" channel="Evento_23_00___Rolex_Shanghai_Masters___ATP_____23_00___Rolex_Shanghai_Masters___ATP________Rolex_Shanghai_Masters___vs_P______22_00_2">
     <title>Finalizado | ◘ Rolex Shanghai Masters ◘ vs P ◘◘</title>
   </programme>
-  <programme start="20261009060000" stop="20261009080000" channel="EVENTOS_VIP__Evento_____Qinwen_Zheng_vs_Elina_Svitolina___WTA______02_00_1">
-    <title>Próximamente | 02:00 | ◘ Qinwen Zheng vs Elina Svitolina ◘ WTA ◘◘</title>
-  </programme>
-  <programme start="20261009080000" stop="20261009110000" channel="EVENTOS_VIP__Evento_____Qinwen_Zheng_vs_Elina_Svitolina___WTA______02_00_1">
-    <title>⌾ En vivo | 02:00 | ◘ Qinwen Zheng vs Elina Svitolina ◘ WTA ◘◘</title>
-  </programme>
-  <programme start="20261009110000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Qinwen_Zheng_vs_Elina_Svitolina___WTA______02_00_1">
-    <title>Finalizado | ◘ Qinwen Zheng vs Elina Svitolina ◘ WTA ◘◘</title>
-  </programme>
-  <programme start="20261009060000" stop="20261009120000" channel="EVENTOS_VIP__Evento_____Elise_Mertens_vs_Iga_Swiatek___WTA______06_00_1">
-    <title>Próximamente | 06:00 | ◘ Elise Mertens vs Iga Swiatek ◘ WTA ◘◘</title>
-  </programme>
-  <programme start="20261009120000" stop="20261009150000" channel="EVENTOS_VIP__Evento_____Elise_Mertens_vs_Iga_Swiatek___WTA______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ Elise Mertens vs Iga Swiatek ◘ WTA ◘◘</title>
-  </programme>
-  <programme start="20261009150000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Elise_Mertens_vs_Iga_Swiatek___WTA______06_00_1">
-    <title>Finalizado | ◘ Elise Mertens vs Iga Swiatek ◘ WTA ◘◘</title>
-  </programme>
   <programme start="20261009060000" stop="20261009210000" channel="EVENTOS_VIP__Evento_____Kennesaw_St_vs_e_vs__Jacksonville_State___NCAA_Women_s_Soccer______15_00_1">
     <title>Próximamente | 15:00 | ◘ Kennesaw St vs e vs. Jacksonville State ◘ NCAA Women's Soccer ◘◘</title>
   </programme>
@@ -130487,6 +130397,24 @@
   </programme>
   <programme start="20261010051500" stop="20261010055959" channel="Evento_En_Espa_ol___NCAA_Football_____En_Espa_ol___NCAA_Football________Iowa_St_vs_e_vs___8_BYU___20_15_1">
     <title>Finalizado | ◘ Iowa St vs e vs. #8 BYU</title>
+  </programme>
+  <programme start="20261009060000" stop="20261009190000" channel="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Leones_del_Norte___13_00_1">
+    <title>Próximamente | 13:00 | - Ecuador - Libertad vs Leones del Norte</title>
+  </programme>
+  <programme start="20261009190000" stop="20261009220000" channel="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Leones_del_Norte___13_00_1">
+    <title>⌾ En vivo | 13:00 | - Ecuador - Libertad vs Leones del Norte</title>
+  </programme>
+  <programme start="20261009220000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Ecuador___Libertad_vs_Leones_del_Norte___13_00_1">
+    <title>Finalizado | - Ecuador - Libertad vs Leones del Norte</title>
+  </programme>
+  <programme start="20261009060000" stop="20261009213000" channel="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Mushuc_Runa___15_30_1">
+    <title>Próximamente | 15:30 | - Ecuador - Delfin vs Mushuc Runa</title>
+  </programme>
+  <programme start="20261009213000" stop="20261010003000" channel="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Mushuc_Runa___15_30_1">
+    <title>⌾ En vivo | 15:30 | - Ecuador - Delfin vs Mushuc Runa</title>
+  </programme>
+  <programme start="20261010003000" stop="20261010055959" channel="EVENTOS_VIP__Evento_____Ecuador___Delfin_vs_Mushuc_Runa___15_30_1">
+    <title>Finalizado | - Ecuador - Delfin vs Mushuc Runa</title>
   </programme>
 </tv>
 
