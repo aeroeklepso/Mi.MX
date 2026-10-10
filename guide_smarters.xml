@@ -126240,15 +126240,6 @@
   <channel id="EVENTOS_VIP__Evento_____RB_Leipzig_vs_Eintracht_Frankfurt___Bundesliga_____11_30_1">
     <display-name>Evento | ◘ RB Leipzig vs Eintracht Frankfurt ◘ Bundesliga ◘ | 11:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____1__FC_Magdeburg_vs_Hannover_96___Bundesliga_2______06_00_1">
-    <display-name>Evento | ◘ 1. FC Magdeburg vs Hannover 96 ◘ Bundesliga 2 ◘◘ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SV_Darmstadt_98_vs_Energie_Cottbus___Bundesliga_2______06_00_1">
-    <display-name>Evento | ◘ SV Darmstadt 98 vs Energie Cottbus ◘ Bundesliga 2 ◘◘ | 06:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____VfL_Osnabr_ck_vs_SG_Dynamo_Dresden___Bundesliga_2______06_00_1">
-    <display-name>Evento | ◘ VfL Osnabrück vs SG Dynamo Dresden ◘ Bundesliga 2 ◘◘ | 06:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_Wolfsburg___Bundesliga_2______13_30_1">
     <display-name>Evento | ◘ 1. FC Nurnberg vs Wolfsburg ◘ Bundesliga 2 ◘◘ | 13:30</display-name>
   </channel>
@@ -126464,18 +126455,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Sacramento_Republic_FC_vs_Colorado_Springs_Switchbacks_FC___USL_Championship______21_00_1">
     <display-name>Evento | ◘ Sacramento Republic FC vs Colorado Springs Switchbacks FC ◘ USL Championship ◘◘ | 21:00</display-name>
-  </channel>
-  <channel id="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <display-name>00:00 ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘ | 23:00</display-name>
-  </channel>
-  <channel id="Evento_00_00___Rolex_Shanghai_Masters___Court_4___ATP_____00_00___Rolex_Shanghai_Masters___Court_4___ATP________Rolex_Shanghai_Masters___Court_4___vs_P______23_00_1">
-    <display-name>00:00 ◘ Rolex Shanghai Masters / Court 4 ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Court 4 ◘ vs P ◘◘ | 23:00</display-name>
-  </channel>
-  <channel id="Evento_00_00___Rolex_Shanghai_Masters___Court_6___ATP_____00_00___Rolex_Shanghai_Masters___Court_6___ATP________Rolex_Shanghai_Masters___Court_6___vs_P______23_00_1">
-    <display-name>00:00 ◘ Rolex Shanghai Masters / Court 6 ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Court 6 ◘ vs P ◘◘ | 23:00</display-name>
-  </channel>
-  <channel id="Evento_00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______23_00_1">
-    <display-name>00:00 ◘ Rolex Shanghai Masters / Stadium Court ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘ | 23:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Brown_vs_Harvard___NCAA_Men_s_Water_Polo______11_00_1">
     <display-name>Evento | ◘ Brown vs Harvard ◘ NCAA Men's Water Polo ◘◘ | 11:00</display-name>
@@ -127028,33 +127007,6 @@
   </programme>
   <programme start="20261010203000" stop="20261011055959" channel="EVENTOS_VIP__Evento_____RB_Leipzig_vs_Eintracht_Frankfurt___Bundesliga_____11_30_1">
     <title>Finalizado | ◘ RB Leipzig vs Eintracht Frankfurt ◘ Bundesliga ◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010120000" channel="EVENTOS_VIP__Evento_____1__FC_Magdeburg_vs_Hannover_96___Bundesliga_2______06_00_1">
-    <title>Próximamente | 06:00 | ◘ 1. FC Magdeburg vs Hannover 96 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010120000" stop="20261010150000" channel="EVENTOS_VIP__Evento_____1__FC_Magdeburg_vs_Hannover_96___Bundesliga_2______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ 1. FC Magdeburg vs Hannover 96 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010150000" stop="20261011055959" channel="EVENTOS_VIP__Evento_____1__FC_Magdeburg_vs_Hannover_96___Bundesliga_2______06_00_1">
-    <title>Finalizado | ◘ 1. FC Magdeburg vs Hannover 96 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010120000" channel="EVENTOS_VIP__Evento_____SV_Darmstadt_98_vs_Energie_Cottbus___Bundesliga_2______06_00_1">
-    <title>Próximamente | 06:00 | ◘ SV Darmstadt 98 vs Energie Cottbus ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010120000" stop="20261010150000" channel="EVENTOS_VIP__Evento_____SV_Darmstadt_98_vs_Energie_Cottbus___Bundesliga_2______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ SV Darmstadt 98 vs Energie Cottbus ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010150000" stop="20261011055959" channel="EVENTOS_VIP__Evento_____SV_Darmstadt_98_vs_Energie_Cottbus___Bundesliga_2______06_00_1">
-    <title>Finalizado | ◘ SV Darmstadt 98 vs Energie Cottbus ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010120000" channel="EVENTOS_VIP__Evento_____VfL_Osnabr_ck_vs_SG_Dynamo_Dresden___Bundesliga_2______06_00_1">
-    <title>Próximamente | 06:00 | ◘ VfL Osnabrück vs SG Dynamo Dresden ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010120000" stop="20261010150000" channel="EVENTOS_VIP__Evento_____VfL_Osnabr_ck_vs_SG_Dynamo_Dresden___Bundesliga_2______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ VfL Osnabrück vs SG Dynamo Dresden ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261010150000" stop="20261011055959" channel="EVENTOS_VIP__Evento_____VfL_Osnabr_ck_vs_SG_Dynamo_Dresden___Bundesliga_2______06_00_1">
-    <title>Finalizado | ◘ VfL Osnabrück vs SG Dynamo Dresden ◘ Bundesliga 2 ◘◘</title>
   </programme>
   <programme start="20261010060000" stop="20261010193000" channel="EVENTOS_VIP__Evento_____1__FC_Nurnberg_vs_Wolfsburg___Bundesliga_2______13_30_1">
     <title>Próximamente | 13:30 | ◘ 1. FC Nurnberg vs Wolfsburg ◘ Bundesliga 2 ◘◘</title>
@@ -127703,42 +127655,6 @@
   </programme>
   <programme start="20261011060000" stop="20261011055959" channel="EVENTOS_VIP__Evento_____Sacramento_Republic_FC_vs_Colorado_Springs_Switchbacks_FC___USL_Championship______21_00_1">
     <title>Finalizado | ◘ Sacramento Republic FC vs Colorado Springs Switchbacks FC ◘ USL Championship ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010060000" channel="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010090000" channel="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010090000" stop="20261011055959" channel="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010060000" channel="Evento_00_00___Rolex_Shanghai_Masters___Court_4___ATP_____00_00___Rolex_Shanghai_Masters___Court_4___ATP________Rolex_Shanghai_Masters___Court_4___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Rolex Shanghai Masters / Court 4 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010090000" channel="Evento_00_00___Rolex_Shanghai_Masters___Court_4___ATP_____00_00___Rolex_Shanghai_Masters___Court_4___ATP________Rolex_Shanghai_Masters___Court_4___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Rolex Shanghai Masters / Court 4 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010090000" stop="20261011055959" channel="Evento_00_00___Rolex_Shanghai_Masters___Court_4___ATP_____00_00___Rolex_Shanghai_Masters___Court_4___ATP________Rolex_Shanghai_Masters___Court_4___vs_P______23_00_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Court 4 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010060000" channel="Evento_00_00___Rolex_Shanghai_Masters___Court_6___ATP_____00_00___Rolex_Shanghai_Masters___Court_6___ATP________Rolex_Shanghai_Masters___Court_6___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Rolex Shanghai Masters / Court 6 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010090000" channel="Evento_00_00___Rolex_Shanghai_Masters___Court_6___ATP_____00_00___Rolex_Shanghai_Masters___Court_6___ATP________Rolex_Shanghai_Masters___Court_6___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Rolex Shanghai Masters / Court 6 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010090000" stop="20261011055959" channel="Evento_00_00___Rolex_Shanghai_Masters___Court_6___ATP_____00_00___Rolex_Shanghai_Masters___Court_6___ATP________Rolex_Shanghai_Masters___Court_6___vs_P______23_00_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Court 6 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010060000" channel="Evento_00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010060000" stop="20261010090000" channel="Evento_00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261010090000" stop="20261011055959" channel="Evento_00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____00_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______23_00_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘</title>
   </programme>
   <programme start="20261010060000" stop="20261010170000" channel="EVENTOS_VIP__Evento_____Brown_vs_Harvard___NCAA_Men_s_Water_Polo______11_00_1">
     <title>Próximamente | 11:00 | ◘ Brown vs Harvard ◘ NCAA Men's Water Polo ◘◘</title>
