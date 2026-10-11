@@ -122007,6 +122007,12 @@
   <channel id="EVENTOS_VIP__Evento_____St__Louis_City_vs_LA_Galaxy___Major_League_Soccer___English___18_00_1">
     <display-name>Evento | ◘ St. Louis City vs LA Galaxy ◘ Major League Soccer ◘ English | 18:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Macar____11_30_1">
+    <display-name>Evento | - Ecuador - Universidad C vs ólica vs Macará | 11:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___LDU_Quito_vs_Barcelona___16_30_1">
+    <display-name>Evento | - Ecuador - LDU Quito vs Barcelona | 16:30</display-name>
+  </channel>
   <programme start="20261011000000 -0600" stop="20261011130000 -0600" channel="EVENTOS_VIP__Evento___NFL_Semana_5___Cincinn_vs_i_Bengals_at_Miami_Dolphins_13_00_ET___13_00_1">
     <title>Próximamente | 13:00 | NFL Semana 5 - Cincinn vs i Bengals at Miami Dolphins 13:00 ET</title>
   </programme>
@@ -123113,6 +123119,24 @@
   </programme>
   <programme start="20261011210000 -0600" stop="20261011235959 -0600" channel="EVENTOS_VIP__Evento_____St__Louis_City_vs_LA_Galaxy___Major_League_Soccer___English___18_00_1">
     <title>Finalizado | ◘ St. Louis City vs LA Galaxy ◘ Major League Soccer ◘ English</title>
+  </programme>
+  <programme start="20261011000000 -0600" stop="20261011113000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Macar____11_30_1">
+    <title>Próximamente | 11:30 | - Ecuador - Universidad C vs ólica vs Macará</title>
+  </programme>
+  <programme start="20261011113000 -0600" stop="20261011143000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Macar____11_30_1">
+    <title>⌾ En vivo | 11:30 | - Ecuador - Universidad C vs ólica vs Macará</title>
+  </programme>
+  <programme start="20261011143000 -0600" stop="20261011235959 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Universidad_C_vs__lica_vs_Macar____11_30_1">
+    <title>Finalizado | - Ecuador - Universidad C vs ólica vs Macará</title>
+  </programme>
+  <programme start="20261011000000 -0600" stop="20261011163000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___LDU_Quito_vs_Barcelona___16_30_1">
+    <title>Próximamente | 16:30 | - Ecuador - LDU Quito vs Barcelona</title>
+  </programme>
+  <programme start="20261011163000 -0600" stop="20261011193000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___LDU_Quito_vs_Barcelona___16_30_1">
+    <title>⌾ En vivo | 16:30 | - Ecuador - LDU Quito vs Barcelona</title>
+  </programme>
+  <programme start="20261011193000 -0600" stop="20261011235959 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___LDU_Quito_vs_Barcelona___16_30_1">
+    <title>Finalizado | - Ecuador - LDU Quito vs Barcelona</title>
   </programme>
 </tv>
 
