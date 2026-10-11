@@ -122064,6 +122064,9 @@
   <channel id="EVENTOS_VIP__Evento_____Floyd_Schofield_vs_Lucas_Bahdi___Boxeo______19_00_1">
     <display-name>Evento | ◘ Floyd Schofield vs Lucas Bahdi ◘ Boxeo ◘◘ | 19:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___NFL_Semana_5___Cincinn_vs_i_Bengals_at_Miami_Dolphins_20_15_ET___20_15_1">
+    <display-name>Evento | NFL Semana 5 - Cincinn vs i Bengals at Miami Dolphins 20:15 ET | 20:15</display-name>
+  </channel>
   <programme start="20261010000000 -0600" stop="20261010070000 -0600" channel="EVENTOS_VIP__Evento_____Rayo_Vallecano_vs_Athletic_Club___LaLiga_____07_00_1">
     <title>Próximamente | 07:00 | ◘ Rayo Vallecano vs Athletic Club ◘ LaLiga ◘</title>
   </programme>
@@ -123341,6 +123344,15 @@
   </programme>
   <programme start="20261010220000 -0600" stop="20261010235959 -0600" channel="EVENTOS_VIP__Evento_____Floyd_Schofield_vs_Lucas_Bahdi___Boxeo______19_00_1">
     <title>Finalizado | ◘ Floyd Schofield vs Lucas Bahdi ◘ Boxeo ◘◘</title>
+  </programme>
+  <programme start="20261010000000 -0600" stop="20261010201500 -0600" channel="EVENTOS_VIP__Evento___NFL_Semana_5___Cincinn_vs_i_Bengals_at_Miami_Dolphins_20_15_ET___20_15_1">
+    <title>Próximamente | 20:15 | NFL Semana 5 - Cincinn vs i Bengals at Miami Dolphins 20:15 ET</title>
+  </programme>
+  <programme start="20261010201500 -0600" stop="20261010231500 -0600" channel="EVENTOS_VIP__Evento___NFL_Semana_5___Cincinn_vs_i_Bengals_at_Miami_Dolphins_20_15_ET___20_15_1">
+    <title>⌾ En vivo | 20:15 | NFL Semana 5 - Cincinn vs i Bengals at Miami Dolphins 20:15 ET</title>
+  </programme>
+  <programme start="20261010231500 -0600" stop="20261010235959 -0600" channel="EVENTOS_VIP__Evento___NFL_Semana_5___Cincinn_vs_i_Bengals_at_Miami_Dolphins_20_15_ET___20_15_1">
+    <title>Finalizado | NFL Semana 5 - Cincinn vs i Bengals at Miami Dolphins 20:15 ET</title>
   </programme>
 </tv>
 
