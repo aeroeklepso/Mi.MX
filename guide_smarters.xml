@@ -126198,9 +126198,6 @@
   <channel id="EVENTOS_VIP__Evento_____Cleveland_Guardians_vs_Tampa_Bay_Rays___MLB___En_Espanol___19_00_1">
     <display-name>Evento | ◘ Cleveland Guardians vs Tampa Bay Rays ◘ MLB ◘ En Espanol | 19:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alemania_vs_Jap_n___Amistoso_Internacional______10_30_1">
-    <display-name>Evento | ◘ Alemania vs Japón ◘ Amistoso Internacional ◘◘ | 10:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Suecia_vs_Lituania___Amistoso_Internacional______12_00_1">
     <display-name>Evento | ◘ Suecia vs Lituania ◘ Amistoso Internacional ◘◘ | 12:00</display-name>
   </channel>
@@ -126209,12 +126206,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Estados_Unidos_vs_Espa_a___Amistoso_Internacional______18_00_1">
     <display-name>Evento | ◘ Estados Unidos vs España ◘ Amistoso Internacional ◘◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____RB_Leipzig_vs_PSV___UEFA_Youth_League______07_00_1">
-    <display-name>Evento | ◘ RB Leipzig vs PSV ◘ UEFA Youth League ◘◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Villareal_vs_Napoli___UEFA_Youth_League______09_00_1">
-    <display-name>Evento | ◘ Villareal vs Napoli ◘ UEFA Youth League ◘◘ | 09:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Sabah_vs_Slavia_Praha___UEFA_Champions_League_____11_45_1">
     <display-name>Evento | ◘ Sabah vs Slavia Praha ◘ UEFA Champions League ◘ | 11:45</display-name>
@@ -126282,12 +126273,6 @@
   <channel id="EVENTOS_VIP__Evento_____Boca_Juniors_vs_Vasco_da_Gama___Copa_Sudamericana____SD___19_00_1">
     <display-name>Evento | ◘ Boca Juniors vs Vasco da Gama ◘ Copa Sudamericana ◘◘ SD | 19:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Cong_An_Ha_Noi_FC_vs_Kashima_Antlers___AFC_Champions_League______07_00_1">
-    <display-name>Evento | ◘ Cong An Ha Noi FC vs Kashima Antlers ◘ AFC Champions League ◘◘ | 07:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Hilal___AFC_Champions_League______10_50_1">
-    <display-name>Evento | ◘ Al Sadd vs Al Hilal ◘ AFC Champions League ◘◘ | 10:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Al_Ittihad_Club_vs_Shabab_Al_Ahli_Dubai___AFC_Champions_League______13_00_1">
     <display-name>Evento | ◘ Al Ittihad Club vs Shabab Al Ahli Dubai ◘ AFC Champions League ◘◘ | 13:00</display-name>
   </channel>
@@ -126350,9 +126335,6 @@
   </channel>
   <channel id="Evento_00_00___Rolex_Shanghai_Masters___ATP_____00_00___Rolex_Shanghai_Masters___ATP________Rolex_Shanghai_Masters___vs_P______23_00_1">
     <display-name>00:00 ◘ Rolex Shanghai Masters ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters ◘ vs P ◘◘ | 23:00</display-name>
-  </channel>
-  <channel id="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <display-name>00:00 ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘ | 23:00</display-name>
   </channel>
   <channel id="Evento_05_00___Rolex_Shanghai_Masters___ATP_____05_00___Rolex_Shanghai_Masters___ATP________Rolex_Shanghai_Masters___vs_P______04_00_1">
     <display-name>05:00 ◘ Rolex Shanghai Masters ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters ◘ vs P ◘◘ | 04:00</display-name>
@@ -126558,15 +126540,6 @@
   <programme start="20261014040000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Cleveland_Guardians_vs_Tampa_Bay_Rays___MLB___En_Espanol___19_00_1">
     <title>Finalizado | ◘ Cleveland Guardians vs Tampa Bay Rays ◘ MLB ◘ En Espanol</title>
   </programme>
-  <programme start="20261013060000" stop="20261013163000" channel="EVENTOS_VIP__Evento_____Alemania_vs_Jap_n___Amistoso_Internacional______10_30_1">
-    <title>Próximamente | 10:30 | ◘ Alemania vs Japón ◘ Amistoso Internacional ◘◘</title>
-  </programme>
-  <programme start="20261013163000" stop="20261013193000" channel="EVENTOS_VIP__Evento_____Alemania_vs_Jap_n___Amistoso_Internacional______10_30_1">
-    <title>⌾ En vivo | 10:30 | ◘ Alemania vs Japón ◘ Amistoso Internacional ◘◘</title>
-  </programme>
-  <programme start="20261013193000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Alemania_vs_Jap_n___Amistoso_Internacional______10_30_1">
-    <title>Finalizado | ◘ Alemania vs Japón ◘ Amistoso Internacional ◘◘</title>
-  </programme>
   <programme start="20261013060000" stop="20261013180000" channel="EVENTOS_VIP__Evento_____Suecia_vs_Lituania___Amistoso_Internacional______12_00_1">
     <title>Próximamente | 12:00 | ◘ Suecia vs Lituania ◘ Amistoso Internacional ◘◘</title>
   </programme>
@@ -126593,24 +126566,6 @@
   </programme>
   <programme start="20261014030000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Estados_Unidos_vs_Espa_a___Amistoso_Internacional______18_00_1">
     <title>Finalizado | ◘ Estados Unidos vs España ◘ Amistoso Internacional ◘◘</title>
-  </programme>
-  <programme start="20261013060000" stop="20261013130000" channel="EVENTOS_VIP__Evento_____RB_Leipzig_vs_PSV___UEFA_Youth_League______07_00_1">
-    <title>Próximamente | 07:00 | ◘ RB Leipzig vs PSV ◘ UEFA Youth League ◘◘</title>
-  </programme>
-  <programme start="20261013130000" stop="20261013160000" channel="EVENTOS_VIP__Evento_____RB_Leipzig_vs_PSV___UEFA_Youth_League______07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ RB Leipzig vs PSV ◘ UEFA Youth League ◘◘</title>
-  </programme>
-  <programme start="20261013160000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____RB_Leipzig_vs_PSV___UEFA_Youth_League______07_00_1">
-    <title>Finalizado | ◘ RB Leipzig vs PSV ◘ UEFA Youth League ◘◘</title>
-  </programme>
-  <programme start="20261013060000" stop="20261013150000" channel="EVENTOS_VIP__Evento_____Villareal_vs_Napoli___UEFA_Youth_League______09_00_1">
-    <title>Próximamente | 09:00 | ◘ Villareal vs Napoli ◘ UEFA Youth League ◘◘</title>
-  </programme>
-  <programme start="20261013150000" stop="20261013180000" channel="EVENTOS_VIP__Evento_____Villareal_vs_Napoli___UEFA_Youth_League______09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ Villareal vs Napoli ◘ UEFA Youth League ◘◘</title>
-  </programme>
-  <programme start="20261013180000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Villareal_vs_Napoli___UEFA_Youth_League______09_00_1">
-    <title>Finalizado | ◘ Villareal vs Napoli ◘ UEFA Youth League ◘◘</title>
   </programme>
   <programme start="20261013060000" stop="20261013174500" channel="EVENTOS_VIP__Evento_____Sabah_vs_Slavia_Praha___UEFA_Champions_League_____11_45_1">
     <title>Próximamente | 11:45 | ◘ Sabah vs Slavia Praha ◘ UEFA Champions League ◘</title>
@@ -126810,24 +126765,6 @@
   <programme start="20261014040000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Boca_Juniors_vs_Vasco_da_Gama___Copa_Sudamericana____SD___19_00_1">
     <title>Finalizado | ◘ Boca Juniors vs Vasco da Gama ◘ Copa Sudamericana ◘◘ SD</title>
   </programme>
-  <programme start="20261013060000" stop="20261013130000" channel="EVENTOS_VIP__Evento_____Cong_An_Ha_Noi_FC_vs_Kashima_Antlers___AFC_Champions_League______07_00_1">
-    <title>Próximamente | 07:00 | ◘ Cong An Ha Noi FC vs Kashima Antlers ◘ AFC Champions League ◘◘</title>
-  </programme>
-  <programme start="20261013130000" stop="20261013160000" channel="EVENTOS_VIP__Evento_____Cong_An_Ha_Noi_FC_vs_Kashima_Antlers___AFC_Champions_League______07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Cong An Ha Noi FC vs Kashima Antlers ◘ AFC Champions League ◘◘</title>
-  </programme>
-  <programme start="20261013160000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Cong_An_Ha_Noi_FC_vs_Kashima_Antlers___AFC_Champions_League______07_00_1">
-    <title>Finalizado | ◘ Cong An Ha Noi FC vs Kashima Antlers ◘ AFC Champions League ◘◘</title>
-  </programme>
-  <programme start="20261013060000" stop="20261013165000" channel="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Hilal___AFC_Champions_League______10_50_1">
-    <title>Próximamente | 10:50 | ◘ Al Sadd vs Al Hilal ◘ AFC Champions League ◘◘</title>
-  </programme>
-  <programme start="20261013165000" stop="20261013195000" channel="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Hilal___AFC_Champions_League______10_50_1">
-    <title>⌾ En vivo | 10:50 | ◘ Al Sadd vs Al Hilal ◘ AFC Champions League ◘◘</title>
-  </programme>
-  <programme start="20261013195000" stop="20261014055959" channel="EVENTOS_VIP__Evento_____Al_Sadd_vs_Al_Hilal___AFC_Champions_League______10_50_1">
-    <title>Finalizado | ◘ Al Sadd vs Al Hilal ◘ AFC Champions League ◘◘</title>
-  </programme>
   <programme start="20261013060000" stop="20261013190000" channel="EVENTOS_VIP__Evento_____Al_Ittihad_Club_vs_Shabab_Al_Ahli_Dubai___AFC_Champions_League______13_00_1">
     <title>Próximamente | 13:00 | ◘ Al Ittihad Club vs Shabab Al Ahli Dubai ◘ AFC Champions League ◘◘</title>
   </programme>
@@ -127016,15 +126953,6 @@
   </programme>
   <programme start="20261013090000" stop="20261014055959" channel="Evento_00_00___Rolex_Shanghai_Masters___ATP_____00_00___Rolex_Shanghai_Masters___ATP________Rolex_Shanghai_Masters___vs_P______23_00_1">
     <title>Finalizado | ◘ Rolex Shanghai Masters ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261013060000" stop="20261013060000" channel="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <title>Próximamente | 00:00 | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261013060000" stop="20261013090000" channel="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <title>⌾ En vivo | 00:00 | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261013090000" stop="20261014055959" channel="Evento_00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____00_00___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______23_00_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
   </programme>
   <programme start="20261013060000" stop="20261013110000" channel="Evento_05_00___Rolex_Shanghai_Masters___ATP_____05_00___Rolex_Shanghai_Masters___ATP________Rolex_Shanghai_Masters___vs_P______04_00_1">
     <title>Próximamente | 05:00 | ◘ Rolex Shanghai Masters ◘ vs P ◘◘</title>
