@@ -123762,6 +123762,9 @@
   <channel id="EVENTOS_VIP__Evento_____Boston_Bruins_vs_Anaheim_Ducks___NHL______21_00_1">
     <display-name>Evento | ◘ Boston Bruins vs Anaheim Ducks ◘ NHL ◘◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_T_cnico_Universitario___15_30_1">
+    <display-name>Evento | - Ecuador - Deportivo Cuenca vs Técnico Universitario | 15:30</display-name>
+  </channel>
   <programme start="20261016000000 -0600" stop="20261016135000 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_La_Coru_a_vs_Levante___LaLiga______13_50_1">
     <title>Próximamente | 13:50 | ◘ Deportivo La Coruña vs Levante ◘ LaLiga ◘◘</title>
   </programme>
@@ -124535,6 +124538,15 @@
   </programme>
   <programme start="20261017000000 -0600" stop="20261016235959 -0600" channel="EVENTOS_VIP__Evento_____Boston_Bruins_vs_Anaheim_Ducks___NHL______21_00_1">
     <title>Finalizado | ◘ Boston Bruins vs Anaheim Ducks ◘ NHL ◘◘</title>
+  </programme>
+  <programme start="20261016000000 -0600" stop="20261016153000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_T_cnico_Universitario___15_30_1">
+    <title>Próximamente | 15:30 | - Ecuador - Deportivo Cuenca vs Técnico Universitario</title>
+  </programme>
+  <programme start="20261016153000 -0600" stop="20261016183000 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_T_cnico_Universitario___15_30_1">
+    <title>⌾ En vivo | 15:30 | - Ecuador - Deportivo Cuenca vs Técnico Universitario</title>
+  </programme>
+  <programme start="20261016183000 -0600" stop="20261016235959 -0600" channel="EVENTOS_VIP__Evento_____Ecuador___Deportivo_Cuenca_vs_T_cnico_Universitario___15_30_1">
+    <title>Finalizado | - Ecuador - Deportivo Cuenca vs Técnico Universitario</title>
   </programme>
 </tv>
 
