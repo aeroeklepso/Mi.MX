@@ -123654,9 +123654,6 @@
   <channel id="EVENTOS_VIP__Evento_____Pittsburgh_Penguins_vs_Vegas_Golden_Knights___NHL_____21_00_1">
     <display-name>Evento | ◘ Pittsburgh Penguins vs Vegas Golden Knights ◘ NHL ◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga_____07_00_1">
-    <display-name>Evento | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘ | 07:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Villarreal_vs_Elche___LaLiga_____09_15_1">
     <display-name>Evento | ◘ Villarreal vs Elche ◘ LaLiga ◘ | 09:15</display-name>
   </channel>
@@ -123665,9 +123662,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Valencia_vs_Athletic_Club___LaLiga_____14_00_1">
     <display-name>Evento | ◘ Valencia vs Athletic Club ◘ LaLiga ◘ | 14:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga___SD___07_00_1">
-    <display-name>Evento | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘ SD | 07:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Villarreal_vs_Elche___LaLiga___SD___09_15_1">
     <display-name>Evento | ◘ Villarreal vs Elche ◘ LaLiga ◘ SD | 09:15</display-name>
@@ -123678,9 +123672,6 @@
   <channel id="EVENTOS_VIP__Evento_____Valencia_vs_Athletic_Club___LaLiga___SD___14_00_1">
     <display-name>Evento | ◘ Valencia vs Athletic Club ◘ LaLiga ◘ SD | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Real_Sociedad_II_vs_Almer_a___Liga_Hypermotion_____07_00_1">
-    <display-name>Evento | ◘ Real Sociedad II vs Almería ◘ Liga Hypermotion ◘ | 07:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Eibar_vs_Mallorca___Liga_Hypermotion_____09_15_1">
     <display-name>Evento | ◘ Eibar vs Mallorca ◘ Liga Hypermotion ◘ | 09:15</display-name>
   </channel>
@@ -123690,23 +123681,8 @@
   <channel id="EVENTOS_VIP__Evento_____Las_Palmas_vs_CD_Castellon___Liga_Hypermotion_____14_00_1">
     <display-name>Evento | ◘ Las Palmas vs CD Castellon ◘ Liga Hypermotion ◘ | 14:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Everton_vs_Chelsea___Premier_League______06_20_1">
-    <display-name>Evento | ◘ Everton vs Chelsea ◘ Premier League ◘◘ | 06:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Brentford_vs_Liverpool___Premier_League______08_40_1">
-    <display-name>Evento | ◘ Brentford vs Liverpool ◘ Premier League ◘◘ | 08:40</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Fulham_vs_Hull_City___Premier_League______08_50_1">
-    <display-name>Evento | ◘ Fulham vs Hull City ◘ Premier League ◘◘ | 08:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Manchester_City_vs_Ipswich_Town___Premier_League______08_50_1">
-    <display-name>Evento | ◘ Manchester City vs Ipswich Town ◘ Premier League ◘◘ | 08:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Newcastle_United_vs_Aston_Villa___Premier_League______11_15_1">
     <display-name>Evento | ◘ Newcastle United vs Aston Villa ◘ Premier League ◘◘ | 11:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Venezia_vs_Napoli___Serie_A_____08_00_1">
-    <display-name>Evento | ◘ Venezia vs Napoli ◘ Serie A ◘ | 08:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Bologna_vs_Internazionale___Serie_A_____11_00_1">
     <display-name>Evento | ◘ Bologna vs Internazionale ◘ Serie A ◘ | 11:00</display-name>
@@ -123729,47 +123705,17 @@
   <channel id="EVENTOS_VIP__Evento_____Troyes_vs_Lens___Ligue_1______13_30_1">
     <display-name>Evento | ◘ Troyes vs Lens ◘ Ligue 1 ◘◘ | 13:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Schalke_04_vs_Mainz_05___Bundesliga_____08_30_1">
-    <display-name>Evento | ◘ Schalke 04 vs Mainz 05 ◘ Bundesliga ◘ | 08:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_RB_Leipzig___Bundesliga_____11_30_1">
     <display-name>Evento | ◘ Bayern München vs RB Leipzig ◘ Bundesliga ◘ | 11:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_RB_Leipzig___Bundesliga___SD___11_30_1">
     <display-name>Evento | ◘ Bayern München vs RB Leipzig ◘ Bundesliga ◘ SD | 11:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Hamburger_SV_vs_Stuttgart___Bundesliga______08_20_1">
-    <display-name>Evento | ◘ Hamburger SV vs Stuttgart ◘ Bundesliga ◘◘ | 08:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Augsburg___Bundesliga______08_20_1">
-    <display-name>Evento | ◘ SV Elversberg vs Augsburg ◘ Bundesliga ◘◘ | 08:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Union_Berlin_vs_Borussia_Dortmund___Bundesliga______08_20_1">
-    <display-name>Evento | ◘ Union Berlin vs Borussia Dortmund ◘ Bundesliga ◘◘ | 08:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Werder_Bremen_vs_SC_Paderborn_07___Bundesliga______08_20_1">
-    <display-name>Evento | ◘ Werder Bremen vs SC Paderborn 07 ◘ Bundesliga ◘◘ | 08:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____1__FC_Kaiserslautern_vs_Vfl_Bochum_1848___Bundesliga_2______05_50_1">
-    <display-name>Evento | ◘ 1. FC Kaiserslautern vs Vfl Bochum 1848 ◘ Bundesliga 2 ◘◘ | 05:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Spvgg_Greuther_F_rth_vs_Eintracht_Braunschweig___Bundesliga_2______05_50_1">
-    <display-name>Evento | ◘ Spvgg Greuther Fürth vs Eintracht Braunschweig ◘ Bundesliga 2 ◘◘ | 05:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Wolfsburg_vs_1__FC_Heidenheim_1846___Bundesliga_2______05_50_1">
-    <display-name>Evento | ◘ Wolfsburg vs 1. FC Heidenheim 1846 ◘ Bundesliga 2 ◘◘ | 05:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Hannover_96_vs_St__Pauli___Bundesliga_2______13_15_1">
     <display-name>Evento | ◘ Hannover 96 vs St. Pauli ◘ Bundesliga 2 ◘◘ | 13:15</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Inter_San_Carlos_vs_Alajuelense___Primera_Costa_Rica_____21_00_1">
     <display-name>Evento | ◘ Inter San Carlos vs Alajuelense ◘ Primera Costa Rica ◘ | 21:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Norwich_City_vs_Portsmouth___Championship______08_50_1">
-    <display-name>Evento | ◘ Norwich City vs Portsmouth ◘ Championship ◘◘ | 08:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Recre_vs_iva_de_Lamelas_vs__Vit_ria_Guimar_es___Ta_a_de_Portugal_____08_00_1">
-    <display-name>Evento | ◘ Recre vs iva de Lamelas vs. Vitória Guimarães ◘ Taça de Portugal ◘ | 08:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Louletano_vs_Rio_Ave___Ta_a_de_Portugal_____11_00_1">
     <display-name>Evento | ◘ Louletano vs Rio Ave ◘ Taça de Portugal ◘ | 11:00</display-name>
@@ -123827,12 +123773,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____ADO_Den_Haag_vs_PSV___Eredivisie______09_20_1">
     <display-name>Evento | ◘ ADO Den Haag vs PSV ◘ Eredivisie ◘◘ | 09:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Genclerbirligi_vs_Galatasaray___S_per_Lig______07_50_1">
-    <display-name>Evento | ◘ Genclerbirligi vs Galatasaray ◘ Süper Lig ◘◘ | 07:50</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Progreso_vs_Juventud___Primera_Uruguay______07_30_1">
-    <display-name>Evento | ◘ Progreso vs Juventud ◘ Primera Uruguay ◘◘ | 07:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Racing_vs_Montevideo_Wanderers___Primera_Uruguay______10_30_1">
     <display-name>Evento | ◘ Racing vs Montevideo Wanderers ◘ Primera Uruguay ◘◘ | 10:30</display-name>
@@ -123957,9 +123897,6 @@
   <channel id="EVENTOS_VIP__Evento_____FC_Tulsa_vs_Oakland_Roots_SC___USL_Championship______19_00_1">
     <display-name>Evento | ◘ FC Tulsa vs Oakland Roots SC ◘ USL Championship ◘◘ | 19:00</display-name>
   </channel>
-  <channel id="Evento_09_00___Qatar_Racing_British_Champions_Day_2026___H_pica_____09_00___Qatar_Racing_British_Champions_Day_2026___H_pica________Q_vs_ar_Racing_British_Champions_Day_2026___H_pica______08_00_1">
-    <display-name>09:00 ◘ Qatar Racing British Champions Day 2026 ◘ Hípica ◘◘ | ◘ Q vs ar Racing British Champions Day 2026 ◘ Hípica ◘◘ | 08:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Australia_vs_Nueva_Zelanda___Test_Matches______23_30_1">
     <display-name>Evento | ◘ Australia vs Nueva Zelanda ◘ Test Matches ◘◘ | 23:30</display-name>
   </channel>
@@ -123977,9 +123914,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Belgrano_vs_hletic_vs__Los_Matreros___URBA_Top_14______13_20_1">
     <display-name>Evento | ◘ Belgrano vs hletic vs. Los Matreros ◘ URBA Top 14 ◘◘ | 13:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Hong_Kong_China_vs_Namibia___World_Rugby_U20_Championship______07_50_1">
-    <display-name>Evento | ◘ Hong Kong China vs Namibia ◘ World Rugby U20 Championship ◘◘ | 07:50</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Brasil_vs_Canad____World_Rugby_U20_Championship______10_50_1">
     <display-name>Evento | ◘ Brasil vs Canadá ◘ World Rugby U20 Championship ◘◘ | 10:50</display-name>
@@ -124172,18 +124106,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____South_Dakota_St_vs_e_vs__North_Dakota___NCAA_American_Football______13_00_1">
     <display-name>Evento | ◘ South Dakota St vs e vs. North Dakota ◘ NCAA American Football ◘◘ | 13:00</display-name>
-  </channel>
-  <channel id="Evento_01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______00_00_1">
-    <display-name>01:00 ◘ Rolex Shanghai Masters / Stadium Court ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘ | 00:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alexander_Zverev_vs_Alejandro_Davidovich_Fokina___ATP______03_30_1">
-    <display-name>Evento | ◘ Alexander Zverev vs Alejandro Davidovich Fokina ◘ ATP ◘◘ | 03:30</display-name>
-  </channel>
-  <channel id="Evento_03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______02_30_1">
-    <display-name>03:30 ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ ATP ◘◘ | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘ | 02:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Rafael_Jodar_vs_Daniil_Medvedev___ATP______06_00_1">
-    <display-name>Evento | ◘ Rafael Jodar vs Daniil Medvedev ◘ ATP ◘◘ | 06:00</display-name>
   </channel>
   <programme start="20261017000000 -0600" stop="20261017143000 -0600" channel="EVENTOS_VIP__Evento_____vs_lanta_Dream_vs__Golden_State_Valkyries___WNBA_____14_30_1">
     <title>Próximamente | 14:30 | ◘ vs lanta Dream vs. Golden State Valkyries ◘ WNBA ◘</title>
@@ -124635,15 +124557,6 @@
   <programme start="20261018000000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Pittsburgh_Penguins_vs_Vegas_Golden_Knights___NHL_____21_00_1">
     <title>Finalizado | ◘ Pittsburgh Penguins vs Vegas Golden Knights ◘ NHL ◘</title>
   </programme>
-  <programme start="20261017000000 -0600" stop="20261017070000 -0600" channel="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘</title>
-  </programme>
-  <programme start="20261017070000 -0600" stop="20261017100000 -0600" channel="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘</title>
-  </programme>
-  <programme start="20261017100000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga_____07_00_1">
-    <title>Finalizado | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘</title>
-  </programme>
   <programme start="20261017000000 -0600" stop="20261017091500 -0600" channel="EVENTOS_VIP__Evento_____Villarreal_vs_Elche___LaLiga_____09_15_1">
     <title>Próximamente | 09:15 | ◘ Villarreal vs Elche ◘ LaLiga ◘</title>
   </programme>
@@ -124670,15 +124583,6 @@
   </programme>
   <programme start="20261017170000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Valencia_vs_Athletic_Club___LaLiga_____14_00_1">
     <title>Finalizado | ◘ Valencia vs Athletic Club ◘ LaLiga ◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017070000 -0600" channel="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga___SD___07_00_1">
-    <title>Próximamente | 07:00 | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘ SD</title>
-  </programme>
-  <programme start="20261017070000 -0600" stop="20261017100000 -0600" channel="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga___SD___07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘ SD</title>
-  </programme>
-  <programme start="20261017100000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Espanyol_vs_Atl_tico_Madrid___LaLiga___SD___07_00_1">
-    <title>Finalizado | ◘ Espanyol vs Atlético Madrid ◘ LaLiga ◘ SD</title>
   </programme>
   <programme start="20261017000000 -0600" stop="20261017091500 -0600" channel="EVENTOS_VIP__Evento_____Villarreal_vs_Elche___LaLiga___SD___09_15_1">
     <title>Próximamente | 09:15 | ◘ Villarreal vs Elche ◘ LaLiga ◘ SD</title>
@@ -124707,15 +124611,6 @@
   <programme start="20261017170000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Valencia_vs_Athletic_Club___LaLiga___SD___14_00_1">
     <title>Finalizado | ◘ Valencia vs Athletic Club ◘ LaLiga ◘ SD</title>
   </programme>
-  <programme start="20261017000000 -0600" stop="20261017070000 -0600" channel="EVENTOS_VIP__Evento_____Real_Sociedad_II_vs_Almer_a___Liga_Hypermotion_____07_00_1">
-    <title>Próximamente | 07:00 | ◘ Real Sociedad II vs Almería ◘ Liga Hypermotion ◘</title>
-  </programme>
-  <programme start="20261017070000 -0600" stop="20261017100000 -0600" channel="EVENTOS_VIP__Evento_____Real_Sociedad_II_vs_Almer_a___Liga_Hypermotion_____07_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ Real Sociedad II vs Almería ◘ Liga Hypermotion ◘</title>
-  </programme>
-  <programme start="20261017100000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Real_Sociedad_II_vs_Almer_a___Liga_Hypermotion_____07_00_1">
-    <title>Finalizado | ◘ Real Sociedad II vs Almería ◘ Liga Hypermotion ◘</title>
-  </programme>
   <programme start="20261017000000 -0600" stop="20261017091500 -0600" channel="EVENTOS_VIP__Evento_____Eibar_vs_Mallorca___Liga_Hypermotion_____09_15_1">
     <title>Próximamente | 09:15 | ◘ Eibar vs Mallorca ◘ Liga Hypermotion ◘</title>
   </programme>
@@ -124743,42 +124638,6 @@
   <programme start="20261017170000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Las_Palmas_vs_CD_Castellon___Liga_Hypermotion_____14_00_1">
     <title>Finalizado | ◘ Las Palmas vs CD Castellon ◘ Liga Hypermotion ◘</title>
   </programme>
-  <programme start="20261017000000 -0600" stop="20261017062000 -0600" channel="EVENTOS_VIP__Evento_____Everton_vs_Chelsea___Premier_League______06_20_1">
-    <title>Próximamente | 06:20 | ◘ Everton vs Chelsea ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017062000 -0600" stop="20261017092000 -0600" channel="EVENTOS_VIP__Evento_____Everton_vs_Chelsea___Premier_League______06_20_1">
-    <title>⌾ En vivo | 06:20 | ◘ Everton vs Chelsea ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017092000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Everton_vs_Chelsea___Premier_League______06_20_1">
-    <title>Finalizado | ◘ Everton vs Chelsea ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017084000 -0600" channel="EVENTOS_VIP__Evento_____Brentford_vs_Liverpool___Premier_League______08_40_1">
-    <title>Próximamente | 08:40 | ◘ Brentford vs Liverpool ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017084000 -0600" stop="20261017114000 -0600" channel="EVENTOS_VIP__Evento_____Brentford_vs_Liverpool___Premier_League______08_40_1">
-    <title>⌾ En vivo | 08:40 | ◘ Brentford vs Liverpool ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017114000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Brentford_vs_Liverpool___Premier_League______08_40_1">
-    <title>Finalizado | ◘ Brentford vs Liverpool ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017085000 -0600" channel="EVENTOS_VIP__Evento_____Fulham_vs_Hull_City___Premier_League______08_50_1">
-    <title>Próximamente | 08:50 | ◘ Fulham vs Hull City ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017085000 -0600" stop="20261017115000 -0600" channel="EVENTOS_VIP__Evento_____Fulham_vs_Hull_City___Premier_League______08_50_1">
-    <title>⌾ En vivo | 08:50 | ◘ Fulham vs Hull City ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017115000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Fulham_vs_Hull_City___Premier_League______08_50_1">
-    <title>Finalizado | ◘ Fulham vs Hull City ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017085000 -0600" channel="EVENTOS_VIP__Evento_____Manchester_City_vs_Ipswich_Town___Premier_League______08_50_1">
-    <title>Próximamente | 08:50 | ◘ Manchester City vs Ipswich Town ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017085000 -0600" stop="20261017115000 -0600" channel="EVENTOS_VIP__Evento_____Manchester_City_vs_Ipswich_Town___Premier_League______08_50_1">
-    <title>⌾ En vivo | 08:50 | ◘ Manchester City vs Ipswich Town ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017115000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Manchester_City_vs_Ipswich_Town___Premier_League______08_50_1">
-    <title>Finalizado | ◘ Manchester City vs Ipswich Town ◘ Premier League ◘◘</title>
-  </programme>
   <programme start="20261017000000 -0600" stop="20261017111500 -0600" channel="EVENTOS_VIP__Evento_____Newcastle_United_vs_Aston_Villa___Premier_League______11_15_1">
     <title>Próximamente | 11:15 | ◘ Newcastle United vs Aston Villa ◘ Premier League ◘◘</title>
   </programme>
@@ -124787,15 +124646,6 @@
   </programme>
   <programme start="20261017141500 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Newcastle_United_vs_Aston_Villa___Premier_League______11_15_1">
     <title>Finalizado | ◘ Newcastle United vs Aston Villa ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017080000 -0600" channel="EVENTOS_VIP__Evento_____Venezia_vs_Napoli___Serie_A_____08_00_1">
-    <title>Próximamente | 08:00 | ◘ Venezia vs Napoli ◘ Serie A ◘</title>
-  </programme>
-  <programme start="20261017080000 -0600" stop="20261017110000 -0600" channel="EVENTOS_VIP__Evento_____Venezia_vs_Napoli___Serie_A_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ◘ Venezia vs Napoli ◘ Serie A ◘</title>
-  </programme>
-  <programme start="20261017110000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Venezia_vs_Napoli___Serie_A_____08_00_1">
-    <title>Finalizado | ◘ Venezia vs Napoli ◘ Serie A ◘</title>
   </programme>
   <programme start="20261017000000 -0600" stop="20261017110000 -0600" channel="EVENTOS_VIP__Evento_____Bologna_vs_Internazionale___Serie_A_____11_00_1">
     <title>Próximamente | 11:00 | ◘ Bologna vs Internazionale ◘ Serie A ◘</title>
@@ -124860,15 +124710,6 @@
   <programme start="20261017163000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Troyes_vs_Lens___Ligue_1______13_30_1">
     <title>Finalizado | ◘ Troyes vs Lens ◘ Ligue 1 ◘◘</title>
   </programme>
-  <programme start="20261017000000 -0600" stop="20261017083000 -0600" channel="EVENTOS_VIP__Evento_____Schalke_04_vs_Mainz_05___Bundesliga_____08_30_1">
-    <title>Próximamente | 08:30 | ◘ Schalke 04 vs Mainz 05 ◘ Bundesliga ◘</title>
-  </programme>
-  <programme start="20261017083000 -0600" stop="20261017113000 -0600" channel="EVENTOS_VIP__Evento_____Schalke_04_vs_Mainz_05___Bundesliga_____08_30_1">
-    <title>⌾ En vivo | 08:30 | ◘ Schalke 04 vs Mainz 05 ◘ Bundesliga ◘</title>
-  </programme>
-  <programme start="20261017113000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Schalke_04_vs_Mainz_05___Bundesliga_____08_30_1">
-    <title>Finalizado | ◘ Schalke 04 vs Mainz 05 ◘ Bundesliga ◘</title>
-  </programme>
   <programme start="20261017000000 -0600" stop="20261017113000 -0600" channel="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_RB_Leipzig___Bundesliga_____11_30_1">
     <title>Próximamente | 11:30 | ◘ Bayern München vs RB Leipzig ◘ Bundesliga ◘</title>
   </programme>
@@ -124887,69 +124728,6 @@
   <programme start="20261017143000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_RB_Leipzig___Bundesliga___SD___11_30_1">
     <title>Finalizado | ◘ Bayern München vs RB Leipzig ◘ Bundesliga ◘ SD</title>
   </programme>
-  <programme start="20261017000000 -0600" stop="20261017082000 -0600" channel="EVENTOS_VIP__Evento_____Hamburger_SV_vs_Stuttgart___Bundesliga______08_20_1">
-    <title>Próximamente | 08:20 | ◘ Hamburger SV vs Stuttgart ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017082000 -0600" stop="20261017112000 -0600" channel="EVENTOS_VIP__Evento_____Hamburger_SV_vs_Stuttgart___Bundesliga______08_20_1">
-    <title>⌾ En vivo | 08:20 | ◘ Hamburger SV vs Stuttgart ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017112000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Hamburger_SV_vs_Stuttgart___Bundesliga______08_20_1">
-    <title>Finalizado | ◘ Hamburger SV vs Stuttgart ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017082000 -0600" channel="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Augsburg___Bundesliga______08_20_1">
-    <title>Próximamente | 08:20 | ◘ SV Elversberg vs Augsburg ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017082000 -0600" stop="20261017112000 -0600" channel="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Augsburg___Bundesliga______08_20_1">
-    <title>⌾ En vivo | 08:20 | ◘ SV Elversberg vs Augsburg ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017112000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____SV_Elversberg_vs_Augsburg___Bundesliga______08_20_1">
-    <title>Finalizado | ◘ SV Elversberg vs Augsburg ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017082000 -0600" channel="EVENTOS_VIP__Evento_____Union_Berlin_vs_Borussia_Dortmund___Bundesliga______08_20_1">
-    <title>Próximamente | 08:20 | ◘ Union Berlin vs Borussia Dortmund ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017082000 -0600" stop="20261017112000 -0600" channel="EVENTOS_VIP__Evento_____Union_Berlin_vs_Borussia_Dortmund___Bundesliga______08_20_1">
-    <title>⌾ En vivo | 08:20 | ◘ Union Berlin vs Borussia Dortmund ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017112000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Union_Berlin_vs_Borussia_Dortmund___Bundesliga______08_20_1">
-    <title>Finalizado | ◘ Union Berlin vs Borussia Dortmund ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017082000 -0600" channel="EVENTOS_VIP__Evento_____Werder_Bremen_vs_SC_Paderborn_07___Bundesliga______08_20_1">
-    <title>Próximamente | 08:20 | ◘ Werder Bremen vs SC Paderborn 07 ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017082000 -0600" stop="20261017112000 -0600" channel="EVENTOS_VIP__Evento_____Werder_Bremen_vs_SC_Paderborn_07___Bundesliga______08_20_1">
-    <title>⌾ En vivo | 08:20 | ◘ Werder Bremen vs SC Paderborn 07 ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017112000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Werder_Bremen_vs_SC_Paderborn_07___Bundesliga______08_20_1">
-    <title>Finalizado | ◘ Werder Bremen vs SC Paderborn 07 ◘ Bundesliga ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017055000 -0600" channel="EVENTOS_VIP__Evento_____1__FC_Kaiserslautern_vs_Vfl_Bochum_1848___Bundesliga_2______05_50_1">
-    <title>Próximamente | 05:50 | ◘ 1. FC Kaiserslautern vs Vfl Bochum 1848 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017055000 -0600" stop="20261017085000 -0600" channel="EVENTOS_VIP__Evento_____1__FC_Kaiserslautern_vs_Vfl_Bochum_1848___Bundesliga_2______05_50_1">
-    <title>⌾ En vivo | 05:50 | ◘ 1. FC Kaiserslautern vs Vfl Bochum 1848 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017085000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____1__FC_Kaiserslautern_vs_Vfl_Bochum_1848___Bundesliga_2______05_50_1">
-    <title>Finalizado | ◘ 1. FC Kaiserslautern vs Vfl Bochum 1848 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017055000 -0600" channel="EVENTOS_VIP__Evento_____Spvgg_Greuther_F_rth_vs_Eintracht_Braunschweig___Bundesliga_2______05_50_1">
-    <title>Próximamente | 05:50 | ◘ Spvgg Greuther Fürth vs Eintracht Braunschweig ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017055000 -0600" stop="20261017085000 -0600" channel="EVENTOS_VIP__Evento_____Spvgg_Greuther_F_rth_vs_Eintracht_Braunschweig___Bundesliga_2______05_50_1">
-    <title>⌾ En vivo | 05:50 | ◘ Spvgg Greuther Fürth vs Eintracht Braunschweig ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017085000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Spvgg_Greuther_F_rth_vs_Eintracht_Braunschweig___Bundesliga_2______05_50_1">
-    <title>Finalizado | ◘ Spvgg Greuther Fürth vs Eintracht Braunschweig ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017055000 -0600" channel="EVENTOS_VIP__Evento_____Wolfsburg_vs_1__FC_Heidenheim_1846___Bundesliga_2______05_50_1">
-    <title>Próximamente | 05:50 | ◘ Wolfsburg vs 1. FC Heidenheim 1846 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017055000 -0600" stop="20261017085000 -0600" channel="EVENTOS_VIP__Evento_____Wolfsburg_vs_1__FC_Heidenheim_1846___Bundesliga_2______05_50_1">
-    <title>⌾ En vivo | 05:50 | ◘ Wolfsburg vs 1. FC Heidenheim 1846 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261017085000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Wolfsburg_vs_1__FC_Heidenheim_1846___Bundesliga_2______05_50_1">
-    <title>Finalizado | ◘ Wolfsburg vs 1. FC Heidenheim 1846 ◘ Bundesliga 2 ◘◘</title>
-  </programme>
   <programme start="20261017000000 -0600" stop="20261017131500 -0600" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_St__Pauli___Bundesliga_2______13_15_1">
     <title>Próximamente | 13:15 | ◘ Hannover 96 vs St. Pauli ◘ Bundesliga 2 ◘◘</title>
   </programme>
@@ -124967,24 +124745,6 @@
   </programme>
   <programme start="20261018000000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Inter_San_Carlos_vs_Alajuelense___Primera_Costa_Rica_____21_00_1">
     <title>Finalizado | ◘ Inter San Carlos vs Alajuelense ◘ Primera Costa Rica ◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017085000 -0600" channel="EVENTOS_VIP__Evento_____Norwich_City_vs_Portsmouth___Championship______08_50_1">
-    <title>Próximamente | 08:50 | ◘ Norwich City vs Portsmouth ◘ Championship ◘◘</title>
-  </programme>
-  <programme start="20261017085000 -0600" stop="20261017115000 -0600" channel="EVENTOS_VIP__Evento_____Norwich_City_vs_Portsmouth___Championship______08_50_1">
-    <title>⌾ En vivo | 08:50 | ◘ Norwich City vs Portsmouth ◘ Championship ◘◘</title>
-  </programme>
-  <programme start="20261017115000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Norwich_City_vs_Portsmouth___Championship______08_50_1">
-    <title>Finalizado | ◘ Norwich City vs Portsmouth ◘ Championship ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017080000 -0600" channel="EVENTOS_VIP__Evento_____Recre_vs_iva_de_Lamelas_vs__Vit_ria_Guimar_es___Ta_a_de_Portugal_____08_00_1">
-    <title>Próximamente | 08:00 | ◘ Recre vs iva de Lamelas vs. Vitória Guimarães ◘ Taça de Portugal ◘</title>
-  </programme>
-  <programme start="20261017080000 -0600" stop="20261017110000 -0600" channel="EVENTOS_VIP__Evento_____Recre_vs_iva_de_Lamelas_vs__Vit_ria_Guimar_es___Ta_a_de_Portugal_____08_00_1">
-    <title>⌾ En vivo | 08:00 | ◘ Recre vs iva de Lamelas vs. Vitória Guimarães ◘ Taça de Portugal ◘</title>
-  </programme>
-  <programme start="20261017110000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Recre_vs_iva_de_Lamelas_vs__Vit_ria_Guimar_es___Ta_a_de_Portugal_____08_00_1">
-    <title>Finalizado | ◘ Recre vs iva de Lamelas vs. Vitória Guimarães ◘ Taça de Portugal ◘</title>
   </programme>
   <programme start="20261017000000 -0600" stop="20261017110000 -0600" channel="EVENTOS_VIP__Evento_____Louletano_vs_Rio_Ave___Ta_a_de_Portugal_____11_00_1">
     <title>Próximamente | 11:00 | ◘ Louletano vs Rio Ave ◘ Taça de Portugal ◘</title>
@@ -125156,24 +124916,6 @@
   </programme>
   <programme start="20261017122000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____ADO_Den_Haag_vs_PSV___Eredivisie______09_20_1">
     <title>Finalizado | ◘ ADO Den Haag vs PSV ◘ Eredivisie ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017075000 -0600" channel="EVENTOS_VIP__Evento_____Genclerbirligi_vs_Galatasaray___S_per_Lig______07_50_1">
-    <title>Próximamente | 07:50 | ◘ Genclerbirligi vs Galatasaray ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20261017075000 -0600" stop="20261017105000 -0600" channel="EVENTOS_VIP__Evento_____Genclerbirligi_vs_Galatasaray___S_per_Lig______07_50_1">
-    <title>⌾ En vivo | 07:50 | ◘ Genclerbirligi vs Galatasaray ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20261017105000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Genclerbirligi_vs_Galatasaray___S_per_Lig______07_50_1">
-    <title>Finalizado | ◘ Genclerbirligi vs Galatasaray ◘ Süper Lig ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017073000 -0600" channel="EVENTOS_VIP__Evento_____Progreso_vs_Juventud___Primera_Uruguay______07_30_1">
-    <title>Próximamente | 07:30 | ◘ Progreso vs Juventud ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261017073000 -0600" stop="20261017103000 -0600" channel="EVENTOS_VIP__Evento_____Progreso_vs_Juventud___Primera_Uruguay______07_30_1">
-    <title>⌾ En vivo | 07:30 | ◘ Progreso vs Juventud ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261017103000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Progreso_vs_Juventud___Primera_Uruguay______07_30_1">
-    <title>Finalizado | ◘ Progreso vs Juventud ◘ Primera Uruguay ◘◘</title>
   </programme>
   <programme start="20261017000000 -0600" stop="20261017103000 -0600" channel="EVENTOS_VIP__Evento_____Racing_vs_Montevideo_Wanderers___Primera_Uruguay______10_30_1">
     <title>Próximamente | 10:30 | ◘ Racing vs Montevideo Wanderers ◘ Primera Uruguay ◘◘</title>
@@ -125544,15 +125286,6 @@
   <programme start="20261017220000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____FC_Tulsa_vs_Oakland_Roots_SC___USL_Championship______19_00_1">
     <title>Finalizado | ◘ FC Tulsa vs Oakland Roots SC ◘ USL Championship ◘◘</title>
   </programme>
-  <programme start="20261017000000 -0600" stop="20261017090000 -0600" channel="Evento_09_00___Qatar_Racing_British_Champions_Day_2026___H_pica_____09_00___Qatar_Racing_British_Champions_Day_2026___H_pica________Q_vs_ar_Racing_British_Champions_Day_2026___H_pica______08_00_1">
-    <title>Próximamente | 09:00 | ◘ Q vs ar Racing British Champions Day 2026 ◘ Hípica ◘◘</title>
-  </programme>
-  <programme start="20261017090000 -0600" stop="20261017120000 -0600" channel="Evento_09_00___Qatar_Racing_British_Champions_Day_2026___H_pica_____09_00___Qatar_Racing_British_Champions_Day_2026___H_pica________Q_vs_ar_Racing_British_Champions_Day_2026___H_pica______08_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ Q vs ar Racing British Champions Day 2026 ◘ Hípica ◘◘</title>
-  </programme>
-  <programme start="20261017120000 -0600" stop="20261017235959 -0600" channel="Evento_09_00___Qatar_Racing_British_Champions_Day_2026___H_pica_____09_00___Qatar_Racing_British_Champions_Day_2026___H_pica________Q_vs_ar_Racing_British_Champions_Day_2026___H_pica______08_00_1">
-    <title>Finalizado | ◘ Q vs ar Racing British Champions Day 2026 ◘ Hípica ◘◘</title>
-  </programme>
   <programme start="20261017000000 -0600" stop="20261017233000 -0600" channel="EVENTOS_VIP__Evento_____Australia_vs_Nueva_Zelanda___Test_Matches______23_30_1">
     <title>Próximamente | 23:30 | ◘ Australia vs Nueva Zelanda ◘ Test Matches ◘◘</title>
   </programme>
@@ -125606,15 +125339,6 @@
   </programme>
   <programme start="20261017162000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Belgrano_vs_hletic_vs__Los_Matreros___URBA_Top_14______13_20_1">
     <title>Finalizado | ◘ Belgrano vs hletic vs. Los Matreros ◘ URBA Top 14 ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017075000 -0600" channel="EVENTOS_VIP__Evento_____Hong_Kong_China_vs_Namibia___World_Rugby_U20_Championship______07_50_1">
-    <title>Próximamente | 07:50 | ◘ Hong Kong China vs Namibia ◘ World Rugby U20 Championship ◘◘</title>
-  </programme>
-  <programme start="20261017075000 -0600" stop="20261017105000 -0600" channel="EVENTOS_VIP__Evento_____Hong_Kong_China_vs_Namibia___World_Rugby_U20_Championship______07_50_1">
-    <title>⌾ En vivo | 07:50 | ◘ Hong Kong China vs Namibia ◘ World Rugby U20 Championship ◘◘</title>
-  </programme>
-  <programme start="20261017105000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Hong_Kong_China_vs_Namibia___World_Rugby_U20_Championship______07_50_1">
-    <title>Finalizado | ◘ Hong Kong China vs Namibia ◘ World Rugby U20 Championship ◘◘</title>
   </programme>
   <programme start="20261017000000 -0600" stop="20261017105000 -0600" channel="EVENTOS_VIP__Evento_____Brasil_vs_Canad____World_Rugby_U20_Championship______10_50_1">
     <title>Próximamente | 10:50 | ◘ Brasil vs Canadá ◘ World Rugby U20 Championship ◘◘</title>
@@ -126191,42 +125915,6 @@
   </programme>
   <programme start="20261017160000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____South_Dakota_St_vs_e_vs__North_Dakota___NCAA_American_Football______13_00_1">
     <title>Finalizado | ◘ South Dakota St vs e vs. North Dakota ◘ NCAA American Football ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017010000 -0600" channel="Evento_01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______00_00_1">
-    <title>Próximamente | 01:00 | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261017010000 -0600" stop="20261017040000 -0600" channel="Evento_01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______00_00_1">
-    <title>⌾ En vivo | 01:00 | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261017040000 -0600" stop="20261017235959 -0600" channel="Evento_01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP_____01_00___Rolex_Shanghai_Masters___Stadium_Court___ATP________Rolex_Shanghai_Masters___Stadium_Court___vs_P______00_00_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Stadium Court ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017033000 -0600" channel="EVENTOS_VIP__Evento_____Alexander_Zverev_vs_Alejandro_Davidovich_Fokina___ATP______03_30_1">
-    <title>Próximamente | 03:30 | ◘ Alexander Zverev vs Alejandro Davidovich Fokina ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261017033000 -0600" stop="20261017063000 -0600" channel="EVENTOS_VIP__Evento_____Alexander_Zverev_vs_Alejandro_Davidovich_Fokina___ATP______03_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ Alexander Zverev vs Alejandro Davidovich Fokina ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261017063000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Alexander_Zverev_vs_Alejandro_Davidovich_Fokina___ATP______03_30_1">
-    <title>Finalizado | ◘ Alexander Zverev vs Alejandro Davidovich Fokina ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017033000 -0600" channel="Evento_03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______02_30_1">
-    <title>Próximamente | 03:30 | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261017033000 -0600" stop="20261017063000 -0600" channel="Evento_03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______02_30_1">
-    <title>⌾ En vivo | 03:30 | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261017063000 -0600" stop="20261017235959 -0600" channel="Evento_03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP_____03_30___Rolex_Shanghai_Masters___Augmented_Reality_Feed___ATP________Rolex_Shanghai_Masters___Augmented_Reality_Feed___vs_P______02_30_1">
-    <title>Finalizado | ◘ Rolex Shanghai Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261017000000 -0600" stop="20261017060000 -0600" channel="EVENTOS_VIP__Evento_____Rafael_Jodar_vs_Daniil_Medvedev___ATP______06_00_1">
-    <title>Próximamente | 06:00 | ◘ Rafael Jodar vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261017060000 -0600" stop="20261017090000 -0600" channel="EVENTOS_VIP__Evento_____Rafael_Jodar_vs_Daniil_Medvedev___ATP______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ Rafael Jodar vs Daniil Medvedev ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261017090000 -0600" stop="20261017235959 -0600" channel="EVENTOS_VIP__Evento_____Rafael_Jodar_vs_Daniil_Medvedev___ATP______06_00_1">
-    <title>Finalizado | ◘ Rafael Jodar vs Daniil Medvedev ◘ ATP ◘◘</title>
   </programme>
 </tv>
 
