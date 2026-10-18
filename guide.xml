@@ -124122,15 +124122,6 @@
   <channel id="EVENTOS_VIP__Evento_____Marquense_vs_Suchitep_quez___Liga_Guatemala_____20_10_1">
     <display-name>Evento | ◘ Marquense vs Suchitepéquez ◘ Liga Guatemala ◘ | 20:10</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Aguilas_Cibaenas_vs_Gigantes_Del_Cibao___LIDOM_____16_00_1">
-    <display-name>Evento | ◘ Aguilas Cibaenas vs Gigantes Del Cibao ◘ LIDOM ◘ | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Estrellas_Orientales_vs_Toros_Del_Este___LIDOM_____16_00_1">
-    <display-name>Evento | ◘ Estrellas Orientales vs Toros Del Este ◘ LIDOM ◘ | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Tigres_de_Licey_vs_Leones_Del_Escogido___LIDOM_____16_00_1">
-    <display-name>Evento | ◘ Tigres de Licey vs Leones Del Escogido ◘ LIDOM ◘ | 16:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Pomona_Pitzer_vs_MIT___NCAA_Men_s_Water_Polo______13_30_1">
     <display-name>Evento | ◘ Pomona-Pitzer vs MIT ◘ NCAA Men's Water Polo ◘◘ | 13:30</display-name>
   </channel>
@@ -124679,33 +124670,6 @@
   </programme>
   <programme start="20261018231000 -0600" stop="20261018235959 -0600" channel="EVENTOS_VIP__Evento_____Marquense_vs_Suchitep_quez___Liga_Guatemala_____20_10_1">
     <title>Finalizado | ◘ Marquense vs Suchitepéquez ◘ Liga Guatemala ◘</title>
-  </programme>
-  <programme start="20261018000000 -0600" stop="20261018160000 -0600" channel="EVENTOS_VIP__Evento_____Aguilas_Cibaenas_vs_Gigantes_Del_Cibao___LIDOM_____16_00_1">
-    <title>Próximamente | 16:00 | ◘ Aguilas Cibaenas vs Gigantes Del Cibao ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018160000 -0600" stop="20261018190000 -0600" channel="EVENTOS_VIP__Evento_____Aguilas_Cibaenas_vs_Gigantes_Del_Cibao___LIDOM_____16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Aguilas Cibaenas vs Gigantes Del Cibao ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018190000 -0600" stop="20261018235959 -0600" channel="EVENTOS_VIP__Evento_____Aguilas_Cibaenas_vs_Gigantes_Del_Cibao___LIDOM_____16_00_1">
-    <title>Finalizado | ◘ Aguilas Cibaenas vs Gigantes Del Cibao ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018000000 -0600" stop="20261018160000 -0600" channel="EVENTOS_VIP__Evento_____Estrellas_Orientales_vs_Toros_Del_Este___LIDOM_____16_00_1">
-    <title>Próximamente | 16:00 | ◘ Estrellas Orientales vs Toros Del Este ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018160000 -0600" stop="20261018190000 -0600" channel="EVENTOS_VIP__Evento_____Estrellas_Orientales_vs_Toros_Del_Este___LIDOM_____16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Estrellas Orientales vs Toros Del Este ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018190000 -0600" stop="20261018235959 -0600" channel="EVENTOS_VIP__Evento_____Estrellas_Orientales_vs_Toros_Del_Este___LIDOM_____16_00_1">
-    <title>Finalizado | ◘ Estrellas Orientales vs Toros Del Este ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018000000 -0600" stop="20261018160000 -0600" channel="EVENTOS_VIP__Evento_____Tigres_de_Licey_vs_Leones_Del_Escogido___LIDOM_____16_00_1">
-    <title>Próximamente | 16:00 | ◘ Tigres de Licey vs Leones Del Escogido ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018160000 -0600" stop="20261018190000 -0600" channel="EVENTOS_VIP__Evento_____Tigres_de_Licey_vs_Leones_Del_Escogido___LIDOM_____16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ Tigres de Licey vs Leones Del Escogido ◘ LIDOM ◘</title>
-  </programme>
-  <programme start="20261018190000 -0600" stop="20261018235959 -0600" channel="EVENTOS_VIP__Evento_____Tigres_de_Licey_vs_Leones_Del_Escogido___LIDOM_____16_00_1">
-    <title>Finalizado | ◘ Tigres de Licey vs Leones Del Escogido ◘ LIDOM ◘</title>
   </programme>
   <programme start="20261018000000 -0600" stop="20261018133000 -0600" channel="EVENTOS_VIP__Evento_____Pomona_Pitzer_vs_MIT___NCAA_Men_s_Water_Polo______13_30_1">
     <title>Próximamente | 13:30 | ◘ Pomona-Pitzer vs MIT ◘ NCAA Men's Water Polo ◘◘</title>
