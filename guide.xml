@@ -124983,6 +124983,9 @@
   <channel id="EVENTOS_VIP__Evento_____Veracruz_vs_Sonora___MLB_Cup______18_00_1">
     <display-name>Evento | ◘ Veracruz vs Sonora ◘ MLB Cup ◘◘ | 18:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___UNIVERSIDAD_DE_CHILE_vs_LIBERTAD___LIBERTADORES_FEMENIL___00_00_1">
+    <display-name>Evento | UNIVERSIDAD DE CHILE vs LIBERTAD - LIBERTADORES FEMENIL | 00:00</display-name>
+  </channel>
   <programme start="20261019000000 -0600" stop="20261019140000 -0600" channel="EVENTOS_VIP__Evento_____Getafe_vs_Rayo_Vallecano___LaLiga_____14_00_1">
     <title>Próximamente | 14:00 | ◘ Getafe vs Rayo Vallecano ◘ LaLiga ◘</title>
   </programme>
@@ -125333,6 +125336,15 @@
   </programme>
   <programme start="20261019210000 -0600" stop="20261019235959 -0600" channel="EVENTOS_VIP__Evento_____Veracruz_vs_Sonora___MLB_Cup______18_00_1">
     <title>Finalizado | ◘ Veracruz vs Sonora ◘ MLB Cup ◘◘</title>
+  </programme>
+  <programme start="20261019000000 -0600" stop="20261019000000 -0600" channel="EVENTOS_VIP__Evento___UNIVERSIDAD_DE_CHILE_vs_LIBERTAD___LIBERTADORES_FEMENIL___00_00_1">
+    <title>Próximamente | 00:00 | UNIVERSIDAD DE CHILE vs LIBERTAD - LIBERTADORES FEMENIL</title>
+  </programme>
+  <programme start="20261019000000 -0600" stop="20261019030000 -0600" channel="EVENTOS_VIP__Evento___UNIVERSIDAD_DE_CHILE_vs_LIBERTAD___LIBERTADORES_FEMENIL___00_00_1">
+    <title>⌾ En vivo | 00:00 | UNIVERSIDAD DE CHILE vs LIBERTAD - LIBERTADORES FEMENIL</title>
+  </programme>
+  <programme start="20261019030000 -0600" stop="20261019235959 -0600" channel="EVENTOS_VIP__Evento___UNIVERSIDAD_DE_CHILE_vs_LIBERTAD___LIBERTADORES_FEMENIL___00_00_1">
+    <title>Finalizado | UNIVERSIDAD DE CHILE vs LIBERTAD - LIBERTADORES FEMENIL</title>
   </programme>
 </tv>
 
