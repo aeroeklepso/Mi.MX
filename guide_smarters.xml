@@ -125433,23 +125433,11 @@
   <channel id="EVENTOS_VIP__Evento_____Tampa_Bay_Rays_vs_Milwaukee_Brewers___MLB___En_Espa_ol___19_00_1">
     <display-name>Evento | ◘ Tampa Bay Rays vs Milwaukee Brewers ◘ MLB ◘ En Español | 19:00</display-name>
   </channel>
-  <channel id="Evento_01_30___Almaty_Open___ATP_____01_30___Almaty_Open___ATP________Alm_vs_y_Open___ATP______00_30_1">
-    <display-name>01:30 ◘ Almaty Open ◘ ATP ◘◘ | ◘ Alm vs y Open ◘ ATP ◘◘ | 00:30</display-name>
-  </channel>
-  <channel id="Evento_07_00___BNP_Paribas_Fortis_European_Open___ATP_____07_00___BNP_Paribas_Fortis_European_Open___ATP________BNP_Paribas_Fortis_European_Open___vs_P______06_00_1">
-    <display-name>07:00 ◘ BNP Paribas Fortis European Open ◘ ATP ◘◘ | ◘ BNP Paribas Fortis European Open ◘ vs P ◘◘ | 06:00</display-name>
-  </channel>
   <channel id="Evento_07_00___Grand_Prix_Auvergne_Rhone_Alpes___ATP_____07_00___Grand_Prix_Auvergne_Rhone_Alpes___ATP________Grand_Prix_Auvergne_Rhone_Alpes___vs_P______06_00_1">
     <display-name>07:00 ◘ Grand Prix Auvergne-Rhone-Alpes ◘ ATP ◘◘ | ◘ Grand Prix Auvergne-Rhone-Alpes ◘ vs P ◘◘ | 06:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Al_Faisaly_vs_Al_Nassr___Pro_League_____08_30_1">
     <display-name>Evento | ◘ Al Faisaly vs Al Nassr ◘ Pro League ◘ | 08:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alabama_vs_Georgia___NCAA_Nataci_n_y_Buceo______09_00_1">
-    <display-name>Evento | ◘ Alabama vs Georgia ◘ NCAA Natación y Buceo ◘◘ | 09:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Karen_Khachanov_vs_Alexander_Bublik___ATP______09_30_1">
-    <display-name>Evento | ◘ Karen Khachanov vs Alexander Bublik ◘ ATP ◘◘ | 09:30</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Al_Ittihad_vs_Diriyah___Pro_League_____10_30_1">
     <display-name>Evento | ◘ Al Ittihad vs Diriyah ◘ Pro League ◘ | 10:30</display-name>
@@ -125940,24 +125928,6 @@
   <programme start="20261024040000" stop="20261024055959" channel="EVENTOS_VIP__Evento_____Tampa_Bay_Rays_vs_Milwaukee_Brewers___MLB___En_Espa_ol___19_00_1">
     <title>Finalizado | ◘ Tampa Bay Rays vs Milwaukee Brewers ◘ MLB ◘ En Español</title>
   </programme>
-  <programme start="20261023060000" stop="20261023073000" channel="Evento_01_30___Almaty_Open___ATP_____01_30___Almaty_Open___ATP________Alm_vs_y_Open___ATP______00_30_1">
-    <title>Próximamente | 01:30 | ◘ Alm vs y Open ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261023073000" stop="20261023103000" channel="Evento_01_30___Almaty_Open___ATP_____01_30___Almaty_Open___ATP________Alm_vs_y_Open___ATP______00_30_1">
-    <title>⌾ En vivo | 01:30 | ◘ Alm vs y Open ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261023103000" stop="20261024055959" channel="Evento_01_30___Almaty_Open___ATP_____01_30___Almaty_Open___ATP________Alm_vs_y_Open___ATP______00_30_1">
-    <title>Finalizado | ◘ Alm vs y Open ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261023060000" stop="20261023130000" channel="Evento_07_00___BNP_Paribas_Fortis_European_Open___ATP_____07_00___BNP_Paribas_Fortis_European_Open___ATP________BNP_Paribas_Fortis_European_Open___vs_P______06_00_1">
-    <title>Próximamente | 07:00 | ◘ BNP Paribas Fortis European Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261023130000" stop="20261023160000" channel="Evento_07_00___BNP_Paribas_Fortis_European_Open___ATP_____07_00___BNP_Paribas_Fortis_European_Open___ATP________BNP_Paribas_Fortis_European_Open___vs_P______06_00_1">
-    <title>⌾ En vivo | 07:00 | ◘ BNP Paribas Fortis European Open ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261023160000" stop="20261024055959" channel="Evento_07_00___BNP_Paribas_Fortis_European_Open___ATP_____07_00___BNP_Paribas_Fortis_European_Open___ATP________BNP_Paribas_Fortis_European_Open___vs_P______06_00_1">
-    <title>Finalizado | ◘ BNP Paribas Fortis European Open ◘ vs P ◘◘</title>
-  </programme>
   <programme start="20261023060000" stop="20261023130000" channel="Evento_07_00___Grand_Prix_Auvergne_Rhone_Alpes___ATP_____07_00___Grand_Prix_Auvergne_Rhone_Alpes___ATP________Grand_Prix_Auvergne_Rhone_Alpes___vs_P______06_00_1">
     <title>Próximamente | 07:00 | ◘ Grand Prix Auvergne-Rhone-Alpes ◘ vs P ◘◘</title>
   </programme>
@@ -125975,24 +125945,6 @@
   </programme>
   <programme start="20261023173000" stop="20261024055959" channel="EVENTOS_VIP__Evento_____Al_Faisaly_vs_Al_Nassr___Pro_League_____08_30_1">
     <title>Finalizado | ◘ Al Faisaly vs Al Nassr ◘ Pro League ◘</title>
-  </programme>
-  <programme start="20261023060000" stop="20261023150000" channel="EVENTOS_VIP__Evento_____Alabama_vs_Georgia___NCAA_Nataci_n_y_Buceo______09_00_1">
-    <title>Próximamente | 09:00 | ◘ Alabama vs Georgia ◘ NCAA Natación y Buceo ◘◘</title>
-  </programme>
-  <programme start="20261023150000" stop="20261023180000" channel="EVENTOS_VIP__Evento_____Alabama_vs_Georgia___NCAA_Nataci_n_y_Buceo______09_00_1">
-    <title>⌾ En vivo | 09:00 | ◘ Alabama vs Georgia ◘ NCAA Natación y Buceo ◘◘</title>
-  </programme>
-  <programme start="20261023180000" stop="20261024055959" channel="EVENTOS_VIP__Evento_____Alabama_vs_Georgia___NCAA_Nataci_n_y_Buceo______09_00_1">
-    <title>Finalizado | ◘ Alabama vs Georgia ◘ NCAA Natación y Buceo ◘◘</title>
-  </programme>
-  <programme start="20261023060000" stop="20261023153000" channel="EVENTOS_VIP__Evento_____Karen_Khachanov_vs_Alexander_Bublik___ATP______09_30_1">
-    <title>Próximamente | 09:30 | ◘ Karen Khachanov vs Alexander Bublik ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261023153000" stop="20261023183000" channel="EVENTOS_VIP__Evento_____Karen_Khachanov_vs_Alexander_Bublik___ATP______09_30_1">
-    <title>⌾ En vivo | 09:30 | ◘ Karen Khachanov vs Alexander Bublik ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261023183000" stop="20261024055959" channel="EVENTOS_VIP__Evento_____Karen_Khachanov_vs_Alexander_Bublik___ATP______09_30_1">
-    <title>Finalizado | ◘ Karen Khachanov vs Alexander Bublik ◘ ATP ◘◘</title>
   </programme>
   <programme start="20261023060000" stop="20261023163000" channel="EVENTOS_VIP__Evento_____Al_Ittihad_vs_Diriyah___Pro_League_____10_30_1">
     <title>Próximamente | 10:30 | ◘ Al Ittihad vs Diriyah ◘ Pro League ◘</title>
