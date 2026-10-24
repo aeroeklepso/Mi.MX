@@ -124680,6 +124680,15 @@
   <channel id="Evento_LigaMX__LigaMX_____Pumas_UNAM_vs_Tigres_UANL___Liga_MX_____21_10_1">
     <display-name>LigaMX | ◘ Pumas UNAM vs Tigres UANL ◘ Liga MX ◘ | 21:10</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___MANTA_vs_DEPORTIVO_CUENCA___12_00_1">
+    <display-name>Evento | - LIGA PRO - MANTA vs DEPORTIVO CUENCA | 12:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___ORENSE_vs_DELFIN___14_00_1">
+    <display-name>Evento | - LIGA PRO - ORENSE vs DELFIN | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___LDU_QUITO_vs_MACARA___14_30_1">
+    <display-name>Evento | - LIGA PRO - LDU QUITO vs MACARA | 14:30</display-name>
+  </channel>
   <programme start="20261024060000" stop="20261025010000" channel="EVENTOS_VIP__Evento_____Mayos_De_Navojoa_vs_Jaguares_de_Nayarit___Liga_Mexicana_del_Pac_fico_____19_00_1">
     <title>Próximamente | 19:00 | ◘ Mayos De Navojoa vs Jaguares de Nayarit ◘ Liga Mexicana del Pacífico ◘</title>
   </programme>
@@ -126947,6 +126956,33 @@
   </programme>
   <programme start="20261025061000" stop="20261025055959" channel="Evento_LigaMX__LigaMX_____Pumas_UNAM_vs_Tigres_UANL___Liga_MX_____21_10_1">
     <title>Finalizado | ◘ Pumas UNAM vs Tigres UANL ◘ Liga MX ◘</title>
+  </programme>
+  <programme start="20261024060000" stop="20261024180000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___MANTA_vs_DEPORTIVO_CUENCA___12_00_1">
+    <title>Próximamente | 12:00 | - LIGA PRO - MANTA vs DEPORTIVO CUENCA</title>
+  </programme>
+  <programme start="20261024180000" stop="20261024210000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___MANTA_vs_DEPORTIVO_CUENCA___12_00_1">
+    <title>⌾ En vivo | 12:00 | - LIGA PRO - MANTA vs DEPORTIVO CUENCA</title>
+  </programme>
+  <programme start="20261024210000" stop="20261025055959" channel="EVENTOS_VIP__Evento_____LIGA_PRO___MANTA_vs_DEPORTIVO_CUENCA___12_00_1">
+    <title>Finalizado | - LIGA PRO - MANTA vs DEPORTIVO CUENCA</title>
+  </programme>
+  <programme start="20261024060000" stop="20261024200000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___ORENSE_vs_DELFIN___14_00_1">
+    <title>Próximamente | 14:00 | - LIGA PRO - ORENSE vs DELFIN</title>
+  </programme>
+  <programme start="20261024200000" stop="20261024230000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___ORENSE_vs_DELFIN___14_00_1">
+    <title>⌾ En vivo | 14:00 | - LIGA PRO - ORENSE vs DELFIN</title>
+  </programme>
+  <programme start="20261024230000" stop="20261025055959" channel="EVENTOS_VIP__Evento_____LIGA_PRO___ORENSE_vs_DELFIN___14_00_1">
+    <title>Finalizado | - LIGA PRO - ORENSE vs DELFIN</title>
+  </programme>
+  <programme start="20261024060000" stop="20261024203000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LDU_QUITO_vs_MACARA___14_30_1">
+    <title>Próximamente | 14:30 | - LIGA PRO - LDU QUITO vs MACARA</title>
+  </programme>
+  <programme start="20261024203000" stop="20261024233000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LDU_QUITO_vs_MACARA___14_30_1">
+    <title>⌾ En vivo | 14:30 | - LIGA PRO - LDU QUITO vs MACARA</title>
+  </programme>
+  <programme start="20261024233000" stop="20261025055959" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LDU_QUITO_vs_MACARA___14_30_1">
+    <title>Finalizado | - LIGA PRO - LDU QUITO vs MACARA</title>
   </programme>
 </tv>
 
