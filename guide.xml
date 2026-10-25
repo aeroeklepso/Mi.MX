@@ -124074,6 +124074,12 @@
   <channel id="EVENTOS_VIP__Evento_____Venados_De_Maz_vs_lan_vs__Charros___Liga_Mexicana_del_Pacifico_____20_00_1">
     <display-name>Evento | ◘ Venados De Maz vs lan vs. Charros ◘ Liga Mexicana del Pacifico ◘ | 20:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_GUAYAQUIL_CITY___14_00_1">
+    <display-name>Evento | - LIGA PRO - EMELEC vs GUAYAQUIL CITY | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___AUCAS_vs_BARCELONA_SC___16_30_1">
+    <display-name>Evento | - LIGA PRO - AUCAS vs BARCELONA SC | 16:30</display-name>
+  </channel>
   <programme start="20261025000000 -0600" stop="20261025040000 -0600" channel="EVENTOS_VIP__Evento_____Elena_Rybakina_vs_Leylah_Fernandez___WTA______04_00_1">
     <title>Próximamente | 04:00 | ◘ Elena Rybakina vs Leylah Fernandez ◘ WTA ◘◘</title>
   </programme>
@@ -125513,6 +125519,24 @@
   </programme>
   <programme start="20261025230000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Venados_De_Maz_vs_lan_vs__Charros___Liga_Mexicana_del_Pacifico_____20_00_1">
     <title>Finalizado | ◘ Venados De Maz vs lan vs. Charros ◘ Liga Mexicana del Pacifico ◘</title>
+  </programme>
+  <programme start="20261025000000 -0600" stop="20261025140000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_GUAYAQUIL_CITY___14_00_1">
+    <title>Próximamente | 14:00 | - LIGA PRO - EMELEC vs GUAYAQUIL CITY</title>
+  </programme>
+  <programme start="20261025140000 -0600" stop="20261025170000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_GUAYAQUIL_CITY___14_00_1">
+    <title>⌾ En vivo | 14:00 | - LIGA PRO - EMELEC vs GUAYAQUIL CITY</title>
+  </programme>
+  <programme start="20261025170000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_GUAYAQUIL_CITY___14_00_1">
+    <title>Finalizado | - LIGA PRO - EMELEC vs GUAYAQUIL CITY</title>
+  </programme>
+  <programme start="20261025000000 -0600" stop="20261025163000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___AUCAS_vs_BARCELONA_SC___16_30_1">
+    <title>Próximamente | 16:30 | - LIGA PRO - AUCAS vs BARCELONA SC</title>
+  </programme>
+  <programme start="20261025163000 -0600" stop="20261025193000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___AUCAS_vs_BARCELONA_SC___16_30_1">
+    <title>⌾ En vivo | 16:30 | - LIGA PRO - AUCAS vs BARCELONA SC</title>
+  </programme>
+  <programme start="20261025193000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___AUCAS_vs_BARCELONA_SC___16_30_1">
+    <title>Finalizado | - LIGA PRO - AUCAS vs BARCELONA SC</title>
   </programme>
 </tv>
 
