@@ -125769,26 +125769,11 @@
   <channel id="EVENTOS_VIP__Evento_____Nacional_vs_Liverpool_FC___Campeonato_Uruguayo______16_30_1">
     <display-name>Evento | ◘ Nacional vs Liverpool FC ◘ Campeonato Uruguayo ◘◘ | 16:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Racing_Club___Liga_Profesional_de_F_tbol______17_00_1">
-    <display-name>Evento | ◘ River Pl vs e vs. Racing Club ◘ Liga Profesional de Fútbol ◘◘ | 17:00</display-name>
-  </channel>
   <channel id="Evento_LigaMX__LigaMX_____vs_las_vs__Puebla___Liga_MX_____17_00_1">
     <display-name>LigaMX | ◘ vs las vs. Puebla ◘ Liga MX ◘ | 17:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Deportivo_Garcilaso_vs_Los_Chankas___Liga_1_____18_00_1">
-    <display-name>Evento | ◘ Deportivo Garcilaso vs Los Chankas ◘ Liga 1 ◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Univ__Concepci_n_vs_Deportes_Limache___Primera_Chile_____18_00_1">
-    <display-name>Evento | ◘ Univ. Concepción vs Deportes Limache ◘ Primera Chile ◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_l_tico_Nacional_vs__Medell_n___Liga_Betplay_____18_10_1">
-    <display-name>Evento | ◘ vs lético Nacional vs. Medellín ◘ Liga Betplay ◘ | 18:10</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____UPNFM_vs_Olimpia___Liga_Honduras_____18_15_1">
     <display-name>Evento | ◘ UPNFM vs Olimpia ◘ Liga Honduras ◘ | 18:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Alajuelense_vs_P_rez_Zeled_n___Primera_Costa_Rica_____19_00_1">
-    <display-name>Evento | ◘ Alajuelense vs Pérez Zeledón ◘ Primera Costa Rica ◘ | 19:00</display-name>
   </channel>
   <channel id="Evento_LigaMX__LigaMX_____Tigres_UANL_vs_Monterrey___Liga_MX_Femenil_____18_06_1">
     <display-name>LigaMX | ◘ Tigres UANL vs Monterrey ◘ Liga MX Femenil ◘ | 18:06</display-name>
@@ -125819,12 +125804,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Los_Angeles_Lakers_vs_Utah_Jazz___NBA_____16_00_1">
     <display-name>Evento | ◘ Los Angeles Lakers vs Utah Jazz ◘ NBA ◘ | 16:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA_____18_00_1">
-    <display-name>Evento | ◘ Los Angeles Clippers vs Oklahoma City Thunder ◘ NBA ◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Orlando_Magic_vs_New_York_Knicks___NBA_____18_00_1">
-    <display-name>Evento | ◘ Orlando Magic vs New York Knicks ◘ NBA ◘ | 18:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Detroit_Pistons_vs_Philadelphia_76ers___NBA_____18_30_1">
     <display-name>Evento | ◘ Detroit Pistons vs Philadelphia 76ers ◘ NBA ◘ | 18:30</display-name>
@@ -125868,15 +125847,6 @@
   <programme start="20261025193000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Nacional_vs_Liverpool_FC___Campeonato_Uruguayo______16_30_1">
     <title>Finalizado | ◘ Nacional vs Liverpool FC ◘ Campeonato Uruguayo ◘◘</title>
   </programme>
-  <programme start="20261025000000 -0600" stop="20261025170000 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Racing_Club___Liga_Profesional_de_F_tbol______17_00_1">
-    <title>Próximamente | 17:00 | ◘ River Pl vs e vs. Racing Club ◘ Liga Profesional de Fútbol ◘◘</title>
-  </programme>
-  <programme start="20261025170000 -0600" stop="20261025200000 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Racing_Club___Liga_Profesional_de_F_tbol______17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ River Pl vs e vs. Racing Club ◘ Liga Profesional de Fútbol ◘◘</title>
-  </programme>
-  <programme start="20261025200000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____River_Pl_vs_e_vs__Racing_Club___Liga_Profesional_de_F_tbol______17_00_1">
-    <title>Finalizado | ◘ River Pl vs e vs. Racing Club ◘ Liga Profesional de Fútbol ◘◘</title>
-  </programme>
   <programme start="20261025000000 -0600" stop="20261025170000 -0600" channel="Evento_LigaMX__LigaMX_____vs_las_vs__Puebla___Liga_MX_____17_00_1">
     <title>Próximamente | 17:00 | ◘ vs las vs. Puebla ◘ Liga MX ◘</title>
   </programme>
@@ -125886,33 +125856,6 @@
   <programme start="20261025200000 -0600" stop="20261025235959 -0600" channel="Evento_LigaMX__LigaMX_____vs_las_vs__Puebla___Liga_MX_____17_00_1">
     <title>Finalizado | ◘ vs las vs. Puebla ◘ Liga MX ◘</title>
   </programme>
-  <programme start="20261025000000 -0600" stop="20261025180000 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Garcilaso_vs_Los_Chankas___Liga_1_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Deportivo Garcilaso vs Los Chankas ◘ Liga 1 ◘</title>
-  </programme>
-  <programme start="20261025180000 -0600" stop="20261025210000 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Garcilaso_vs_Los_Chankas___Liga_1_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Deportivo Garcilaso vs Los Chankas ◘ Liga 1 ◘</title>
-  </programme>
-  <programme start="20261025210000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Deportivo_Garcilaso_vs_Los_Chankas___Liga_1_____18_00_1">
-    <title>Finalizado | ◘ Deportivo Garcilaso vs Los Chankas ◘ Liga 1 ◘</title>
-  </programme>
-  <programme start="20261025000000 -0600" stop="20261025180000 -0600" channel="EVENTOS_VIP__Evento_____Univ__Concepci_n_vs_Deportes_Limache___Primera_Chile_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Univ. Concepción vs Deportes Limache ◘ Primera Chile ◘</title>
-  </programme>
-  <programme start="20261025180000 -0600" stop="20261025210000 -0600" channel="EVENTOS_VIP__Evento_____Univ__Concepci_n_vs_Deportes_Limache___Primera_Chile_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Univ. Concepción vs Deportes Limache ◘ Primera Chile ◘</title>
-  </programme>
-  <programme start="20261025210000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Univ__Concepci_n_vs_Deportes_Limache___Primera_Chile_____18_00_1">
-    <title>Finalizado | ◘ Univ. Concepción vs Deportes Limache ◘ Primera Chile ◘</title>
-  </programme>
-  <programme start="20261025000000 -0600" stop="20261025181000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Nacional_vs__Medell_n___Liga_Betplay_____18_10_1">
-    <title>Próximamente | 18:10 | ◘ vs lético Nacional vs. Medellín ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20261025181000 -0600" stop="20261025211000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Nacional_vs__Medell_n___Liga_Betplay_____18_10_1">
-    <title>⌾ En vivo | 18:10 | ◘ vs lético Nacional vs. Medellín ◘ Liga Betplay ◘</title>
-  </programme>
-  <programme start="20261025211000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Nacional_vs__Medell_n___Liga_Betplay_____18_10_1">
-    <title>Finalizado | ◘ vs lético Nacional vs. Medellín ◘ Liga Betplay ◘</title>
-  </programme>
   <programme start="20261025000000 -0600" stop="20261025181500 -0600" channel="EVENTOS_VIP__Evento_____UPNFM_vs_Olimpia___Liga_Honduras_____18_15_1">
     <title>Próximamente | 18:15 | ◘ UPNFM vs Olimpia ◘ Liga Honduras ◘</title>
   </programme>
@@ -125921,15 +125864,6 @@
   </programme>
   <programme start="20261025211500 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____UPNFM_vs_Olimpia___Liga_Honduras_____18_15_1">
     <title>Finalizado | ◘ UPNFM vs Olimpia ◘ Liga Honduras ◘</title>
-  </programme>
-  <programme start="20261025000000 -0600" stop="20261025190000 -0600" channel="EVENTOS_VIP__Evento_____Alajuelense_vs_P_rez_Zeled_n___Primera_Costa_Rica_____19_00_1">
-    <title>Próximamente | 19:00 | ◘ Alajuelense vs Pérez Zeledón ◘ Primera Costa Rica ◘</title>
-  </programme>
-  <programme start="20261025190000 -0600" stop="20261025220000 -0600" channel="EVENTOS_VIP__Evento_____Alajuelense_vs_P_rez_Zeled_n___Primera_Costa_Rica_____19_00_1">
-    <title>⌾ En vivo | 19:00 | ◘ Alajuelense vs Pérez Zeledón ◘ Primera Costa Rica ◘</title>
-  </programme>
-  <programme start="20261025220000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Alajuelense_vs_P_rez_Zeled_n___Primera_Costa_Rica_____19_00_1">
-    <title>Finalizado | ◘ Alajuelense vs Pérez Zeledón ◘ Primera Costa Rica ◘</title>
   </programme>
   <programme start="20261025000000 -0600" stop="20261025180600 -0600" channel="Evento_LigaMX__LigaMX_____Tigres_UANL_vs_Monterrey___Liga_MX_Femenil_____18_06_1">
     <title>Próximamente | 18:06 | ◘ Tigres UANL vs Monterrey ◘ Liga MX Femenil ◘</title>
@@ -126020,24 +125954,6 @@
   </programme>
   <programme start="20261025190000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Los_Angeles_Lakers_vs_Utah_Jazz___NBA_____16_00_1">
     <title>Finalizado | ◘ Los Angeles Lakers vs Utah Jazz ◘ NBA ◘</title>
-  </programme>
-  <programme start="20261025000000 -0600" stop="20261025180000 -0600" channel="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Los Angeles Clippers vs Oklahoma City Thunder ◘ NBA ◘</title>
-  </programme>
-  <programme start="20261025180000 -0600" stop="20261025210000 -0600" channel="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Los Angeles Clippers vs Oklahoma City Thunder ◘ NBA ◘</title>
-  </programme>
-  <programme start="20261025210000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Los_Angeles_Clippers_vs_Oklahoma_City_Thunder___NBA_____18_00_1">
-    <title>Finalizado | ◘ Los Angeles Clippers vs Oklahoma City Thunder ◘ NBA ◘</title>
-  </programme>
-  <programme start="20261025000000 -0600" stop="20261025180000 -0600" channel="EVENTOS_VIP__Evento_____Orlando_Magic_vs_New_York_Knicks___NBA_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Orlando Magic vs New York Knicks ◘ NBA ◘</title>
-  </programme>
-  <programme start="20261025180000 -0600" stop="20261025210000 -0600" channel="EVENTOS_VIP__Evento_____Orlando_Magic_vs_New_York_Knicks___NBA_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Orlando Magic vs New York Knicks ◘ NBA ◘</title>
-  </programme>
-  <programme start="20261025210000 -0600" stop="20261025235959 -0600" channel="EVENTOS_VIP__Evento_____Orlando_Magic_vs_New_York_Knicks___NBA_____18_00_1">
-    <title>Finalizado | ◘ Orlando Magic vs New York Knicks ◘ NBA ◘</title>
   </programme>
   <programme start="20261025000000 -0600" stop="20261025183000 -0600" channel="EVENTOS_VIP__Evento_____Detroit_Pistons_vs_Philadelphia_76ers___NBA_____18_30_1">
     <title>Próximamente | 18:30 | ◘ Detroit Pistons vs Philadelphia 76ers ◘ NBA ◘</title>
