@@ -123204,23 +123204,11 @@
   <channel id="EVENTOS_VIP__Evento_____Naranjeros_De_Hermosillo_vs_Venados_De_Mazatlan___Liga_Mexicana_del_Pacifico_____21_30_2">
     <display-name>Evento | ◘ Naranjeros De Hermosillo vs Venados De Mazatlan ◘ Liga Mexicana del Pacifico ◘ | 21:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____American_Intern_vs_ional_vs__Boston_College___NCAA_Men_s_Soccer______14_30_1">
-    <display-name>Evento | ◘ American Intern vs ional vs. Boston College ◘ NCAA Men's Soccer ◘◘ | 14:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____OL_Lyonnais_vs_FC_Internazionale_Milano___UEFA_Women_s_Champions_League______14_40_1">
     <display-name>Evento | ◘ OL Lyonnais vs FC Internazionale Milano ◘ UEFA Women's Champions League ◘◘ | 14:40</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Bayer_Leverkusen_vs_N_rnberg___DFB_Pokal_____14_45_1">
-    <display-name>Evento | ◘ Bayer Leverkusen vs Nürnberg ◘ DFB Pokal ◘ | 14:45</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_Magdeburg___DFB_Pokal_____14_45_1">
     <display-name>Evento | ◘ Bayern München vs Magdeburg ◘ DFB Pokal ◘ | 14:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Hannover_96_vs_Kaiserslautern___DFB_Pokal_____14_45_1">
-    <display-name>Evento | ◘ Hannover 96 vs Kaiserslautern ◘ DFB Pokal ◘ | 14:45</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Holstein_Kiel_vs_Hoffenheim___DFB_Pokal_____14_45_1">
-    <display-name>Evento | ◘ Holstein Kiel vs Hoffenheim ◘ DFB Pokal ◘ | 14:45</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Liverpool_vs_Chelsea___Carabao_Cup______14_45_1">
     <display-name>Evento | ◘ Liverpool vs Chelsea ◘ Carabao Cup ◘◘ | 14:45</display-name>
@@ -123230,18 +123218,6 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Arsenal_vs_SL_Benfica___UEFA_Women_s_Champions_League_____15_00_1">
     <display-name>Evento | ◘ Arsenal vs SL Benfica ◘ UEFA Women's Champions League ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Navalcarnero_vs_Real_Betis___Copa_del_Rey_____15_00_1">
-    <display-name>Evento | ◘ Navalcarnero vs Real Betis ◘ Copa del Rey ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____OL_Lyonnes_vs_Inter_Milano___UEFA_Women_s_Champions_League_____15_00_1">
-    <display-name>Evento | ◘ OL Lyonnes vs Inter Milano ◘ UEFA Women's Champions League ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Salamanca_UDS_vs_Celta_de_Vigo___Copa_del_Rey_____15_00_1">
-    <display-name>Evento | ◘ Salamanca UDS vs Celta de Vigo ◘ Copa del Rey ◘ | 15:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Tavernes_vs_Valencia___Copa_del_Rey_____15_00_1">
-    <display-name>Evento | ◘ Tavernes vs Valencia ◘ Copa del Rey ◘ | 15:00</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Alianza_vs_l_tico_vs__Deportivo_Garcilaso___Liga_1_____15_30_1">
     <display-name>Evento | ◘ Alianza vs lético vs. Deportivo Garcilaso ◘ Liga 1 ◘ | 15:30</display-name>
@@ -123732,15 +123708,6 @@
   <programme start="20261029063000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Naranjeros_De_Hermosillo_vs_Venados_De_Mazatlan___Liga_Mexicana_del_Pacifico_____21_30_2">
     <title>Finalizado | ◘ Naranjeros De Hermosillo vs Venados De Mazatlan ◘ Liga Mexicana del Pacifico ◘</title>
   </programme>
-  <programme start="20261028060000" stop="20261028203000" channel="EVENTOS_VIP__Evento_____American_Intern_vs_ional_vs__Boston_College___NCAA_Men_s_Soccer______14_30_1">
-    <title>Próximamente | 14:30 | ◘ American Intern vs ional vs. Boston College ◘ NCAA Men's Soccer ◘◘</title>
-  </programme>
-  <programme start="20261028203000" stop="20261028233000" channel="EVENTOS_VIP__Evento_____American_Intern_vs_ional_vs__Boston_College___NCAA_Men_s_Soccer______14_30_1">
-    <title>⌾ En vivo | 14:30 | ◘ American Intern vs ional vs. Boston College ◘ NCAA Men's Soccer ◘◘</title>
-  </programme>
-  <programme start="20261028233000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____American_Intern_vs_ional_vs__Boston_College___NCAA_Men_s_Soccer______14_30_1">
-    <title>Finalizado | ◘ American Intern vs ional vs. Boston College ◘ NCAA Men's Soccer ◘◘</title>
-  </programme>
   <programme start="20261028060000" stop="20261028204000" channel="EVENTOS_VIP__Evento_____OL_Lyonnais_vs_FC_Internazionale_Milano___UEFA_Women_s_Champions_League______14_40_1">
     <title>Próximamente | 14:40 | ◘ OL Lyonnais vs FC Internazionale Milano ◘ UEFA Women's Champions League ◘◘</title>
   </programme>
@@ -123750,15 +123717,6 @@
   <programme start="20261028234000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____OL_Lyonnais_vs_FC_Internazionale_Milano___UEFA_Women_s_Champions_League______14_40_1">
     <title>Finalizado | ◘ OL Lyonnais vs FC Internazionale Milano ◘ UEFA Women's Champions League ◘◘</title>
   </programme>
-  <programme start="20261028060000" stop="20261028204500" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen_vs_N_rnberg___DFB_Pokal_____14_45_1">
-    <title>Próximamente | 14:45 | ◘ Bayer Leverkusen vs Nürnberg ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028204500" stop="20261028234500" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen_vs_N_rnberg___DFB_Pokal_____14_45_1">
-    <title>⌾ En vivo | 14:45 | ◘ Bayer Leverkusen vs Nürnberg ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028234500" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Bayer_Leverkusen_vs_N_rnberg___DFB_Pokal_____14_45_1">
-    <title>Finalizado | ◘ Bayer Leverkusen vs Nürnberg ◘ DFB Pokal ◘</title>
-  </programme>
   <programme start="20261028060000" stop="20261028204500" channel="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_Magdeburg___DFB_Pokal_____14_45_1">
     <title>Próximamente | 14:45 | ◘ Bayern München vs Magdeburg ◘ DFB Pokal ◘</title>
   </programme>
@@ -123767,24 +123725,6 @@
   </programme>
   <programme start="20261028234500" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Bayern_M_nchen_vs_Magdeburg___DFB_Pokal_____14_45_1">
     <title>Finalizado | ◘ Bayern München vs Magdeburg ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028060000" stop="20261028204500" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_Kaiserslautern___DFB_Pokal_____14_45_1">
-    <title>Próximamente | 14:45 | ◘ Hannover 96 vs Kaiserslautern ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028204500" stop="20261028234500" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_Kaiserslautern___DFB_Pokal_____14_45_1">
-    <title>⌾ En vivo | 14:45 | ◘ Hannover 96 vs Kaiserslautern ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028234500" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Hannover_96_vs_Kaiserslautern___DFB_Pokal_____14_45_1">
-    <title>Finalizado | ◘ Hannover 96 vs Kaiserslautern ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028060000" stop="20261028204500" channel="EVENTOS_VIP__Evento_____Holstein_Kiel_vs_Hoffenheim___DFB_Pokal_____14_45_1">
-    <title>Próximamente | 14:45 | ◘ Holstein Kiel vs Hoffenheim ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028204500" stop="20261028234500" channel="EVENTOS_VIP__Evento_____Holstein_Kiel_vs_Hoffenheim___DFB_Pokal_____14_45_1">
-    <title>⌾ En vivo | 14:45 | ◘ Holstein Kiel vs Hoffenheim ◘ DFB Pokal ◘</title>
-  </programme>
-  <programme start="20261028234500" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Holstein_Kiel_vs_Hoffenheim___DFB_Pokal_____14_45_1">
-    <title>Finalizado | ◘ Holstein Kiel vs Hoffenheim ◘ DFB Pokal ◘</title>
   </programme>
   <programme start="20261028060000" stop="20261028204500" channel="EVENTOS_VIP__Evento_____Liverpool_vs_Chelsea___Carabao_Cup______14_45_1">
     <title>Próximamente | 14:45 | ◘ Liverpool vs Chelsea ◘ Carabao Cup ◘◘</title>
@@ -123812,42 +123752,6 @@
   </programme>
   <programme start="20261029000000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Arsenal_vs_SL_Benfica___UEFA_Women_s_Champions_League_____15_00_1">
     <title>Finalizado | ◘ Arsenal vs SL Benfica ◘ UEFA Women's Champions League ◘</title>
-  </programme>
-  <programme start="20261028060000" stop="20261028210000" channel="EVENTOS_VIP__Evento_____Navalcarnero_vs_Real_Betis___Copa_del_Rey_____15_00_1">
-    <title>Próximamente | 15:00 | ◘ Navalcarnero vs Real Betis ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261028210000" stop="20261029000000" channel="EVENTOS_VIP__Evento_____Navalcarnero_vs_Real_Betis___Copa_del_Rey_____15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Navalcarnero vs Real Betis ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261029000000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Navalcarnero_vs_Real_Betis___Copa_del_Rey_____15_00_1">
-    <title>Finalizado | ◘ Navalcarnero vs Real Betis ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261028060000" stop="20261028210000" channel="EVENTOS_VIP__Evento_____OL_Lyonnes_vs_Inter_Milano___UEFA_Women_s_Champions_League_____15_00_1">
-    <title>Próximamente | 15:00 | ◘ OL Lyonnes vs Inter Milano ◘ UEFA Women's Champions League ◘</title>
-  </programme>
-  <programme start="20261028210000" stop="20261029000000" channel="EVENTOS_VIP__Evento_____OL_Lyonnes_vs_Inter_Milano___UEFA_Women_s_Champions_League_____15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ OL Lyonnes vs Inter Milano ◘ UEFA Women's Champions League ◘</title>
-  </programme>
-  <programme start="20261029000000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____OL_Lyonnes_vs_Inter_Milano___UEFA_Women_s_Champions_League_____15_00_1">
-    <title>Finalizado | ◘ OL Lyonnes vs Inter Milano ◘ UEFA Women's Champions League ◘</title>
-  </programme>
-  <programme start="20261028060000" stop="20261028210000" channel="EVENTOS_VIP__Evento_____Salamanca_UDS_vs_Celta_de_Vigo___Copa_del_Rey_____15_00_1">
-    <title>Próximamente | 15:00 | ◘ Salamanca UDS vs Celta de Vigo ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261028210000" stop="20261029000000" channel="EVENTOS_VIP__Evento_____Salamanca_UDS_vs_Celta_de_Vigo___Copa_del_Rey_____15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Salamanca UDS vs Celta de Vigo ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261029000000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Salamanca_UDS_vs_Celta_de_Vigo___Copa_del_Rey_____15_00_1">
-    <title>Finalizado | ◘ Salamanca UDS vs Celta de Vigo ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261028060000" stop="20261028210000" channel="EVENTOS_VIP__Evento_____Tavernes_vs_Valencia___Copa_del_Rey_____15_00_1">
-    <title>Próximamente | 15:00 | ◘ Tavernes vs Valencia ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261028210000" stop="20261029000000" channel="EVENTOS_VIP__Evento_____Tavernes_vs_Valencia___Copa_del_Rey_____15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Tavernes vs Valencia ◘ Copa del Rey ◘</title>
-  </programme>
-  <programme start="20261029000000" stop="20261029055959" channel="EVENTOS_VIP__Evento_____Tavernes_vs_Valencia___Copa_del_Rey_____15_00_1">
-    <title>Finalizado | ◘ Tavernes vs Valencia ◘ Copa del Rey ◘</title>
   </programme>
   <programme start="20261028060000" stop="20261028213000" channel="EVENTOS_VIP__Evento_____Alianza_vs_l_tico_vs__Deportivo_Garcilaso___Liga_1_____15_30_1">
     <title>Próximamente | 15:30 | ◘ Alianza vs lético vs. Deportivo Garcilaso ◘ Liga 1 ◘</title>
