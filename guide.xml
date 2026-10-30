@@ -122463,6 +122463,9 @@
   <channel id="EVENTOS_VIP__Evento_____Marquense_vs_Guastatoya___Liga_Guatemala_____21_10_1">
     <display-name>Evento | ◘ Marquense vs Guastatoya ◘ Liga Guatemala ◘ | 21:10</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___LIGA_PRO___LDU_QUITO_vs_UNIVERSIDAD_CATOLICA___00_00_1">
+    <display-name>Evento | LIGA PRO - LDU QUITO vs UNIVERSIDAD CATOLICA | 00:00</display-name>
+  </channel>
   <programme start="20261029000000 -0600" stop="20261029203000 -0600" channel="EVENTOS_VIP__Evento_____Charros_vs_Ca_eros_de_los_Mochis___Liga_Mexicana_del_Pac_fico_____20_30_1">
     <title>Próximamente | 20:30 | ◘ Charros vs Cañeros de los Mochis ◘ Liga Mexicana del Pacífico ◘</title>
   </programme>
@@ -123137,6 +123140,15 @@
   </programme>
   <programme start="20261030001000 -0600" stop="20261029235959 -0600" channel="EVENTOS_VIP__Evento_____Marquense_vs_Guastatoya___Liga_Guatemala_____21_10_1">
     <title>Finalizado | ◘ Marquense vs Guastatoya ◘ Liga Guatemala ◘</title>
+  </programme>
+  <programme start="20261029000000 -0600" stop="20261029000000 -0600" channel="EVENTOS_VIP__Evento___LIGA_PRO___LDU_QUITO_vs_UNIVERSIDAD_CATOLICA___00_00_1">
+    <title>Próximamente | 00:00 | LIGA PRO - LDU QUITO vs UNIVERSIDAD CATOLICA</title>
+  </programme>
+  <programme start="20261029000000 -0600" stop="20261029030000 -0600" channel="EVENTOS_VIP__Evento___LIGA_PRO___LDU_QUITO_vs_UNIVERSIDAD_CATOLICA___00_00_1">
+    <title>⌾ En vivo | 00:00 | LIGA PRO - LDU QUITO vs UNIVERSIDAD CATOLICA</title>
+  </programme>
+  <programme start="20261029030000 -0600" stop="20261029235959 -0600" channel="EVENTOS_VIP__Evento___LIGA_PRO___LDU_QUITO_vs_UNIVERSIDAD_CATOLICA___00_00_1">
+    <title>Finalizado | LIGA PRO - LDU QUITO vs UNIVERSIDAD CATOLICA</title>
   </programme>
 </tv>
 
