@@ -120420,6 +120420,15 @@
   <channel id="Evento_LigaMX__LigaMX_____Necaxa_vs_Santos_Laguna___Liga_MX_Femenil_____21_10_1">
     <display-name>LigaMX | ◘ Necaxa vs Santos Laguna ◘ Liga MX Femenil ◘ | 21:10</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____DELFIN_vs_CUENTA___12_30_1">
+    <display-name>Evento | - DELFIN vs CUENTA | 12:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_LEONES_DEL_NORTE___14_00_1">
+    <display-name>Evento | - LIGA PRO - EMELEC vs LEONES DEL NORTE | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___MACARA_vs_BARCELONA___16_30_1">
+    <display-name>Evento | - LIGA PRO - MACARA vs BARCELONA | 16:30</display-name>
+  </channel>
   <programme start="20261031060000" stop="20261031170000" channel="EVENTOS_VIP__Evento_____Canelo__lvarez_vs_Christian_M_billi___Box_____11_00_1">
     <title>Próximamente | 11:00 | ◘ Canelo Álvarez vs Christian M’billi ◘ Box ◘</title>
   </programme>
@@ -122039,6 +122048,33 @@
   </programme>
   <programme start="20261101061000" stop="20261101055959" channel="Evento_LigaMX__LigaMX_____Necaxa_vs_Santos_Laguna___Liga_MX_Femenil_____21_10_1">
     <title>Finalizado | ◘ Necaxa vs Santos Laguna ◘ Liga MX Femenil ◘</title>
+  </programme>
+  <programme start="20261031060000" stop="20261031183000" channel="EVENTOS_VIP__Evento_____DELFIN_vs_CUENTA___12_30_1">
+    <title>Próximamente | 12:30 | - DELFIN vs CUENTA</title>
+  </programme>
+  <programme start="20261031183000" stop="20261031213000" channel="EVENTOS_VIP__Evento_____DELFIN_vs_CUENTA___12_30_1">
+    <title>⌾ En vivo | 12:30 | - DELFIN vs CUENTA</title>
+  </programme>
+  <programme start="20261031213000" stop="20261101055959" channel="EVENTOS_VIP__Evento_____DELFIN_vs_CUENTA___12_30_1">
+    <title>Finalizado | - DELFIN vs CUENTA</title>
+  </programme>
+  <programme start="20261031060000" stop="20261031200000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_LEONES_DEL_NORTE___14_00_1">
+    <title>Próximamente | 14:00 | - LIGA PRO - EMELEC vs LEONES DEL NORTE</title>
+  </programme>
+  <programme start="20261031200000" stop="20261031230000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_LEONES_DEL_NORTE___14_00_1">
+    <title>⌾ En vivo | 14:00 | - LIGA PRO - EMELEC vs LEONES DEL NORTE</title>
+  </programme>
+  <programme start="20261031230000" stop="20261101055959" channel="EVENTOS_VIP__Evento_____LIGA_PRO___EMELEC_vs_LEONES_DEL_NORTE___14_00_1">
+    <title>Finalizado | - LIGA PRO - EMELEC vs LEONES DEL NORTE</title>
+  </programme>
+  <programme start="20261031060000" stop="20261031223000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___MACARA_vs_BARCELONA___16_30_1">
+    <title>Próximamente | 16:30 | - LIGA PRO - MACARA vs BARCELONA</title>
+  </programme>
+  <programme start="20261031223000" stop="20261101013000" channel="EVENTOS_VIP__Evento_____LIGA_PRO___MACARA_vs_BARCELONA___16_30_1">
+    <title>⌾ En vivo | 16:30 | - LIGA PRO - MACARA vs BARCELONA</title>
+  </programme>
+  <programme start="20261101013000" stop="20261101055959" channel="EVENTOS_VIP__Evento_____LIGA_PRO___MACARA_vs_BARCELONA___16_30_1">
+    <title>Finalizado | - LIGA PRO - MACARA vs BARCELONA</title>
   </programme>
 </tv>
 
