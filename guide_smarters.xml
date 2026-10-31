@@ -120162,6 +120162,12 @@
   <channel id="Evento_LIGA_SUDAMERICANA_DE_BASQUETBOL__LIGA_SUDAMERICANA_DE_BASQUETBOL___NACIONAL_vs_INDEPENDIENTE_DE_OLIVA___00_00_1">
     <display-name>LIGA SUDAMERICANA DE BASQUETBOL | NACIONAL vs INDEPENDIENTE DE OLIVA | 00:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____NBA_08___Rockets_vs_Mavericks___19_00_1">
+    <display-name>Evento | - NBA 08 - Rockets vs Mavericks | 19:00</display-name>
+  </channel>
+  <channel id="Evento_18_00___LFA_245__18_00___LFA_245___Juliano_Prescendo_vs_Ansar_Khamzaev___Legacy_Fighting_Alliance___17_00_1">
+    <display-name>18:00 ◘ LFA 245 | Juliano Prescendo vs Ansar Khamzaev ◘ Legacy Fighting Alliance | 17:00</display-name>
+  </channel>
   <programme start="20261030060000" stop="20261031030500" channel="EVENTOS_VIP__Evento_____Tom_vs_eros_De_Culiacan_vs__Charros___LMP_____21_05_1">
     <title>Próximamente | 21:05 | ◘ Tom vs eros De Culiacan vs. Charros ◘ LMP ◘</title>
   </programme>
@@ -121007,6 +121013,24 @@
   </programme>
   <programme start="20261030090000" stop="20261031055959" channel="Evento_LIGA_SUDAMERICANA_DE_BASQUETBOL__LIGA_SUDAMERICANA_DE_BASQUETBOL___NACIONAL_vs_INDEPENDIENTE_DE_OLIVA___00_00_1">
     <title>Finalizado | NACIONAL vs INDEPENDIENTE DE OLIVA</title>
+  </programme>
+  <programme start="20261030060000" stop="20261031010000" channel="EVENTOS_VIP__Evento_____NBA_08___Rockets_vs_Mavericks___19_00_1">
+    <title>Próximamente | 19:00 | - NBA 08 - Rockets vs Mavericks</title>
+  </programme>
+  <programme start="20261031010000" stop="20261031040000" channel="EVENTOS_VIP__Evento_____NBA_08___Rockets_vs_Mavericks___19_00_1">
+    <title>⌾ En vivo | 19:00 | - NBA 08 - Rockets vs Mavericks</title>
+  </programme>
+  <programme start="20261031040000" stop="20261031055959" channel="EVENTOS_VIP__Evento_____NBA_08___Rockets_vs_Mavericks___19_00_1">
+    <title>Finalizado | - NBA 08 - Rockets vs Mavericks</title>
+  </programme>
+  <programme start="20261030060000" stop="20261031000000" channel="Evento_18_00___LFA_245__18_00___LFA_245___Juliano_Prescendo_vs_Ansar_Khamzaev___Legacy_Fighting_Alliance___17_00_1">
+    <title>Próximamente | 18:00 | Juliano Prescendo vs Ansar Khamzaev ◘ Legacy Fighting Alliance</title>
+  </programme>
+  <programme start="20261031000000" stop="20261031030000" channel="Evento_18_00___LFA_245__18_00___LFA_245___Juliano_Prescendo_vs_Ansar_Khamzaev___Legacy_Fighting_Alliance___17_00_1">
+    <title>⌾ En vivo | 18:00 | Juliano Prescendo vs Ansar Khamzaev ◘ Legacy Fighting Alliance</title>
+  </programme>
+  <programme start="20261031030000" stop="20261031055959" channel="Evento_18_00___LFA_245__18_00___LFA_245___Juliano_Prescendo_vs_Ansar_Khamzaev___Legacy_Fighting_Alliance___17_00_1">
+    <title>Finalizado | Juliano Prescendo vs Ansar Khamzaev ◘ Legacy Fighting Alliance</title>
   </programme>
 </tv>
 
