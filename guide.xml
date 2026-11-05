@@ -125790,6 +125790,9 @@
   <channel id="EVENTOS_VIP__Evento_____Alacranes_de_Durango_vs_Universidad_de_Guadalajara___Liga_de_Expansi_n_MX______21_55_1">
     <display-name>Evento | ◘ Alacranes de Durango vs Universidad de Guadalajara ◘ Liga de Expansión MX ◘◘ | 21:55</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Independiente_del_Valle_vs_Delfin___19_00_1">
+    <display-name>Evento | Independiente del Valle vs Delfin | 19:00</display-name>
+  </channel>
   <programme start="20261105000000 -0600" stop="20261105210000 -0600" channel="EVENTOS_VIP__Evento_____Orlando_Magic_vs_Phoenix_Suns___NBA_____21_00_1">
     <title>Próximamente | 21:00 | ◘ Orlando Magic vs Phoenix Suns ◘ NBA ◘</title>
   </programme>
@@ -126581,6 +126584,15 @@
   </programme>
   <programme start="20261106005500 -0600" stop="20261105235959 -0600" channel="EVENTOS_VIP__Evento_____Alacranes_de_Durango_vs_Universidad_de_Guadalajara___Liga_de_Expansi_n_MX______21_55_1">
     <title>Finalizado | ◘ Alacranes de Durango vs Universidad de Guadalajara ◘ Liga de Expansión MX ◘◘</title>
+  </programme>
+  <programme start="20261105000000 -0600" stop="20261105190000 -0600" channel="EVENTOS_VIP__Evento___Independiente_del_Valle_vs_Delfin___19_00_1">
+    <title>Próximamente | 19:00 | Independiente del Valle vs Delfin</title>
+  </programme>
+  <programme start="20261105190000 -0600" stop="20261105220000 -0600" channel="EVENTOS_VIP__Evento___Independiente_del_Valle_vs_Delfin___19_00_1">
+    <title>⌾ En vivo | 19:00 | Independiente del Valle vs Delfin</title>
+  </programme>
+  <programme start="20261105220000 -0600" stop="20261105235959 -0600" channel="EVENTOS_VIP__Evento___Independiente_del_Valle_vs_Delfin___19_00_1">
+    <title>Finalizado | Independiente del Valle vs Delfin</title>
   </programme>
 </tv>
 
