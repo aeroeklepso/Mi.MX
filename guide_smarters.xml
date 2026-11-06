@@ -125535,35 +125535,11 @@
   <channel id="EVENTOS_VIP__Evento_____San_Jose_Sharks_vs_Minnesota_Wild___NHL______20_00_1">
     <display-name>Evento | ◘ San Jose Sharks vs Minnesota Wild ◘ NHL ◘◘ | 20:00</display-name>
   </channel>
-  <channel id="Evento_04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP_____04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP______03_55_1">
-    <display-name>04:55 ◘ Qatar Airways Grand Prix of Qatar - Free Practice 1 ◘ MotoGP ◘◘ | ◘ Q vs ar Airways Grand Prix of Qatar - Free Practice 1 ◘ MotoGP ◘◘ | 03:55</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Francia__Semifinal_femenina____Premier_Padel______06_00_1">
-    <display-name>Evento | ◘ FIP World Cup - España vs Francia (Semifinal femenina) ◘ Premier Padel ◘◘ | 06:00</display-name>
-  </channel>
   <channel id="Evento_08_00___Rolex_Paris_Masters___Augmented_Reality_Feed___ATP_____08_00___Rolex_Paris_Masters___Augmented_Reality_Feed___ATP________Rolex_Paris_Masters___Augmented_Reality_Feed___vs_P______07_00_1">
     <display-name>08:00 ◘ Rolex Paris Masters / Augmented Reality Feed ◘ ATP ◘◘ | ◘ Rolex Paris Masters / Augmented Reality Feed ◘ vs P ◘◘ | 07:00</display-name>
   </channel>
-  <channel id="Evento_08_00___Rolex_Paris_Masters___Court_1___ATP_____08_00___Rolex_Paris_Masters___Court_1___ATP________Rolex_Paris_Masters___Court_1___vs_P______07_00_1">
-    <display-name>08:00 ◘ Rolex Paris Masters / Court 1 ◘ ATP ◘◘ | ◘ Rolex Paris Masters / Court 1 ◘ vs P ◘◘ | 07:00</display-name>
-  </channel>
   <channel id="Evento_08_00___Rolex_Paris_Masters___ATP_____08_00___Rolex_Paris_Masters___ATP________Rolex_Paris_Masters___vs_P______07_00_1">
     <display-name>08:00 ◘ Rolex Paris Masters ◘ ATP ◘◘ | ◘ Rolex Paris Masters ◘ vs P ◘◘ | 07:00</display-name>
-  </channel>
-  <channel id="Evento_09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP_____09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP______08_10_1">
-    <display-name>09:10 ◘ Qatar Airways Grand Prix of Qatar - Practice ◘ MotoGP ◘◘ | ◘ Q vs ar Airways Grand Prix of Qatar - Practice ◘ MotoGP ◘◘ | 08:10</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Portugal__Semifinal_masculina____Premier_Padel______10_00_1">
-    <display-name>Evento | ◘ FIP World Cup - España vs Portugal (Semifinal masculina) ◘ Premier Padel ◘◘ | 10:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Rumania_vs_Tonga___Rugby______11_25_1">
-    <display-name>Evento | ◘ Rumania vs Tonga ◘ Rugby ◘◘ | 11:25</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Energie_Cottbus___Bundesliga_2______12_20_1">
-    <display-name>Evento | ◘ Eintracht Braunschweig vs Energie Cottbus ◘ Bundesliga 2 ◘◘ | 12:20</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____SG_Dynamo_Dresden_vs_Spvgg_Greuther_F_rth___Bundesliga_2______12_20_1">
-    <display-name>Evento | ◘ SG Dynamo Dresden vs Spvgg Greuther Fürth ◘ Bundesliga 2 ◘◘ | 12:20</display-name>
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Barracas_Central_vs_Racing_Club___Liga_Argentina_____13_00_1">
     <display-name>Evento | ◘ Barracas Central vs Racing Club ◘ Liga Argentina ◘ | 13:00</display-name>
@@ -125727,6 +125703,18 @@
   <channel id="EVENTOS_VIP__Evento_____TCU_vs__22_Arizona___F_tbol_Americano_NCAA______22_15_1">
     <display-name>Evento | ◘ TCU vs #22 Arizona ◘ Fútbol Americano NCAA ◘◘ | 22:15</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___PANAMA_vs_PUERTO_RICO___00_00_1">
+    <display-name>Evento | PANAMA vs PUERTO RICO | 00:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___REINO_UNIDO_vs_JAPON___00_00_1">
+    <display-name>Evento | REINO UNIDO vs JAPON | 00:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___NICARAGUA_vs_AUSTRALIA___00_00_1">
+    <display-name>Evento | NICARAGUA vs AUSTRALIA | 00:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___Czechia_vs_chinese_taipei___00_00_1">
+    <display-name>Evento | Czechia vs chinese taipei | 00:00</display-name>
+  </channel>
   <programme start="20261106060000" stop="20261107030500" channel="EVENTOS_VIP__Evento_____Tom_vs_eros_De_Culiacan_vs__Jagaures_de_Nayarit___LMP_____21_05_1">
     <title>Próximamente | 21:05 | ◘ Tom vs eros De Culiacan vs. Jagaures de Nayarit ◘ LMP ◘</title>
   </programme>
@@ -125880,24 +125868,6 @@
   <programme start="20261107050000" stop="20261107055959" channel="EVENTOS_VIP__Evento_____San_Jose_Sharks_vs_Minnesota_Wild___NHL______20_00_1">
     <title>Finalizado | ◘ San Jose Sharks vs Minnesota Wild ◘ NHL ◘◘</title>
   </programme>
-  <programme start="20261106060000" stop="20261106105500" channel="Evento_04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP_____04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP______03_55_1">
-    <title>Próximamente | 04:55 | ◘ Q vs ar Airways Grand Prix of Qatar - Free Practice 1 ◘ MotoGP ◘◘</title>
-  </programme>
-  <programme start="20261106105500" stop="20261106135500" channel="Evento_04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP_____04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP______03_55_1">
-    <title>⌾ En vivo | 04:55 | ◘ Q vs ar Airways Grand Prix of Qatar - Free Practice 1 ◘ MotoGP ◘◘</title>
-  </programme>
-  <programme start="20261106135500" stop="20261107055959" channel="Evento_04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP_____04_55___Qatar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Free_Practice_1___MotoGP______03_55_1">
-    <title>Finalizado | ◘ Q vs ar Airways Grand Prix of Qatar - Free Practice 1 ◘ MotoGP ◘◘</title>
-  </programme>
-  <programme start="20261106060000" stop="20261106120000" channel="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Francia__Semifinal_femenina____Premier_Padel______06_00_1">
-    <title>Próximamente | 06:00 | ◘ FIP World Cup - España vs Francia (Semifinal femenina) ◘ Premier Padel ◘◘</title>
-  </programme>
-  <programme start="20261106120000" stop="20261106150000" channel="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Francia__Semifinal_femenina____Premier_Padel______06_00_1">
-    <title>⌾ En vivo | 06:00 | ◘ FIP World Cup - España vs Francia (Semifinal femenina) ◘ Premier Padel ◘◘</title>
-  </programme>
-  <programme start="20261106150000" stop="20261107055959" channel="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Francia__Semifinal_femenina____Premier_Padel______06_00_1">
-    <title>Finalizado | ◘ FIP World Cup - España vs Francia (Semifinal femenina) ◘ Premier Padel ◘◘</title>
-  </programme>
   <programme start="20261106060000" stop="20261106140000" channel="Evento_08_00___Rolex_Paris_Masters___Augmented_Reality_Feed___ATP_____08_00___Rolex_Paris_Masters___Augmented_Reality_Feed___ATP________Rolex_Paris_Masters___Augmented_Reality_Feed___vs_P______07_00_1">
     <title>Próximamente | 08:00 | ◘ Rolex Paris Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
   </programme>
@@ -125907,15 +125877,6 @@
   <programme start="20261106170000" stop="20261107055959" channel="Evento_08_00___Rolex_Paris_Masters___Augmented_Reality_Feed___ATP_____08_00___Rolex_Paris_Masters___Augmented_Reality_Feed___ATP________Rolex_Paris_Masters___Augmented_Reality_Feed___vs_P______07_00_1">
     <title>Finalizado | ◘ Rolex Paris Masters / Augmented Reality Feed ◘ vs P ◘◘</title>
   </programme>
-  <programme start="20261106060000" stop="20261106140000" channel="Evento_08_00___Rolex_Paris_Masters___Court_1___ATP_____08_00___Rolex_Paris_Masters___Court_1___ATP________Rolex_Paris_Masters___Court_1___vs_P______07_00_1">
-    <title>Próximamente | 08:00 | ◘ Rolex Paris Masters / Court 1 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261106140000" stop="20261106170000" channel="Evento_08_00___Rolex_Paris_Masters___Court_1___ATP_____08_00___Rolex_Paris_Masters___Court_1___ATP________Rolex_Paris_Masters___Court_1___vs_P______07_00_1">
-    <title>⌾ En vivo | 08:00 | ◘ Rolex Paris Masters / Court 1 ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261106170000" stop="20261107055959" channel="Evento_08_00___Rolex_Paris_Masters___Court_1___ATP_____08_00___Rolex_Paris_Masters___Court_1___ATP________Rolex_Paris_Masters___Court_1___vs_P______07_00_1">
-    <title>Finalizado | ◘ Rolex Paris Masters / Court 1 ◘ vs P ◘◘</title>
-  </programme>
   <programme start="20261106060000" stop="20261106140000" channel="Evento_08_00___Rolex_Paris_Masters___ATP_____08_00___Rolex_Paris_Masters___ATP________Rolex_Paris_Masters___vs_P______07_00_1">
     <title>Próximamente | 08:00 | ◘ Rolex Paris Masters ◘ vs P ◘◘</title>
   </programme>
@@ -125924,51 +125885,6 @@
   </programme>
   <programme start="20261106170000" stop="20261107055959" channel="Evento_08_00___Rolex_Paris_Masters___ATP_____08_00___Rolex_Paris_Masters___ATP________Rolex_Paris_Masters___vs_P______07_00_1">
     <title>Finalizado | ◘ Rolex Paris Masters ◘ vs P ◘◘</title>
-  </programme>
-  <programme start="20261106060000" stop="20261106151000" channel="Evento_09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP_____09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP______08_10_1">
-    <title>Próximamente | 09:10 | ◘ Q vs ar Airways Grand Prix of Qatar - Practice ◘ MotoGP ◘◘</title>
-  </programme>
-  <programme start="20261106151000" stop="20261106181000" channel="Evento_09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP_____09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP______08_10_1">
-    <title>⌾ En vivo | 09:10 | ◘ Q vs ar Airways Grand Prix of Qatar - Practice ◘ MotoGP ◘◘</title>
-  </programme>
-  <programme start="20261106181000" stop="20261107055959" channel="Evento_09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP_____09_10___Qatar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP________Q_vs_ar_Airways_Grand_Prix_of_Qatar___Practice___MotoGP______08_10_1">
-    <title>Finalizado | ◘ Q vs ar Airways Grand Prix of Qatar - Practice ◘ MotoGP ◘◘</title>
-  </programme>
-  <programme start="20261106060000" stop="20261106160000" channel="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Portugal__Semifinal_masculina____Premier_Padel______10_00_1">
-    <title>Próximamente | 10:00 | ◘ FIP World Cup - España vs Portugal (Semifinal masculina) ◘ Premier Padel ◘◘</title>
-  </programme>
-  <programme start="20261106160000" stop="20261106190000" channel="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Portugal__Semifinal_masculina____Premier_Padel______10_00_1">
-    <title>⌾ En vivo | 10:00 | ◘ FIP World Cup - España vs Portugal (Semifinal masculina) ◘ Premier Padel ◘◘</title>
-  </programme>
-  <programme start="20261106190000" stop="20261107055959" channel="EVENTOS_VIP__Evento_____FIP_World_Cup___Espa_a_vs_Portugal__Semifinal_masculina____Premier_Padel______10_00_1">
-    <title>Finalizado | ◘ FIP World Cup - España vs Portugal (Semifinal masculina) ◘ Premier Padel ◘◘</title>
-  </programme>
-  <programme start="20261106060000" stop="20261106172500" channel="EVENTOS_VIP__Evento_____Rumania_vs_Tonga___Rugby______11_25_1">
-    <title>Próximamente | 11:25 | ◘ Rumania vs Tonga ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20261106172500" stop="20261106202500" channel="EVENTOS_VIP__Evento_____Rumania_vs_Tonga___Rugby______11_25_1">
-    <title>⌾ En vivo | 11:25 | ◘ Rumania vs Tonga ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20261106202500" stop="20261107055959" channel="EVENTOS_VIP__Evento_____Rumania_vs_Tonga___Rugby______11_25_1">
-    <title>Finalizado | ◘ Rumania vs Tonga ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20261106060000" stop="20261106182000" channel="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Energie_Cottbus___Bundesliga_2______12_20_1">
-    <title>Próximamente | 12:20 | ◘ Eintracht Braunschweig vs Energie Cottbus ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261106182000" stop="20261106212000" channel="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Energie_Cottbus___Bundesliga_2______12_20_1">
-    <title>⌾ En vivo | 12:20 | ◘ Eintracht Braunschweig vs Energie Cottbus ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261106212000" stop="20261107055959" channel="EVENTOS_VIP__Evento_____Eintracht_Braunschweig_vs_Energie_Cottbus___Bundesliga_2______12_20_1">
-    <title>Finalizado | ◘ Eintracht Braunschweig vs Energie Cottbus ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261106060000" stop="20261106182000" channel="EVENTOS_VIP__Evento_____SG_Dynamo_Dresden_vs_Spvgg_Greuther_F_rth___Bundesliga_2______12_20_1">
-    <title>Próximamente | 12:20 | ◘ SG Dynamo Dresden vs Spvgg Greuther Fürth ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261106182000" stop="20261106212000" channel="EVENTOS_VIP__Evento_____SG_Dynamo_Dresden_vs_Spvgg_Greuther_F_rth___Bundesliga_2______12_20_1">
-    <title>⌾ En vivo | 12:20 | ◘ SG Dynamo Dresden vs Spvgg Greuther Fürth ◘ Bundesliga 2 ◘◘</title>
-  </programme>
-  <programme start="20261106212000" stop="20261107055959" channel="EVENTOS_VIP__Evento_____SG_Dynamo_Dresden_vs_Spvgg_Greuther_F_rth___Bundesliga_2______12_20_1">
-    <title>Finalizado | ◘ SG Dynamo Dresden vs Spvgg Greuther Fürth ◘ Bundesliga 2 ◘◘</title>
   </programme>
   <programme start="20261106060000" stop="20261106190000" channel="EVENTOS_VIP__Evento_____Barracas_Central_vs_Racing_Club___Liga_Argentina_____13_00_1">
     <title>Próximamente | 13:00 | ◘ Barracas Central vs Racing Club ◘ Liga Argentina ◘</title>
@@ -126455,6 +126371,42 @@
   </programme>
   <programme start="20261107071500" stop="20261107055959" channel="EVENTOS_VIP__Evento_____TCU_vs__22_Arizona___F_tbol_Americano_NCAA______22_15_1">
     <title>Finalizado | ◘ TCU vs #22 Arizona ◘ Fútbol Americano NCAA ◘◘</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106060000" channel="EVENTOS_VIP__Evento___PANAMA_vs_PUERTO_RICO___00_00_1">
+    <title>Próximamente | 00:00 | PANAMA vs PUERTO RICO</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106090000" channel="EVENTOS_VIP__Evento___PANAMA_vs_PUERTO_RICO___00_00_1">
+    <title>⌾ En vivo | 00:00 | PANAMA vs PUERTO RICO</title>
+  </programme>
+  <programme start="20261106090000" stop="20261107055959" channel="EVENTOS_VIP__Evento___PANAMA_vs_PUERTO_RICO___00_00_1">
+    <title>Finalizado | PANAMA vs PUERTO RICO</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106060000" channel="EVENTOS_VIP__Evento___REINO_UNIDO_vs_JAPON___00_00_1">
+    <title>Próximamente | 00:00 | REINO UNIDO vs JAPON</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106090000" channel="EVENTOS_VIP__Evento___REINO_UNIDO_vs_JAPON___00_00_1">
+    <title>⌾ En vivo | 00:00 | REINO UNIDO vs JAPON</title>
+  </programme>
+  <programme start="20261106090000" stop="20261107055959" channel="EVENTOS_VIP__Evento___REINO_UNIDO_vs_JAPON___00_00_1">
+    <title>Finalizado | REINO UNIDO vs JAPON</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106060000" channel="EVENTOS_VIP__Evento___NICARAGUA_vs_AUSTRALIA___00_00_1">
+    <title>Próximamente | 00:00 | NICARAGUA vs AUSTRALIA</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106090000" channel="EVENTOS_VIP__Evento___NICARAGUA_vs_AUSTRALIA___00_00_1">
+    <title>⌾ En vivo | 00:00 | NICARAGUA vs AUSTRALIA</title>
+  </programme>
+  <programme start="20261106090000" stop="20261107055959" channel="EVENTOS_VIP__Evento___NICARAGUA_vs_AUSTRALIA___00_00_1">
+    <title>Finalizado | NICARAGUA vs AUSTRALIA</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106060000" channel="EVENTOS_VIP__Evento___Czechia_vs_chinese_taipei___00_00_1">
+    <title>Próximamente | 00:00 | Czechia vs chinese taipei</title>
+  </programme>
+  <programme start="20261106060000" stop="20261106090000" channel="EVENTOS_VIP__Evento___Czechia_vs_chinese_taipei___00_00_1">
+    <title>⌾ En vivo | 00:00 | Czechia vs chinese taipei</title>
+  </programme>
+  <programme start="20261106090000" stop="20261107055959" channel="EVENTOS_VIP__Evento___Czechia_vs_chinese_taipei___00_00_1">
+    <title>Finalizado | Czechia vs chinese taipei</title>
   </programme>
 </tv>
 
