@@ -125559,6 +125559,12 @@
   <channel id="EVENTOS_VIP__Evento_____Cal_St_vs_e_Fullerton_vs__UC_San_Diego___NCAA_Women_s_Soccer______22_30_1">
     <display-name>Evento | ◘ Cal St vs e Fullerton vs. UC San Diego ◘ NCAA Women's Soccer ◘◘ | 22:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___LIBERTAD_vs_EMELEC___14_00_1">
+    <display-name>Evento | - LIGA PRO - LIBERTAD vs EMELEC | 14:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_PRO___LEONES_DEL_NORTE_vs_GUAYAQUIL_CITY___16_30_1">
+    <display-name>Evento | - LIGA PRO - LEONES DEL NORTE vs GUAYAQUIL CITY | 16:30</display-name>
+  </channel>
   <programme start="20261107000000 -0600" stop="20261107170000 -0600" channel="EVENTOS_VIP__Evento_____Denver_Nuggets_vs_Indiana_Pacers___NBA_____17_00_1">
     <title>Próximamente | 17:00 | ◘ Denver Nuggets vs Indiana Pacers ◘ NBA ◘</title>
   </programme>
@@ -127061,6 +127067,24 @@
   </programme>
   <programme start="20261108013000 -0600" stop="20261107235959 -0600" channel="EVENTOS_VIP__Evento_____Cal_St_vs_e_Fullerton_vs__UC_San_Diego___NCAA_Women_s_Soccer______22_30_1">
     <title>Finalizado | ◘ Cal St vs e Fullerton vs. UC San Diego ◘ NCAA Women's Soccer ◘◘</title>
+  </programme>
+  <programme start="20261107000000 -0600" stop="20261107140000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LIBERTAD_vs_EMELEC___14_00_1">
+    <title>Próximamente | 14:00 | - LIGA PRO - LIBERTAD vs EMELEC</title>
+  </programme>
+  <programme start="20261107140000 -0600" stop="20261107170000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LIBERTAD_vs_EMELEC___14_00_1">
+    <title>⌾ En vivo | 14:00 | - LIGA PRO - LIBERTAD vs EMELEC</title>
+  </programme>
+  <programme start="20261107170000 -0600" stop="20261107235959 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LIBERTAD_vs_EMELEC___14_00_1">
+    <title>Finalizado | - LIGA PRO - LIBERTAD vs EMELEC</title>
+  </programme>
+  <programme start="20261107000000 -0600" stop="20261107163000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LEONES_DEL_NORTE_vs_GUAYAQUIL_CITY___16_30_1">
+    <title>Próximamente | 16:30 | - LIGA PRO - LEONES DEL NORTE vs GUAYAQUIL CITY</title>
+  </programme>
+  <programme start="20261107163000 -0600" stop="20261107193000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LEONES_DEL_NORTE_vs_GUAYAQUIL_CITY___16_30_1">
+    <title>⌾ En vivo | 16:30 | - LIGA PRO - LEONES DEL NORTE vs GUAYAQUIL CITY</title>
+  </programme>
+  <programme start="20261107193000 -0600" stop="20261107235959 -0600" channel="EVENTOS_VIP__Evento_____LIGA_PRO___LEONES_DEL_NORTE_vs_GUAYAQUIL_CITY___16_30_1">
+    <title>Finalizado | - LIGA PRO - LEONES DEL NORTE vs GUAYAQUIL CITY</title>
   </programme>
 </tv>
 
