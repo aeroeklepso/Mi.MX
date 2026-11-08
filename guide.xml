@@ -124518,6 +124518,18 @@
   <channel id="EVENTOS_VIP__Evento_____New_Orleans_Pelicans_vs_Los_Angeles_Clippers___NBA_____21_00_1">
     <display-name>Evento | ◘ New Orleans Pelicans vs Los Angeles Clippers ◘ NBA ◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGAECUABET___MACAR__vs_U__CATOLICA___11_15_1">
+    <display-name>Evento | - LIGAECUABET - MACARÁ vs U. CATOLICA | 11:15</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGAECUABET___DEP__CUENCA_vs_ORENSE___11_30_1">
+    <display-name>Evento | - LIGAECUABET - DEP. CUENCA vs ORENSE | 11:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGAECUABET___AUCAS_vs_INDEPENDIENTE_DEL_VALLE___13_45_1">
+    <display-name>Evento | - LIGAECUABET - AUCAS vs INDEPENDIENTE DEL VALLE | 13:45</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____LIGA_ECUABET___BARCECLONA_vs_LDU_QUITO___16_30_1">
+    <display-name>Evento | - LIGA ECUABET - BARCECLONA vs LDU QUITO | 16:30</display-name>
+  </channel>
   <programme start="20261108000000 -0600" stop="20261108190000 -0600" channel="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Aguilas_De_Mexicali___LMP_____19_00_1">
     <title>Próximamente | 19:00 | ◘ Cañeros de los Mochis vs Aguilas De Mexicali ◘ LMP ◘</title>
   </programme>
@@ -125453,6 +125465,42 @@
   </programme>
   <programme start="20261109000000 -0600" stop="20261108235959 -0600" channel="EVENTOS_VIP__Evento_____New_Orleans_Pelicans_vs_Los_Angeles_Clippers___NBA_____21_00_1">
     <title>Finalizado | ◘ New Orleans Pelicans vs Los Angeles Clippers ◘ NBA ◘</title>
+  </programme>
+  <programme start="20261108000000 -0600" stop="20261108111500 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___MACAR__vs_U__CATOLICA___11_15_1">
+    <title>Próximamente | 11:15 | - LIGAECUABET - MACARÁ vs U. CATOLICA</title>
+  </programme>
+  <programme start="20261108111500 -0600" stop="20261108141500 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___MACAR__vs_U__CATOLICA___11_15_1">
+    <title>⌾ En vivo | 11:15 | - LIGAECUABET - MACARÁ vs U. CATOLICA</title>
+  </programme>
+  <programme start="20261108141500 -0600" stop="20261108235959 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___MACAR__vs_U__CATOLICA___11_15_1">
+    <title>Finalizado | - LIGAECUABET - MACARÁ vs U. CATOLICA</title>
+  </programme>
+  <programme start="20261108000000 -0600" stop="20261108113000 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___DEP__CUENCA_vs_ORENSE___11_30_1">
+    <title>Próximamente | 11:30 | - LIGAECUABET - DEP. CUENCA vs ORENSE</title>
+  </programme>
+  <programme start="20261108113000 -0600" stop="20261108143000 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___DEP__CUENCA_vs_ORENSE___11_30_1">
+    <title>⌾ En vivo | 11:30 | - LIGAECUABET - DEP. CUENCA vs ORENSE</title>
+  </programme>
+  <programme start="20261108143000 -0600" stop="20261108235959 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___DEP__CUENCA_vs_ORENSE___11_30_1">
+    <title>Finalizado | - LIGAECUABET - DEP. CUENCA vs ORENSE</title>
+  </programme>
+  <programme start="20261108000000 -0600" stop="20261108134500 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___AUCAS_vs_INDEPENDIENTE_DEL_VALLE___13_45_1">
+    <title>Próximamente | 13:45 | - LIGAECUABET - AUCAS vs INDEPENDIENTE DEL VALLE</title>
+  </programme>
+  <programme start="20261108134500 -0600" stop="20261108164500 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___AUCAS_vs_INDEPENDIENTE_DEL_VALLE___13_45_1">
+    <title>⌾ En vivo | 13:45 | - LIGAECUABET - AUCAS vs INDEPENDIENTE DEL VALLE</title>
+  </programme>
+  <programme start="20261108164500 -0600" stop="20261108235959 -0600" channel="EVENTOS_VIP__Evento_____LIGAECUABET___AUCAS_vs_INDEPENDIENTE_DEL_VALLE___13_45_1">
+    <title>Finalizado | - LIGAECUABET - AUCAS vs INDEPENDIENTE DEL VALLE</title>
+  </programme>
+  <programme start="20261108000000 -0600" stop="20261108163000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_ECUABET___BARCECLONA_vs_LDU_QUITO___16_30_1">
+    <title>Próximamente | 16:30 | - LIGA ECUABET - BARCECLONA vs LDU QUITO</title>
+  </programme>
+  <programme start="20261108163000 -0600" stop="20261108193000 -0600" channel="EVENTOS_VIP__Evento_____LIGA_ECUABET___BARCECLONA_vs_LDU_QUITO___16_30_1">
+    <title>⌾ En vivo | 16:30 | - LIGA ECUABET - BARCECLONA vs LDU QUITO</title>
+  </programme>
+  <programme start="20261108193000 -0600" stop="20261108235959 -0600" channel="EVENTOS_VIP__Evento_____LIGA_ECUABET___BARCECLONA_vs_LDU_QUITO___16_30_1">
+    <title>Finalizado | - LIGA ECUABET - BARCECLONA vs LDU QUITO</title>
   </programme>
 </tv>
 
