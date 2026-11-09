@@ -124720,6 +124720,12 @@
   <channel id="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Naranjeros_De_Hermosillo___LMP_____21_00_1">
     <display-name>Evento | ◘ Cañeros de los Mochis vs Naranjeros De Hermosillo ◘ LMP ◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___Mushuc_Runa_vs_Delfin___12_00_1">
+    <display-name>Evento | Mushuc Runa vs Delfin | 12:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___T_cnico_Universitario_vs_Manta___14_30_1">
+    <display-name>Evento | Técnico Universitario vs Manta | 14:30</display-name>
+  </channel>
   <programme start="20261109060000" stop="20261109063000" channel="EVENTOS_VIP__Evento_____Janice_Tjen__INA__vs_Magda_Linette__POL_____WTA_____00_30_1">
     <title>Próximamente | 00:30 | ◘ Janice Tjen (INA) vs Magda Linette (POL)  ◘ WTA◘◘</title>
   </programme>
@@ -124935,6 +124941,24 @@
   </programme>
   <programme start="20261110060000" stop="20261110055959" channel="EVENTOS_VIP__Evento_____Ca_eros_de_los_Mochis_vs_Naranjeros_De_Hermosillo___LMP_____21_00_1">
     <title>Finalizado | ◘ Cañeros de los Mochis vs Naranjeros De Hermosillo ◘ LMP ◘</title>
+  </programme>
+  <programme start="20261109060000" stop="20261109180000" channel="EVENTOS_VIP__Evento___Mushuc_Runa_vs_Delfin___12_00_1">
+    <title>Próximamente | 12:00 | Mushuc Runa vs Delfin</title>
+  </programme>
+  <programme start="20261109180000" stop="20261109210000" channel="EVENTOS_VIP__Evento___Mushuc_Runa_vs_Delfin___12_00_1">
+    <title>⌾ En vivo | 12:00 | Mushuc Runa vs Delfin</title>
+  </programme>
+  <programme start="20261109210000" stop="20261110055959" channel="EVENTOS_VIP__Evento___Mushuc_Runa_vs_Delfin___12_00_1">
+    <title>Finalizado | Mushuc Runa vs Delfin</title>
+  </programme>
+  <programme start="20261109060000" stop="20261109203000" channel="EVENTOS_VIP__Evento___T_cnico_Universitario_vs_Manta___14_30_1">
+    <title>Próximamente | 14:30 | Técnico Universitario vs Manta</title>
+  </programme>
+  <programme start="20261109203000" stop="20261109233000" channel="EVENTOS_VIP__Evento___T_cnico_Universitario_vs_Manta___14_30_1">
+    <title>⌾ En vivo | 14:30 | Técnico Universitario vs Manta</title>
+  </programme>
+  <programme start="20261109233000" stop="20261110055959" channel="EVENTOS_VIP__Evento___T_cnico_Universitario_vs_Manta___14_30_1">
+    <title>Finalizado | Técnico Universitario vs Manta</title>
   </programme>
 </tv>
 
