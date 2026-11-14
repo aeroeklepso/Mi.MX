@@ -121029,6 +121029,12 @@
   <channel id="EVENTOS_VIP__Evento_____RAF_Abu_Dhabi___Chimaev_vs_Weidman___11_00_1">
     <display-name>Evento | - RAF Abu Dhabi - Chimaev vs Weidman | 11:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC_____17_00_1">
+    <display-name>Evento | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘ | 17:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC___English___17_00_1">
+    <display-name>Evento | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘ English | 17:00</display-name>
+  </channel>
   <programme start="20261114000000 -0600" stop="20261114050000 -0600" channel="EVENTOS_VIP__Evento_____AMISTOSO_INTERNACIONAL___BRASIL_vs_JAPON___05_00_1">
     <title>Próximamente | 05:00 | - AMISTOSO INTERNACIONAL - BRASIL vs JAPON</title>
   </programme>
@@ -122117,6 +122123,24 @@
   </programme>
   <programme start="20261114140000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____RAF_Abu_Dhabi___Chimaev_vs_Weidman___11_00_1">
     <title>Finalizado | - RAF Abu Dhabi - Chimaev vs Weidman</title>
+  </programme>
+  <programme start="20261114000000 -0600" stop="20261114170000 -0600" channel="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC_____17_00_1">
+    <title>Próximamente | 17:00 | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘</title>
+  </programme>
+  <programme start="20261114170000 -0600" stop="20261114200000 -0600" channel="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC_____17_00_1">
+    <title>⌾ En vivo | 17:00 | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘</title>
+  </programme>
+  <programme start="20261114200000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC_____17_00_1">
+    <title>Finalizado | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘</title>
+  </programme>
+  <programme start="20261114000000 -0600" stop="20261114170000 -0600" channel="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC___English___17_00_1">
+    <title>Próximamente | 17:00 | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘ English</title>
+  </programme>
+  <programme start="20261114170000 -0600" stop="20261114200000 -0600" channel="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC___English___17_00_1">
+    <title>⌾ En vivo | 17:00 | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘ English</title>
+  </programme>
+  <programme start="20261114200000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Josh_Hokit_vs_Ciryl_Gane___UFC___English___17_00_1">
+    <title>Finalizado | ◘ Josh Hokit vs Ciryl Gane ◘ UFC ◘ English</title>
   </programme>
 </tv>
 
