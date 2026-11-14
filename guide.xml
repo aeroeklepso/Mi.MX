@@ -121026,6 +121026,9 @@
   <channel id="EVENTOS_VIP__Evento_____Coast_Guard_Academy_vs_Merchant_Marine_Academy___NCAA______16_30_1">
     <display-name>Evento | ◘ Coast Guard Academy vs Merchant Marine Academy ◘ NCAA ◘◘ | 16:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____RAF_Abu_Dhabi___Chimaev_vs_Weidman___11_00_1">
+    <display-name>Evento | - RAF Abu Dhabi - Chimaev vs Weidman | 11:00</display-name>
+  </channel>
   <programme start="20261114000000 -0600" stop="20261114050000 -0600" channel="EVENTOS_VIP__Evento_____AMISTOSO_INTERNACIONAL___BRASIL_vs_JAPON___05_00_1">
     <title>Próximamente | 05:00 | - AMISTOSO INTERNACIONAL - BRASIL vs JAPON</title>
   </programme>
@@ -122105,6 +122108,15 @@
   </programme>
   <programme start="20261114193000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Coast_Guard_Academy_vs_Merchant_Marine_Academy___NCAA______16_30_1">
     <title>Finalizado | ◘ Coast Guard Academy vs Merchant Marine Academy ◘ NCAA ◘◘</title>
+  </programme>
+  <programme start="20261114000000 -0600" stop="20261114110000 -0600" channel="EVENTOS_VIP__Evento_____RAF_Abu_Dhabi___Chimaev_vs_Weidman___11_00_1">
+    <title>Próximamente | 11:00 | - RAF Abu Dhabi - Chimaev vs Weidman</title>
+  </programme>
+  <programme start="20261114110000 -0600" stop="20261114140000 -0600" channel="EVENTOS_VIP__Evento_____RAF_Abu_Dhabi___Chimaev_vs_Weidman___11_00_1">
+    <title>⌾ En vivo | 11:00 | - RAF Abu Dhabi - Chimaev vs Weidman</title>
+  </programme>
+  <programme start="20261114140000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____RAF_Abu_Dhabi___Chimaev_vs_Weidman___11_00_1">
+    <title>Finalizado | - RAF Abu Dhabi - Chimaev vs Weidman</title>
   </programme>
 </tv>
 
