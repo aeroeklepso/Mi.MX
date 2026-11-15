@@ -25196,6 +25196,33 @@
   <channel id="Evento_LigaMX__LigaMX_____Toluca_vs_Am_rica___Liga_MX_Femenil_____21_10_1">
     <display-name>LigaMX | ◘ Toluca vs América ◘ Liga MX Femenil ◘ | 21:10</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP1___11_30_1">
+    <display-name>Evento | - Serie C - Ravenna vs Forlì - OP1 | 11:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP2___11_30_1">
+    <display-name>Evento | - Serie C - Ravenna vs Forlì - OP2 | 11:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTIAGO_WANDERS_vs_DEPRTES_COPIAPO___09_30_1">
+    <display-name>Evento | - PRIMERA B CHILE SANTIAGO WANDERS vs DEPRTES COPIAPO | 09:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SAN_MARCOS_vs_SAN_LUIS___15_00_1">
+    <display-name>Evento | - PRIMERA B CHILE SAN MARCOS vs SAN LUIS | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_MAGALLANES_vs_ANTAFOGASTA___15_00_1">
+    <display-name>Evento | - PRIMERA B CHILE MAGALLANES vs ANTAFOGASTA | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_COBRELOA_vs_PUERTO_MONTT___15_00_1">
+    <display-name>Evento | - PRIMERA B CHILE COBRELOA vs PUERTO MONTT | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_UNION_SAN_FELIPE_vs_UNION_ESPA_OLA___15_00_1">
+    <display-name>Evento | - PRIMERA B CHILE UNION SAN FELIPE vs UNION ESPAÑOLA | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTA_CRUZ_vs_RANGERS___15_00_1">
+    <display-name>Evento | - PRIMERA B CHILE SANTA CRUZ vs RANGERS | 15:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
+    <display-name>Evento | - PRIMERA B CHILE RECOLETA vs IQUIQUE | 17:30</display-name>
+  </channel>
   <programme start="20261115000000 -0600" stop="20261115193000 -0600" channel="EVENTOS_VIP__Evento_____Edmonton_Oilers_vs_Philadelphia_Flyers___NHL______19_30_1">
     <title>Próximamente | 19:30 | ◘ Edmonton Oilers vs Philadelphia Flyers ◘ NHL ◘◘</title>
   </programme>
@@ -25951,6 +25978,87 @@
   </programme>
   <programme start="20261116001000 -0600" stop="20261115235959 -0600" channel="Evento_LigaMX__LigaMX_____Toluca_vs_Am_rica___Liga_MX_Femenil_____21_10_1">
     <title>Finalizado | ◘ Toluca vs América ◘ Liga MX Femenil ◘</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115113000 -0600" channel="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP1___11_30_1">
+    <title>Próximamente | 11:30 | - Serie C - Ravenna vs Forlì - OP1</title>
+  </programme>
+  <programme start="20261115113000 -0600" stop="20261115143000 -0600" channel="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP1___11_30_1">
+    <title>⌾ En vivo | 11:30 | - Serie C - Ravenna vs Forlì - OP1</title>
+  </programme>
+  <programme start="20261115143000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP1___11_30_1">
+    <title>Finalizado | - Serie C - Ravenna vs Forlì - OP1</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115113000 -0600" channel="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP2___11_30_1">
+    <title>Próximamente | 11:30 | - Serie C - Ravenna vs Forlì - OP2</title>
+  </programme>
+  <programme start="20261115113000 -0600" stop="20261115143000 -0600" channel="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP2___11_30_1">
+    <title>⌾ En vivo | 11:30 | - Serie C - Ravenna vs Forlì - OP2</title>
+  </programme>
+  <programme start="20261115143000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____Serie_C___Ravenna_vs_Forl____OP2___11_30_1">
+    <title>Finalizado | - Serie C - Ravenna vs Forlì - OP2</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115093000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTIAGO_WANDERS_vs_DEPRTES_COPIAPO___09_30_1">
+    <title>Próximamente | 09:30 | - PRIMERA B CHILE SANTIAGO WANDERS vs DEPRTES COPIAPO</title>
+  </programme>
+  <programme start="20261115093000 -0600" stop="20261115123000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTIAGO_WANDERS_vs_DEPRTES_COPIAPO___09_30_1">
+    <title>⌾ En vivo | 09:30 | - PRIMERA B CHILE SANTIAGO WANDERS vs DEPRTES COPIAPO</title>
+  </programme>
+  <programme start="20261115123000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTIAGO_WANDERS_vs_DEPRTES_COPIAPO___09_30_1">
+    <title>Finalizado | - PRIMERA B CHILE SANTIAGO WANDERS vs DEPRTES COPIAPO</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115150000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SAN_MARCOS_vs_SAN_LUIS___15_00_1">
+    <title>Próximamente | 15:00 | - PRIMERA B CHILE SAN MARCOS vs SAN LUIS</title>
+  </programme>
+  <programme start="20261115150000 -0600" stop="20261115180000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SAN_MARCOS_vs_SAN_LUIS___15_00_1">
+    <title>⌾ En vivo | 15:00 | - PRIMERA B CHILE SAN MARCOS vs SAN LUIS</title>
+  </programme>
+  <programme start="20261115180000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SAN_MARCOS_vs_SAN_LUIS___15_00_1">
+    <title>Finalizado | - PRIMERA B CHILE SAN MARCOS vs SAN LUIS</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115150000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_MAGALLANES_vs_ANTAFOGASTA___15_00_1">
+    <title>Próximamente | 15:00 | - PRIMERA B CHILE MAGALLANES vs ANTAFOGASTA</title>
+  </programme>
+  <programme start="20261115150000 -0600" stop="20261115180000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_MAGALLANES_vs_ANTAFOGASTA___15_00_1">
+    <title>⌾ En vivo | 15:00 | - PRIMERA B CHILE MAGALLANES vs ANTAFOGASTA</title>
+  </programme>
+  <programme start="20261115180000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_MAGALLANES_vs_ANTAFOGASTA___15_00_1">
+    <title>Finalizado | - PRIMERA B CHILE MAGALLANES vs ANTAFOGASTA</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115150000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_COBRELOA_vs_PUERTO_MONTT___15_00_1">
+    <title>Próximamente | 15:00 | - PRIMERA B CHILE COBRELOA vs PUERTO MONTT</title>
+  </programme>
+  <programme start="20261115150000 -0600" stop="20261115180000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_COBRELOA_vs_PUERTO_MONTT___15_00_1">
+    <title>⌾ En vivo | 15:00 | - PRIMERA B CHILE COBRELOA vs PUERTO MONTT</title>
+  </programme>
+  <programme start="20261115180000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_COBRELOA_vs_PUERTO_MONTT___15_00_1">
+    <title>Finalizado | - PRIMERA B CHILE COBRELOA vs PUERTO MONTT</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115150000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_UNION_SAN_FELIPE_vs_UNION_ESPA_OLA___15_00_1">
+    <title>Próximamente | 15:00 | - PRIMERA B CHILE UNION SAN FELIPE vs UNION ESPAÑOLA</title>
+  </programme>
+  <programme start="20261115150000 -0600" stop="20261115180000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_UNION_SAN_FELIPE_vs_UNION_ESPA_OLA___15_00_1">
+    <title>⌾ En vivo | 15:00 | - PRIMERA B CHILE UNION SAN FELIPE vs UNION ESPAÑOLA</title>
+  </programme>
+  <programme start="20261115180000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_UNION_SAN_FELIPE_vs_UNION_ESPA_OLA___15_00_1">
+    <title>Finalizado | - PRIMERA B CHILE UNION SAN FELIPE vs UNION ESPAÑOLA</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115150000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTA_CRUZ_vs_RANGERS___15_00_1">
+    <title>Próximamente | 15:00 | - PRIMERA B CHILE SANTA CRUZ vs RANGERS</title>
+  </programme>
+  <programme start="20261115150000 -0600" stop="20261115180000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTA_CRUZ_vs_RANGERS___15_00_1">
+    <title>⌾ En vivo | 15:00 | - PRIMERA B CHILE SANTA CRUZ vs RANGERS</title>
+  </programme>
+  <programme start="20261115180000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_SANTA_CRUZ_vs_RANGERS___15_00_1">
+    <title>Finalizado | - PRIMERA B CHILE SANTA CRUZ vs RANGERS</title>
+  </programme>
+  <programme start="20261115000000 -0600" stop="20261115173000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
+    <title>Próximamente | 17:30 | - PRIMERA B CHILE RECOLETA vs IQUIQUE</title>
+  </programme>
+  <programme start="20261115173000 -0600" stop="20261115203000 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
+    <title>⌾ En vivo | 17:30 | - PRIMERA B CHILE RECOLETA vs IQUIQUE</title>
+  </programme>
+  <programme start="20261115203000 -0600" stop="20261115235959 -0600" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
+    <title>Finalizado | - PRIMERA B CHILE RECOLETA vs IQUIQUE</title>
   </programme>
 </tv>
 
