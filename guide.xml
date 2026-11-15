@@ -24944,30 +24944,6 @@
     <desc>Cuando Chase obtiene una pasantía en una estación de televisión local, se ve obligado a lidiar con un talento difícil, Todd Chrisley.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="EVENTOS_VIP__Evento_____Hait__vs_EE__UU____CONCACAF_Nations_League_____16_30_1">
-    <display-name>Evento | ◘ Haití vs EE. UU. ◘ CONCACAF Nations League ◘ | 16:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Mirassol_vs_Atl_tico_Mineiro___Brasileir_o_____16_30_1">
-    <display-name>Evento | ◘ Mirassol vs Atlético Mineiro ◘ Brasileirão ◘ | 16:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Banfield_vs_Boca_Juniors___Copa_Argentina_____17_00_1">
-    <display-name>Evento | ◘ Banfield vs Boca Juniors ◘ Copa Argentina ◘ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Old_Boys_Club_vs_Old_Christians_Club___Rugby______17_15_1">
-    <display-name>Evento | ◘ Old Boys Club vs Old Christians Club ◘ Rugby ◘◘ | 17:15</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Paysandu_FC_vs_Uruguay_Montevideo___Segunda_Uruguay______17_30_1">
-    <display-name>Evento | ◘ Paysandu FC vs Uruguay Montevideo ◘ Segunda Uruguay ◘◘ | 17:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Charleston_B_vs_tery_vs__Louisville_City___USL_Championship______18_00_1">
-    <display-name>Evento | ◘ Charleston B vs tery vs. Louisville City ◘ USL Championship ◘◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Comunicaciones_vs_Cob_n_Imperial___Liga_Guatemala_____18_00_1">
-    <display-name>Evento | ◘ Comunicaciones vs Cobán Imperial ◘ Liga Guatemala ◘ | 18:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Nacional_vs_Albion_FC___Primera_Uruguay______18_00_1">
-    <display-name>Evento | ◘ Nacional vs Albion FC ◘ Primera Uruguay ◘◘ | 18:00</display-name>
-  </channel>
   <channel id="Evento_LigaMX__LigaMX_____Quer_taro_vs_Monterrey___Liga_MX_____17_00_1">
     <display-name>LigaMX | ◘ Querétaro vs Monterrey ◘ Liga MX ◘ | 17:00</display-name>
   </channel>
@@ -25172,78 +25148,6 @@
   <channel id="EVENTOS_VIP__Evento_____NCAA_Football___North_Dakota_St_vs_e_vs_Hawai___23_00_1">
     <display-name>Evento | - NCAA Football - North Dakota St vs e vs Hawai | 23:00</display-name>
   </channel>
-  <programme start="20261114000000 -0600" stop="20261114163000 -0600" channel="EVENTOS_VIP__Evento_____Hait__vs_EE__UU____CONCACAF_Nations_League_____16_30_1">
-    <title>Próximamente | 16:30 | ◘ Haití vs EE. UU. ◘ CONCACAF Nations League ◘</title>
-  </programme>
-  <programme start="20261114163000 -0600" stop="20261114193000 -0600" channel="EVENTOS_VIP__Evento_____Hait__vs_EE__UU____CONCACAF_Nations_League_____16_30_1">
-    <title>⌾ En vivo | 16:30 | ◘ Haití vs EE. UU. ◘ CONCACAF Nations League ◘</title>
-  </programme>
-  <programme start="20261114193000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Hait__vs_EE__UU____CONCACAF_Nations_League_____16_30_1">
-    <title>Finalizado | ◘ Haití vs EE. UU. ◘ CONCACAF Nations League ◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114163000 -0600" channel="EVENTOS_VIP__Evento_____Mirassol_vs_Atl_tico_Mineiro___Brasileir_o_____16_30_1">
-    <title>Próximamente | 16:30 | ◘ Mirassol vs Atlético Mineiro ◘ Brasileirão ◘</title>
-  </programme>
-  <programme start="20261114163000 -0600" stop="20261114193000 -0600" channel="EVENTOS_VIP__Evento_____Mirassol_vs_Atl_tico_Mineiro___Brasileir_o_____16_30_1">
-    <title>⌾ En vivo | 16:30 | ◘ Mirassol vs Atlético Mineiro ◘ Brasileirão ◘</title>
-  </programme>
-  <programme start="20261114193000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Mirassol_vs_Atl_tico_Mineiro___Brasileir_o_____16_30_1">
-    <title>Finalizado | ◘ Mirassol vs Atlético Mineiro ◘ Brasileirão ◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114170000 -0600" channel="EVENTOS_VIP__Evento_____Banfield_vs_Boca_Juniors___Copa_Argentina_____17_00_1">
-    <title>Próximamente | 17:00 | ◘ Banfield vs Boca Juniors ◘ Copa Argentina ◘</title>
-  </programme>
-  <programme start="20261114170000 -0600" stop="20261114200000 -0600" channel="EVENTOS_VIP__Evento_____Banfield_vs_Boca_Juniors___Copa_Argentina_____17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ Banfield vs Boca Juniors ◘ Copa Argentina ◘</title>
-  </programme>
-  <programme start="20261114200000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Banfield_vs_Boca_Juniors___Copa_Argentina_____17_00_1">
-    <title>Finalizado | ◘ Banfield vs Boca Juniors ◘ Copa Argentina ◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114171500 -0600" channel="EVENTOS_VIP__Evento_____Old_Boys_Club_vs_Old_Christians_Club___Rugby______17_15_1">
-    <title>Próximamente | 17:15 | ◘ Old Boys Club vs Old Christians Club ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20261114171500 -0600" stop="20261114201500 -0600" channel="EVENTOS_VIP__Evento_____Old_Boys_Club_vs_Old_Christians_Club___Rugby______17_15_1">
-    <title>⌾ En vivo | 17:15 | ◘ Old Boys Club vs Old Christians Club ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20261114201500 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Old_Boys_Club_vs_Old_Christians_Club___Rugby______17_15_1">
-    <title>Finalizado | ◘ Old Boys Club vs Old Christians Club ◘ Rugby ◘◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114173000 -0600" channel="EVENTOS_VIP__Evento_____Paysandu_FC_vs_Uruguay_Montevideo___Segunda_Uruguay______17_30_1">
-    <title>Próximamente | 17:30 | ◘ Paysandu FC vs Uruguay Montevideo ◘ Segunda Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261114173000 -0600" stop="20261114203000 -0600" channel="EVENTOS_VIP__Evento_____Paysandu_FC_vs_Uruguay_Montevideo___Segunda_Uruguay______17_30_1">
-    <title>⌾ En vivo | 17:30 | ◘ Paysandu FC vs Uruguay Montevideo ◘ Segunda Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261114203000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Paysandu_FC_vs_Uruguay_Montevideo___Segunda_Uruguay______17_30_1">
-    <title>Finalizado | ◘ Paysandu FC vs Uruguay Montevideo ◘ Segunda Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114180000 -0600" channel="EVENTOS_VIP__Evento_____Charleston_B_vs_tery_vs__Louisville_City___USL_Championship______18_00_1">
-    <title>Próximamente | 18:00 | ◘ Charleston B vs tery vs. Louisville City ◘ USL Championship ◘◘</title>
-  </programme>
-  <programme start="20261114180000 -0600" stop="20261114210000 -0600" channel="EVENTOS_VIP__Evento_____Charleston_B_vs_tery_vs__Louisville_City___USL_Championship______18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Charleston B vs tery vs. Louisville City ◘ USL Championship ◘◘</title>
-  </programme>
-  <programme start="20261114210000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Charleston_B_vs_tery_vs__Louisville_City___USL_Championship______18_00_1">
-    <title>Finalizado | ◘ Charleston B vs tery vs. Louisville City ◘ USL Championship ◘◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114180000 -0600" channel="EVENTOS_VIP__Evento_____Comunicaciones_vs_Cob_n_Imperial___Liga_Guatemala_____18_00_1">
-    <title>Próximamente | 18:00 | ◘ Comunicaciones vs Cobán Imperial ◘ Liga Guatemala ◘</title>
-  </programme>
-  <programme start="20261114180000 -0600" stop="20261114210000 -0600" channel="EVENTOS_VIP__Evento_____Comunicaciones_vs_Cob_n_Imperial___Liga_Guatemala_____18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Comunicaciones vs Cobán Imperial ◘ Liga Guatemala ◘</title>
-  </programme>
-  <programme start="20261114210000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Comunicaciones_vs_Cob_n_Imperial___Liga_Guatemala_____18_00_1">
-    <title>Finalizado | ◘ Comunicaciones vs Cobán Imperial ◘ Liga Guatemala ◘</title>
-  </programme>
-  <programme start="20261114000000 -0600" stop="20261114180000 -0600" channel="EVENTOS_VIP__Evento_____Nacional_vs_Albion_FC___Primera_Uruguay______18_00_1">
-    <title>Próximamente | 18:00 | ◘ Nacional vs Albion FC ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261114180000 -0600" stop="20261114210000 -0600" channel="EVENTOS_VIP__Evento_____Nacional_vs_Albion_FC___Primera_Uruguay______18_00_1">
-    <title>⌾ En vivo | 18:00 | ◘ Nacional vs Albion FC ◘ Primera Uruguay ◘◘</title>
-  </programme>
-  <programme start="20261114210000 -0600" stop="20261114235959 -0600" channel="EVENTOS_VIP__Evento_____Nacional_vs_Albion_FC___Primera_Uruguay______18_00_1">
-    <title>Finalizado | ◘ Nacional vs Albion FC ◘ Primera Uruguay ◘◘</title>
-  </programme>
   <programme start="20261114000000 -0600" stop="20261114170000 -0600" channel="Evento_LigaMX__LigaMX_____Quer_taro_vs_Monterrey___Liga_MX_____17_00_1">
     <title>Próximamente | 17:00 | ◘ Querétaro vs Monterrey ◘ Liga MX ◘</title>
   </programme>
