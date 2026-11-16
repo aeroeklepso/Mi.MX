@@ -24905,21 +24905,6 @@
   <channel id="EVENTOS_VIP__Evento_____Oklahoma_City_Thunder_vs_Sacramento_Kings___NBA_____21_00_1">
     <display-name>Evento | ◘ Oklahoma City Thunder vs Sacramento Kings ◘ NBA ◘ | 21:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento______12_North_Carolina_vs__1_SMU___NCAA______16_00_1">
-    <display-name>Evento | ◘ #12 North Carolina vs #1 SMU ◘ NCAA ◘◘ | 16:00</display-name>
-  </channel>
-  <channel id="Evento_16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA_____16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA________SEC_Soccer_Tournament___Trophy_Present_vs_ion___NCAA______15_30_1">
-    <display-name>16:30 ◘ SEC Soccer Tournament - Trophy Presentation ◘ NCAA ◘◘ | ◘ SEC Soccer Tournament - Trophy Present vs ion ◘ NCAA ◘◘ | 15:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Texas_vs__11_South_Carolina___NCAA______16_30_1">
-    <display-name>Evento | ◘ Texas vs #11 South Carolina ◘ NCAA ◘◘ | 16:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Stetson_vs_Clemson___NCAA______17_00_1">
-    <display-name>Evento | ◘ Stetson vs Clemson ◘ NCAA ◘◘ | 17:00</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento______4_UConn_vs__7_Louisville___NCAA______17_30_1">
-    <display-name>Evento | ◘ #4 UConn vs #7 Louisville ◘ NCAA ◘◘ | 17:30</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Canisius_vs_Syracuse___NCAA______19_00_1">
     <display-name>Evento | ◘ Canisius vs Syracuse ◘ NCAA ◘◘ | 19:00</display-name>
   </channel>
@@ -24958,9 +24943,6 @@
   </channel>
   <channel id="Evento_LigaMX__LigaMX_____Toluca_vs_Am_rica___Liga_MX_Femenil_____21_10_1">
     <display-name>LigaMX | ◘ Toluca vs América ◘ Liga MX Femenil ◘ | 21:10</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
-    <display-name>Evento | - PRIMERA B CHILE RECOLETA vs IQUIQUE | 17:30</display-name>
   </channel>
   <programme start="20261115060000" stop="20261116013000" channel="EVENTOS_VIP__Evento_____Edmonton_Oilers_vs_Philadelphia_Flyers___NHL______19_30_1">
     <title>Próximamente | 19:30 | ◘ Edmonton Oilers vs Philadelphia Flyers ◘ NHL ◘◘</title>
@@ -25151,51 +25133,6 @@
   <programme start="20261116060000" stop="20261116055959" channel="EVENTOS_VIP__Evento_____Oklahoma_City_Thunder_vs_Sacramento_Kings___NBA_____21_00_1">
     <title>Finalizado | ◘ Oklahoma City Thunder vs Sacramento Kings ◘ NBA ◘</title>
   </programme>
-  <programme start="20261115060000" stop="20261115220000" channel="EVENTOS_VIP__Evento______12_North_Carolina_vs__1_SMU___NCAA______16_00_1">
-    <title>Próximamente | 16:00 | ◘ #12 North Carolina vs #1 SMU ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115220000" stop="20261116010000" channel="EVENTOS_VIP__Evento______12_North_Carolina_vs__1_SMU___NCAA______16_00_1">
-    <title>⌾ En vivo | 16:00 | ◘ #12 North Carolina vs #1 SMU ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261116010000" stop="20261116055959" channel="EVENTOS_VIP__Evento______12_North_Carolina_vs__1_SMU___NCAA______16_00_1">
-    <title>Finalizado | ◘ #12 North Carolina vs #1 SMU ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115060000" stop="20261115223000" channel="Evento_16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA_____16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA________SEC_Soccer_Tournament___Trophy_Present_vs_ion___NCAA______15_30_1">
-    <title>Próximamente | 16:30 | ◘ SEC Soccer Tournament - Trophy Present vs ion ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115223000" stop="20261116013000" channel="Evento_16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA_____16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA________SEC_Soccer_Tournament___Trophy_Present_vs_ion___NCAA______15_30_1">
-    <title>⌾ En vivo | 16:30 | ◘ SEC Soccer Tournament - Trophy Present vs ion ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261116013000" stop="20261116055959" channel="Evento_16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA_____16_30___SEC_Soccer_Tournament___Trophy_Presentation___NCAA________SEC_Soccer_Tournament___Trophy_Present_vs_ion___NCAA______15_30_1">
-    <title>Finalizado | ◘ SEC Soccer Tournament - Trophy Present vs ion ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115060000" stop="20261115223000" channel="EVENTOS_VIP__Evento_____Texas_vs__11_South_Carolina___NCAA______16_30_1">
-    <title>Próximamente | 16:30 | ◘ Texas vs #11 South Carolina ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115223000" stop="20261116013000" channel="EVENTOS_VIP__Evento_____Texas_vs__11_South_Carolina___NCAA______16_30_1">
-    <title>⌾ En vivo | 16:30 | ◘ Texas vs #11 South Carolina ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261116013000" stop="20261116055959" channel="EVENTOS_VIP__Evento_____Texas_vs__11_South_Carolina___NCAA______16_30_1">
-    <title>Finalizado | ◘ Texas vs #11 South Carolina ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115060000" stop="20261115230000" channel="EVENTOS_VIP__Evento_____Stetson_vs_Clemson___NCAA______17_00_1">
-    <title>Próximamente | 17:00 | ◘ Stetson vs Clemson ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115230000" stop="20261116020000" channel="EVENTOS_VIP__Evento_____Stetson_vs_Clemson___NCAA______17_00_1">
-    <title>⌾ En vivo | 17:00 | ◘ Stetson vs Clemson ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261116020000" stop="20261116055959" channel="EVENTOS_VIP__Evento_____Stetson_vs_Clemson___NCAA______17_00_1">
-    <title>Finalizado | ◘ Stetson vs Clemson ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115060000" stop="20261115233000" channel="EVENTOS_VIP__Evento______4_UConn_vs__7_Louisville___NCAA______17_30_1">
-    <title>Próximamente | 17:30 | ◘ #4 UConn vs #7 Louisville ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261115233000" stop="20261116023000" channel="EVENTOS_VIP__Evento______4_UConn_vs__7_Louisville___NCAA______17_30_1">
-    <title>⌾ En vivo | 17:30 | ◘ #4 UConn vs #7 Louisville ◘ NCAA ◘◘</title>
-  </programme>
-  <programme start="20261116023000" stop="20261116055959" channel="EVENTOS_VIP__Evento______4_UConn_vs__7_Louisville___NCAA______17_30_1">
-    <title>Finalizado | ◘ #4 UConn vs #7 Louisville ◘ NCAA ◘◘</title>
-  </programme>
   <programme start="20261115060000" stop="20261116010000" channel="EVENTOS_VIP__Evento_____Canisius_vs_Syracuse___NCAA______19_00_1">
     <title>Próximamente | 19:00 | ◘ Canisius vs Syracuse ◘ NCAA ◘◘</title>
   </programme>
@@ -25312,15 +25249,6 @@
   </programme>
   <programme start="20261116061000" stop="20261116055959" channel="Evento_LigaMX__LigaMX_____Toluca_vs_Am_rica___Liga_MX_Femenil_____21_10_1">
     <title>Finalizado | ◘ Toluca vs América ◘ Liga MX Femenil ◘</title>
-  </programme>
-  <programme start="20261115060000" stop="20261115233000" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
-    <title>Próximamente | 17:30 | - PRIMERA B CHILE RECOLETA vs IQUIQUE</title>
-  </programme>
-  <programme start="20261115233000" stop="20261116023000" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
-    <title>⌾ En vivo | 17:30 | - PRIMERA B CHILE RECOLETA vs IQUIQUE</title>
-  </programme>
-  <programme start="20261116023000" stop="20261116055959" channel="EVENTOS_VIP__Evento_____PRIMERA_B_CHILE_RECOLETA_vs_IQUIQUE___17_30_1">
-    <title>Finalizado | - PRIMERA B CHILE RECOLETA vs IQUIQUE</title>
   </programme>
 </tv>
 
