@@ -105544,12 +105544,6 @@
     <desc>Los Chrisley participan en un concurso de decoración de Halloween, pero cuando Todd se vuelve demasiado competitivo, Julie pierde la paciencia. Lindsie se sincera con la familia sobre su relación con Will.</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <channel id="Evento_05_30___Nitto_ATP_Finals___ATP_____05_30___Nitto_ATP_Finals___ATP________Nitto_vs_P_Finals___ATP______04_30_1">
-    <display-name>05:30 ◘ Nitto ATP Finals ◘ ATP ◘◘ | ◘ Nitto vs P Finals ◘ ATP ◘◘ | 04:30</display-name>
-  </channel>
-  <channel id="EVENTOS_VIP__Evento_____Argeave_Sports_vs_La_Jaula___Copa_Potrero______07_50_1">
-    <display-name>Evento | ◘ Argeave Sports vs La Jaula ◘ Copa Potrero ◘◘ | 07:50</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Federaci_n_Colombiana_vs_RFC___Copa_Potrero______07_50_1">
     <display-name>Evento | ◘ Federación Colombiana vs RFC ◘ Copa Potrero ◘◘ | 07:50</display-name>
   </channel>
@@ -105709,24 +105703,6 @@
   <channel id="EVENTOS_VIP__Evento_____Aguilas_De_Mexicali_vs_Naranjeros_De_Hermosillo___LMP_____22_30_1">
     <display-name>Evento | ◘ Aguilas De Mexicali vs Naranjeros De Hermosillo ◘ LMP ◘ | 22:30</display-name>
   </channel>
-  <programme start="20261118060000" stop="20261118113000" channel="Evento_05_30___Nitto_ATP_Finals___ATP_____05_30___Nitto_ATP_Finals___ATP________Nitto_vs_P_Finals___ATP______04_30_1">
-    <title>Próximamente | 05:30 | ◘ Nitto vs P Finals ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261118113000" stop="20261118143000" channel="Evento_05_30___Nitto_ATP_Finals___ATP_____05_30___Nitto_ATP_Finals___ATP________Nitto_vs_P_Finals___ATP______04_30_1">
-    <title>⌾ En vivo | 05:30 | ◘ Nitto vs P Finals ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261118143000" stop="20261119055959" channel="Evento_05_30___Nitto_ATP_Finals___ATP_____05_30___Nitto_ATP_Finals___ATP________Nitto_vs_P_Finals___ATP______04_30_1">
-    <title>Finalizado | ◘ Nitto vs P Finals ◘ ATP ◘◘</title>
-  </programme>
-  <programme start="20261118060000" stop="20261118135000" channel="EVENTOS_VIP__Evento_____Argeave_Sports_vs_La_Jaula___Copa_Potrero______07_50_1">
-    <title>Próximamente | 07:50 | ◘ Argeave Sports vs La Jaula ◘ Copa Potrero ◘◘</title>
-  </programme>
-  <programme start="20261118135000" stop="20261118165000" channel="EVENTOS_VIP__Evento_____Argeave_Sports_vs_La_Jaula___Copa_Potrero______07_50_1">
-    <title>⌾ En vivo | 07:50 | ◘ Argeave Sports vs La Jaula ◘ Copa Potrero ◘◘</title>
-  </programme>
-  <programme start="20261118165000" stop="20261119055959" channel="EVENTOS_VIP__Evento_____Argeave_Sports_vs_La_Jaula___Copa_Potrero______07_50_1">
-    <title>Finalizado | ◘ Argeave Sports vs La Jaula ◘ Copa Potrero ◘◘</title>
-  </programme>
   <programme start="20261118060000" stop="20261118135000" channel="EVENTOS_VIP__Evento_____Federaci_n_Colombiana_vs_RFC___Copa_Potrero______07_50_1">
     <title>Próximamente | 07:50 | ◘ Federación Colombiana vs RFC ◘ Copa Potrero ◘◘</title>
   </programme>
