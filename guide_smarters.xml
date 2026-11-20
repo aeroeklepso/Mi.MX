@@ -101266,6 +101266,9 @@
   <channel id="EVENTOS_VIP__Evento_____Escorpiones_Bel_n_vs_San_Carlos___Primera_CR_____21_00_1">
     <display-name>Evento | ◘ Escorpiones Belén vs San Carlos ◘ Primera CR ◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___independiente_del_valle_vs_macara___12_00_1">
+    <display-name>Evento | independiente del valle vs macara | 12:00</display-name>
+  </channel>
   <programme start="20261120060000" stop="20261120153000" channel="Evento_09_30___Georgia_Fall_Invitational___NCAA_____09_30___Georgia_Fall_Invitational___NCAA________Georgia_Fall_Invit_vs_ional___NCAA______08_30_1">
     <title>Próximamente | 09:30 | ◘ Georgia Fall Invit vs ional ◘ NCAA ◘◘</title>
   </programme>
@@ -102021,6 +102024,15 @@
   </programme>
   <programme start="20261121060000" stop="20261121055959" channel="EVENTOS_VIP__Evento_____Escorpiones_Bel_n_vs_San_Carlos___Primera_CR_____21_00_1">
     <title>Finalizado | ◘ Escorpiones Belén vs San Carlos ◘ Primera CR ◘</title>
+  </programme>
+  <programme start="20261120060000" stop="20261120180000" channel="EVENTOS_VIP__Evento___independiente_del_valle_vs_macara___12_00_1">
+    <title>Próximamente | 12:00 | independiente del valle vs macara</title>
+  </programme>
+  <programme start="20261120180000" stop="20261120210000" channel="EVENTOS_VIP__Evento___independiente_del_valle_vs_macara___12_00_1">
+    <title>⌾ En vivo | 12:00 | independiente del valle vs macara</title>
+  </programme>
+  <programme start="20261120210000" stop="20261121055959" channel="EVENTOS_VIP__Evento___independiente_del_valle_vs_macara___12_00_1">
+    <title>Finalizado | independiente del valle vs macara</title>
   </programme>
 </tv>
 
