@@ -98140,9 +98140,6 @@
   <channel id="EVENTOS_VIP__Evento_____Escorpiones_Bel_n_vs_San_Carlos___Primera_CR_____21_00_1">
     <display-name>Evento | ◘ Escorpiones Belén vs San Carlos ◘ Primera CR ◘ | 21:00</display-name>
   </channel>
-  <channel id="Evento_Liga_Ecuabet__Liga_Ecuabet___Independiente_del_Valle_vs_Macar____11_00_1">
-    <display-name>Liga Ecuabet | Independiente del Valle vs Macará | 11:00</display-name>
-  </channel>
   <programme start="20261120000000 -0600" stop="20261120093000 -0600" channel="Evento_09_30___Georgia_Fall_Invitational___NCAA_____09_30___Georgia_Fall_Invitational___NCAA________Georgia_Fall_Invit_vs_ional___NCAA______08_30_1">
     <title>Próximamente | 09:30 | ◘ Georgia Fall Invit vs ional ◘ NCAA ◘◘</title>
   </programme>
@@ -98898,15 +98895,6 @@
   </programme>
   <programme start="20261121000000 -0600" stop="20261120235959 -0600" channel="EVENTOS_VIP__Evento_____Escorpiones_Bel_n_vs_San_Carlos___Primera_CR_____21_00_1">
     <title>Finalizado | ◘ Escorpiones Belén vs San Carlos ◘ Primera CR ◘</title>
-  </programme>
-  <programme start="20261120000000 -0600" stop="20261120110000 -0600" channel="Evento_Liga_Ecuabet__Liga_Ecuabet___Independiente_del_Valle_vs_Macar____11_00_1">
-    <title>Próximamente | 11:00 | Independiente del Valle vs Macará</title>
-  </programme>
-  <programme start="20261120110000 -0600" stop="20261120140000 -0600" channel="Evento_Liga_Ecuabet__Liga_Ecuabet___Independiente_del_Valle_vs_Macar____11_00_1">
-    <title>⌾ En vivo | 11:00 | Independiente del Valle vs Macará</title>
-  </programme>
-  <programme start="20261120140000 -0600" stop="20261120235959 -0600" channel="Evento_Liga_Ecuabet__Liga_Ecuabet___Independiente_del_Valle_vs_Macar____11_00_1">
-    <title>Finalizado | Independiente del Valle vs Macará</title>
   </programme>
 </tv>
 
