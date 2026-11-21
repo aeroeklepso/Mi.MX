@@ -98119,8 +98119,8 @@
   <channel id="EVENTOS_VIP__Evento______guila_vs_Platense___Primera_Salvador_____16_30_1">
     <display-name>Evento | ◘ Águila vs Platense ◘ Primera Salvador ◘ | 16:30</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana______17_30_1">
-    <display-name>Evento | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ | 17:30</display-name>
+  <channel id="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_1">
+    <display-name>Evento | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1 | 17:30</display-name>
   </channel>
   <channel id="Evento_LigaMX__LigaMX_____Pachuca_vs_Toluca___Liga_MX_____16_50_1">
     <display-name>LigaMX | ◘ Pachuca vs Toluca ◘ Liga MX ◘ | 16:50</display-name>
@@ -98403,6 +98403,9 @@
   </channel>
   <channel id="EVENTOS_VIP__Evento_____Yaquis_De_Ciudad_Obregon_vs_Aguilas_De_Mexicali___LMP_____22_00_1">
     <display-name>Evento | ◘ Yaquis De Ciudad Obregon vs Aguilas De Mexicali ◘ LMP ◘ | 22:00</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_2">
+    <display-name>Evento | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1 | 17:30</display-name>
   </channel>
   <programme start="20261121000000 -0600" stop="20261121035500 -0600" channel="EVENTOS_VIP__Evento_____Hong_Kong_China_vs_Tonga___Rugby______03_55_1">
     <title>Próximamente | 03:55 | ◘ Hong Kong China vs Tonga ◘ Rugby ◘◘</title>
@@ -99097,14 +99100,14 @@
   <programme start="20261121193000 -0600" stop="20261121235959 -0600" channel="EVENTOS_VIP__Evento______guila_vs_Platense___Primera_Salvador_____16_30_1">
     <title>Finalizado | ◘ Águila vs Platense ◘ Primera Salvador ◘</title>
   </programme>
-  <programme start="20261121000000 -0600" stop="20261121173000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana______17_30_1">
-    <title>Próximamente | 17:30 | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘</title>
+  <programme start="20261121000000 -0600" stop="20261121173000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_1">
+    <title>Próximamente | 17:30 | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1</title>
   </programme>
-  <programme start="20261121173000 -0600" stop="20261121203000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana______17_30_1">
-    <title>⌾ En vivo | 17:30 | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘</title>
+  <programme start="20261121173000 -0600" stop="20261121203000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_1">
+    <title>⌾ En vivo | 17:30 | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1</title>
   </programme>
-  <programme start="20261121203000 -0600" stop="20261121235959 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana______17_30_1">
-    <title>Finalizado | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘</title>
+  <programme start="20261121203000 -0600" stop="20261121235959 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_1">
+    <title>Finalizado | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1</title>
   </programme>
   <programme start="20261121000000 -0600" stop="20261121165000 -0600" channel="Evento_LigaMX__LigaMX_____Pachuca_vs_Toluca___Liga_MX_____16_50_1">
     <title>Próximamente | 16:50 | ◘ Pachuca vs Toluca ◘ Liga MX ◘</title>
@@ -99951,6 +99954,15 @@
   </programme>
   <programme start="20261122010000 -0600" stop="20261121235959 -0600" channel="EVENTOS_VIP__Evento_____Yaquis_De_Ciudad_Obregon_vs_Aguilas_De_Mexicali___LMP_____22_00_1">
     <title>Finalizado | ◘ Yaquis De Ciudad Obregon vs Aguilas De Mexicali ◘ LMP ◘</title>
+  </programme>
+  <programme start="20261121000000 -0600" stop="20261121173000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_2">
+    <title>Próximamente | 17:30 | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1</title>
+  </programme>
+  <programme start="20261121173000 -0600" stop="20261121203000 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_2">
+    <title>⌾ En vivo | 17:30 | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1</title>
+  </programme>
+  <programme start="20261121203000 -0600" stop="20261121235959 -0600" channel="EVENTOS_VIP__Evento_____vs_l_tico_Mineiro_vs__Boca_Juniors___Copa_Sudamericana____OP1___17_30_2">
+    <title>Finalizado | ◘ vs lético Mineiro vs. Boca Juniors ◘ Copa Sudamericana ◘◘ OP1</title>
   </programme>
 </tv>
 
