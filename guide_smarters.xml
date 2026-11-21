@@ -98140,6 +98140,9 @@
   <channel id="EVENTOS_VIP__Evento_____Escorpiones_Bel_n_vs_San_Carlos___Primera_CR_____21_00_1">
     <display-name>Evento | ◘ Escorpiones Belén vs San Carlos ◘ Primera CR ◘ | 21:00</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___9pm_BKFC_Fight_Night_Richardson_vs_Oxendine___00_00_1">
+    <display-name>Evento | 9pm BKFC Fight Night Richardson vs Oxendine | 00:00</display-name>
+  </channel>
   <programme start="20261120060000" stop="20261120153000" channel="Evento_09_30___Georgia_Fall_Invitational___NCAA_____09_30___Georgia_Fall_Invitational___NCAA________Georgia_Fall_Invit_vs_ional___NCAA______08_30_1">
     <title>Próximamente | 09:30 | ◘ Georgia Fall Invit vs ional ◘ NCAA ◘◘</title>
   </programme>
@@ -98895,6 +98898,15 @@
   </programme>
   <programme start="20261121060000" stop="20261121055959" channel="EVENTOS_VIP__Evento_____Escorpiones_Bel_n_vs_San_Carlos___Primera_CR_____21_00_1">
     <title>Finalizado | ◘ Escorpiones Belén vs San Carlos ◘ Primera CR ◘</title>
+  </programme>
+  <programme start="20261120060000" stop="20261120060000" channel="EVENTOS_VIP__Evento___9pm_BKFC_Fight_Night_Richardson_vs_Oxendine___00_00_1">
+    <title>Próximamente | 00:00 | 9pm BKFC Fight Night Richardson vs Oxendine</title>
+  </programme>
+  <programme start="20261120060000" stop="20261120090000" channel="EVENTOS_VIP__Evento___9pm_BKFC_Fight_Night_Richardson_vs_Oxendine___00_00_1">
+    <title>⌾ En vivo | 00:00 | 9pm BKFC Fight Night Richardson vs Oxendine</title>
+  </programme>
+  <programme start="20261120090000" stop="20261121055959" channel="EVENTOS_VIP__Evento___9pm_BKFC_Fight_Night_Richardson_vs_Oxendine___00_00_1">
+    <title>Finalizado | 9pm BKFC Fight Night Richardson vs Oxendine</title>
   </programme>
 </tv>
 
