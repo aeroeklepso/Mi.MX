@@ -98329,6 +98329,12 @@
   <channel id="EVENTOS_VIP__Evento_____Juticalpa_vs_Olancho___Liga_HN_____20_30_1">
     <display-name>Evento | ◘ Juticalpa vs Olancho ◘ Liga HN ◘ | 20:30</display-name>
   </channel>
+  <channel id="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Aucas___16_30_1">
+    <display-name>Evento | LigaPro EC ᴾᵖᵛ LDU Quito vs Aucas | 16:30</display-name>
+  </channel>
+  <channel id="EVENTOS_VIP__Evento___LigaPro_EC_____Orense_SC_vs_Mushuc_Runa___14_00_1">
+    <display-name>Evento | LigaPro EC ᴾᵖᵛ Orense SC vs Mushuc Runa | 14:00</display-name>
+  </channel>
   <programme start="20261122060000" stop="20261122210000" channel="Evento_MLS__MLS_____Nashville_SC_vs_Cincinnati___MLS_____15_00_1">
     <title>Próximamente | 15:00 | ◘ Nashville SC vs Cincinnati ◘ MLS ◘</title>
   </programme>
@@ -99363,6 +99369,24 @@
   </programme>
   <programme start="20261123053000" stop="20261123055959" channel="EVENTOS_VIP__Evento_____Juticalpa_vs_Olancho___Liga_HN_____20_30_1">
     <title>Finalizado | ◘ Juticalpa vs Olancho ◘ Liga HN ◘</title>
+  </programme>
+  <programme start="20261122060000" stop="20261122223000" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Aucas___16_30_1">
+    <title>Próximamente | 16:30 | LigaPro EC ᴾᵖᵛ LDU Quito vs Aucas</title>
+  </programme>
+  <programme start="20261122223000" stop="20261123013000" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Aucas___16_30_1">
+    <title>⌾ En vivo | 16:30 | LigaPro EC ᴾᵖᵛ LDU Quito vs Aucas</title>
+  </programme>
+  <programme start="20261123013000" stop="20261123055959" channel="EVENTOS_VIP__Evento___LigaPro_EC_____LDU_Quito_vs_Aucas___16_30_1">
+    <title>Finalizado | LigaPro EC ᴾᵖᵛ LDU Quito vs Aucas</title>
+  </programme>
+  <programme start="20261122060000" stop="20261122200000" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Orense_SC_vs_Mushuc_Runa___14_00_1">
+    <title>Próximamente | 14:00 | LigaPro EC ᴾᵖᵛ Orense SC vs Mushuc Runa</title>
+  </programme>
+  <programme start="20261122200000" stop="20261122230000" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Orense_SC_vs_Mushuc_Runa___14_00_1">
+    <title>⌾ En vivo | 14:00 | LigaPro EC ᴾᵖᵛ Orense SC vs Mushuc Runa</title>
+  </programme>
+  <programme start="20261122230000" stop="20261123055959" channel="EVENTOS_VIP__Evento___LigaPro_EC_____Orense_SC_vs_Mushuc_Runa___14_00_1">
+    <title>Finalizado | LigaPro EC ᴾᵖᵛ Orense SC vs Mushuc Runa</title>
   </programme>
 </tv>
 
