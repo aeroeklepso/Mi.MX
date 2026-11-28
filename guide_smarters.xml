@@ -95232,9 +95232,6 @@
   <channel id="EVENTOS_VIP__Evento_____Levante_vs_Racing_de_Santander___La_Liga_____15_00_1">
     <display-name>Evento | ◘ Levante vs Racing de Santander ◘ La Liga ◘ | 15:00</display-name>
   </channel>
-  <channel id="EVENTOS_VIP__Evento_____Nottingham_Forest_vs_Chelsea___Premier_League______15_00_1">
-    <display-name>Evento | ◘ Nottingham Forest vs Chelsea ◘ Premier League ◘◘ | 15:00</display-name>
-  </channel>
   <channel id="EVENTOS_VIP__Evento_____Southampton_vs_Middlesbrough___Championship_____15_00_1">
     <display-name>Evento | ◘ Southampton vs Middlesbrough ◘ Championship ◘ | 15:00</display-name>
   </channel>
@@ -95582,15 +95579,6 @@
   </programme>
   <programme start="20261128000000" stop="20261128055959" channel="EVENTOS_VIP__Evento_____Levante_vs_Racing_de_Santander___La_Liga_____15_00_1">
     <title>Finalizado | ◘ Levante vs Racing de Santander ◘ La Liga ◘</title>
-  </programme>
-  <programme start="20261127060000" stop="20261127210000" channel="EVENTOS_VIP__Evento_____Nottingham_Forest_vs_Chelsea___Premier_League______15_00_1">
-    <title>Próximamente | 15:00 | ◘ Nottingham Forest vs Chelsea ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261127210000" stop="20261128000000" channel="EVENTOS_VIP__Evento_____Nottingham_Forest_vs_Chelsea___Premier_League______15_00_1">
-    <title>⌾ En vivo | 15:00 | ◘ Nottingham Forest vs Chelsea ◘ Premier League ◘◘</title>
-  </programme>
-  <programme start="20261128000000" stop="20261128055959" channel="EVENTOS_VIP__Evento_____Nottingham_Forest_vs_Chelsea___Premier_League______15_00_1">
-    <title>Finalizado | ◘ Nottingham Forest vs Chelsea ◘ Premier League ◘◘</title>
   </programme>
   <programme start="20261127060000" stop="20261127210000" channel="EVENTOS_VIP__Evento_____Southampton_vs_Middlesbrough___Championship_____15_00_1">
     <title>Próximamente | 15:00 | ◘ Southampton vs Middlesbrough ◘ Championship ◘</title>
